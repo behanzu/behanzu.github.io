@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-09-22 04:57:11 UTC",
+    "timestamp_utc": "2026-09-22 05:33:25 UTC",
     "total_channels": 16,
     "active_channels": 16,
     "disabled_channels": 0,
@@ -8,12 +8,12 @@
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 377,
-    "total_views_tracked": 7762306,
-    "total_subscribers": 5436,
+    "total_uploaded_videos": 392,
+    "total_views_tracked": 8209397,
+    "total_subscribers": 5647,
     "total_pending_retries": 0,
     "underperforming_channels": 3,
-    "gh_pages_synced_at": "2026-09-22 04:57:41 UTC"
+    "gh_pages_synced_at": "2026-09-22 05:33:44 UTC"
   },
   "channels": [
     {
@@ -42,21 +42,21 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-22 05:04:35 UTC",
+        "expires_at": "2026-09-22 06:02:03 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 49,
+      "total_uploaded": 50,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 8303,
-      "last_run_date": "2026-09-21 17:32:49",
+      "last_run_date": "2026-09-22 05:29:31",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: ohuAdfAkWPE",
+      "last_run_message": "Uploaded YouTube ID: JFvD24K71kw",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-13",
@@ -134,9 +134,9 @@
         {
           "date": "2026-09-22",
           "short_date": "Sep 22",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 1
         }
       ],
@@ -194,11 +194,21 @@
           "short_date": "Sep 22",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 1
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "grandpa_walk_1790054971_channel_1",
+          "youtube_id": "JFvD24K71kw",
+          "status": "uploaded",
+          "upload_date": "2026-09-22",
+          "view_count": 0,
+          "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
+          "created_at": "2026-09-22 05:29:31",
+          "rowid": 51
+        },
         {
           "tiktok_id": "yt_Z87hLrKnlQk",
           "youtube_id": "Z87hLrKnlQk",
@@ -698,7 +708,7 @@
       ],
       "has_db": true,
       "linked_date": "Sep 11, 2026",
-      "overall_status": "idle"
+      "overall_status": "active"
     },
     {
       "channel_id": "channel_2",
@@ -706,9 +716,9 @@
       "youtube_channel_name": "Not A Chef",
       "youtube_handle": "@NotAChefOfficialY",
       "youtube_channel_url": "https://www.youtube.com/@NotAChefOfficialY",
-      "subscribers_count": 3630,
+      "subscribers_count": 3750,
       "published_videos_count": 19,
-      "live_youtube_views": 5337938,
+      "live_youtube_views": 5633288,
       "owner_email": "baarakhaaan@gmail.com",
       "channel_created_at": "Aug 30, 2026",
       "source_type": "gdrive",
@@ -752,21 +762,21 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-22 05:04:42 UTC",
+        "expires_at": "2026-09-22 06:02:03 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 36,
+      "total_uploaded": 37,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 5480711,
-      "last_run_date": "2026-09-21 17:33:21",
+      "total_views": 5783461,
+      "last_run_date": "2026-09-22 05:29:47",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: PLej7bKhyDU",
+      "last_run_message": "Uploaded YouTube ID: Ar5Q2AdfeFk",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-13",
@@ -782,7 +792,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 15600,
+          "views_gained": 15700,
           "slot0": "success"
         },
         {
@@ -791,7 +801,7 @@
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 6500
+          "views_gained": 6700
         },
         {
           "date": "2026-09-16",
@@ -799,7 +809,7 @@
           "slot1": "not_run",
           "slot2": "success",
           "uploads_count": 1,
-          "views_gained": 3500
+          "views_gained": 3600
         },
         {
           "date": "2026-09-17",
@@ -807,7 +817,7 @@
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 34500
+          "views_gained": 34600
         },
         {
           "date": "2026-09-18",
@@ -815,7 +825,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 4800
+          "views_gained": 5000
         },
         {
           "date": "2026-09-19",
@@ -823,7 +833,7 @@
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 15000
+          "views_gained": 15500
         },
         {
           "date": "2026-09-20",
@@ -831,7 +841,7 @@
           "slot1": "not_run",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 14500
+          "views_gained": 14700
         },
         {
           "date": "2026-09-21",
@@ -839,15 +849,15 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 5232327
+          "views_gained": 5533327
         },
         {
           "date": "2026-09-22",
           "short_date": "Sep 22",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 2,
-          "views_gained": 2538
+          "uploads_count": 3,
+          "views_gained": 2788
         }
       ],
       "daily_sheet_7_days": [
@@ -857,7 +867,7 @@
           "day_name": "Wed",
           "is_today": false,
           "uploads_count": 1,
-          "views_gained": 3500
+          "views_gained": 3600
         },
         {
           "date": "2026-09-17",
@@ -865,7 +875,7 @@
           "day_name": "Thu",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 34500
+          "views_gained": 34600
         },
         {
           "date": "2026-09-18",
@@ -873,7 +883,7 @@
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 1,
-          "views_gained": 4800
+          "views_gained": 5000
         },
         {
           "date": "2026-09-19",
@@ -881,7 +891,7 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 15000
+          "views_gained": 15500
         },
         {
           "date": "2026-09-20",
@@ -889,7 +899,7 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 14500
+          "views_gained": 14700
         },
         {
           "date": "2026-09-21",
@@ -897,24 +907,34 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 5232327
+          "views_gained": 5533327
         },
         {
           "date": "2026-09-22",
           "short_date": "Sep 22",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 2,
-          "views_gained": 2538
+          "uploads_count": 3,
+          "views_gained": 2788
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "grandpa_walk_1790054987_channel_2",
+          "youtube_id": "Ar5Q2AdfeFk",
+          "status": "uploaded",
+          "upload_date": "2026-09-22",
+          "view_count": 2,
+          "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
+          "created_at": "2026-09-22 05:29:47",
+          "rowid": 37
+        },
         {
           "tiktok_id": "yt_QCExO0GLOgA",
           "youtube_id": "QCExO0GLOgA",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 838,
+          "view_count": 886,
           "title": "Fresh Homemade Lemonade 🍋 #lemonade #drinkrecipe #asmr #refreshing #summerdrinks",
           "created_at": "2026-09-22 03:35:37",
           "rowid": 36
@@ -924,7 +944,7 @@
           "youtube_id": "CFizGRIsJCU",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 1700,
+          "view_count": 1900,
           "title": "Fluffy Pancakes 🥞 #pancakes #asmrfood #breakfast #recipe #cooking",
           "created_at": "2026-09-22 03:08:09",
           "rowid": 35
@@ -944,7 +964,7 @@
           "youtube_id": "03ii7SpS0gY",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 5200000,
+          "view_count": 5500000,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 17:25:57",
           "rowid": 33
@@ -964,7 +984,7 @@
           "youtube_id": "M8yHQP3njvU",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 14000,
+          "view_count": 15000,
           "title": "Easy 10 Minute Bread Rasmalai 🍮 #rasmalai #dessert #quickrecipes #sweettooth #easyrecipe",
           "created_at": "2026-09-21 04:36:36",
           "rowid": 31
@@ -974,7 +994,7 @@
           "youtube_id": "t--aSNeLbZw",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 4500,
+          "view_count": 4700,
           "title": "Crispy Potato Stuffed Mirchi Pakora 🌶️ #mirchipakora #asmrfood #recipe #foodie #viral",
           "created_at": "2026-09-20 06:39:47",
           "rowid": 30
@@ -994,7 +1014,7 @@
           "youtube_id": "-UdmC5ZbDmI",
           "status": "uploaded",
           "upload_date": "2026-09-19",
-          "view_count": 6800,
+          "view_count": 7000,
           "title": "Crispy Spiced Okra ASMR 🌶️ #bhindimasala #okra #asmrcooking #easyrecipe #viral",
           "created_at": "2026-09-19 23:57:12",
           "rowid": 28
@@ -1004,7 +1024,7 @@
           "youtube_id": "8A-9KXNuhMc",
           "status": "uploaded",
           "upload_date": "2026-09-19",
-          "view_count": 8200,
+          "view_count": 8500,
           "title": "Crispy Soya Chunks Kabab Recipe 🧆 #soyachunks #recipe #asmrfood #cooking #vegetarian",
           "created_at": "2026-09-19 03:25:21",
           "rowid": 27
@@ -1014,7 +1034,7 @@
           "youtube_id": "-yqlQsoQAUA",
           "status": "uploaded",
           "upload_date": "2026-09-18",
-          "view_count": 4800,
+          "view_count": 5000,
           "title": "Crispy Potato Stuffed Mirchi Pakora 🌶️ #mirchipakora #asmrfood #recipe #foodie #viral",
           "created_at": "2026-09-18 23:56:00",
           "rowid": 26
@@ -1034,7 +1054,7 @@
           "youtube_id": "buz4RzOF20Y",
           "status": "uploaded",
           "upload_date": "2026-09-17",
-          "view_count": 4500,
+          "view_count": 4600,
           "title": "Crispy Onion Ring 🥐 #asmrfood #cooking #recipe #food #viral",
           "created_at": "2026-09-17 00:10:29",
           "rowid": 24
@@ -1044,7 +1064,7 @@
           "youtube_id": "C2uNqm3egAI",
           "status": "uploaded",
           "upload_date": "2026-09-16",
-          "view_count": 3500,
+          "view_count": 3600,
           "title": "Crispy Onion Pakoras 🧅 #pakora #onionpakoda #asmrfood #recipe #crispysnacks",
           "created_at": "2026-09-16 00:15:18",
           "rowid": 23
@@ -1054,7 +1074,7 @@
           "youtube_id": "-3YWxSGeMX4",
           "status": "uploaded",
           "upload_date": "2026-09-15",
-          "view_count": 3500,
+          "view_count": 3600,
           "title": "Crispy Maggi Noodle Pizza 🍕 #maggipizza #noodlepizza #easyrecipe #asmrfood #quickrecipes",
           "created_at": "2026-09-15 22:12:15",
           "rowid": 22
@@ -1064,7 +1084,7 @@
           "youtube_id": "mDnCN3ZmVKo",
           "status": "uploaded",
           "upload_date": "2026-09-15",
-          "view_count": 3000,
+          "view_count": 3100,
           "title": "Crispy Kung Pao Chicken 🌶️ #kungpaochicken #easyrecipe #asmrfood #asianfood #viral",
           "created_at": "2026-09-15 00:17:02",
           "rowid": 21
@@ -1084,7 +1104,7 @@
           "youtube_id": "FFS5iLe79Cc",
           "status": "uploaded",
           "upload_date": "2026-09-14",
-          "view_count": 2600,
+          "view_count": 2700,
           "title": "Crispy Golden Dal Vada 🧆 #asmrfood #recipe #crispy #snackideas #easyrecipe",
           "created_at": "2026-09-14 08:07:38",
           "rowid": 19
@@ -1104,7 +1124,7 @@
           "youtube_id": "Zf9LJmcfRW4",
           "status": "uploaded",
           "upload_date": "2026-09-12",
-          "view_count": 7600,
+          "view_count": 7700,
           "title": "Crispy Chicken Tenders 🍗 #chickentenders #crispychicken #asmrfood #recipe",
           "created_at": "2026-09-12 04:46:15",
           "rowid": 17
@@ -1276,7 +1296,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 01, 2026",
-      "overall_status": "idle"
+      "overall_status": "active"
     },
     {
       "channel_id": "channel_3",
@@ -1284,9 +1304,9 @@
       "youtube_channel_name": "Tiny First Moments",
       "youtube_handle": "@Quote4Quotes",
       "youtube_channel_url": "https://www.youtube.com/@Quote4Quotes",
-      "subscribers_count": 734,
+      "subscribers_count": 765,
       "published_videos_count": 20,
-      "live_youtube_views": 1056273,
+      "live_youtube_views": 1106660,
       "owner_email": "mrsabdulmateen36@gmail.com",
       "channel_created_at": "Sep 01, 2026",
       "source_type": "facebook",
@@ -1304,21 +1324,21 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-22 05:04:49 UTC",
+        "expires_at": "2026-09-22 06:02:03 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 35,
+      "total_uploaded": 36,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 1065377,
-      "last_run_date": "2026-09-21 17:33:49",
+      "total_views": 1117364,
+      "last_run_date": "2026-09-22 05:30:02",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: FmVf9L7bs5w",
+      "last_run_message": "Uploaded YouTube ID: hVAG4rp0lWo",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-13",
@@ -1359,7 +1379,7 @@
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 2400
+          "views_gained": 2600
         },
         {
           "date": "2026-09-18",
@@ -1375,7 +1395,7 @@
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 9000
+          "views_gained": 9200
         },
         {
           "date": "2026-09-20",
@@ -1383,7 +1403,7 @@
           "slot1": "not_run",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 4000
+          "views_gained": 4100
         },
         {
           "date": "2026-09-21",
@@ -1391,15 +1411,15 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 952700
+          "views_gained": 1004000
         },
         {
           "date": "2026-09-22",
           "short_date": "Sep 22",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 2,
-          "views_gained": 544
+          "uploads_count": 3,
+          "views_gained": 731
         }
       ],
       "daily_sheet_7_days": [
@@ -1417,7 +1437,7 @@
           "day_name": "Thu",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 2400
+          "views_gained": 2600
         },
         {
           "date": "2026-09-18",
@@ -1433,7 +1453,7 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 9000
+          "views_gained": 9200
         },
         {
           "date": "2026-09-20",
@@ -1441,7 +1461,7 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 4000
+          "views_gained": 4100
         },
         {
           "date": "2026-09-21",
@@ -1449,24 +1469,34 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 952700
+          "views_gained": 1004000
         },
         {
           "date": "2026-09-22",
           "short_date": "Sep 22",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 2,
-          "views_gained": 544
+          "uploads_count": 3,
+          "views_gained": 731
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "grandpa_walk_1790055002_channel_3",
+          "youtube_id": "hVAG4rp0lWo",
+          "status": "uploaded",
+          "upload_date": "2026-09-22",
+          "view_count": 0,
+          "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
+          "created_at": "2026-09-22 05:30:02",
+          "rowid": 36
+        },
         {
           "tiktok_id": "yt_g4vqwVX8pRc",
           "youtube_id": "g4vqwVX8pRc",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 284,
+          "view_count": 431,
           "title": "He Saw His Dad Clearly For The First Time 🥹 #wholesome #heartwarming #emotional #family #viral",
           "created_at": "2026-09-22 03:36:42",
           "rowid": 35
@@ -1476,7 +1506,7 @@
           "youtube_id": "WMoh6-a03Gk",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 260,
+          "view_count": 300,
           "title": "Seeing the world clearly for the very first time 🥹 #wholesome #heartwarming #babyreaction #emot",
           "created_at": "2026-09-22 03:08:09",
           "rowid": 34
@@ -1486,7 +1516,7 @@
           "youtube_id": "FmVf9L7bs5w",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 1100,
+          "view_count": 1200,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-21 17:33:43",
           "rowid": 33
@@ -1496,7 +1526,7 @@
           "youtube_id": "Cg36Su32UNc",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 946000,
+          "view_count": 997000,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:06:28",
           "rowid": 32
@@ -1506,7 +1536,7 @@
           "youtube_id": "-NQueeh89wI",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 2600,
+          "view_count": 2700,
           "title": "Baby Sees Her Dad Clearly For The Very First Time 🥺 #heartwarming #wholesome #baby #emotional #",
           "created_at": "2026-09-21 04:36:36",
           "rowid": 31
@@ -1516,7 +1546,7 @@
           "youtube_id": "UQ0IhzUvLh4",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 3000,
+          "view_count": 3100,
           "title": "This Sweet Newborn Couldn't Stop Smiling After Hearing His Dad's Voice Clearly #PreciousMoments",
           "created_at": "2026-09-21 04:36:36",
           "rowid": 30
@@ -1526,7 +1556,7 @@
           "youtube_id": "Cagutlh5pUs",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 1800,
+          "view_count": 1900,
           "title": "Baby Sees Clearly For The Very First Time 🥺 #wholesome #emotional #baby #heartwarming #viral",
           "created_at": "2026-09-20 07:14:27",
           "rowid": 29
@@ -1546,7 +1576,7 @@
           "youtube_id": "_5ZVCmWWugc",
           "status": "uploaded",
           "upload_date": "2026-09-19",
-          "view_count": 2300,
+          "view_count": 2400,
           "title": "Baby Hears Mom's Voice For The First Time 🥹 #wholesome #emotional #baby #hearingaid #viral",
           "created_at": "2026-09-19 23:57:36",
           "rowid": 27
@@ -1556,7 +1586,7 @@
           "youtube_id": "3UKWDJTSb6E",
           "status": "uploaded",
           "upload_date": "2026-09-19",
-          "view_count": 6700,
+          "view_count": 6800,
           "title": "Baby hears dad for the first time 🥺 #wholesome #emotional #baby #heartwarming #viral.",
           "created_at": "2026-09-19 03:25:44",
           "rowid": 26
@@ -1576,7 +1606,7 @@
           "youtube_id": "5qoFIcahpU8",
           "status": "uploaded",
           "upload_date": "2026-09-17",
-          "view_count": 1200,
+          "view_count": 1300,
           "title": "1.9K views · 45 reactions | Tiny First Moments on Reels",
           "created_at": "2026-09-17 03:42:10",
           "rowid": 24
@@ -1586,7 +1616,7 @@
           "youtube_id": "yLXswRtmelc",
           "status": "uploaded",
           "upload_date": "2026-09-17",
-          "view_count": 1200,
+          "view_count": 1300,
           "title": "The exact moment he heard his dad's voice for the very first time 🥹 That little smile says ever",
           "created_at": "2026-09-17 00:10:35",
           "rowid": 23
@@ -1818,7 +1848,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 11, 2026",
-      "overall_status": "idle"
+      "overall_status": "active"
     },
     {
       "channel_id": "channel_4",
@@ -1826,9 +1856,9 @@
       "youtube_channel_name": "AniHightRecap",
       "youtube_handle": "@luvthugga-h1p",
       "youtube_channel_url": "https://www.youtube.com/@luvthugga-h1p",
-      "subscribers_count": 110,
+      "subscribers_count": 127,
       "published_videos_count": 20,
-      "live_youtube_views": 76360,
+      "live_youtube_views": 85327,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Oct 28, 2025",
       "source_type": "tiktok",
@@ -1846,21 +1876,21 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-22 05:04:56 UTC",
+        "expires_at": "2026-09-22 06:02:03 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 22,
+      "total_uploaded": 23,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 79867,
-      "last_run_date": "2026-09-21 17:34:14",
+      "total_views": 89934,
+      "last_run_date": "2026-09-22 05:30:20",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: i4r_X6ykv_4",
+      "last_run_message": "Uploaded YouTube ID: OswT2v6MD58",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-13",
@@ -1901,7 +1931,7 @@
           "slot1": "success",
           "slot2": "no_content",
           "uploads_count": 1,
-          "views_gained": 981
+          "views_gained": 1000
         },
         {
           "date": "2026-09-18",
@@ -1933,14 +1963,14 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 56297
+          "views_gained": 66345
         },
         {
           "date": "2026-09-22",
           "short_date": "Sep 22",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -1959,7 +1989,7 @@
           "day_name": "Thu",
           "is_today": false,
           "uploads_count": 1,
-          "views_gained": 981
+          "views_gained": 1000
         },
         {
           "date": "2026-09-18",
@@ -1991,24 +2021,34 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 56297
+          "views_gained": 66345
         },
         {
           "date": "2026-09-22",
           "short_date": "Sep 22",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
         {
+          "tiktok_id": "grandpa_walk_1790055020_channel_4",
+          "youtube_id": "OswT2v6MD58",
+          "status": "uploaded",
+          "upload_date": "2026-09-22",
+          "view_count": 0,
+          "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
+          "created_at": "2026-09-22 05:30:20",
+          "rowid": 23
+        },
+        {
           "tiktok_id": "urgent_babycare_1790012054_channel_4",
           "youtube_id": "i4r_X6ykv_4",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 297,
+          "view_count": 345,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-21 17:34:14",
           "rowid": 22
@@ -2018,7 +2058,7 @@
           "youtube_id": "5FyiXi2KuKo",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 56000,
+          "view_count": 66000,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:06:44",
           "rowid": 21
@@ -2038,7 +2078,7 @@
           "youtube_id": "RvkB6kUOW-M",
           "status": "uploaded",
           "upload_date": "2026-09-17",
-          "view_count": 981,
+          "view_count": 1000,
           "title": "TikTok video #7669078121852833037",
           "created_at": "2026-09-17 00:10:48",
           "rowid": 19
@@ -2230,7 +2270,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 02, 2026",
-      "overall_status": "idle"
+      "overall_status": "active"
     },
     {
       "channel_id": "channel_5",
@@ -2284,21 +2324,21 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-22 05:05:02 UTC",
+        "expires_at": "2026-09-22 06:02:03 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 32,
+      "total_uploaded": 33,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 28510,
-      "last_run_date": "2026-09-21 17:34:42",
+      "last_run_date": "2026-09-22 05:30:41",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: SeTGU8iwq6E",
+      "last_run_message": "Uploaded YouTube ID: EnKKJoPddH4",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-13",
@@ -2376,9 +2416,9 @@
         {
           "date": "2026-09-22",
           "short_date": "Sep 22",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
@@ -2436,11 +2476,21 @@
           "short_date": "Sep 22",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "grandpa_walk_1790055041_channel_5",
+          "youtube_id": "EnKKJoPddH4",
+          "status": "uploaded",
+          "upload_date": "2026-09-22",
+          "view_count": 0,
+          "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
+          "created_at": "2026-09-22 05:30:41",
+          "rowid": 33
+        },
         {
           "tiktok_id": "yt_Zkljpw2-o24",
           "youtube_id": "Zkljpw2-o24",
@@ -2768,7 +2818,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 02, 2026",
-      "overall_status": "idle"
+      "overall_status": "active"
     },
     {
       "channel_id": "channel_6",
@@ -2778,7 +2828,7 @@
       "youtube_channel_url": "https://www.youtube.com/@eorias_ai",
       "subscribers_count": 16,
       "published_videos_count": 20,
-      "live_youtube_views": 167,
+      "live_youtube_views": 156,
       "owner_email": "chotaaakhannn@gmail.com",
       "channel_created_at": "Sep 02, 2026",
       "source_type": "facebook",
@@ -2796,21 +2846,21 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-22 05:05:07 UTC",
+        "expires_at": "2026-09-22 06:02:03 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 27,
+      "total_uploaded": 28,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 2162,
-      "last_run_date": "2026-09-21 17:35:09",
+      "total_views": 2169,
+      "last_run_date": "2026-09-22 05:30:56",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: 4FDKtFgqeoM",
+      "last_run_message": "Uploaded YouTube ID: vy9mYXgazdg",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-13",
@@ -2882,14 +2932,14 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 44
+          "views_gained": 51
         },
         {
           "date": "2026-09-22",
           "short_date": "Sep 22",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
@@ -2940,18 +2990,28 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 44
+          "views_gained": 51
         },
         {
           "date": "2026-09-22",
           "short_date": "Sep 22",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "grandpa_walk_1790055056_channel_6",
+          "youtube_id": "vy9mYXgazdg",
+          "status": "uploaded",
+          "upload_date": "2026-09-22",
+          "view_count": 0,
+          "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
+          "created_at": "2026-09-22 05:30:56",
+          "rowid": 28
+        },
         {
           "tiktok_id": "yt_O_l4pSRsoqo",
           "youtube_id": "O_l4pSRsoqo",
@@ -2977,7 +3037,7 @@
           "youtube_id": "4FDKtFgqeoM",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 18,
+          "view_count": 24,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-21 17:35:09",
           "rowid": 25
@@ -2987,7 +3047,7 @@
           "youtube_id": "Vl0HBpkcQyg",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 17,
+          "view_count": 18,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:07:14",
           "rowid": 24
@@ -3227,11 +3287,11 @@
       "days_linked": 10,
       "is_underperforming": true,
       "underperforming_reasons": [
-        "Views: 2,162 (Target: 10,000+)"
+        "Views: 2,169 (Target: 10,000+)"
       ],
       "has_db": true,
       "linked_date": "Sep 12, 2026",
-      "overall_status": "idle"
+      "overall_status": "active"
     },
     {
       "channel_id": "channel_7",
@@ -3241,7 +3301,7 @@
       "youtube_channel_url": "https://www.youtube.com/@DiyProj-w5t",
       "subscribers_count": 90,
       "published_videos_count": 20,
-      "live_youtube_views": 64714,
+      "live_youtube_views": 64644,
       "owner_email": "saalaamkhaaan@gmail.com",
       "channel_created_at": "Sep 02, 2026",
       "source_type": "facebook",
@@ -3259,21 +3319,21 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-22 05:05:12 UTC",
+        "expires_at": "2026-09-22 06:02:03 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 20,
+      "total_uploaded": 21,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 64714,
-      "last_run_date": "2026-09-21 17:35:35",
+      "last_run_date": "2026-09-22 05:31:13",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: u-LK0-dY2GE",
+      "last_run_message": "Uploaded YouTube ID: jVtLc-7VCVg",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-13",
@@ -3351,9 +3411,9 @@
         {
           "date": "2026-09-22",
           "short_date": "Sep 22",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -3411,11 +3471,21 @@
           "short_date": "Sep 22",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "grandpa_walk_1790055073_channel_7",
+          "youtube_id": "jVtLc-7VCVg",
+          "status": "uploaded",
+          "upload_date": "2026-09-22",
+          "view_count": 0,
+          "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
+          "created_at": "2026-09-22 05:31:13",
+          "rowid": 21
+        },
         {
           "tiktok_id": "urgent_babycare_1790012135_channel_7",
           "youtube_id": "u-LK0-dY2GE",
@@ -3623,7 +3693,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 02, 2026",
-      "overall_status": "idle"
+      "overall_status": "active"
     },
     {
       "channel_id": "channel_8",
@@ -3651,21 +3721,21 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-22 05:05:16 UTC",
+        "expires_at": "2026-09-22 06:02:03 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 31,
+      "total_uploaded": 32,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 1091,
-      "last_run_date": "2026-09-21 17:36:04",
+      "last_run_date": "2026-09-22 05:31:29",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: D0UBHt7PLQw",
+      "last_run_message": "Uploaded YouTube ID: 8W6qi_cG6Ok",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-13",
@@ -3743,9 +3813,9 @@
         {
           "date": "2026-09-22",
           "short_date": "Sep 22",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 800
         }
       ],
@@ -3803,11 +3873,21 @@
           "short_date": "Sep 22",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 800
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "grandpa_walk_1790055089_channel_8",
+          "youtube_id": "8W6qi_cG6Ok",
+          "status": "uploaded",
+          "upload_date": "2026-09-22",
+          "view_count": 0,
+          "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
+          "created_at": "2026-09-22 05:31:29",
+          "rowid": 32
+        },
         {
           "tiktok_id": "yt_9Y7h3rl6xNk",
           "youtube_id": "9Y7h3rl6xNk",
@@ -4125,7 +4205,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 13, 2026",
-      "overall_status": "idle"
+      "overall_status": "active"
     },
     {
       "channel_id": "channel_9",
@@ -4153,21 +4233,21 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-22 05:05:19 UTC",
+        "expires_at": "2026-09-22 06:02:08 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 29,
+      "total_uploaded": 30,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 116,
-      "last_run_date": "2026-09-21 17:36:29",
+      "last_run_date": "2026-09-22 05:31:45",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: OfmnAqY_xUg",
+      "last_run_message": "Uploaded YouTube ID: EKcw6BQdH1Q",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-13",
@@ -4245,9 +4325,9 @@
         {
           "date": "2026-09-22",
           "short_date": "Sep 22",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
@@ -4305,11 +4385,21 @@
           "short_date": "Sep 22",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "grandpa_walk_1790055105_channel_9",
+          "youtube_id": "EKcw6BQdH1Q",
+          "status": "uploaded",
+          "upload_date": "2026-09-22",
+          "view_count": 0,
+          "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
+          "created_at": "2026-09-22 05:31:45",
+          "rowid": 30
+        },
         {
           "tiktok_id": "yt_pKX2tPklhlY",
           "youtube_id": "pKX2tPklhlY",
@@ -4607,7 +4697,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 13, 2026",
-      "overall_status": "idle"
+      "overall_status": "active"
     },
     {
       "channel_id": "channel_10",
@@ -4635,21 +4725,21 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-22 05:04:27 UTC",
+        "expires_at": "2026-09-22 06:00:47 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 23,
+      "total_uploaded": 24,
       "total_failed": 20,
       "total_pending_retry": 0,
       "total_views": 46,
-      "last_run_date": "2026-09-21 17:36:58",
+      "last_run_date": "2026-09-22 05:32:03",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: rY6P7kmRt60",
+      "last_run_message": "Uploaded YouTube ID: 1M-dO97odh4",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-13",
@@ -4726,9 +4816,9 @@
         {
           "date": "2026-09-22",
           "short_date": "Sep 22",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -4786,11 +4876,21 @@
           "short_date": "Sep 22",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "grandpa_walk_1790055123_channel_10",
+          "youtube_id": "1M-dO97odh4",
+          "status": "uploaded",
+          "upload_date": "2026-09-22",
+          "view_count": 0,
+          "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
+          "created_at": "2026-09-22 05:32:03",
+          "rowid": 44
+        },
         {
           "tiktok_id": "yt_TLDSYY6-l7k",
           "youtube_id": "TLDSYY6-l7k",
@@ -5231,7 +5331,7 @@
       ],
       "has_db": true,
       "linked_date": "Sep 12, 2026",
-      "overall_status": "idle"
+      "overall_status": "active"
     },
     {
       "channel_id": "channel_11",
@@ -5240,7 +5340,7 @@
       "youtube_handle": "@muslimheartpodcasts",
       "youtube_channel_url": "https://www.youtube.com/@muslimheartpodcasts",
       "subscribers_count": 0,
-      "published_videos_count": 9,
+      "published_videos_count": 10,
       "live_youtube_views": 1,
       "owner_email": "",
       "channel_created_at": "Sep 17, 2026",
@@ -5285,21 +5385,21 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-22 05:04:25 UTC",
+        "expires_at": "2026-09-22 06:00:43 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 11,
+      "total_uploaded": 12,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 1,
-      "last_run_date": "2026-09-21 17:37:24",
+      "last_run_date": "2026-09-22 05:32:20",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: 2OeNCNvWJGY",
+      "last_run_message": "Uploaded YouTube ID: pvBkmBxBFK4",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-13",
@@ -5376,9 +5476,9 @@
         {
           "date": "2026-09-22",
           "short_date": "Sep 22",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
@@ -5436,11 +5536,21 @@
           "short_date": "Sep 22",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "grandpa_walk_1790055140_channel_11",
+          "youtube_id": "pvBkmBxBFK4",
+          "status": "uploaded",
+          "upload_date": "2026-09-22",
+          "view_count": 0,
+          "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
+          "created_at": "2026-09-22 05:32:20",
+          "rowid": 13
+        },
         {
           "tiktok_id": "yt_6dEYzOnL6P4",
           "youtube_id": "6dEYzOnL6P4",
@@ -5558,7 +5668,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 17, 2026",
-      "overall_status": "idle"
+      "overall_status": "active"
     },
     {
       "channel_id": "channel_12",
@@ -5567,7 +5677,7 @@
       "youtube_handle": "@pimpoem-us",
       "youtube_channel_url": "https://www.youtube.com/@pimpoem-us",
       "subscribers_count": 0,
-      "published_videos_count": 10,
+      "published_videos_count": 11,
       "live_youtube_views": 13,
       "owner_email": "mikesmithere@gmail.com",
       "channel_created_at": "Sep 18, 2026",
@@ -5576,13 +5686,13 @@
       "bilibili_url": "",
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1pPi14ti2JQTIa7aIspie9k85dsqX_dIQ",
-        "total_in_drive": 50,
+        "total_in_drive": 60,
         "posted_count": 2,
-        "remaining_unposted": 48,
+        "remaining_unposted": 58,
         "videos_per_day": 2,
-        "days_buffer": 24.0,
+        "days_buffer": 29.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (48 videos ready)",
+        "stock_label": "HEALTHY (58 videos ready)",
         "unposted_videos": [
           "Apple A, Ball B | Baby Poem",
           "Banana Boogie | Baby Poem",
@@ -5612,21 +5722,21 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-22 05:04:27 UTC",
+        "expires_at": "2026-09-22 06:00:43 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 10,
+      "total_uploaded": 11,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 13,
-      "last_run_date": "2026-09-21 17:37:51",
+      "last_run_date": "2026-09-22 05:32:36",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: 4uxC041SlFg",
+      "last_run_message": "Uploaded YouTube ID: 2RD5S_yd0Bc",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-13",
@@ -5703,9 +5813,9 @@
         {
           "date": "2026-09-22",
           "short_date": "Sep 22",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 2
         }
       ],
@@ -5763,11 +5873,21 @@
           "short_date": "Sep 22",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 2
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "grandpa_walk_1790055156_channel_12",
+          "youtube_id": "2RD5S_yd0Bc",
+          "status": "uploaded",
+          "upload_date": "2026-09-22",
+          "view_count": 0,
+          "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
+          "created_at": "2026-09-22 05:32:36",
+          "rowid": 32
+        },
         {
           "tiktok_id": "yt_Y4Un8MYorr4",
           "youtube_id": "Y4Un8MYorr4",
@@ -5875,17 +5995,17 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 18, 2026",
-      "overall_status": "idle"
+      "overall_status": "active"
     },
     {
       "channel_id": "channel_13",
       "profile_code": "PF #8",
       "youtube_channel_name": "Little Cutie",
-      "youtube_handle": "@cutepawmoments-k2c",
-      "youtube_channel_url": "https://www.youtube.com/@cutepawmoments-k2c",
+      "youtube_handle": "@CutePawMoments-k2c",
+      "youtube_channel_url": "https://www.youtube.com/@CutePawMoments-k2c",
       "subscribers_count": 0,
-      "published_videos_count": 24,
-      "live_youtube_views": 3,
+      "published_videos_count": 20,
+      "live_youtube_views": 5,
       "owner_email": "cutepawmoments@gmail.com",
       "channel_created_at": "Sep 05, 2026",
       "source_type": "facebook",
@@ -5902,21 +6022,21 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-22 05:04:29 UTC",
+        "expires_at": "2026-09-22 06:00:50 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 25,
+      "total_uploaded": 26,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 6,
-      "last_run_date": "2026-09-21 17:38:14",
+      "last_run_date": "2026-09-22 05:32:51",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: 0oy0aiiVIPo",
+      "last_run_message": "Uploaded YouTube ID: gLcm4_-ReBE",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-13",
@@ -5993,9 +6113,9 @@
         {
           "date": "2026-09-22",
           "short_date": "Sep 22",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
@@ -6053,11 +6173,21 @@
           "short_date": "Sep 22",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "grandpa_walk_1790055171_channel_13",
+          "youtube_id": "gLcm4_-ReBE",
+          "status": "uploaded",
+          "upload_date": "2026-09-22",
+          "view_count": 0,
+          "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
+          "created_at": "2026-09-22 05:32:51",
+          "rowid": 27
+        },
         {
           "tiktok_id": "yt_0vmUIpOHnNU",
           "youtube_id": "0vmUIpOHnNU",
@@ -6315,7 +6445,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 13, 2026",
-      "overall_status": "idle"
+      "overall_status": "active"
     },
     {
       "channel_id": "channel_14",
@@ -6343,21 +6473,21 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-22 05:04:28 UTC",
+        "expires_at": "2026-09-22 06:00:44 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 8,
+      "total_uploaded": 9,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 13544,
-      "last_run_date": "2026-09-21 17:38:40",
+      "last_run_date": "2026-09-22 05:33:08",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: od9ch0LSzzc",
+      "last_run_message": "Uploaded YouTube ID: NiqOlxrFR7M",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-13",
@@ -6434,9 +6564,9 @@
         {
           "date": "2026-09-22",
           "short_date": "Sep 22",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -6494,11 +6624,21 @@
           "short_date": "Sep 22",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "grandpa_walk_1790055188_channel_14",
+          "youtube_id": "NiqOlxrFR7M",
+          "status": "uploaded",
+          "upload_date": "2026-09-22",
+          "view_count": 0,
+          "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
+          "created_at": "2026-09-22 05:33:08",
+          "rowid": 9
+        },
         {
           "tiktok_id": "urgent_babycare_1790012320_channel_14",
           "youtube_id": "od9ch0LSzzc",
@@ -6586,7 +6726,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 17, 2026",
-      "overall_status": "idle"
+      "overall_status": "active"
     },
     {
       "channel_id": "channel_15",
@@ -6594,7 +6734,7 @@
       "youtube_channel_name": "Bunny Planet",
       "youtube_handle": "@bunnyplanet-l6u",
       "youtube_channel_url": "https://www.youtube.com/@bunnyplanet-l6u",
-      "subscribers_count": 663,
+      "subscribers_count": 706,
       "published_videos_count": 10,
       "live_youtube_views": 763595,
       "owner_email": "keenatimu@gmail.com",
@@ -6604,13 +6744,13 @@
       "bilibili_url": "",
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
-        "total_in_drive": 50,
+        "total_in_drive": 60,
         "posted_count": 8,
-        "remaining_unposted": 42,
+        "remaining_unposted": 52,
         "videos_per_day": 2,
-        "days_buffer": 21.0,
+        "days_buffer": 26.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (42 videos ready)",
+        "stock_label": "HEALTHY (52 videos ready)",
         "unposted_videos": [
           "The Happy Wiggle",
           "Carrot Dreams",
@@ -6640,7 +6780,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-22 05:04:30 UTC",
+        "expires_at": "2026-09-22 06:00:54 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -6648,10 +6788,10 @@
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 10,
+      "total_uploaded": 11,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 1017696,
+      "total_views": 1099974,
       "last_run_date": "2026-09-21 17:39:08",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: TNOITldos-w",
@@ -6710,7 +6850,7 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 3314
+          "views_gained": 3504
         },
         {
           "date": "2026-09-20",
@@ -6718,7 +6858,7 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 3332
+          "views_gained": 3589
         },
         {
           "date": "2026-09-21",
@@ -6726,15 +6866,15 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 1010370
+          "views_gained": 1092097
         },
         {
           "date": "2026-09-22",
           "short_date": "Sep 22",
           "slot1": "not_run",
           "slot2": "not_run",
-          "uploads_count": 2,
-          "views_gained": 680
+          "uploads_count": 3,
+          "views_gained": 784
         }
       ],
       "daily_sheet_7_days": [
@@ -6768,7 +6908,7 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 3314
+          "views_gained": 3504
         },
         {
           "date": "2026-09-20",
@@ -6776,7 +6916,7 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 3332
+          "views_gained": 3589
         },
         {
           "date": "2026-09-21",
@@ -6784,24 +6924,34 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 1010370
+          "views_gained": 1092097
         },
         {
           "date": "2026-09-22",
           "short_date": "Sep 22",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 2,
-          "views_gained": 680
+          "uploads_count": 3,
+          "views_gained": 784
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "yt_0zW58LIrLVs",
+          "youtube_id": "0zW58LIrLVs",
+          "status": "uploaded",
+          "upload_date": "2026-09-22",
+          "view_count": 0,
+          "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
+          "created_at": "2026-09-22 05:33:23",
+          "rowid": 11
+        },
         {
           "tiktok_id": "yt_9b8ycVhg97w",
           "youtube_id": "9b8ycVhg97w",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 404,
+          "view_count": 471,
           "title": "Zoomies At Sunrise",
           "created_at": "2026-09-22 03:08:17",
           "rowid": 10
@@ -6811,7 +6961,7 @@
           "youtube_id": "ENYstN-w_ck",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 276,
+          "view_count": 313,
           "title": "Blueberry Bandit",
           "created_at": "2026-09-22 03:08:17",
           "rowid": 9
@@ -6821,7 +6971,7 @@
           "youtube_id": "TNOITldos-w",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 1054,
+          "view_count": 1234,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-21 17:39:07",
           "rowid": 8
@@ -6831,7 +6981,7 @@
           "youtube_id": "8EN7JkpS1dQ",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 1004763,
+          "view_count": 1085972,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:09:33",
           "rowid": 7
@@ -6841,7 +6991,7 @@
           "youtube_id": "BoRYtj23OqQ",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 1938,
+          "view_count": 2075,
           "title": "Popcorn Bunny",
           "created_at": "2026-09-21 04:36:41",
           "rowid": 6
@@ -6851,7 +7001,7 @@
           "youtube_id": "5_GwmOFuTLE",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 2615,
+          "view_count": 2816,
           "title": "Boop The Nose",
           "created_at": "2026-09-21 04:36:41",
           "rowid": 5
@@ -6861,7 +7011,7 @@
           "youtube_id": "Pf8RNabMko4",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 1639,
+          "view_count": 1763,
           "title": "The Strawberry Thief",
           "created_at": "2026-09-20 06:37:33",
           "rowid": 4
@@ -6871,7 +7021,7 @@
           "youtube_id": "VyA8dU0aMgY",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 1693,
+          "view_count": 1826,
           "title": "Sleepiest Flop Ever",
           "created_at": "2026-09-20 06:37:33",
           "rowid": 3
@@ -6881,7 +7031,7 @@
           "youtube_id": "3mKVW7kNPy0",
           "status": "uploaded",
           "upload_date": "2026-09-19",
-          "view_count": 1559,
+          "view_count": 1646,
           "title": "The Bunny Binky Zoomies",
           "created_at": "2026-09-19 05:16:23",
           "rowid": 2
@@ -6891,7 +7041,7 @@
           "youtube_id": "Qw22VaGYR7k",
           "status": "uploaded",
           "upload_date": "2026-09-19",
-          "view_count": 1755,
+          "view_count": 1858,
           "title": "Baby Bunnys First Carrot",
           "created_at": "2026-09-19 05:16:23",
           "rowid": 1
@@ -6930,7 +7080,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-22 05:04:29 UTC",
+        "expires_at": "2026-09-22 06:00:44 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -6941,7 +7091,7 @@
       "total_uploaded": 9,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 149,
+      "total_views": 151,
       "last_run_date": "2026-09-21 17:39:37",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: ZPnOLEEqpGU",
@@ -7016,7 +7166,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 5,
-          "views_gained": 23
+          "views_gained": 25
         },
         {
           "date": "2026-09-22",
@@ -7074,7 +7224,7 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 5,
-          "views_gained": 23
+          "views_gained": 25
         },
         {
           "date": "2026-09-22",
@@ -7131,7 +7281,7 @@
           "youtube_id": "QmOOvg_eSZc",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 1,
+          "view_count": 2,
           "title": "When a tough sailor cooks fish for his tiny best friend 🐟 #animation #cooking #wholesome #foodi",
           "created_at": "2026-09-21 04:36:42",
           "rowid": 5
@@ -7141,7 +7291,7 @@
           "youtube_id": "nNIDaDbtUok",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 10,
+          "view_count": 11,
           "title": "Pirate Bites on Reels",
           "created_at": "2026-09-21 04:36:41",
           "rowid": 4
@@ -7187,7 +7337,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-09-22 04:57:11 UTC",
+    "timestamp": "2026-09-22 05:33:25 UTC",
     "total_channels": 16,
     "healthy_count": 16,
     "auto_healed_count": 0,
@@ -7202,7 +7352,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-09-22",
-        "uploads_today": 2,
+        "uploads_today": 3,
         "uploads_yesterday": 5,
         "missed_posting": false,
         "error_detail": null,
@@ -7221,7 +7371,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-09-22",
-        "uploads_today": 2,
+        "uploads_today": 3,
         "uploads_yesterday": 4,
         "missed_posting": false,
         "error_detail": null,
@@ -7240,7 +7390,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-09-22",
-        "uploads_today": 2,
+        "uploads_today": 3,
         "uploads_yesterday": 4,
         "missed_posting": false,
         "error_detail": null,
@@ -7258,8 +7408,8 @@
         "source_target": "faghieegiza",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-09-21",
-        "uploads_today": 0,
+        "last_upload_date": "2026-09-22",
+        "uploads_today": 1,
         "uploads_yesterday": 2,
         "missed_posting": false,
         "error_detail": null,
@@ -7278,7 +7428,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-09-22",
-        "uploads_today": 2,
+        "uploads_today": 3,
         "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
@@ -7297,7 +7447,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-09-22",
-        "uploads_today": 2,
+        "uploads_today": 3,
         "uploads_yesterday": 4,
         "missed_posting": false,
         "error_detail": null,
@@ -7315,8 +7465,8 @@
         "source_target": "https://www.facebook.com/profile.php?id=61592577731084&sk=reels_tab",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-09-21",
-        "uploads_today": 0,
+        "last_upload_date": "2026-09-22",
+        "uploads_today": 1,
         "uploads_yesterday": 2,
         "missed_posting": false,
         "error_detail": null,
@@ -7335,7 +7485,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-09-22",
-        "uploads_today": 2,
+        "uploads_today": 3,
         "uploads_yesterday": 4,
         "missed_posting": false,
         "error_detail": null,
@@ -7354,7 +7504,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-09-22",
-        "uploads_today": 2,
+        "uploads_today": 3,
         "uploads_yesterday": 4,
         "missed_posting": false,
         "error_detail": null,
@@ -7373,7 +7523,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-09-22",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 4,
         "missed_posting": false,
         "error_detail": null,
@@ -7392,7 +7542,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-09-22",
-        "uploads_today": 2,
+        "uploads_today": 3,
         "uploads_yesterday": 4,
         "missed_posting": false,
         "error_detail": null,
@@ -7411,7 +7561,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-09-22",
-        "uploads_today": 2,
+        "uploads_today": 3,
         "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
@@ -7430,7 +7580,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-09-22",
-        "uploads_today": 2,
+        "uploads_today": 3,
         "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
@@ -7448,8 +7598,8 @@
         "source_target": "N/A",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-09-21",
-        "uploads_today": 0,
+        "last_upload_date": "2026-09-22",
+        "uploads_today": 1,
         "uploads_yesterday": 2,
         "missed_posting": false,
         "error_detail": null,
@@ -7468,7 +7618,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-09-22",
-        "uploads_today": 2,
+        "uploads_today": 3,
         "uploads_yesterday": 4,
         "missed_posting": false,
         "error_detail": null,
