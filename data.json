@@ -1,19 +1,19 @@
 {
   "summary": {
-    "timestamp_utc": "2026-09-23 16:42:19 UTC",
+    "timestamp_utc": "2026-09-24 07:09:23 UTC",
     "total_channels": 16,
     "active_channels": 16,
     "disabled_channels": 0,
-    "today_completed_channels": 1,
+    "today_completed_channels": 0,
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 440,
-    "total_views_tracked": 19075810,
-    "total_subscribers": 10660,
+    "total_uploaded_videos": 466,
+    "total_views_tracked": 22535886,
+    "total_subscribers": 12219,
     "total_pending_retries": 0,
     "underperforming_channels": 5,
-    "gh_pages_synced_at": "2026-09-23 16:42:22 UTC"
+    "gh_pages_synced_at": "2026-09-24 07:09:24 UTC"
   },
   "channels": [
     {
@@ -22,9 +22,9 @@
       "youtube_channel_name": "Tiny Wonder World",
       "youtube_handle": "@meelyansnmyhands",
       "youtube_channel_url": "https://www.youtube.com/@meelyansnmyhands",
-      "subscribers_count": 97,
-      "published_videos_count": 24,
-      "live_youtube_views": 114,
+      "subscribers_count": 100,
+      "published_videos_count": 26,
+      "live_youtube_views": 135,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Apr 07, 2026",
       "source_type": "facebook",
@@ -42,38 +42,29 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-23 17:04:59 UTC",
+        "expires_at": "2026-09-24 08:06:33 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "success",
+      "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 53,
+      "total_uploaded": 55,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 8331,
+      "total_views": 8487,
       "last_run_date": "2026-09-23 16:05:49",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: 8SmnWB_aCgw",
       "daily_sheet_10_days": [
-        {
-          "date": "2026-09-14",
-          "short_date": "Sep 14",
-          "slot1": "no_content",
-          "slot2": "not_run",
-          "uploads_count": 1,
-          "views_gained": 5,
-          "slot0": "success"
-        },
         {
           "date": "2026-09-15",
           "short_date": "Sep 15",
           "slot1": "success",
           "slot2": "no_content",
           "uploads_count": 1,
-          "views_gained": 7
+          "views_gained": 8
         },
         {
           "date": "2026-09-16",
@@ -89,7 +80,7 @@
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 28
+          "views_gained": 29
         },
         {
           "date": "2026-09-18",
@@ -97,7 +88,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 21
+          "views_gained": 22
         },
         {
           "date": "2026-09-19",
@@ -121,7 +112,7 @@
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 5,
-          "views_gained": 60
+          "views_gained": 83
         },
         {
           "date": "2026-09-22",
@@ -129,7 +120,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 7
+          "views_gained": 18
         },
         {
           "date": "2026-09-23",
@@ -137,25 +128,25 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 0
+          "views_gained": 89
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "slot1": "not_run",
+          "slot2": "not_run",
+          "uploads_count": 2,
+          "views_gained": 21
         }
       ],
       "daily_sheet_7_days": [
-        {
-          "date": "2026-09-17",
-          "short_date": "Sep 17",
-          "day_name": "Thu",
-          "is_today": false,
-          "uploads_count": 2,
-          "views_gained": 28
-        },
         {
           "date": "2026-09-18",
           "short_date": "Sep 18",
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 21
+          "views_gained": 22
         },
         {
           "date": "2026-09-19",
@@ -179,7 +170,7 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 5,
-          "views_gained": 60
+          "views_gained": 83
         },
         {
           "date": "2026-09-22",
@@ -187,24 +178,52 @@
           "day_name": "Tue",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 7
+          "views_gained": 18
         },
         {
           "date": "2026-09-23",
           "short_date": "Sep 23",
           "day_name": "Wed",
-          "is_today": true,
+          "is_today": false,
           "uploads_count": 3,
-          "views_gained": 0
+          "views_gained": 89
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "day_name": "Thu",
+          "is_today": true,
+          "uploads_count": 2,
+          "views_gained": 21
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "yt_MWf7XzE_CA8",
+          "youtube_id": "MWf7XzE_CA8",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 21,
+          "title": "When your sibling ruins your baking session but creates a core memory instead 🩰 #wholesome #fam",
+          "created_at": "2026-09-24 07:06:36",
+          "rowid": 56
+        },
+        {
+          "tiktok_id": "yt_J2sgntedjDU",
+          "youtube_id": "J2sgntedjDU",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 0,
+          "title": "When big brother refuses to share his snack platter 🐱 #wholesome #catlovers #siblinggoals #funn",
+          "created_at": "2026-09-24 07:06:36",
+          "rowid": 55
+        },
         {
           "tiktok_id": "babycare_overlay_1790179549_channel_1",
           "youtube_id": "8SmnWB_aCgw",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 0,
+          "view_count": 55,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 16:05:49",
           "rowid": 54
@@ -214,7 +233,7 @@
           "youtube_id": "KwuG20zQkuE",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 0,
+          "view_count": 11,
           "title": "When Your Little Sibling Finds The Ultimate Secret Weapon 😂 #funny #wholesome #relatable #comed",
           "created_at": "2026-09-23 05:53:09",
           "rowid": 53
@@ -224,7 +243,7 @@
           "youtube_id": "84DjTLe68TA",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 0,
+          "view_count": 23,
           "title": "Big Bro Pushed Him Away So Lil Bro Brought Pure Unfiltered Chaos #LittleBrother #FunnyFamily #V",
           "created_at": "2026-09-23 05:53:09",
           "rowid": 52
@@ -234,7 +253,7 @@
           "youtube_id": "JFvD24K71kw",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 0,
+          "view_count": 7,
           "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
           "created_at": "2026-09-22 05:29:31",
           "rowid": 51
@@ -244,7 +263,7 @@
           "youtube_id": "Z87hLrKnlQk",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 0,
+          "view_count": 1,
           "title": "From tears to pure joy in seconds! 🐱 #funnycats #toddlerlife #wholesome #pets #viral",
           "created_at": "2026-09-22 03:35:37",
           "rowid": 50
@@ -254,7 +273,7 @@
           "youtube_id": "RJzAKHyEKYc",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 7,
+          "view_count": 10,
           "title": "When your cat finally gets a voice collar and spills all your secrets 🐱 #catsoftiktok #funnycat",
           "created_at": "2026-09-22 03:08:09",
           "rowid": 49
@@ -264,7 +283,7 @@
           "youtube_id": "ohuAdfAkWPE",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 4,
+          "view_count": 5,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-21 17:32:35",
           "rowid": 48
@@ -274,7 +293,7 @@
           "youtube_id": "VVUhUrRfrGU",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 28,
+          "view_count": 35,
           "title": "Big Brother Got Mad So Lil Bro Decided To Ruin Everything #Brothers #ToddlerChaos #SiblingHumor",
           "created_at": "2026-09-21 17:24:05",
           "rowid": 47
@@ -284,7 +303,7 @@
           "youtube_id": "pKINOvRACx8",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 3,
+          "view_count": 9,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:04:33",
           "rowid": 46
@@ -294,7 +313,7 @@
           "youtube_id": "EFCE3w5lkOI",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 23,
+          "view_count": 29,
           "title": "When the cucumber rolls, the cat takes control! 🐱 #catsoftiktok #funnycats #viralvideo #cute #a",
           "created_at": "2026-09-21 04:36:35",
           "rowid": 45
@@ -304,7 +323,7 @@
           "youtube_id": "ekvgUD4QXfY",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 2,
+          "view_count": 5,
           "title": "Tiny Wonder World on Reels",
           "created_at": "2026-09-21 04:36:35",
           "rowid": 44
@@ -344,7 +363,7 @@
           "youtube_id": "r3uG2-nq6Kw",
           "status": "uploaded",
           "upload_date": "2026-09-18",
-          "view_count": 21,
+          "view_count": 22,
           "title": "The instant cure for a toddler tantrum! 🐱 #funny #toddler #cats #wholesome #viral",
           "created_at": "2026-09-18 23:55:50",
           "rowid": 40
@@ -364,7 +383,7 @@
           "youtube_id": "zeS3Jpsbe5A",
           "status": "uploaded",
           "upload_date": "2026-09-17",
-          "view_count": 3,
+          "view_count": 4,
           "title": "🍪 One tiny scoop turned into a giant dough disaster! 😂🏔️🐱",
           "created_at": "2026-09-17 03:41:41",
           "rowid": 38
@@ -384,7 +403,7 @@
           "youtube_id": "RLumgo9is1g",
           "status": "uploaded",
           "upload_date": "2026-09-15",
-          "view_count": 7,
+          "view_count": 8,
           "title": "Bro really turned a paper plate into a drift board 😭🐱 Olympic-level drifting. Zero thoughts, ju",
           "created_at": "2026-09-15 22:12:05",
           "rowid": 36
@@ -394,7 +413,7 @@
           "youtube_id": "Zc09KRa2NYc",
           "status": "uploaded",
           "upload_date": "2026-09-14",
-          "view_count": 5,
+          "view_count": 7,
           "title": "He was so mad until the cat stepped in 😭 🐱 #funny #cats #kids #wholesome #viral",
           "created_at": "2026-09-14 08:07:07",
           "rowid": 35
@@ -404,7 +423,7 @@
           "youtube_id": "KmeEV4vWUbA",
           "status": "uploaded",
           "upload_date": "2026-09-12",
-          "view_count": 0,
+          "view_count": 1,
           "title": "Video",
           "created_at": "2026-09-12 04:46:14",
           "rowid": 34
@@ -414,7 +433,7 @@
           "youtube_id": "mfNteNkP8SI",
           "status": "uploaded",
           "upload_date": "2026-09-12",
-          "view_count": 0,
+          "view_count": 2,
           "title": "Video",
           "created_at": "2026-09-12 04:46:14",
           "rowid": 33
@@ -424,7 +443,7 @@
           "youtube_id": "oE77LzniAm8",
           "status": "uploaded",
           "upload_date": "2026-09-11",
-          "view_count": 0,
+          "view_count": 2,
           "title": "Video",
           "created_at": "2026-09-11 08:34:07",
           "rowid": 32
@@ -434,7 +453,7 @@
           "youtube_id": "ojvJIoiKBEM",
           "status": "uploaded",
           "upload_date": "2026-09-11",
-          "view_count": 0,
+          "view_count": 2,
           "title": "Video",
           "created_at": "2026-09-11 08:26:00",
           "rowid": 31
@@ -678,37 +697,17 @@
           "title": "Yall got one more viral foryoupage reels comedy football 1",
           "created_at": "2026-09-01 08:19:10",
           "rowid": 6
-        },
-        {
-          "tiktok_id": "yt_WctL-3c4iDQ",
-          "youtube_id": "WctL-3c4iDQ",
-          "status": "uploaded",
-          "upload_date": "2026-09-01",
-          "view_count": 255,
-          "title": "They be in the locker room and all viral fyp reels collegefootball funny",
-          "created_at": "2026-09-01 08:19:10",
-          "rowid": 5
-        },
-        {
-          "tiktok_id": "yt_GVSZEAQXR0Y",
-          "youtube_id": "GVSZEAQXR0Y",
-          "status": "uploaded",
-          "upload_date": "2026-09-01",
-          "view_count": 251,
-          "title": "They lucky I aint out here foryoupage comedy footballtiktok funny foryoupage",
-          "created_at": "2026-09-01 08:19:10",
-          "rowid": 4
         }
       ],
       "pending_retry_items": [],
-      "days_linked": 12,
+      "days_linked": 13,
       "is_underperforming": true,
       "underperforming_reasons": [
-        "Views: 8,331 (Target: 10,000+)"
+        "Views: 8,487 (Target: 10,000+)"
       ],
       "has_db": true,
       "linked_date": "Sep 11, 2026",
-      "overall_status": "active"
+      "overall_status": "idle"
     },
     {
       "channel_id": "channel_2",
@@ -716,9 +715,9 @@
       "youtube_channel_name": "Not A Chef",
       "youtube_handle": "@notachefofficialy",
       "youtube_channel_url": "https://www.youtube.com/@notachefofficialy",
-      "subscribers_count": 6050,
-      "published_videos_count": 40,
-      "live_youtube_views": 8008433,
+      "subscribers_count": 6990,
+      "published_videos_count": 42,
+      "live_youtube_views": 11223109,
       "owner_email": "baarakhaaan@gmail.com",
       "channel_created_at": "Aug 30, 2026",
       "source_type": "gdrive",
@@ -726,17 +725,14 @@
       "bilibili_url": "",
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/13aPFnGVSotrOaUKVRX-MxgfrkHRn4qr-",
-        "total_in_drive": 56,
-        "posted_count": 26,
-        "remaining_unposted": 30,
+        "total_in_drive": 50,
+        "posted_count": 29,
+        "remaining_unposted": 21,
         "videos_per_day": 2,
-        "days_buffer": 15.0,
+        "days_buffer": 10.5,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (30 videos ready)",
+        "stock_label": "HEALTHY (21 videos ready)",
         "unposted_videos": [
-          "Juicy Chicken Skewers  #chickenkabab #asmrfood #recipe #cooking #foodie",
-          "Loaded Cheese Fries  #loadedfries #asmrfood #cheesy #recipe #foodie",
-          "Loaded Cheese Fries  #cheesefries #asmrfood #loadedfries #easyrecipe #foodie",
           "Mango Milkshake  (19) #asmrfood #cooking #recipe #food #viral",
           "Oreo Milkshake  #oreomilkshake #asmrfood #recipe #milkshake #dessert",
           "Oreo Milkshake  #asmrfood #oreomilkshake #milkshake #recipe #foodtok",
@@ -748,7 +744,10 @@
           "Refreshing Watermelon Drink  #asmrfood #cooking #recipe #food #viral",
           "Soya Balls  (2) #asmrfood #cooking #recipe #food #viral",
           "Soya Balls  #asmrfood #cooking #recipe #food #viral",
-          "Spicy Chicken Tikka Cheese Wrap  #asmrfood #cooking #recipe #food #viral"
+          "Spicy Chicken Tikka Cheese Wrap  #asmrfood #cooking #recipe #food #viral",
+          "Spicy Okra Fry  #asmrfood #bhindirecipe #cooking #viral",
+          "Spicy Tomato Garlic Chutney  #chutney #recipe #cooking #spicyfood #asmrfood",
+          "The Ultimate Creamy Banana Protein Shake  #smoothie #proteinshake #healthyrecipes #easyrecipe #asmrfood"
         ]
       },
       "enabled": true,
@@ -762,38 +761,29 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-23 17:04:59 UTC",
+        "expires_at": "2026-09-24 08:06:33 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "success",
+      "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 41,
+      "total_uploaded": 43,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 10948116,
+      "total_views": 13248247,
       "last_run_date": "2026-09-23 16:06:04",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: uwrICPlA6Z0",
       "daily_sheet_10_days": [
-        {
-          "date": "2026-09-14",
-          "short_date": "Sep 14",
-          "slot1": "success",
-          "slot2": "not_run",
-          "uploads_count": 2,
-          "views_gained": 19893,
-          "slot0": "success"
-        },
         {
           "date": "2026-09-15",
           "short_date": "Sep 15",
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 9950
+          "views_gained": 11181
         },
         {
           "date": "2026-09-16",
@@ -801,7 +791,7 @@
           "slot1": "not_run",
           "slot2": "success",
           "uploads_count": 1,
-          "views_gained": 5484
+          "views_gained": 6130
         },
         {
           "date": "2026-09-17",
@@ -809,7 +799,7 @@
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 41384
+          "views_gained": 43035
         },
         {
           "date": "2026-09-18",
@@ -817,7 +807,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 8216
+          "views_gained": 9291
         },
         {
           "date": "2026-09-19",
@@ -825,7 +815,7 @@
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 23936
+          "views_gained": 26394
         },
         {
           "date": "2026-09-20",
@@ -833,7 +823,7 @@
           "slot1": "not_run",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 23451
+          "views_gained": 25921
         },
         {
           "date": "2026-09-21",
@@ -841,7 +831,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 9850010
+          "views_gained": 11820438
         },
         {
           "date": "2026-09-22",
@@ -849,7 +839,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 799954
+          "views_gained": 1101368
         },
         {
           "date": "2026-09-23",
@@ -857,25 +847,25 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 5162
+          "views_gained": 18522
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "slot1": "not_run",
+          "slot2": "not_run",
+          "uploads_count": 2,
+          "views_gained": 2177
         }
       ],
       "daily_sheet_7_days": [
-        {
-          "date": "2026-09-17",
-          "short_date": "Sep 17",
-          "day_name": "Thu",
-          "is_today": false,
-          "uploads_count": 2,
-          "views_gained": 41384
-        },
         {
           "date": "2026-09-18",
           "short_date": "Sep 18",
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 1,
-          "views_gained": 8216
+          "views_gained": 9291
         },
         {
           "date": "2026-09-19",
@@ -883,7 +873,7 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 23936
+          "views_gained": 26394
         },
         {
           "date": "2026-09-20",
@@ -891,7 +881,7 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 23451
+          "views_gained": 25921
         },
         {
           "date": "2026-09-21",
@@ -899,7 +889,7 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 9850010
+          "views_gained": 11820438
         },
         {
           "date": "2026-09-22",
@@ -907,24 +897,52 @@
           "day_name": "Tue",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 799954
+          "views_gained": 1101368
         },
         {
           "date": "2026-09-23",
           "short_date": "Sep 23",
           "day_name": "Wed",
-          "is_today": true,
+          "is_today": false,
           "uploads_count": 3,
-          "views_gained": 5162
+          "views_gained": 18522
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "day_name": "Thu",
+          "is_today": true,
+          "uploads_count": 2,
+          "views_gained": 2177
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "yt_ZeSN-bVuwYw",
+          "youtube_id": "ZeSN-bVuwYw",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 1279,
+          "title": "Juicy Chicken Skewers 🍢 #chickenkabab #asmrfood #recipe #cooking #foodie",
+          "created_at": "2026-09-24 07:06:36",
+          "rowid": 43
+        },
+        {
+          "tiktok_id": "yt_Wun34-adtSc",
+          "youtube_id": "Wun34-adtSc",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 898,
+          "title": "Loaded Cheese Fries 🍟 #loadedfries #asmrfood #cheesy #recipe #foodie",
+          "created_at": "2026-09-24 07:06:36",
+          "rowid": 42
+        },
         {
           "tiktok_id": "babycare_overlay_1790179564_channel_2",
           "youtube_id": "uwrICPlA6Z0",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 373,
+          "view_count": 7643,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 16:06:04",
           "rowid": 41
@@ -934,7 +952,7 @@
           "youtube_id": "rPoNsxedSG4",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 2512,
+          "view_count": 4952,
           "title": "Fresh Strawberry Lemonade 🍓 #strawberrylemonade #asmrfood #summerdrinks #recipereels",
           "created_at": "2026-09-23 05:53:09",
           "rowid": 40
@@ -944,7 +962,7 @@
           "youtube_id": "US3Ea6aoXT0",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 2277,
+          "view_count": 5927,
           "title": "Fresh Watermelon Juice 🍉 #asmrfood #watermelonjuice #recipe #drink #refreshing",
           "created_at": "2026-09-23 05:53:09",
           "rowid": 39
@@ -954,7 +972,7 @@
           "youtube_id": "rTu4G_lNdrE",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 780470,
+          "view_count": 1077276,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech #sleep",
           "created_at": "2026-09-22 17:30:53",
           "rowid": 38
@@ -974,7 +992,7 @@
           "youtube_id": "QCExO0GLOgA",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 6931,
+          "view_count": 9316,
           "title": "Fresh Homemade Lemonade 🍋 #lemonade #drinkrecipe #asmr #refreshing #summerdrinks",
           "created_at": "2026-09-22 03:35:37",
           "rowid": 36
@@ -984,7 +1002,7 @@
           "youtube_id": "CFizGRIsJCU",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 8384,
+          "view_count": 10607,
           "title": "Fluffy Pancakes 🥞 #pancakes #asmrfood #breakfast #recipe #cooking",
           "created_at": "2026-09-22 03:08:09",
           "rowid": 35
@@ -994,7 +1012,7 @@
           "youtube_id": "PLej7bKhyDU",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 21713,
+          "view_count": 25674,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-21 17:33:21",
           "rowid": 34
@@ -1004,7 +1022,7 @@
           "youtube_id": "03ii7SpS0gY",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 9783959,
+          "view_count": 11746107,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 17:25:57",
           "rowid": 33
@@ -1014,7 +1032,7 @@
           "youtube_id": "ES1k7J12Dco",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 19589,
+          "view_count": 21507,
           "title": "Double Cheese Burger 🍔 #burger #asmrfood #recipe #food #smashburger",
           "created_at": "2026-09-21 04:36:36",
           "rowid": 32
@@ -1024,7 +1042,7 @@
           "youtube_id": "M8yHQP3njvU",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 24749,
+          "view_count": 27150,
           "title": "Easy 10 Minute Bread Rasmalai 🍮 #rasmalai #dessert #quickrecipes #sweettooth #easyrecipe",
           "created_at": "2026-09-21 04:36:36",
           "rowid": 31
@@ -1034,7 +1052,7 @@
           "youtube_id": "t--aSNeLbZw",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 7420,
+          "view_count": 8249,
           "title": "Crispy Potato Stuffed Mirchi Pakora 🌶️ #mirchipakora #asmrfood #recipe #foodie #viral",
           "created_at": "2026-09-20 06:39:47",
           "rowid": 30
@@ -1044,7 +1062,7 @@
           "youtube_id": "B5Du3P_INXc",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 16031,
+          "view_count": 17672,
           "title": "Crispy Veg Manchurian Balls 🧆 #vegmanchurian #asmrfood #recipe #easyrecipe #foodie",
           "created_at": "2026-09-20 03:42:05",
           "rowid": 29
@@ -1054,7 +1072,7 @@
           "youtube_id": "-UdmC5ZbDmI",
           "status": "uploaded",
           "upload_date": "2026-09-19",
-          "view_count": 10902,
+          "view_count": 12127,
           "title": "Crispy Spiced Okra ASMR 🌶️ #bhindimasala #okra #asmrcooking #easyrecipe #viral",
           "created_at": "2026-09-19 23:57:12",
           "rowid": 28
@@ -1064,7 +1082,7 @@
           "youtube_id": "8A-9KXNuhMc",
           "status": "uploaded",
           "upload_date": "2026-09-19",
-          "view_count": 13034,
+          "view_count": 14267,
           "title": "Crispy Soya Chunks Kabab Recipe 🧆 #soyachunks #recipe #asmrfood #cooking #vegetarian",
           "created_at": "2026-09-19 03:25:21",
           "rowid": 27
@@ -1074,7 +1092,7 @@
           "youtube_id": "-yqlQsoQAUA",
           "status": "uploaded",
           "upload_date": "2026-09-18",
-          "view_count": 8216,
+          "view_count": 9291,
           "title": "Crispy Potato Stuffed Mirchi Pakora 🌶️ #mirchipakora #asmrfood #recipe #foodie #viral",
           "created_at": "2026-09-18 23:56:00",
           "rowid": 26
@@ -1084,7 +1102,7 @@
           "youtube_id": "cJu2rLszYJ0",
           "status": "uploaded",
           "upload_date": "2026-09-17",
-          "view_count": 34425,
+          "view_count": 35377,
           "title": "Crispy Potato Bread Rolls 🥔 #breadrolls #potatosnacks #crispysnacks #easyrecipes #foodasmr",
           "created_at": "2026-09-17 03:41:52",
           "rowid": 25
@@ -1094,7 +1112,7 @@
           "youtube_id": "buz4RzOF20Y",
           "status": "uploaded",
           "upload_date": "2026-09-17",
-          "view_count": 6959,
+          "view_count": 7658,
           "title": "Crispy Onion Ring 🥐 #asmrfood #cooking #recipe #food #viral",
           "created_at": "2026-09-17 00:10:29",
           "rowid": 24
@@ -1104,7 +1122,7 @@
           "youtube_id": "C2uNqm3egAI",
           "status": "uploaded",
           "upload_date": "2026-09-16",
-          "view_count": 5484,
+          "view_count": 6130,
           "title": "Crispy Onion Pakoras 🧅 #pakora #onionpakoda #asmrfood #recipe #crispysnacks",
           "created_at": "2026-09-16 00:15:18",
           "rowid": 23
@@ -1114,7 +1132,7 @@
           "youtube_id": "-3YWxSGeMX4",
           "status": "uploaded",
           "upload_date": "2026-09-15",
-          "view_count": 5461,
+          "view_count": 6077,
           "title": "Crispy Maggi Noodle Pizza 🍕 #maggipizza #noodlepizza #easyrecipe #asmrfood #quickrecipes",
           "created_at": "2026-09-15 22:12:15",
           "rowid": 22
@@ -1124,7 +1142,7 @@
           "youtube_id": "mDnCN3ZmVKo",
           "status": "uploaded",
           "upload_date": "2026-09-15",
-          "view_count": 4489,
+          "view_count": 5104,
           "title": "Crispy Kung Pao Chicken 🌶️ #kungpaochicken #easyrecipe #asmrfood #asianfood #viral",
           "created_at": "2026-09-15 00:17:02",
           "rowid": 21
@@ -1134,7 +1152,7 @@
           "youtube_id": "GiN2BYBivFk",
           "status": "uploaded",
           "upload_date": "2026-09-14",
-          "view_count": 15825,
+          "view_count": 16312,
           "title": "Crispy Korean Fried Chicken 🍗 #koreanfriedchicken #crispychicken #recipe #foodie #asmrfood",
           "created_at": "2026-09-14 22:12:05",
           "rowid": 20
@@ -1144,7 +1162,7 @@
           "youtube_id": "FFS5iLe79Cc",
           "status": "uploaded",
           "upload_date": "2026-09-14",
-          "view_count": 4068,
+          "view_count": 4505,
           "title": "Crispy Golden Dal Vada 🧆 #asmrfood #recipe #crispy #snackideas #easyrecipe",
           "created_at": "2026-09-14 08:07:38",
           "rowid": 19
@@ -1154,7 +1172,7 @@
           "youtube_id": "Nlzv6w3kYWU",
           "status": "uploaded",
           "upload_date": "2026-09-12",
-          "view_count": 8490,
+          "view_count": 8858,
           "title": "Crispy Chicken Strips 🍗 #asmrfood #cooking #recipe #food #viral",
           "created_at": "2026-09-12 04:46:15",
           "rowid": 18
@@ -1164,7 +1182,7 @@
           "youtube_id": "Zf9LJmcfRW4",
           "status": "uploaded",
           "upload_date": "2026-09-12",
-          "view_count": 8983,
+          "view_count": 9446,
           "title": "Crispy Chicken Tenders 🍗 #chickentenders #crispychicken #asmrfood #recipe",
           "created_at": "2026-09-12 04:46:15",
           "rowid": 17
@@ -1274,7 +1292,7 @@
           "youtube_id": "1ZYtojJ4BHk",
           "status": "uploaded",
           "upload_date": "2026-09-11",
-          "view_count": 10357,
+          "view_count": 10387,
           "title": "This Thick Strawberry Banana Smoothie Is Pure Refreshing Bliss #SmoothieRecipe #HealthyDrinks #",
           "created_at": "2026-09-11 07:39:06",
           "rowid": 6
@@ -1294,7 +1312,7 @@
           "youtube_id": "FVTVoUHVubs",
           "status": "uploaded",
           "upload_date": "2026-09-11",
-          "view_count": 2706,
+          "view_count": 2941,
           "title": "Crispy Buffalo Wings 🍗 #wings #asmrfood #crispychicken #recipe #foodie",
           "created_at": "2026-09-11 07:39:06",
           "rowid": 4
@@ -1304,7 +1322,7 @@
           "youtube_id": "p46Qv1GkR9c",
           "status": "uploaded",
           "upload_date": "2026-09-11",
-          "view_count": 16960,
+          "view_count": 17474,
           "title": "Crispy Cheese & Veggie Bread Roll-Ups 🧀 #asmrfood #cheeselover #easyrecipe #snackideas #crispy",
           "created_at": "2026-09-11 07:39:06",
           "rowid": 3
@@ -1314,7 +1332,7 @@
           "youtube_id": "y_NPA0nSZKA",
           "status": "uploaded",
           "upload_date": "2026-09-11",
-          "view_count": 3689,
+          "view_count": 4039,
           "title": "Crispy Cheesy Fried Okra Bites 🧀 #okrabites #cheesypull #crispysnacks #recipe #foodie",
           "created_at": "2026-09-11 07:39:06",
           "rowid": 2
@@ -1324,19 +1342,19 @@
           "youtube_id": "Iwds8FCU6SI",
           "status": "uploaded",
           "upload_date": "2026-09-11",
-          "view_count": 2061,
+          "view_count": 2398,
           "title": "Crispy Cheese & Veggie Bread Roll-Ups 🧀 #asmrfood #cheeselover #easyrecipe #snackideas #crispy",
           "created_at": "2026-09-11 07:39:06",
           "rowid": 1
         }
       ],
       "pending_retry_items": [],
-      "days_linked": 22,
+      "days_linked": 23,
       "is_underperforming": false,
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 01, 2026",
-      "overall_status": "active"
+      "overall_status": "idle"
     },
     {
       "channel_id": "channel_3",
@@ -1344,9 +1362,9 @@
       "youtube_channel_name": "Tiny First Moments",
       "youtube_handle": "@quote4quotes",
       "youtube_channel_url": "https://www.youtube.com/@quote4quotes",
-      "subscribers_count": 1220,
-      "published_videos_count": 38,
-      "live_youtube_views": 2088999,
+      "subscribers_count": 1300,
+      "published_videos_count": 40,
+      "live_youtube_views": 2272527,
       "owner_email": "mrsabdulmateen36@gmail.com",
       "channel_created_at": "Sep 01, 2026",
       "source_type": "facebook",
@@ -1364,38 +1382,29 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-23 17:04:59 UTC",
+        "expires_at": "2026-09-24 08:06:33 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "success",
+      "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 39,
+      "total_uploaded": 41,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 2247618,
+      "total_views": 2437192,
       "last_run_date": "2026-09-23 16:06:17",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: OPVM5Tq421Y",
       "daily_sheet_10_days": [
-        {
-          "date": "2026-09-14",
-          "short_date": "Sep 14",
-          "slot1": "no_content",
-          "slot2": "not_run",
-          "uploads_count": 1,
-          "views_gained": 35082,
-          "slot0": "success"
-        },
         {
           "date": "2026-09-15",
           "short_date": "Sep 15",
           "slot1": "success",
           "slot2": "no_content",
           "uploads_count": 1,
-          "views_gained": 27452
+          "views_gained": 27587
         },
         {
           "date": "2026-09-16",
@@ -1403,7 +1412,7 @@
           "slot1": "not_run",
           "slot2": "success",
           "uploads_count": 1,
-          "views_gained": 3784
+          "views_gained": 3942
         },
         {
           "date": "2026-09-17",
@@ -1411,7 +1420,7 @@
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 4632
+          "views_gained": 4782
         },
         {
           "date": "2026-09-18",
@@ -1419,7 +1428,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 3256
+          "views_gained": 3445
         },
         {
           "date": "2026-09-19",
@@ -1427,7 +1436,7 @@
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 13287
+          "views_gained": 13777
         },
         {
           "date": "2026-09-20",
@@ -1435,7 +1444,7 @@
           "slot1": "not_run",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 6920
+          "views_gained": 7493
         },
         {
           "date": "2026-09-21",
@@ -1443,7 +1452,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 2097467
+          "views_gained": 2280830
         },
         {
           "date": "2026-09-22",
@@ -1451,7 +1460,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 18038
+          "views_gained": 19595
         },
         {
           "date": "2026-09-23",
@@ -1459,25 +1468,25 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 475
+          "views_gained": 2335
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "slot1": "not_run",
+          "slot2": "not_run",
+          "uploads_count": 2,
+          "views_gained": 176
         }
       ],
       "daily_sheet_7_days": [
-        {
-          "date": "2026-09-17",
-          "short_date": "Sep 17",
-          "day_name": "Thu",
-          "is_today": false,
-          "uploads_count": 2,
-          "views_gained": 4632
-        },
         {
           "date": "2026-09-18",
           "short_date": "Sep 18",
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 1,
-          "views_gained": 3256
+          "views_gained": 3445
         },
         {
           "date": "2026-09-19",
@@ -1485,7 +1494,7 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 13287
+          "views_gained": 13777
         },
         {
           "date": "2026-09-20",
@@ -1493,7 +1502,7 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 6920
+          "views_gained": 7493
         },
         {
           "date": "2026-09-21",
@@ -1501,7 +1510,7 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 2097467
+          "views_gained": 2280830
         },
         {
           "date": "2026-09-22",
@@ -1509,24 +1518,52 @@
           "day_name": "Tue",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 18038
+          "views_gained": 19595
         },
         {
           "date": "2026-09-23",
           "short_date": "Sep 23",
           "day_name": "Wed",
-          "is_today": true,
+          "is_today": false,
           "uploads_count": 3,
-          "views_gained": 475
+          "views_gained": 2335
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "day_name": "Thu",
+          "is_today": true,
+          "uploads_count": 2,
+          "views_gained": 176
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "yt_C5eEwJsBiHk",
+          "youtube_id": "C5eEwJsBiHk",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 104,
+          "title": "The exact moment this baby saw his dad for the very first time 🥹 #wholesome #emotional #babygla",
+          "created_at": "2026-09-24 07:06:36",
+          "rowid": 41
+        },
+        {
+          "tiktok_id": "yt_hHB-tOOET4I",
+          "youtube_id": "hHB-tOOET4I",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 72,
+          "title": "Follow us if you're happy for the baby",
+          "created_at": "2026-09-24 07:06:36",
+          "rowid": 40
+        },
         {
           "tiktok_id": "babycare_overlay_1790179577_channel_3",
           "youtube_id": "OPVM5Tq421Y",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 40,
+          "view_count": 929,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 16:06:17",
           "rowid": 39
@@ -1536,7 +1573,7 @@
           "youtube_id": "-gliSSz_xwc",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 286,
+          "view_count": 761,
           "title": "The emotional moment a baby hears her mother's voice for the first time 🥹 #wholesome #emo",
           "created_at": "2026-09-23 05:53:09",
           "rowid": 38
@@ -1546,7 +1583,7 @@
           "youtube_id": "fAsqTao3pvw",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 149,
+          "view_count": 645,
           "title": "Follow if you like the smile on the dad face.",
           "created_at": "2026-09-23 05:53:09",
           "rowid": 37
@@ -1556,7 +1593,7 @@
           "youtube_id": "hVAG4rp0lWo",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 1915,
+          "view_count": 2596,
           "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
           "created_at": "2026-09-22 05:30:02",
           "rowid": 36
@@ -1566,7 +1603,7 @@
           "youtube_id": "g4vqwVX8pRc",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 13698,
+          "view_count": 14194,
           "title": "He Saw His Dad Clearly For The First Time 🥹 #wholesome #heartwarming #emotional #family #viral",
           "created_at": "2026-09-22 03:36:42",
           "rowid": 35
@@ -1576,7 +1613,7 @@
           "youtube_id": "WMoh6-a03Gk",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 2425,
+          "view_count": 2805,
           "title": "Seeing the world clearly for the very first time 🥹 #wholesome #heartwarming #babyreaction #emot",
           "created_at": "2026-09-22 03:08:09",
           "rowid": 34
@@ -1586,7 +1623,7 @@
           "youtube_id": "FmVf9L7bs5w",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 4646,
+          "view_count": 5258,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-21 17:33:43",
           "rowid": 33
@@ -1596,7 +1633,7 @@
           "youtube_id": "Cg36Su32UNc",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 2081610,
+          "view_count": 2263604,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:06:28",
           "rowid": 32
@@ -1606,7 +1643,7 @@
           "youtube_id": "-NQueeh89wI",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 4987,
+          "view_count": 5351,
           "title": "Baby Sees Her Dad Clearly For The Very First Time 🥺 #heartwarming #wholesome #baby #emotional #",
           "created_at": "2026-09-21 04:36:36",
           "rowid": 31
@@ -1616,7 +1653,7 @@
           "youtube_id": "UQ0IhzUvLh4",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 6224,
+          "view_count": 6617,
           "title": "This Sweet Newborn Couldn't Stop Smiling After Hearing His Dad's Voice Clearly #PreciousMoments",
           "created_at": "2026-09-21 04:36:36",
           "rowid": 30
@@ -1626,7 +1663,7 @@
           "youtube_id": "Cagutlh5pUs",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 3663,
+          "view_count": 4045,
           "title": "Baby Sees Clearly For The Very First Time 🥺 #wholesome #emotional #baby #heartwarming #viral",
           "created_at": "2026-09-20 07:14:27",
           "rowid": 29
@@ -1636,7 +1673,7 @@
           "youtube_id": "WtZcjxd4X08",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 3257,
+          "view_count": 3448,
           "title": "Tears of joy when this baby hears his parents' voices for the first time 🥹",
           "created_at": "2026-09-20 06:39:47",
           "rowid": 28
@@ -1646,7 +1683,7 @@
           "youtube_id": "_5ZVCmWWugc",
           "status": "uploaded",
           "upload_date": "2026-09-19",
-          "view_count": 4131,
+          "view_count": 4388,
           "title": "Baby Hears Mom's Voice For The First Time 🥹 #wholesome #emotional #baby #hearingaid #viral",
           "created_at": "2026-09-19 23:57:36",
           "rowid": 27
@@ -1656,7 +1693,7 @@
           "youtube_id": "3UKWDJTSb6E",
           "status": "uploaded",
           "upload_date": "2026-09-19",
-          "view_count": 9156,
+          "view_count": 9389,
           "title": "Baby hears dad for the first time 🥺 #wholesome #emotional #baby #heartwarming #viral.",
           "created_at": "2026-09-19 03:25:44",
           "rowid": 26
@@ -1666,7 +1703,7 @@
           "youtube_id": "gARDSlscTqM",
           "status": "uploaded",
           "upload_date": "2026-09-18",
-          "view_count": 3256,
+          "view_count": 3445,
           "title": "Baby hears her mom's voice for the first time 🥺 #wholesome #heartwarming #baby #emotional #vira",
           "created_at": "2026-09-18 23:56:25",
           "rowid": 25
@@ -1676,7 +1713,7 @@
           "youtube_id": "5qoFIcahpU8",
           "status": "uploaded",
           "upload_date": "2026-09-17",
-          "view_count": 2231,
+          "view_count": 2381,
           "title": "1.9K views · 45 reactions | Tiny First Moments on Reels",
           "created_at": "2026-09-17 03:42:10",
           "rowid": 24
@@ -1696,7 +1733,7 @@
           "youtube_id": "G0U3zJgDDgc",
           "status": "uploaded",
           "upload_date": "2026-09-16",
-          "view_count": 3784,
+          "view_count": 3942,
           "title": "A baby sees his dad clearly for the first time 🥹 #heartwarming #wholesome #emotional #family #v",
           "created_at": "2026-09-16 06:56:31",
           "rowid": 22
@@ -1706,7 +1743,7 @@
           "youtube_id": "OzUrEWoIQDE",
           "status": "uploaded",
           "upload_date": "2026-09-15",
-          "view_count": 27452,
+          "view_count": 27587,
           "title": "The moment he heard his dad's voice for the first time 🥺 That little smile says everything. Not",
           "created_at": "2026-09-15 22:12:21",
           "rowid": 21
@@ -1716,7 +1753,7 @@
           "youtube_id": "-sNI5-zTT7E",
           "status": "uploaded",
           "upload_date": "2026-09-14",
-          "view_count": 35082,
+          "view_count": 35224,
           "title": "When he saw clearly for the very first time... 🥹 Pure joy in its purest form ❤️ 🥹 #wholesome #h",
           "created_at": "2026-09-14 08:07:50",
           "rowid": 20
@@ -1726,7 +1763,7 @@
           "youtube_id": "Q5h2bU9uXqE",
           "status": "uploaded",
           "upload_date": "2026-09-12",
-          "view_count": 1650,
+          "view_count": 1827,
           "title": "The Moment This Baby Sees His Dad Clearly For The First Time 🥺 #wholesome #emotional #baby #hea",
           "created_at": "2026-09-12 04:46:14",
           "rowid": 19
@@ -1736,7 +1773,7 @@
           "youtube_id": "KsjU4lKqPpU",
           "status": "uploaded",
           "upload_date": "2026-09-11",
-          "view_count": 20791,
+          "view_count": 20960,
           "title": "The Moment This Baby Sees His Dad Clearly For The First Time 🥺 #wholesome #emotional #baby #hea",
           "created_at": "2026-09-11 08:26:34",
           "rowid": 18
@@ -1746,7 +1783,7 @@
           "youtube_id": "MmPdx4rfSyE",
           "status": "uploaded",
           "upload_date": "2026-09-11",
-          "view_count": 1252,
+          "view_count": 1366,
           "title": "I don’t get it  #love #brokenlove #loveyourself #mentalhealth #mentalhealthmatters #brokenheart",
           "created_at": "2026-09-11 07:04:09",
           "rowid": 17
@@ -1756,7 +1793,7 @@
           "youtube_id": "4AMXKZvjVes",
           "status": "uploaded",
           "upload_date": "2026-09-10",
-          "view_count": 2244,
+          "view_count": 2342,
           "title": "When someone leaves your life, LET THEM #lettingo #motivationalvideo #motivation #mentalhealth",
           "created_at": "2026-09-10 01:41:20",
           "rowid": 16
@@ -1766,7 +1803,7 @@
           "youtube_id": "YArW-_73afQ",
           "status": "uploaded",
           "upload_date": "2026-09-08",
-          "view_count": 2177,
+          "view_count": 2241,
           "title": "I remember #remember #love #motivationalquotes #becauseofyou #happytimes #positivityquotes #lov",
           "created_at": "2026-09-08 06:38:51",
           "rowid": 14
@@ -1776,7 +1813,7 @@
           "youtube_id": "5hfbe5kBL1o",
           "status": "uploaded",
           "upload_date": "2026-09-07",
-          "view_count": 1686,
+          "view_count": 1746,
           "title": "This is the moment.. 💔 #broken #brokeninside #smilingbutdyinginside #mentalhealth #menthalhealt",
           "created_at": "2026-09-08 06:38:51",
           "rowid": 15
@@ -1786,7 +1823,7 @@
           "youtube_id": "t8jAz3lrP3E",
           "status": "uploaded",
           "upload_date": "2026-09-07",
-          "view_count": 618,
+          "view_count": 670,
           "title": "I am slowly going back into #darkplace #mentalhealth #mentalhealthmatters #mentalhealthawarenes",
           "created_at": "2026-09-07 01:21:21",
           "rowid": 12
@@ -1796,7 +1833,7 @@
           "youtube_id": "UlzoZieEEV8",
           "status": "uploaded",
           "upload_date": "2026-09-06",
-          "view_count": 442,
+          "view_count": 489,
           "title": "In love with someone I can’t unlove..  #thoughts #mentalhealth #menthalhealthmatters #love #unl",
           "created_at": "2026-09-07 01:21:21",
           "rowid": 13
@@ -1913,12 +1950,12 @@
         }
       ],
       "pending_retry_items": [],
-      "days_linked": 12,
+      "days_linked": 13,
       "is_underperforming": false,
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 11, 2026",
-      "overall_status": "active"
+      "overall_status": "idle"
     },
     {
       "channel_id": "channel_4",
@@ -1926,9 +1963,9 @@
       "youtube_channel_name": "AniHightRecap",
       "youtube_handle": "@luvthugga-h1p",
       "youtube_channel_url": "https://www.youtube.com/@luvthugga-h1p",
-      "subscribers_count": 692,
+      "subscribers_count": 952,
       "published_videos_count": 25,
-      "live_youtube_views": 517750,
+      "live_youtube_views": 1239434,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Oct 28, 2025",
       "source_type": "tiktok",
@@ -1946,38 +1983,29 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-23 17:04:59 UTC",
+        "expires_at": "2026-09-24 08:06:33 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "success",
+      "slot1_today": "not_run",
       "slot2_today": "not_run",
       "total_uploaded": 25,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 1200500,
+      "total_views": 1688597,
       "last_run_date": "2026-09-23 16:06:31",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: ZMg68rtsy8U",
       "daily_sheet_10_days": [
-        {
-          "date": "2026-09-14",
-          "short_date": "Sep 14",
-          "slot1": "success",
-          "slot2": "not_run",
-          "uploads_count": 2,
-          "views_gained": 3945,
-          "slot0": "success"
-        },
         {
           "date": "2026-09-15",
           "short_date": "Sep 15",
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 5087
+          "views_gained": 6589
         },
         {
           "date": "2026-09-16",
@@ -1993,7 +2021,7 @@
           "slot1": "success",
           "slot2": "no_content",
           "uploads_count": 1,
-          "views_gained": 2787
+          "views_gained": 3795
         },
         {
           "date": "2026-09-18",
@@ -2001,7 +2029,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 3958
+          "views_gained": 5292
         },
         {
           "date": "2026-09-19",
@@ -2025,7 +2053,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 1159526
+          "views_gained": 1636530
         },
         {
           "date": "2026-09-22",
@@ -2033,7 +2061,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 2514
+          "views_gained": 3995
         },
         {
           "date": "2026-09-23",
@@ -2041,25 +2069,25 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 1976
+          "views_gained": 4499
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "slot1": "not_run",
+          "slot2": "not_run",
+          "uploads_count": 0,
+          "views_gained": 0
         }
       ],
       "daily_sheet_7_days": [
-        {
-          "date": "2026-09-17",
-          "short_date": "Sep 17",
-          "day_name": "Thu",
-          "is_today": false,
-          "uploads_count": 1,
-          "views_gained": 2787
-        },
         {
           "date": "2026-09-18",
           "short_date": "Sep 18",
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 1,
-          "views_gained": 3958
+          "views_gained": 5292
         },
         {
           "date": "2026-09-19",
@@ -2083,7 +2111,7 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 1159526
+          "views_gained": 1636530
         },
         {
           "date": "2026-09-22",
@@ -2091,15 +2119,23 @@
           "day_name": "Tue",
           "is_today": false,
           "uploads_count": 1,
-          "views_gained": 2514
+          "views_gained": 3995
         },
         {
           "date": "2026-09-23",
           "short_date": "Sep 23",
           "day_name": "Wed",
-          "is_today": true,
+          "is_today": false,
           "uploads_count": 2,
-          "views_gained": 1976
+          "views_gained": 4499
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "day_name": "Thu",
+          "is_today": true,
+          "uploads_count": 0,
+          "views_gained": 0
         }
       ],
       "recent_videos": [
@@ -2108,7 +2144,7 @@
           "youtube_id": "ZMg68rtsy8U",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 16,
+          "view_count": 884,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 16:06:31",
           "rowid": 25
@@ -2118,7 +2154,7 @@
           "youtube_id": "GMnb5a5h-WE",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 1960,
+          "view_count": 3615,
           "title": "The Rise and FALL of Anime Abridging... #TheRiseand #Anime #Abridging #AnimeDoc #animeedit",
           "created_at": "2026-09-23 05:53:09",
           "rowid": 24
@@ -2128,7 +2164,7 @@
           "youtube_id": "OswT2v6MD58",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 2514,
+          "view_count": 3995,
           "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
           "created_at": "2026-09-22 05:30:20",
           "rowid": 23
@@ -2138,7 +2174,7 @@
           "youtube_id": "i4r_X6ykv_4",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 4442,
+          "view_count": 6118,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-21 17:34:14",
           "rowid": 22
@@ -2148,7 +2184,7 @@
           "youtube_id": "5FyiXi2KuKo",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 1155084,
+          "view_count": 1630412,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:06:44",
           "rowid": 21
@@ -2158,7 +2194,7 @@
           "youtube_id": "kCjIyUQuGtM",
           "status": "uploaded",
           "upload_date": "2026-09-18",
-          "view_count": 3958,
+          "view_count": 5292,
           "title": "In Defense of The FNAF Movie... (Review) 🐻🎬 #FNAF #fnafmovie #fivenightsatfreddys #fnafreview #",
           "created_at": "2026-09-18 23:56:32",
           "rowid": 20
@@ -2168,7 +2204,7 @@
           "youtube_id": "RvkB6kUOW-M",
           "status": "uploaded",
           "upload_date": "2026-09-17",
-          "view_count": 2787,
+          "view_count": 3795,
           "title": "TikTok video #7669078121852833037",
           "created_at": "2026-09-17 00:10:48",
           "rowid": 19
@@ -2178,7 +2214,7 @@
           "youtube_id": "jxDzd8ESrFY",
           "status": "uploaded",
           "upload_date": "2026-09-15",
-          "view_count": 2802,
+          "view_count": 3603,
           "title": "The OFFICIAL Stone Ocean Batch 3 BINGO Game! 🎟️🕷️ #anime #stoneocean #jojopart6 #bingogame #joj",
           "created_at": "2026-09-15 22:12:32",
           "rowid": 18
@@ -2188,7 +2224,7 @@
           "youtube_id": "qQAasfwN5v4",
           "status": "uploaded",
           "upload_date": "2026-09-15",
-          "view_count": 2285,
+          "view_count": 2986,
           "title": "TikTok video #7668033605658021134",
           "created_at": "2026-09-15 00:17:15",
           "rowid": 17
@@ -2198,7 +2234,7 @@
           "youtube_id": "CmcQgkrgjBY",
           "status": "uploaded",
           "upload_date": "2026-09-14",
-          "view_count": 1929,
+          "view_count": 2538,
           "title": "We NEED to talk about Dragona Joestar... #jjba #jojosbizarreadventure #jojo #Joestar #dragonajo",
           "created_at": "2026-09-14 22:12:17",
           "rowid": 16
@@ -2208,7 +2244,7 @@
           "youtube_id": "9x_zFMB3kk4",
           "status": "uploaded",
           "upload_date": "2026-09-14",
-          "view_count": 2016,
+          "view_count": 2442,
           "title": "Is Garfieldkart 2 worse than the Hindenburg Disaster #game #garfieldkart #garfield #gamingchall",
           "created_at": "2026-09-14 08:08:45",
           "rowid": 15
@@ -2218,7 +2254,7 @@
           "youtube_id": "IWDlC4VgVBQ",
           "status": "uploaded",
           "upload_date": "2026-09-12",
-          "view_count": 1534,
+          "view_count": 1796,
           "title": "Is Freddy Fazbear The Most Powerful Fictional Character Ever 🐻⚡ #goku #freddyfazbear #fnaf #fiv",
           "created_at": "2026-09-12 04:46:14",
           "rowid": 14
@@ -2228,7 +2264,7 @@
           "youtube_id": "g54liHi8M8E",
           "status": "uploaded",
           "upload_date": "2026-09-12",
-          "view_count": 2885,
+          "view_count": 3301,
           "title": "John Rod  Jojo's strongest stickman 🥖⚡ #jojo #jojosbizarreadventure #johnrod #jjba #stand",
           "created_at": "2026-09-12 04:46:14",
           "rowid": 13
@@ -2238,7 +2274,7 @@
           "youtube_id": "ZYBNXXUhSVI",
           "status": "uploaded",
           "upload_date": "2026-09-08",
-          "view_count": 1566,
+          "view_count": 1725,
           "title": "Ranking EVERY Lethal Company Monster (Spooky!) 👹🔦 #monster #lethalcompany #indiehorror #tierlis",
           "created_at": "2026-09-08 06:38:53",
           "rowid": 12
@@ -2248,7 +2284,7 @@
           "youtube_id": "NYcXPU0m4ZA",
           "status": "uploaded",
           "upload_date": "2026-09-08",
-          "view_count": 1599,
+          "view_count": 1893,
           "title": "Could Kiryu Take Down Passione (Kiryu vs Diavolo) 🐉⏳ #diavolo #yakuza #jojo #jojosbizarreadvent",
           "created_at": "2026-09-08 06:38:53",
           "rowid": 11
@@ -2258,7 +2294,7 @@
           "youtube_id": "NVIAkmGLzzY",
           "status": "uploaded",
           "upload_date": "2026-09-07",
-          "view_count": 1346,
+          "view_count": 1466,
           "title": "The REAL Reason Netflix is KILLING JoJo's Bizarre Adventure #diavolo #Netflix #jojo #jojosbizar",
           "created_at": "2026-09-07 01:21:22",
           "rowid": 10
@@ -2268,7 +2304,7 @@
           "youtube_id": "uQ66BMDu9AQ",
           "status": "uploaded",
           "upload_date": "2026-09-07",
-          "view_count": 2072,
+          "view_count": 2262,
           "title": "I 100%'d Garfield Kart because I hate my life #game #garfieldkart #garfield #gamingchallenge #g",
           "created_at": "2026-09-07 01:21:22",
           "rowid": 9
@@ -2278,7 +2314,7 @@
           "youtube_id": "BjT-erUa6BY",
           "status": "uploaded",
           "upload_date": "2026-09-06",
-          "view_count": 1520,
+          "view_count": 1641,
           "title": "That time a TREE had a stand.... 🌳⚡ #steelballrun #jojo #sbr #standuser #jojosbizarreadventure",
           "created_at": "2026-09-06 04:49:34",
           "rowid": 8
@@ -2288,7 +2324,7 @@
           "youtube_id": "lI-AM9jfw3E",
           "status": "uploaded",
           "upload_date": "2026-09-06",
-          "view_count": 398,
+          "view_count": 504,
           "title": "Could Whitebeard Stop The Heaven Plan (Whitebeard vs Pucci) #jojo #onepiece #jojosbizarreadvent",
           "created_at": "2026-09-06 04:49:34",
           "rowid": 7
@@ -2298,7 +2334,7 @@
           "youtube_id": "ssfAIuxnCRI",
           "status": "uploaded",
           "upload_date": "2026-09-05",
-          "view_count": 147,
+          "view_count": 241,
           "title": "Was President Valentine a Republican or Democrat #funnyvalentine #steelballrun #sbr #jojosbizar",
           "created_at": "2026-09-05 01:29:31",
           "rowid": 6
@@ -2308,7 +2344,7 @@
           "youtube_id": "IPUOjgaUHWo",
           "status": "uploaded",
           "upload_date": "2026-09-05",
-          "view_count": 2374,
+          "view_count": 2461,
           "title": "The Forgotten Failure of Pannacotta Fugo #jojosbizarreadventure #jjba #jojo #pannacottafugo #fu",
           "created_at": "2026-09-05 01:29:31",
           "rowid": 5
@@ -2318,7 +2354,7 @@
           "youtube_id": "ooc-RJombhg",
           "status": "uploaded",
           "upload_date": "2026-09-04",
-          "view_count": 1315,
+          "view_count": 1413,
           "title": "Could Funny Valentine win the 2024 election 🇺🇸🗳️ #jojo#funnyvalentine #steelballrun #sbr #usa",
           "created_at": "2026-09-04 01:43:25",
           "rowid": 4
@@ -2328,7 +2364,7 @@
           "youtube_id": "T6InT25uoDE",
           "status": "uploaded",
           "upload_date": "2026-09-04",
-          "view_count": 187,
+          "view_count": 279,
           "title": "I found PROOF Tusk Act 5 is CANON #Stand #Stands #jojo #jojosbizarreadventure #act5",
           "created_at": "2026-09-04 01:43:25",
           "rowid": 3
@@ -2338,7 +2374,7 @@
           "youtube_id": "RDICnEycaRc",
           "status": "uploaded",
           "upload_date": "2026-09-03",
-          "view_count": 219,
+          "view_count": 294,
           "title": "Could Dante take down The Gun Devil 🔴🔫 #gundevil #devilmaycry #chainsawman #dante #gaming",
           "created_at": "2026-09-03 05:04:56",
           "rowid": 2
@@ -2348,19 +2384,19 @@
           "youtube_id": "KBYRiIJPe1s",
           "status": "uploaded",
           "upload_date": "2026-09-03",
-          "view_count": 3545,
+          "view_count": 3641,
           "title": "I tried to warn you all... 🤐‼️ #itriedtowarnyouall #jojosbizarreadventure #jjba #jojo #fyp",
           "created_at": "2026-09-03 05:04:56",
           "rowid": 1
         }
       ],
       "pending_retry_items": [],
-      "days_linked": 21,
+      "days_linked": 22,
       "is_underperforming": false,
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 02, 2026",
-      "overall_status": "active"
+      "overall_status": "idle"
     },
     {
       "channel_id": "channel_5",
@@ -2368,9 +2404,9 @@
       "youtube_channel_name": "Duxie",
       "youtube_handle": "@luvthuggaas",
       "youtube_channel_url": "https://www.youtube.com/@luvthuggaas",
-      "subscribers_count": 51,
-      "published_videos_count": 36,
-      "live_youtube_views": 28572,
+      "subscribers_count": 53,
+      "published_videos_count": 37,
+      "live_youtube_views": 28644,
       "owner_email": "khadijaammar284@gmail.com",
       "channel_created_at": "Sep 01, 2026",
       "source_type": "gdrive",
@@ -2379,15 +2415,13 @@
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1aAofvKLxnOh0MxCv2LyLaMRGJOWpDiNZ",
         "total_in_drive": 21,
-        "posted_count": 6,
-        "remaining_unposted": 15,
+        "posted_count": 8,
+        "remaining_unposted": 13,
         "videos_per_day": 2,
-        "days_buffer": 7.5,
+        "days_buffer": 6.5,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (15 videos ready)",
+        "stock_label": "HEALTHY (13 videos ready)",
         "unposted_videos": [
-          "Duxie EP12 Halloween Street Havoc",
-          "Duxie EP13 Supermarket Aisle Mayhem",
           "Duxie EP14 Zoo Day Out",
           "Duxie EP15 Campsite Chaos",
           "Duxie EP16 Car Wash Chaos",
@@ -2414,31 +2448,22 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-23 17:04:59 UTC",
+        "expires_at": "2026-09-24 08:06:33 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "success",
+      "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 36,
+      "total_uploaded": 38,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 28572,
+      "total_views": 28644,
       "last_run_date": "2026-09-23 16:06:46",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: 7YPiMYGBQKE",
       "daily_sheet_10_days": [
-        {
-          "date": "2026-09-14",
-          "short_date": "Sep 14",
-          "slot1": "success",
-          "slot2": "not_run",
-          "uploads_count": 0,
-          "views_gained": 0,
-          "slot0": "success"
-        },
         {
           "date": "2026-09-15",
           "short_date": "Sep 15",
@@ -2485,7 +2510,7 @@
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 27,
-          "views_gained": 28526
+          "views_gained": 28553
         },
         {
           "date": "2026-09-21",
@@ -2493,7 +2518,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 16
+          "views_gained": 31
         },
         {
           "date": "2026-09-22",
@@ -2501,7 +2526,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 3
+          "views_gained": 13
         },
         {
           "date": "2026-09-23",
@@ -2509,18 +2534,18 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
+          "views_gained": 5
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "slot1": "not_run",
+          "slot2": "not_run",
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "daily_sheet_7_days": [
-        {
-          "date": "2026-09-17",
-          "short_date": "Sep 17",
-          "day_name": "Thu",
-          "is_today": false,
-          "uploads_count": 0,
-          "views_gained": 0
-        },
         {
           "date": "2026-09-18",
           "short_date": "Sep 18",
@@ -2543,7 +2568,7 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 27,
-          "views_gained": 28526
+          "views_gained": 28553
         },
         {
           "date": "2026-09-21",
@@ -2551,7 +2576,7 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 16
+          "views_gained": 31
         },
         {
           "date": "2026-09-22",
@@ -2559,24 +2584,52 @@
           "day_name": "Tue",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 3
+          "views_gained": 13
         },
         {
           "date": "2026-09-23",
           "short_date": "Sep 23",
           "day_name": "Wed",
-          "is_today": true,
+          "is_today": false,
           "uploads_count": 3,
+          "views_gained": 5
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "day_name": "Thu",
+          "is_today": true,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
         {
+          "tiktok_id": "yt_4zVDMC7P2-4",
+          "youtube_id": "4zVDMC7P2-4",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 0,
+          "title": "Duxie EP12 - Halloween Street Havoc | Funny Cartoon Animation #Shorts",
+          "created_at": "2026-09-24 07:06:36",
+          "rowid": 38
+        },
+        {
+          "tiktok_id": "yt_48oDW_Zlbbo",
+          "youtube_id": "48oDW_Zlbbo",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 0,
+          "title": "Duxie EP13 - Supermarket Aisle Mayhem | Funny Cartoon Animation #Shorts",
+          "created_at": "2026-09-24 07:06:36",
+          "rowid": 37
+        },
+        {
           "tiktok_id": "babycare_overlay_1790179606_channel_5",
           "youtube_id": "7YPiMYGBQKE",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 0,
+          "view_count": 5,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 16:06:46",
           "rowid": 36
@@ -2606,7 +2659,7 @@
           "youtube_id": "EnKKJoPddH4",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 2,
+          "view_count": 12,
           "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
           "created_at": "2026-09-22 05:30:41",
           "rowid": 33
@@ -2636,7 +2689,7 @@
           "youtube_id": "SeTGU8iwq6E",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 5,
+          "view_count": 10,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-21 17:34:42",
           "rowid": 30
@@ -2646,7 +2699,7 @@
           "youtube_id": "3-Bw228mt-E",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 11,
+          "view_count": 21,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:06:59",
           "rowid": 29
@@ -2776,7 +2829,7 @@
           "youtube_id": "XWuXW_odxD0",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 1593,
+          "view_count": 1594,
           "title": "#fyppppppppppppppppppppppp #hickeys #transformers #rs",
           "created_at": "2026-09-20 09:47:46",
           "rowid": 16
@@ -2786,7 +2839,7 @@
           "youtube_id": "m7L3y1rhjsI",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 737,
+          "view_count": 738,
           "title": "#fyppppppppppppppppppppppp #luvthugga #rs",
           "created_at": "2026-09-20 09:47:46",
           "rowid": 15
@@ -2796,7 +2849,7 @@
           "youtube_id": "eMJMw5JlwQY",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 91,
+          "view_count": 93,
           "title": "brandrisk let’s run it @Dillon Latham #fyppppppppppppppppppppppp #dillonlatham #fight #rs",
           "created_at": "2026-09-20 09:47:46",
           "rowid": 14
@@ -2806,7 +2859,7 @@
           "youtube_id": "B41SICKHv7w",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 1033,
+          "view_count": 1034,
           "title": "#fyppppppppppppppppppppppp #girls #claim #bf #rs",
           "created_at": "2026-09-20 09:47:46",
           "rowid": 13
@@ -2836,7 +2889,7 @@
           "youtube_id": "DXe97lXOTPY",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 1554,
+          "view_count": 1556,
           "title": "#fyppppppppppppppppppppppp #toe #she #shower #rs",
           "created_at": "2026-09-20 09:47:46",
           "rowid": 10
@@ -2856,7 +2909,7 @@
           "youtube_id": "_kqGqhwAr_U",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 481,
+          "view_count": 483,
           "title": "#fyppppppppppppppppppppppp #luvthugga #rs",
           "created_at": "2026-09-20 09:47:46",
           "rowid": 8
@@ -2886,7 +2939,7 @@
           "youtube_id": "A8dRdFxsDak",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 421,
+          "view_count": 424,
           "title": "#fyppppppppppppppppppppppp #luvthugga #rs",
           "created_at": "2026-09-20 09:47:46",
           "rowid": 5
@@ -2896,7 +2949,7 @@
           "youtube_id": "Z8wfwxZyYDE",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 767,
+          "view_count": 769,
           "title": "#fyppppppppppppppppppppppp #military #halloween #rs",
           "created_at": "2026-09-20 09:47:46",
           "rowid": 4
@@ -2906,7 +2959,7 @@
           "youtube_id": "0tpRyrbIKN0",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 376,
+          "view_count": 379,
           "title": "#fyppppppppppppppppppppppp #karatekid #halloween #rs",
           "created_at": "2026-09-20 09:47:46",
           "rowid": 3
@@ -2916,7 +2969,7 @@
           "youtube_id": "AMO18fODw2E",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 14,
+          "view_count": 16,
           "title": "#fyppppppppppppppppppppppp #military #halloween #rs",
           "created_at": "2026-09-20 09:47:46",
           "rowid": 2
@@ -2926,19 +2979,19 @@
           "youtube_id": "C6vSR1yiQXg",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 1227,
+          "view_count": 1235,
           "title": "#fypppppppppppppppppppppp #luvthugga #r",
           "created_at": "2026-09-20 09:47:45",
           "rowid": 1
         }
       ],
       "pending_retry_items": [],
-      "days_linked": 21,
+      "days_linked": 22,
       "is_underperforming": false,
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 02, 2026",
-      "overall_status": "active"
+      "overall_status": "idle"
     },
     {
       "channel_id": "channel_6",
@@ -2947,8 +3000,8 @@
       "youtube_handle": "@eorias_ai",
       "youtube_channel_url": "https://www.youtube.com/@eorias_ai",
       "subscribers_count": 16,
-      "published_videos_count": 31,
-      "live_youtube_views": 2183,
+      "published_videos_count": 33,
+      "live_youtube_views": 2216,
       "owner_email": "chotaaakhannn@gmail.com",
       "channel_created_at": "Sep 02, 2026",
       "source_type": "facebook",
@@ -2966,30 +3019,22 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-23 17:04:59 UTC",
+        "expires_at": "2026-09-24 08:06:33 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "success",
+      "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 31,
+      "total_uploaded": 33,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 2214,
+      "total_views": 2239,
       "last_run_date": "2026-09-23 16:07:00",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: TIT9zvSZBuQ",
       "daily_sheet_10_days": [
-        {
-          "date": "2026-09-14",
-          "short_date": "Sep 14",
-          "slot1": "success",
-          "slot2": "not_run",
-          "uploads_count": 1,
-          "views_gained": 1
-        },
         {
           "date": "2026-09-15",
           "short_date": "Sep 15",
@@ -3044,7 +3089,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 70
+          "views_gained": 75
         },
         {
           "date": "2026-09-22",
@@ -3060,18 +3105,18 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 1
+          "views_gained": 15
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "slot1": "not_run",
+          "slot2": "not_run",
+          "uploads_count": 2,
+          "views_gained": 6
         }
       ],
       "daily_sheet_7_days": [
-        {
-          "date": "2026-09-17",
-          "short_date": "Sep 17",
-          "day_name": "Thu",
-          "is_today": false,
-          "uploads_count": 2,
-          "views_gained": 10
-        },
         {
           "date": "2026-09-18",
           "short_date": "Sep 18",
@@ -3102,7 +3147,7 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 70
+          "views_gained": 75
         },
         {
           "date": "2026-09-22",
@@ -3116,18 +3161,46 @@
           "date": "2026-09-23",
           "short_date": "Sep 23",
           "day_name": "Wed",
-          "is_today": true,
+          "is_today": false,
           "uploads_count": 3,
-          "views_gained": 1
+          "views_gained": 15
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "day_name": "Thu",
+          "is_today": true,
+          "uploads_count": 2,
+          "views_gained": 6
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "yt_tYNzW8bcH2Y",
+          "youtube_id": "tYNzW8bcH2Y",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 6,
+          "title": "A 90-year-old grandma in an American flag jersey stepped into the throwing circle 🔨😳 The teens",
+          "created_at": "2026-09-24 07:06:36",
+          "rowid": 33
+        },
+        {
+          "tiktok_id": "yt_KqgP0rCcXsA",
+          "youtube_id": "KqgP0rCcXsA",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 0,
+          "title": "95 Years Old. She Wheeled a BMX to the Bowl in VELCRO Sneakers 🚲💀 American flag tank top. Hot p",
+          "created_at": "2026-09-24 07:06:36",
+          "rowid": 32
+        },
         {
           "tiktok_id": "babycare_overlay_1790179620_channel_6",
           "youtube_id": "TIT9zvSZBuQ",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 0,
+          "view_count": 8,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 16:07:00",
           "rowid": 31
@@ -3137,7 +3210,7 @@
           "youtube_id": "yMSDgC9Drnk",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 1,
+          "view_count": 2,
           "title": "A 95-year-old grandma backflipped across concrete pillars above thousands 🤸😳 Pillar to pillar.",
           "created_at": "2026-09-23 05:53:09",
           "rowid": 30
@@ -3147,7 +3220,7 @@
           "youtube_id": "jKnFU8tZw0M",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 0,
+          "view_count": 5,
           "title": "95 Years Old. She Dove Off a BRIDGE… and Bounced BACK UP 🌉🇺🇸💀 Morning joggers froze as a tiny g",
           "created_at": "2026-09-23 05:53:09",
           "rowid": 29
@@ -3187,7 +3260,7 @@
           "youtube_id": "4FDKtFgqeoM",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 33,
+          "view_count": 36,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-21 17:35:09",
           "rowid": 25
@@ -3197,7 +3270,7 @@
           "youtube_id": "Vl0HBpkcQyg",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 25,
+          "view_count": 27,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:07:14",
           "rowid": 24
@@ -3434,14 +3507,14 @@
         }
       ],
       "pending_retry_items": [],
-      "days_linked": 11,
+      "days_linked": 12,
       "is_underperforming": true,
       "underperforming_reasons": [
-        "Views: 2,214 (Target: 10,000+)"
+        "Views: 2,239 (Target: 10,000+)"
       ],
       "has_db": true,
       "linked_date": "Sep 12, 2026",
-      "overall_status": "active"
+      "overall_status": "idle"
     },
     {
       "channel_id": "channel_7",
@@ -3451,7 +3524,7 @@
       "youtube_channel_url": "https://www.youtube.com/@diyproj-w5t",
       "subscribers_count": 90,
       "published_videos_count": 22,
-      "live_youtube_views": 66168,
+      "live_youtube_views": 66216,
       "owner_email": "saalaamkhaaan@gmail.com",
       "channel_created_at": "Sep 02, 2026",
       "source_type": "facebook",
@@ -3469,31 +3542,22 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-23 17:04:59 UTC",
+        "expires_at": "2026-09-24 08:06:57 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "success",
+      "slot1_today": "not_run",
       "slot2_today": "not_run",
       "total_uploaded": 22,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 66218,
+      "total_views": 66321,
       "last_run_date": "2026-09-23 16:07:14",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: iHhbfX_CjlE",
       "daily_sheet_10_days": [
-        {
-          "date": "2026-09-14",
-          "short_date": "Sep 14",
-          "slot1": "success",
-          "slot2": "not_run",
-          "uploads_count": 2,
-          "views_gained": 1675,
-          "slot0": "success"
-        },
         {
           "date": "2026-09-15",
           "short_date": "Sep 15",
@@ -3548,7 +3612,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 10
+          "views_gained": 14
         },
         {
           "date": "2026-09-22",
@@ -3556,7 +3620,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 5
+          "views_gained": 11
         },
         {
           "date": "2026-09-23",
@@ -3564,18 +3628,18 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
+          "views_gained": 18
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "slot1": "not_run",
+          "slot2": "not_run",
+          "uploads_count": 0,
           "views_gained": 0
         }
       ],
       "daily_sheet_7_days": [
-        {
-          "date": "2026-09-17",
-          "short_date": "Sep 17",
-          "day_name": "Thu",
-          "is_today": false,
-          "uploads_count": 0,
-          "views_gained": 0
-        },
         {
           "date": "2026-09-18",
           "short_date": "Sep 18",
@@ -3606,7 +3670,7 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 10
+          "views_gained": 14
         },
         {
           "date": "2026-09-22",
@@ -3614,14 +3678,22 @@
           "day_name": "Tue",
           "is_today": false,
           "uploads_count": 1,
-          "views_gained": 5
+          "views_gained": 11
         },
         {
           "date": "2026-09-23",
           "short_date": "Sep 23",
           "day_name": "Wed",
-          "is_today": true,
+          "is_today": false,
           "uploads_count": 1,
+          "views_gained": 18
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "day_name": "Thu",
+          "is_today": true,
+          "uploads_count": 0,
           "views_gained": 0
         }
       ],
@@ -3631,7 +3703,7 @@
           "youtube_id": "iHhbfX_CjlE",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 0,
+          "view_count": 18,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 16:07:14",
           "rowid": 22
@@ -3641,7 +3713,7 @@
           "youtube_id": "jVtLc-7VCVg",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 5,
+          "view_count": 11,
           "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
           "created_at": "2026-09-22 05:31:13",
           "rowid": 21
@@ -3651,7 +3723,7 @@
           "youtube_id": "u-LK0-dY2GE",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 5,
+          "view_count": 8,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-21 17:35:35",
           "rowid": 20
@@ -3661,7 +3733,7 @@
           "youtube_id": "DubGFJoVvx0",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 5,
+          "view_count": 6,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:07:29",
           "rowid": 19
@@ -3671,7 +3743,7 @@
           "youtube_id": "pIXaLJypTqs",
           "status": "uploaded",
           "upload_date": "2026-09-14",
-          "view_count": 1472,
+          "view_count": 1475,
           "title": "POV Caulking #caulking #caulkingtips #excellentcaulking",
           "created_at": "2026-09-14 22:12:39",
           "rowid": 18
@@ -3681,7 +3753,7 @@
           "youtube_id": "p5Ohp9P7S9o",
           "status": "uploaded",
           "upload_date": "2026-09-14",
-          "view_count": 203,
+          "view_count": 204,
           "title": "Caulking #CaulkingAustralia",
           "created_at": "2026-09-14 08:09:28",
           "rowid": 17
@@ -3691,7 +3763,7 @@
           "youtube_id": "5HEGv0WlmLo",
           "status": "uploaded",
           "upload_date": "2026-09-12",
-          "view_count": 27511,
+          "view_count": 27545,
           "title": "Going granny’s house! #funnykidsvideos #familyfun #viralvideochallenge",
           "created_at": "2026-09-12 04:46:15",
           "rowid": 16
@@ -3701,7 +3773,7 @@
           "youtube_id": "0jxjBNWlqEU",
           "status": "uploaded",
           "upload_date": "2026-09-12",
-          "view_count": 26,
+          "view_count": 27,
           "title": "#funnykidsvideos",
           "created_at": "2026-09-12 04:46:15",
           "rowid": 15
@@ -3711,7 +3783,7 @@
           "youtube_id": "kU171TDdfhw",
           "status": "uploaded",
           "upload_date": "2026-09-11",
-          "view_count": 65,
+          "view_count": 66,
           "title": "#funnykidsreels",
           "created_at": "2026-09-11 08:37:49",
           "rowid": 14
@@ -3721,7 +3793,7 @@
           "youtube_id": "BFM50TFdQcI",
           "status": "uploaded",
           "upload_date": "2026-09-11",
-          "view_count": 38,
+          "view_count": 39,
           "title": "#funnykidsreels",
           "created_at": "2026-09-11 08:13:56",
           "rowid": 13
@@ -3731,7 +3803,7 @@
           "youtube_id": "DlbEy7LLTBM",
           "status": "uploaded",
           "upload_date": "2026-09-08",
-          "view_count": 6684,
+          "view_count": 6685,
           "title": "#funnykidsvideo",
           "created_at": "2026-09-08 06:38:53",
           "rowid": 12
@@ -3741,7 +3813,7 @@
           "youtube_id": "9z9PWklwn_o",
           "status": "uploaded",
           "upload_date": "2026-09-08",
-          "view_count": 21717,
+          "view_count": 21731,
           "title": "#funnykidsreels",
           "created_at": "2026-09-08 06:38:53",
           "rowid": 11
@@ -3751,7 +3823,7 @@
           "youtube_id": "E6hmIPIGgzc",
           "status": "uploaded",
           "upload_date": "2026-09-07",
-          "view_count": 76,
+          "view_count": 77,
           "title": "#funnykidsreels",
           "created_at": "2026-09-07 01:21:20",
           "rowid": 10
@@ -3761,7 +3833,7 @@
           "youtube_id": "VCGWBBjIhjo",
           "status": "uploaded",
           "upload_date": "2026-09-07",
-          "view_count": 6590,
+          "view_count": 6592,
           "title": "#FunnyKidsMoments",
           "created_at": "2026-09-07 01:21:20",
           "rowid": 9
@@ -3771,7 +3843,7 @@
           "youtube_id": "eivuVsSQAmQ",
           "status": "uploaded",
           "upload_date": "2026-09-06",
-          "view_count": 958,
+          "view_count": 966,
           "title": "#FunnyKidsMoments",
           "created_at": "2026-09-06 04:49:35",
           "rowid": 8
@@ -3781,7 +3853,7 @@
           "youtube_id": "ehmbGDU-G78",
           "status": "uploaded",
           "upload_date": "2026-09-06",
-          "view_count": 196,
+          "view_count": 197,
           "title": "#FunnyKidsMoments",
           "created_at": "2026-09-06 04:49:35",
           "rowid": 7
@@ -3791,7 +3863,7 @@
           "youtube_id": "BFHx2PaBdTE",
           "status": "uploaded",
           "upload_date": "2026-09-05",
-          "view_count": 74,
+          "view_count": 76,
           "title": "#funnykidsvideo",
           "created_at": "2026-09-05 01:29:30",
           "rowid": 6
@@ -3801,7 +3873,7 @@
           "youtube_id": "AqpccbkgNKk",
           "status": "uploaded",
           "upload_date": "2026-09-04",
-          "view_count": 62,
+          "view_count": 64,
           "title": "#funnykids",
           "created_at": "2026-09-04 07:35:06",
           "rowid": 5
@@ -3811,7 +3883,7 @@
           "youtube_id": "MwZ0Jdwb7gQ",
           "status": "uploaded",
           "upload_date": "2026-09-04",
-          "view_count": 39,
+          "view_count": 40,
           "title": "Try this paper toy again and again 💕  #DIY #easyorigami #satisfying #asmr #origamitutorial",
           "created_at": "2026-09-04 01:43:26",
           "rowid": 4
@@ -3821,7 +3893,7 @@
           "youtube_id": "2NWKJaaIxBo",
           "status": "uploaded",
           "upload_date": "2026-09-04",
-          "view_count": 43,
+          "view_count": 44,
           "title": "Make a easy paper candy 💕  #DIY #easyorigami #origamitutorial #foryoupage #cutecrafts",
           "created_at": "2026-09-04 01:43:26",
           "rowid": 3
@@ -3841,19 +3913,19 @@
           "youtube_id": "klxeOj9mdmg",
           "status": "uploaded",
           "upload_date": "2026-09-03",
-          "view_count": 379,
+          "view_count": 380,
           "title": "How to make a paper box without glue 💕  #DIY #cutecrafts #satisfying #easyorigami #origamitutor",
           "created_at": "2026-09-03 05:05:07",
           "rowid": 1
         }
       ],
       "pending_retry_items": [],
-      "days_linked": 21,
+      "days_linked": 22,
       "is_underperforming": false,
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 02, 2026",
-      "overall_status": "active"
+      "overall_status": "idle"
     },
     {
       "channel_id": "channel_8",
@@ -3862,8 +3934,8 @@
       "youtube_handle": "@kiddiekitties",
       "youtube_channel_url": "https://www.youtube.com/@kiddiekitties",
       "subscribers_count": 36,
-      "published_videos_count": 34,
-      "live_youtube_views": 10192,
+      "published_videos_count": 36,
+      "live_youtube_views": 16479,
       "owner_email": "marryaksaa@gmail.com",
       "channel_created_at": "Sep 03, 2026",
       "source_type": "facebook",
@@ -3881,38 +3953,29 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-23 17:04:59 UTC",
+        "expires_at": "2026-09-23 18:01:22 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": false
+        "is_expired": true
       },
-      "slot1_today": "success",
+      "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 35,
+      "total_uploaded": 37,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 16468,
+      "total_views": 16506,
       "last_run_date": "2026-09-23 16:07:29",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: JmCTuHcPdWY",
       "daily_sheet_10_days": [
-        {
-          "date": "2026-09-14",
-          "short_date": "Sep 14",
-          "slot1": "success",
-          "slot2": "not_run",
-          "uploads_count": 2,
-          "views_gained": 4,
-          "slot0": "success"
-        },
         {
           "date": "2026-09-15",
           "short_date": "Sep 15",
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 11
+          "views_gained": 14
         },
         {
           "date": "2026-09-16",
@@ -3928,7 +3991,7 @@
           "slot1": "skipped",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 4
+          "views_gained": 7
         },
         {
           "date": "2026-09-18",
@@ -3936,7 +3999,7 @@
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 32
+          "views_gained": 47
         },
         {
           "date": "2026-09-19",
@@ -3944,7 +4007,7 @@
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 4
+          "views_gained": 10
         },
         {
           "date": "2026-09-20",
@@ -3952,7 +4015,7 @@
           "slot1": "not_run",
           "slot2": "success",
           "uploads_count": 1,
-          "views_gained": 2
+          "views_gained": 4
         },
         {
           "date": "2026-09-21",
@@ -3960,7 +4023,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 142
+          "views_gained": 146
         },
         {
           "date": "2026-09-22",
@@ -3968,7 +4031,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 16009
+          "views_gained": 16001
         },
         {
           "date": "2026-09-23",
@@ -3976,25 +4039,25 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
+          "views_gained": 10
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "slot1": "not_run",
+          "slot2": "not_run",
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "daily_sheet_7_days": [
-        {
-          "date": "2026-09-17",
-          "short_date": "Sep 17",
-          "day_name": "Thu",
-          "is_today": false,
-          "uploads_count": 2,
-          "views_gained": 4
-        },
         {
           "date": "2026-09-18",
           "short_date": "Sep 18",
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 32
+          "views_gained": 47
         },
         {
           "date": "2026-09-19",
@@ -4002,7 +4065,7 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 4
+          "views_gained": 10
         },
         {
           "date": "2026-09-20",
@@ -4010,7 +4073,7 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 1,
-          "views_gained": 2
+          "views_gained": 4
         },
         {
           "date": "2026-09-21",
@@ -4018,7 +4081,7 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 142
+          "views_gained": 146
         },
         {
           "date": "2026-09-22",
@@ -4026,24 +4089,52 @@
           "day_name": "Tue",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 16009
+          "views_gained": 16001
         },
         {
           "date": "2026-09-23",
           "short_date": "Sep 23",
           "day_name": "Wed",
-          "is_today": true,
+          "is_today": false,
           "uploads_count": 3,
+          "views_gained": 10
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "day_name": "Thu",
+          "is_today": true,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
         {
+          "tiktok_id": "yt_2tE4KPecYsg",
+          "youtube_id": "2tE4KPecYsg",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 0,
+          "title": "Newborn baby face beautiful #bestainewbornbaby #lovly",
+          "created_at": "2026-09-24 07:08:12",
+          "rowid": 37
+        },
+        {
+          "tiktok_id": "yt_kjdZ9r4oWd4",
+          "youtube_id": "kjdZ9r4oWd4",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 0,
+          "title": "Newborn baby fast breath #viralreels",
+          "created_at": "2026-09-24 07:08:12",
+          "rowid": 36
+        },
+        {
           "tiktok_id": "babycare_overlay_1790179649_channel_8",
           "youtube_id": "JmCTuHcPdWY",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 0,
+          "view_count": 5,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 16:07:29",
           "rowid": 35
@@ -4053,7 +4144,7 @@
           "youtube_id": "nb5LEaOFjTo",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 0,
+          "view_count": 1,
           "title": "Tiny moment #aivideogenerator #newborn",
           "created_at": "2026-09-23 05:53:09",
           "rowid": 34
@@ -4063,7 +4154,7 @@
           "youtube_id": "hW1VP35rgy0",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 0,
+          "view_count": 4,
           "title": "Cute baby moment #newbornbaby",
           "created_at": "2026-09-23 05:53:09",
           "rowid": 33
@@ -4073,7 +4164,7 @@
           "youtube_id": "8W6qi_cG6Ok",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 6,
+          "view_count": 9,
           "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
           "created_at": "2026-09-22 05:31:29",
           "rowid": 32
@@ -4083,7 +4174,7 @@
           "youtube_id": "9Y7h3rl6xNk",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 34,
+          "view_count": 39,
           "title": "Baby smile is so cute #babyhelth",
           "created_at": "2026-09-22 03:38:26",
           "rowid": 31
@@ -4093,7 +4184,7 @@
           "youtube_id": "hp7fpdC_2wg",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 15969,
+          "view_count": 15953,
           "title": "Newborn baby seeping now #newbornbaby #HealthAndBeauty",
           "created_at": "2026-09-22 03:08:09",
           "rowid": 30
@@ -4103,7 +4194,7 @@
           "youtube_id": "D0UBHt7PLQw",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 26,
+          "view_count": 27,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-21 17:36:04",
           "rowid": 29
@@ -4113,7 +4204,7 @@
           "youtube_id": "eX65z60HY9k",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 27,
+          "view_count": 29,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:07:44",
           "rowid": 28
@@ -4123,7 +4214,7 @@
           "youtube_id": "as1BduPmRj4",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 16,
+          "view_count": 17,
           "title": "So so beautiful baby ❤️❤️ #newbornbaby #viralreels #babylovers",
           "created_at": "2026-09-21 04:36:36",
           "rowid": 27
@@ -4143,7 +4234,7 @@
           "youtube_id": "zJuf1EPsvgo",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 2,
+          "view_count": 4,
           "title": "So sánh giá trị của cây quế và cây keo phần 1.#bangbiuu1 #lyvanbang #xuhuong",
           "created_at": "2026-09-20 03:44:38",
           "rowid": 25
@@ -4153,7 +4244,7 @@
           "youtube_id": "zLAbP5ItPDw",
           "status": "uploaded",
           "upload_date": "2026-09-19",
-          "view_count": 0,
+          "view_count": 1,
           "title": "Bóc cây quế cuối cùng trong đám quế mà mình thu với giá 2,4tr , để xem chuyến này mình được hay",
           "created_at": "2026-09-19 23:58:47",
           "rowid": 24
@@ -4163,7 +4254,7 @@
           "youtube_id": "9q-lUTTtaLU",
           "status": "uploaded",
           "upload_date": "2026-09-19",
-          "view_count": 4,
+          "view_count": 9,
           "title": "Một buổi sáng đi bóc quế thuê sẽ kiếm được bao nhiêu .? #bangbiuu1 #lyvanbang #cayque #xuhuong",
           "created_at": "2026-09-19 03:35:49",
           "rowid": 23
@@ -4173,7 +4264,7 @@
           "youtube_id": "0gLzh5kx-3k",
           "status": "uploaded",
           "upload_date": "2026-09-18",
-          "view_count": 2,
+          "view_count": 4,
           "title": "Cây quế thứ 4 trong số 6 cây mà mình thu với giá hơn 2 củ khoai.#bangbiuu1 #lyvanbang #cayque #",
           "created_at": "2026-09-18 23:57:48",
           "rowid": 22
@@ -4183,7 +4274,7 @@
           "youtube_id": "XO_v_7spbDc",
           "status": "uploaded",
           "upload_date": "2026-09-18",
-          "view_count": 30,
+          "view_count": 43,
           "title": "Một buổi sáng lên tít trên đỉnh đồi tìm và hái những búp măng siêu to khổng lồ.##lyvanbang##ban",
           "created_at": "2026-09-18 03:28:48",
           "rowid": 21
@@ -4193,7 +4284,7 @@
           "youtube_id": "ktN2wXC84OQ",
           "status": "uploaded",
           "upload_date": "2026-09-17",
-          "view_count": 4,
+          "view_count": 5,
           "title": "Đi bóc quế mà quên mang dao khoanh , và cách mình sử lí . #bangbiuu1 #lyvanbang #cayque #xuhuon",
           "created_at": "2026-09-17 03:43:13",
           "rowid": 20
@@ -4203,7 +4294,7 @@
           "youtube_id": "jxOoQ8MA5jo",
           "status": "uploaded",
           "upload_date": "2026-09-17",
-          "view_count": 0,
+          "view_count": 2,
           "title": "Cây quế thứ hai trong hành trình bỏ ra hơn 2tr để trinh phục 6 cây quế .#bangbiuu1 #lyvanbang #",
           "created_at": "2026-09-17 00:11:35",
           "rowid": 19
@@ -4223,7 +4314,7 @@
           "youtube_id": "ZVeTSAqMpcI",
           "status": "uploaded",
           "upload_date": "2026-09-15",
-          "view_count": 1,
+          "view_count": 2,
           "title": "Bỏ ra hơn 2tr để thu lại 6 cây quế , để xem lần này mình có được không không nhé mọi người , câ",
           "created_at": "2026-09-15 22:13:24",
           "rowid": 17
@@ -4233,7 +4324,7 @@
           "youtube_id": "Qma_dtsFUNc",
           "status": "uploaded",
           "upload_date": "2026-09-15",
-          "view_count": 10,
+          "view_count": 12,
           "title": "Bỏ ra 500k đổi 1 cây quế , để xem có kiếm được chút đỉnh nào hay không nhé mọi người😁.#bangbiuu",
           "created_at": "2026-09-15 00:18:16",
           "rowid": 16
@@ -4243,7 +4334,7 @@
           "youtube_id": "QasRnPvst3s",
           "status": "uploaded",
           "upload_date": "2026-09-14",
-          "view_count": 2,
+          "view_count": 4,
           "title": "Bỏ ra 500k thu lại 1 cây quế 20 năm tuổi để xem hôm nay mình được hay mất nhé .#bangbiuu1 #lyva",
           "created_at": "2026-09-14 22:13:08",
           "rowid": 15
@@ -4253,7 +4344,7 @@
           "youtube_id": "RnlDtvKYtf8",
           "status": "uploaded",
           "upload_date": "2026-09-14",
-          "view_count": 2,
+          "view_count": 3,
           "title": "Bóc 1 cây quế xem giá trị của nó sau gần trục năm trồng .#bangbiuu1 #lyvanbang #xuhuong #cayque",
           "created_at": "2026-09-14 08:12:43",
           "rowid": 14
@@ -4390,12 +4481,12 @@
         }
       ],
       "pending_retry_items": [],
-      "days_linked": 10,
+      "days_linked": 11,
       "is_underperforming": false,
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 13, 2026",
-      "overall_status": "active"
+      "overall_status": "idle"
     },
     {
       "channel_id": "channel_9",
@@ -4403,9 +4494,9 @@
       "youtube_channel_name": "Kiddie Kittie",
       "youtube_handle": "@any-d4b",
       "youtube_channel_url": "https://www.youtube.com/@any-d4b",
-      "subscribers_count": 0,
-      "published_videos_count": 32,
-      "live_youtube_views": 117,
+      "subscribers_count": 3,
+      "published_videos_count": 34,
+      "live_youtube_views": 164,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Sep 03, 2026",
       "source_type": "facebook",
@@ -4423,38 +4514,29 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-23 17:05:02 UTC",
+        "expires_at": "2026-09-24 08:06:36 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "success",
+      "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 33,
+      "total_uploaded": 35,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 122,
+      "total_views": 255,
       "last_run_date": "2026-09-23 16:07:45",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: shFs_1_iGNU",
       "daily_sheet_10_days": [
-        {
-          "date": "2026-09-14",
-          "short_date": "Sep 14",
-          "slot1": "no_content",
-          "slot2": "not_run",
-          "uploads_count": 1,
-          "views_gained": 0,
-          "slot0": "success"
-        },
         {
           "date": "2026-09-15",
           "short_date": "Sep 15",
           "slot1": "success",
           "slot2": "no_content",
           "uploads_count": 1,
-          "views_gained": 0
+          "views_gained": 7
         },
         {
           "date": "2026-09-16",
@@ -4470,7 +4552,7 @@
           "slot1": "skipped",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 8
+          "views_gained": 21
         },
         {
           "date": "2026-09-18",
@@ -4478,7 +4560,7 @@
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 12
+          "views_gained": 24
         },
         {
           "date": "2026-09-19",
@@ -4486,7 +4568,7 @@
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 2
+          "views_gained": 12
         },
         {
           "date": "2026-09-20",
@@ -4494,7 +4576,7 @@
           "slot1": "not_run",
           "slot2": "success",
           "uploads_count": 1,
-          "views_gained": 1
+          "views_gained": 14
         },
         {
           "date": "2026-09-21",
@@ -4502,7 +4584,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 2
+          "views_gained": 23
         },
         {
           "date": "2026-09-22",
@@ -4510,7 +4592,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 0
+          "views_gained": 14
         },
         {
           "date": "2026-09-23",
@@ -4518,25 +4600,25 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 3
+          "views_gained": 18
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "slot1": "not_run",
+          "slot2": "not_run",
+          "uploads_count": 2,
+          "views_gained": 6
         }
       ],
       "daily_sheet_7_days": [
-        {
-          "date": "2026-09-17",
-          "short_date": "Sep 17",
-          "day_name": "Thu",
-          "is_today": false,
-          "uploads_count": 2,
-          "views_gained": 8
-        },
         {
           "date": "2026-09-18",
           "short_date": "Sep 18",
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 12
+          "views_gained": 24
         },
         {
           "date": "2026-09-19",
@@ -4544,7 +4626,7 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 2
+          "views_gained": 12
         },
         {
           "date": "2026-09-20",
@@ -4552,7 +4634,7 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 1,
-          "views_gained": 1
+          "views_gained": 14
         },
         {
           "date": "2026-09-21",
@@ -4560,7 +4642,7 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 2
+          "views_gained": 23
         },
         {
           "date": "2026-09-22",
@@ -4568,24 +4650,52 @@
           "day_name": "Tue",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 0
+          "views_gained": 14
         },
         {
           "date": "2026-09-23",
           "short_date": "Sep 23",
           "day_name": "Wed",
-          "is_today": true,
+          "is_today": false,
           "uploads_count": 3,
-          "views_gained": 3
+          "views_gained": 18
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "day_name": "Thu",
+          "is_today": true,
+          "uploads_count": 2,
+          "views_gained": 6
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "yt_tjQZ1xpanFE",
+          "youtube_id": "tjQZ1xpanFE",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 3,
+          "title": "Do you ever wonder if your pet knows how much you love them 🥺 #catlover #cutepets #wholesome #c",
+          "created_at": "2026-09-24 07:06:39",
+          "rowid": 35
+        },
+        {
+          "tiktok_id": "yt_bk3F9XITt5U",
+          "youtube_id": "bk3F9XITt5U",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 3,
+          "title": "Follow if you love our friendship!",
+          "created_at": "2026-09-24 07:06:39",
+          "rowid": 34
+        },
         {
           "tiktok_id": "babycare_overlay_1790179665_channel_9",
           "youtube_id": "shFs_1_iGNU",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 3,
+          "view_count": 9,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 16:07:45",
           "rowid": 33
@@ -4595,7 +4705,7 @@
           "youtube_id": "Dcy4cSmPOE8",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 0,
+          "view_count": 4,
           "title": "No kitten should ever feel unloved or forgotten 🐱❤️🥹 #CatsOfAmerica #CatLovers #BabyAndKitty #A",
           "created_at": "2026-09-23 05:53:12",
           "rowid": 32
@@ -4605,7 +4715,7 @@
           "youtube_id": "dcw3NZqQHMI",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 0,
+          "view_count": 5,
           "title": "Do you love kittie? Show your love by the follow button.",
           "created_at": "2026-09-23 05:53:12",
           "rowid": 31
@@ -4615,7 +4725,7 @@
           "youtube_id": "EKcw6BQdH1Q",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 0,
+          "view_count": 4,
           "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
           "created_at": "2026-09-22 05:31:45",
           "rowid": 30
@@ -4625,7 +4735,7 @@
           "youtube_id": "pKX2tPklhlY",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 0,
+          "view_count": 4,
           "title": "She Asked Him If Cats Go To Heaven And The Kitten Softly Hugged Her Finger #CatLovers #Emotiona",
           "created_at": "2026-09-22 03:38:28",
           "rowid": 29
@@ -4635,7 +4745,7 @@
           "youtube_id": "RTFUR2JNhG8",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 0,
+          "view_count": 6,
           "title": "Love like this can heal the saddest little heart 🐱❤️🥹 #CatsOfAmerica #CatLovers #BabyAndKitty #",
           "created_at": "2026-09-22 03:08:12",
           "rowid": 28
@@ -4645,7 +4755,7 @@
           "youtube_id": "OfmnAqY_xUg",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 0,
+          "view_count": 5,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-21 17:36:29",
           "rowid": 27
@@ -4655,7 +4765,7 @@
           "youtube_id": "lmCKmu4uNC8",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 1,
+          "view_count": 9,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:07:59",
           "rowid": 26
@@ -4665,7 +4775,7 @@
           "youtube_id": "QEndCE_MQuM",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 0,
+          "view_count": 2,
           "title": "If this tender moment doesn’t make your day, nothing will 🥹🐱💗 #CuteCats #BabyLove #Heartwarming",
           "created_at": "2026-09-21 04:36:38",
           "rowid": 25
@@ -4675,7 +4785,7 @@
           "youtube_id": "o78u0G-R4AU",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 1,
+          "view_count": 7,
           "title": "Kiddie Kittie on Reels",
           "created_at": "2026-09-21 04:36:38",
           "rowid": 24
@@ -4685,7 +4795,7 @@
           "youtube_id": "61QVxYVMQTo",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 1,
+          "view_count": 14,
           "title": "“You’re the sweetest kitty in the world.” 🥺❤️ Sometimes love is all that matters 🐾 #SpecialKitt",
           "created_at": "2026-09-20 03:45:00",
           "rowid": 23
@@ -4695,7 +4805,7 @@
           "youtube_id": "-1gwzGLn6Hw",
           "status": "uploaded",
           "upload_date": "2026-09-19",
-          "view_count": 0,
+          "view_count": 8,
           "title": "Every pet deserves someone who looks at them with this much love 🐱❤️🥹 #CatLovers #BabyAndKitty",
           "created_at": "2026-09-19 23:59:08",
           "rowid": 22
@@ -4705,7 +4815,7 @@
           "youtube_id": "jPwlSNuVbpM",
           "status": "uploaded",
           "upload_date": "2026-09-19",
-          "view_count": 2,
+          "view_count": 4,
           "title": "Every sweet soul deserves a warm place to rest their head 🐱❤️🥹 #CatLovers #BabyAndKitty #Animal",
           "created_at": "2026-09-19 03:36:10",
           "rowid": 21
@@ -4715,7 +4825,7 @@
           "youtube_id": "wteJGtOBOJI",
           "status": "uploaded",
           "upload_date": "2026-09-18",
-          "view_count": 7,
+          "view_count": 12,
           "title": "Every rescue kitty deserves a home filled with this much warmth 🐱❤️🥹 #CatLovers #BabyAndKitty #",
           "created_at": "2026-09-18 23:58:10",
           "rowid": 20
@@ -4725,7 +4835,7 @@
           "youtube_id": "XTD0PlsvgzY",
           "status": "uploaded",
           "upload_date": "2026-09-18",
-          "view_count": 5,
+          "view_count": 12,
           "title": "When your best friend asks the hardest question… 😂🐾💖 #BabyAndCat #FunnyMoments #CuteAnimals #Vi",
           "created_at": "2026-09-18 03:28:57",
           "rowid": 19
@@ -4735,7 +4845,7 @@
           "youtube_id": "1Zj8XVRiWh4",
           "status": "uploaded",
           "upload_date": "2026-09-17",
-          "view_count": 7,
+          "view_count": 13,
           "title": "Kitty wasn't ready for this fashion interview! 😂👖🐱 #FunnyBaby #CatComedy #CuteMoments #Wholesom",
           "created_at": "2026-09-17 03:43:24",
           "rowid": 18
@@ -4745,7 +4855,7 @@
           "youtube_id": "V5KLKmpu1Dw",
           "status": "uploaded",
           "upload_date": "2026-09-17",
-          "view_count": 1,
+          "view_count": 8,
           "title": "Even the kitty forgot the Wi-Fi password! 😂📶🐱 #FunnyBaby #CuteCat #Wholesome #ViralReels",
           "created_at": "2026-09-17 00:11:42",
           "rowid": 17
@@ -4755,7 +4865,7 @@
           "youtube_id": "TFrr_NdiVpo",
           "status": "uploaded",
           "upload_date": "2026-09-15",
-          "view_count": 0,
+          "view_count": 7,
           "title": "Every kitty deserves to know they’re truly loved 🐱❤️🥹 #CatsOfAmerica #CatLovers #BabyAndKitty #",
           "created_at": "2026-09-15 22:13:29",
           "rowid": 16
@@ -4765,7 +4875,7 @@
           "youtube_id": "XP0YFrxyRSw",
           "status": "uploaded",
           "upload_date": "2026-09-14",
-          "view_count": 0,
+          "view_count": 6,
           "title": "A bond so pure it heals everything… 🥺🐱❤️ She found where she belongs #CuteAnimals #CatLove #Bab",
           "created_at": "2026-09-14 08:14:40",
           "rowid": 15
@@ -4775,7 +4885,7 @@
           "youtube_id": "EXxpMZ4SEc8",
           "status": "uploaded",
           "upload_date": "2026-09-12",
-          "view_count": 0,
+          "view_count": 3,
           "title": "So adorable! 🥰 \n#cute #adorable #animals #birds #fantasy #fbviral #fbviralpost2026シ #fypシ #reel",
           "created_at": "2026-09-12 04:46:17",
           "rowid": 14
@@ -4795,7 +4905,7 @@
           "youtube_id": "2DKZmYzBxcA",
           "status": "uploaded",
           "upload_date": "2026-09-11",
-          "view_count": 7,
+          "view_count": 10,
           "title": "How did something this tiny get THIS cute?! 🐦💖\n\n#CuteBird #Cute #Adorable #Reels #FYP\n\n100% AI-",
           "created_at": "2026-09-11 05:48:56",
           "rowid": 12
@@ -4805,7 +4915,7 @@
           "youtube_id": "8qXkvbap6TE",
           "status": "uploaded",
           "upload_date": "2026-09-10",
-          "view_count": 0,
+          "view_count": 2,
           "title": "Too Sweet Today 🥰 \n#Cute #Birds #Fantasy #Adorable\n#reelsvideoシ #reelsviralシ #fbviralpost2026シ",
           "created_at": "2026-09-10 00:59:39",
           "rowid": 11
@@ -4815,7 +4925,7 @@
           "youtube_id": "R0pGSF7YCq8",
           "status": "uploaded",
           "upload_date": "2026-09-10",
-          "view_count": 10,
+          "view_count": 11,
           "title": "Most Cutest things today! 🥰\n\n#cute #fantasy #adorable #fbviralpost2026シ #fypシ \n\n100% AI-generat",
           "created_at": "2026-09-10 00:59:39",
           "rowid": 10
@@ -4825,7 +4935,7 @@
           "youtube_id": "4qAWHoTLgoI",
           "status": "uploaded",
           "upload_date": "2026-09-08",
-          "view_count": 0,
+          "view_count": 2,
           "title": "Too cute to be real! 🐦💖 \n\n#CuteBird #BirdLovers #Adorable #Wildlife #ViralReels\n\n100% AI-genera",
           "created_at": "2026-09-08 06:38:56",
           "rowid": 9
@@ -4835,7 +4945,7 @@
           "youtube_id": "PWznIy86iFs",
           "status": "uploaded",
           "upload_date": "2026-09-08",
-          "view_count": 22,
+          "view_count": 24,
           "title": "One Second... That's a Real Bird ?\n\n#CuteBird #AlBird #BirdLover #ExplorePage #Wildlife \n\n100%",
           "created_at": "2026-09-08 06:38:56",
           "rowid": 8
@@ -4845,7 +4955,7 @@
           "youtube_id": "ugN4GsipNmk",
           "status": "uploaded",
           "upload_date": "2026-09-07",
-          "view_count": 12,
+          "view_count": 13,
           "title": "Wait… why is this tiny bird THIS beautiful?! 😳🐦\n\n#CuteBird #BirdLovers #Nature #Amazing #ViralR",
           "created_at": "2026-09-07 01:21:25",
           "rowid": 7
@@ -4855,7 +4965,7 @@
           "youtube_id": "vwF7kcnGkv4",
           "status": "uploaded",
           "upload_date": "2026-09-07",
-          "view_count": 3,
+          "view_count": 4,
           "title": "Too Cute to Handle Today! 🐦💖\n\n#CuteBirds #Adorable #FantasyBird #ViralReels #TrendingReels \n\n🤖",
           "created_at": "2026-09-07 01:21:25",
           "rowid": 6
@@ -4865,7 +4975,7 @@
           "youtube_id": "3fhTDXaJKMM",
           "status": "uploaded",
           "upload_date": "2026-09-06",
-          "view_count": 19,
+          "view_count": 20,
           "title": "You’ve NEVER seen a bird show off like this! 😱🐦\n\n#BirdShow #CuteBirds #NatureLovers #Amazing #V",
           "created_at": "2026-09-06 04:49:38",
           "rowid": 5
@@ -4912,15 +5022,15 @@
         }
       ],
       "pending_retry_items": [],
-      "days_linked": 10,
+      "days_linked": 11,
       "is_underperforming": true,
       "underperforming_reasons": [
-        "Views: 122 (Target: 10,000+)",
-        "Subscribers: 0 (Target: 10+)"
+        "Views: 255 (Target: 10,000+)",
+        "Subscribers: 3 (Target: 10+)"
       ],
       "has_db": true,
       "linked_date": "Sep 13, 2026",
-      "overall_status": "active"
+      "overall_status": "idle"
     },
     {
       "channel_id": "channel_10",
@@ -4929,8 +5039,8 @@
       "youtube_handle": "@motionalpaw",
       "youtube_channel_url": "https://www.youtube.com/@motionalpaw",
       "subscribers_count": 8,
-      "published_videos_count": 12,
-      "live_youtube_views": 39,
+      "published_videos_count": 14,
+      "live_youtube_views": 46,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Feb 07, 2020",
       "source_type": "facebook",
@@ -4948,30 +5058,22 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-23 17:05:02 UTC",
+        "expires_at": "2026-09-24 08:06:36 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "success",
+      "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 27,
+      "total_uploaded": 29,
       "total_failed": 20,
       "total_pending_retry": 0,
-      "total_views": 57,
+      "total_views": 61,
       "last_run_date": "2026-09-23 16:08:00",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: P2oAfnqIGt0",
       "daily_sheet_10_days": [
-        {
-          "date": "2026-09-14",
-          "short_date": "Sep 14",
-          "slot1": "not_run",
-          "slot2": "not_run",
-          "uploads_count": 0,
-          "views_gained": 0
-        },
         {
           "date": "2026-09-15",
           "short_date": "Sep 15",
@@ -5034,7 +5136,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 5
+          "views_gained": 7
         },
         {
           "date": "2026-09-23",
@@ -5042,18 +5144,18 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 3
+          "views_gained": 4
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "slot1": "not_run",
+          "slot2": "not_run",
+          "uploads_count": 2,
+          "views_gained": 1
         }
       ],
       "daily_sheet_7_days": [
-        {
-          "date": "2026-09-17",
-          "short_date": "Sep 17",
-          "day_name": "Thu",
-          "is_today": false,
-          "uploads_count": 0,
-          "views_gained": 0
-        },
         {
           "date": "2026-09-18",
           "short_date": "Sep 18",
@@ -5092,18 +5194,46 @@
           "day_name": "Tue",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 5
+          "views_gained": 7
         },
         {
           "date": "2026-09-23",
           "short_date": "Sep 23",
           "day_name": "Wed",
-          "is_today": true,
+          "is_today": false,
           "uploads_count": 3,
-          "views_gained": 3
+          "views_gained": 4
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "day_name": "Thu",
+          "is_today": true,
+          "uploads_count": 2,
+          "views_gained": 1
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "yt_UKRXBDEAhqM",
+          "youtube_id": "UKRXBDEAhqM",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 1,
+          "title": "Little minds can learn big math too! 🧠✖️✨ Today’s math challenge is all about multiplication! M",
+          "created_at": "2026-09-24 07:06:40",
+          "rowid": 49
+        },
+        {
+          "tiktok_id": "yt_TNM0-Xx2NVE",
+          "youtube_id": "TNM0-Xx2NVE",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 0,
+          "title": "👀 Can your little one guess what these everyday objects are? A simple learning challenge that m",
+          "created_at": "2026-09-24 07:06:40",
+          "rowid": 48
+        },
         {
           "tiktok_id": "babycare_overlay_1790179680_channel_10",
           "youtube_id": "P2oAfnqIGt0",
@@ -5129,7 +5259,7 @@
           "youtube_id": "cLUYh59_HtI",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 3,
+          "view_count": 4,
           "title": "Can they tell the difference between Mom, Dad, Brother, and Sister? 🧠❤️ Watch until the end and",
           "created_at": "2026-09-23 05:53:12",
           "rowid": 45
@@ -5149,7 +5279,7 @@
           "youtube_id": "TLDSYY6-l7k",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 5,
+          "view_count": 7,
           "title": "🌈👀 Think you can name every color before the answer appears? Let’s put your color knowledge to",
           "created_at": "2026-09-22 03:39:34",
           "rowid": 43
@@ -5576,15 +5706,15 @@
         }
       ],
       "pending_retry_items": [],
-      "days_linked": 11,
+      "days_linked": 12,
       "is_underperforming": true,
       "underperforming_reasons": [
-        "Views: 57 (Target: 10,000+)",
+        "Views: 61 (Target: 10,000+)",
         "Subscribers: 8 (Target: 10+)"
       ],
       "has_db": true,
       "linked_date": "Sep 12, 2026",
-      "overall_status": "active"
+      "overall_status": "idle"
     },
     {
       "channel_id": "channel_11",
@@ -5593,8 +5723,8 @@
       "youtube_handle": "@muslimheartpodcasts",
       "youtube_channel_url": "https://www.youtube.com/@muslimheartpodcasts",
       "subscribers_count": 0,
-      "published_videos_count": 13,
-      "live_youtube_views": 1,
+      "published_videos_count": 15,
+      "live_youtube_views": 2,
       "owner_email": "",
       "channel_created_at": "Sep 17, 2026",
       "source_type": "gdrive",
@@ -5602,16 +5732,14 @@
       "bilibili_url": "",
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
-        "total_in_drive": 60,
-        "posted_count": 8,
-        "remaining_unposted": 52,
+        "total_in_drive": 50,
+        "posted_count": 10,
+        "remaining_unposted": 40,
         "videos_per_day": 2,
-        "days_buffer": 26.0,
+        "days_buffer": 20.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (52 videos ready)",
+        "stock_label": "HEALTHY (40 videos ready)",
         "unposted_videos": [
-          "The Happy Wiggle",
-          "Carrot Dreams",
           "Dandelion Snack Attack",
           "Tiny Paws Big Yawn",
           "Watermelon Party",
@@ -5624,7 +5752,9 @@
           "Bedtime Bunny",
           "Cucumber Crunch",
           "The Snuggle Is Real",
-          "Bell Pepper Boogie"
+          "Bell Pepper Boogie",
+          "Sleepyhead Flop",
+          "Banana Zoomies"
         ]
       },
       "enabled": true,
@@ -5638,15 +5768,15 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-23 17:05:02 UTC",
+        "expires_at": "2026-09-24 08:06:37 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "success",
+      "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 15,
+      "total_uploaded": 17,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 2,
@@ -5654,14 +5784,6 @@
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: FMmarFjwnJ0",
       "daily_sheet_10_days": [
-        {
-          "date": "2026-09-14",
-          "short_date": "Sep 14",
-          "slot1": "not_run",
-          "slot2": "not_run",
-          "uploads_count": 0,
-          "views_gained": 0
-        },
         {
           "date": "2026-09-15",
           "short_date": "Sep 15",
@@ -5733,17 +5855,17 @@
           "slot2": "not_run",
           "uploads_count": 3,
           "views_gained": 0
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "slot1": "not_run",
+          "slot2": "not_run",
+          "uploads_count": 2,
+          "views_gained": 0
         }
       ],
       "daily_sheet_7_days": [
-        {
-          "date": "2026-09-17",
-          "short_date": "Sep 17",
-          "day_name": "Thu",
-          "is_today": false,
-          "uploads_count": 0,
-          "views_gained": 0
-        },
         {
           "date": "2026-09-18",
           "short_date": "Sep 18",
@@ -5788,12 +5910,40 @@
           "date": "2026-09-23",
           "short_date": "Sep 23",
           "day_name": "Wed",
-          "is_today": true,
+          "is_today": false,
           "uploads_count": 3,
+          "views_gained": 0
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "day_name": "Thu",
+          "is_today": true,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "yt_KLsoVn8mqdg",
+          "youtube_id": "KLsoVn8mqdg",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 0,
+          "title": "The Happy Wiggle",
+          "created_at": "2026-09-24 07:06:41",
+          "rowid": 18
+        },
+        {
+          "tiktok_id": "yt_m0r6IBzQ0NU",
+          "youtube_id": "m0r6IBzQ0NU",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 0,
+          "title": "Carrot Dreams",
+          "created_at": "2026-09-24 07:06:41",
+          "rowid": 17
+        },
         {
           "tiktok_id": "babycare_overlay_1790179695_channel_11",
           "youtube_id": "FMmarFjwnJ0",
@@ -5946,12 +6096,12 @@
         }
       ],
       "pending_retry_items": [],
-      "days_linked": 6,
+      "days_linked": 7,
       "is_underperforming": false,
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 17, 2026",
-      "overall_status": "active"
+      "overall_status": "idle"
     },
     {
       "channel_id": "channel_12",
@@ -5959,9 +6109,9 @@
       "youtube_channel_name": "Pim Poem",
       "youtube_handle": "@pimpoem-us",
       "youtube_channel_url": "https://www.youtube.com/@pimpoem-us",
-      "subscribers_count": 59,
-      "published_videos_count": 10,
-      "live_youtube_views": 473,
+      "subscribers_count": 89,
+      "published_videos_count": 12,
+      "live_youtube_views": 1057,
       "owner_email": "mikesmithere@gmail.com",
       "channel_created_at": "Sep 18, 2026",
       "source_type": "gdrive",
@@ -5970,12 +6120,12 @@
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1pPi14ti2JQTIa7aIspie9k85dsqX_dIQ",
         "total_in_drive": 50,
-        "posted_count": 2,
-        "remaining_unposted": 48,
+        "posted_count": 3,
+        "remaining_unposted": 47,
         "videos_per_day": 2,
-        "days_buffer": 24.0,
+        "days_buffer": 23.5,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (48 videos ready)",
+        "stock_label": "HEALTHY (47 videos ready)",
         "unposted_videos": [
           "Apple A, Ball B | Baby Poem",
           "Banana Boogie | Baby Poem",
@@ -5983,7 +6133,6 @@
           "Buzz Buzz Little Bee | Baby Poem",
           "Clap Your Hands | Baby Poem",
           "Clean Up Time | Baby Poem",
-          "Counting Stars At Night | Baby Poem",
           "Crunchy Carrot Time | Baby Poem",
           "Daddy's Big Hug | Baby Poem",
           "Dance The Alphabet | Baby Poem",
@@ -5991,7 +6140,8 @@
           "Five Jumpy Frogs | Baby Poem",
           "Floating On A Cloud | Baby Poem",
           "Fly Little Airplane | Baby Poem",
-          "Grandma's Warm Cookies | Baby Poem"
+          "Grandma's Warm Cookies | Baby Poem",
+          "Green Grass, Purple Grapes | Baby Poem"
         ]
       },
       "enabled": true,
@@ -6005,30 +6155,22 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-23 17:05:02 UTC",
+        "expires_at": "2026-09-24 08:06:39 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "success",
+      "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 14,
+      "total_uploaded": 16,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 837,
+      "total_views": 1490,
       "last_run_date": "2026-09-23 16:08:29",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: avv-YdG7EVA",
       "daily_sheet_10_days": [
-        {
-          "date": "2026-09-14",
-          "short_date": "Sep 14",
-          "slot1": "not_run",
-          "slot2": "not_run",
-          "uploads_count": 0,
-          "views_gained": 0
-        },
         {
           "date": "2026-09-15",
           "short_date": "Sep 15",
@@ -6067,7 +6209,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 83
+          "views_gained": 125
         },
         {
           "date": "2026-09-20",
@@ -6075,7 +6217,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 78
+          "views_gained": 139
         },
         {
           "date": "2026-09-21",
@@ -6083,7 +6225,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 510
+          "views_gained": 840
         },
         {
           "date": "2026-09-22",
@@ -6091,7 +6233,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 102
+          "views_gained": 199
         },
         {
           "date": "2026-09-23",
@@ -6099,18 +6241,18 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 64
+          "views_gained": 186
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "slot1": "not_run",
+          "slot2": "not_run",
+          "uploads_count": 2,
+          "views_gained": 1
         }
       ],
       "daily_sheet_7_days": [
-        {
-          "date": "2026-09-17",
-          "short_date": "Sep 17",
-          "day_name": "Thu",
-          "is_today": false,
-          "uploads_count": 0,
-          "views_gained": 0
-        },
         {
           "date": "2026-09-18",
           "short_date": "Sep 18",
@@ -6125,7 +6267,7 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 1,
-          "views_gained": 83
+          "views_gained": 125
         },
         {
           "date": "2026-09-20",
@@ -6133,7 +6275,7 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 78
+          "views_gained": 139
         },
         {
           "date": "2026-09-21",
@@ -6141,7 +6283,7 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 510
+          "views_gained": 840
         },
         {
           "date": "2026-09-22",
@@ -6149,24 +6291,52 @@
           "day_name": "Tue",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 102
+          "views_gained": 199
         },
         {
           "date": "2026-09-23",
           "short_date": "Sep 23",
           "day_name": "Wed",
-          "is_today": true,
+          "is_today": false,
           "uploads_count": 3,
-          "views_gained": 64
+          "views_gained": 186
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "day_name": "Thu",
+          "is_today": true,
+          "uploads_count": 2,
+          "views_gained": 1
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "yt_14Vayxk76oQ",
+          "youtube_id": "14Vayxk76oQ",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 1,
+          "title": "Clean Up Time | Good Habits Song & Cute Baby Poem #Shorts",
+          "created_at": "2026-09-24 07:06:43",
+          "rowid": 37
+        },
+        {
+          "tiktok_id": "yt_eMaSwIqnuH0",
+          "youtube_id": "eMaSwIqnuH0",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 0,
+          "title": "Counting Stars At Night | Bedtime Lullaby & Sweet Baby Poem #Shorts",
+          "created_at": "2026-09-24 07:06:43",
+          "rowid": 36
+        },
         {
           "tiktok_id": "babycare_overlay_1790179709_channel_12",
           "youtube_id": "avv-YdG7EVA",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 15,
+          "view_count": 57,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 16:08:29",
           "rowid": 35
@@ -6176,7 +6346,7 @@
           "youtube_id": "eQc2R7dx6nw",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 32,
+          "view_count": 75,
           "title": "Buzz Buzz Little Bee | Animal Nursery Rhymes & Cute Baby Poem #Shorts",
           "created_at": "2026-09-23 05:53:12",
           "rowid": 34
@@ -6186,7 +6356,7 @@
           "youtube_id": "0x506jGe1pA",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 17,
+          "view_count": 54,
           "title": "Clap Your Hands | Cute Baby Poem & Nursery Rhymes #Shorts",
           "created_at": "2026-09-23 05:53:12",
           "rowid": 33
@@ -6206,7 +6376,7 @@
           "youtube_id": "Y4Un8MYorr4",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 51,
+          "view_count": 100,
           "title": "Brush Brush Your Teeth | Good Habits Song & Cute Baby Poem #Shorts",
           "created_at": "2026-09-22 03:39:35",
           "rowid": 31
@@ -6216,7 +6386,7 @@
           "youtube_id": "vf6MbsmQG5k",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 49,
+          "view_count": 97,
           "title": "Banana Boogie | Cute Baby Poem & Nursery Rhymes #Shorts",
           "created_at": "2026-09-22 03:08:12",
           "rowid": 30
@@ -6226,7 +6396,7 @@
           "youtube_id": "4uxC041SlFg",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 187,
+          "view_count": 328,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-21 17:37:51",
           "rowid": 29
@@ -6236,7 +6406,7 @@
           "youtube_id": "MZ1VEgYxs-0",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 211,
+          "view_count": 327,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:08:45",
           "rowid": 28
@@ -6246,7 +6416,7 @@
           "youtube_id": "wllA-41BDmM",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 112,
+          "view_count": 185,
           "title": "Apple A, Ball B | Cute Baby Poem & Nursery Rhymes #Shorts",
           "created_at": "2026-09-21 04:36:40",
           "rowid": 27
@@ -6256,7 +6426,7 @@
           "youtube_id": "WnkW_eEhC-4",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 75,
+          "view_count": 136,
           "title": "A B C With Pip | Cute Baby Poem & Nursery Rhymes #Shorts",
           "created_at": "2026-09-20 09:40:44",
           "rowid": 26
@@ -6296,19 +6466,19 @@
           "youtube_id": "DpxryoOcQBM",
           "status": "uploaded",
           "upload_date": "2026-09-19",
-          "view_count": 83,
+          "view_count": 125,
           "title": "Day 01 AM - Cute Poem for Kids",
           "created_at": "2026-09-19 10:03:44",
           "rowid": 22
         }
       ],
       "pending_retry_items": [],
-      "days_linked": 5,
+      "days_linked": 6,
       "is_underperforming": false,
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 18, 2026",
-      "overall_status": "active"
+      "overall_status": "idle"
     },
     {
       "channel_id": "channel_13",
@@ -6317,8 +6487,8 @@
       "youtube_handle": "@cutepawmoments-k2c",
       "youtube_channel_url": "https://www.youtube.com/@cutepawmoments-k2c",
       "subscribers_count": 0,
-      "published_videos_count": 27,
-      "live_youtube_views": 6,
+      "published_videos_count": 29,
+      "live_youtube_views": 14,
       "owner_email": "cutepawmoments@gmail.com",
       "channel_created_at": "Sep 05, 2026",
       "source_type": "facebook",
@@ -6335,30 +6505,22 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-23 17:05:02 UTC",
+        "expires_at": "2026-09-24 08:06:39 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "success",
+      "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 28,
+      "total_uploaded": 30,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 14,
+      "total_views": 21,
       "last_run_date": "2026-09-23 16:08:44",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: xXfVw3MFInc",
       "daily_sheet_10_days": [
-        {
-          "date": "2026-09-14",
-          "short_date": "Sep 14",
-          "slot1": "not_run",
-          "slot2": "not_run",
-          "uploads_count": 0,
-          "views_gained": 0
-        },
         {
           "date": "2026-09-15",
           "short_date": "Sep 15",
@@ -6429,18 +6591,18 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 6
+          "views_gained": 13
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "slot1": "not_run",
+          "slot2": "not_run",
+          "uploads_count": 2,
+          "views_gained": 0
         }
       ],
       "daily_sheet_7_days": [
-        {
-          "date": "2026-09-17",
-          "short_date": "Sep 17",
-          "day_name": "Thu",
-          "is_today": false,
-          "uploads_count": 2,
-          "views_gained": 0
-        },
         {
           "date": "2026-09-18",
           "short_date": "Sep 18",
@@ -6485,12 +6647,40 @@
           "date": "2026-09-23",
           "short_date": "Sep 23",
           "day_name": "Wed",
+          "is_today": false,
+          "uploads_count": 2,
+          "views_gained": 13
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "day_name": "Thu",
           "is_today": true,
           "uploads_count": 2,
-          "views_gained": 6
+          "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "yt_WKZQwY6OQCk",
+          "youtube_id": "WKZQwY6OQCk",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 0,
+          "title": "This Baby Just Discovered The Ultimate Secret Warm Towel Drawer 👶 #baby #cutebaby #wholesome #p",
+          "created_at": "2026-09-24 07:06:47",
+          "rowid": 31
+        },
+        {
+          "tiktok_id": "yt_E4gf_9nx53U",
+          "youtube_id": "E4gf_9nx53U",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 0,
+          "title": "Transform your baby's room into a magical wonderland ✨ #nurserydecor #parentingtips #babygadget",
+          "created_at": "2026-09-24 07:06:47",
+          "rowid": 30
+        },
         {
           "tiktok_id": "babycare_overlay_1790179723_channel_13",
           "youtube_id": "xXfVw3MFInc",
@@ -6506,7 +6696,7 @@
           "youtube_id": "AtYeJ6lWqNk",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 6,
+          "view_count": 13,
           "title": "The Coolest Baby Bedtime Routine Ever 👶 #nursery #parenting #baby #smarthome #viral",
           "created_at": "2026-09-23 05:53:12",
           "rowid": 28
@@ -6773,15 +6963,15 @@
         }
       ],
       "pending_retry_items": [],
-      "days_linked": 10,
+      "days_linked": 11,
       "is_underperforming": true,
       "underperforming_reasons": [
-        "Views: 14 (Target: 10,000+)",
+        "Views: 21 (Target: 10,000+)",
         "Subscribers: 0 (Target: 10+)"
       ],
       "has_db": true,
       "linked_date": "Sep 13, 2026",
-      "overall_status": "active"
+      "overall_status": "idle"
     },
     {
       "channel_id": "channel_14",
@@ -6789,9 +6979,9 @@
       "youtube_channel_name": "Curiotomy",
       "youtube_handle": "@curiotomy",
       "youtube_channel_url": "https://www.youtube.com/@curiotomy",
-      "subscribers_count": 109,
+      "subscribers_count": 200,
       "published_videos_count": 11,
-      "live_youtube_views": 14398,
+      "live_youtube_views": 15010,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Sep 11, 2026",
       "source_type": "instagram",
@@ -6809,30 +6999,22 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-23 17:05:02 UTC",
+        "expires_at": "2026-09-24 08:06:43 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "success",
-      "slot2_today": "success",
+      "slot1_today": "not_run",
+      "slot2_today": "not_run",
       "total_uploaded": 14,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 15180,
+      "total_views": 16706,
       "last_run_date": "2026-09-23 16:08:58",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: J0V7VTrVMnA",
       "daily_sheet_10_days": [
-        {
-          "date": "2026-09-14",
-          "short_date": "Sep 14",
-          "slot1": "not_run",
-          "slot2": "not_run",
-          "uploads_count": 0,
-          "views_gained": 0
-        },
         {
           "date": "2026-09-15",
           "short_date": "Sep 15",
@@ -6855,7 +7037,7 @@
           "slot1": "no_content",
           "slot2": "not_run",
           "uploads_count": 5,
-          "views_gained": 10839
+          "views_gained": 11123
         },
         {
           "date": "2026-09-18",
@@ -6879,7 +7061,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 3363
+          "views_gained": 3474
         },
         {
           "date": "2026-09-21",
@@ -6887,7 +7069,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 504
+          "views_gained": 673
         },
         {
           "date": "2026-09-22",
@@ -6903,18 +7085,18 @@
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 4,
-          "views_gained": 354
+          "views_gained": 1316
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "slot1": "not_run",
+          "slot2": "not_run",
+          "uploads_count": 0,
+          "views_gained": 0
         }
       ],
       "daily_sheet_7_days": [
-        {
-          "date": "2026-09-17",
-          "short_date": "Sep 17",
-          "day_name": "Thu",
-          "is_today": false,
-          "uploads_count": 5,
-          "views_gained": 10839
-        },
         {
           "date": "2026-09-18",
           "short_date": "Sep 18",
@@ -6937,7 +7119,7 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 1,
-          "views_gained": 3363
+          "views_gained": 3474
         },
         {
           "date": "2026-09-21",
@@ -6945,7 +7127,7 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 504
+          "views_gained": 673
         },
         {
           "date": "2026-09-22",
@@ -6959,9 +7141,17 @@
           "date": "2026-09-23",
           "short_date": "Sep 23",
           "day_name": "Wed",
-          "is_today": true,
+          "is_today": false,
           "uploads_count": 4,
-          "views_gained": 354
+          "views_gained": 1316
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "day_name": "Thu",
+          "is_today": true,
+          "uploads_count": 0,
+          "views_gained": 0
         }
       ],
       "recent_videos": [
@@ -6970,7 +7160,7 @@
           "youtube_id": "J0V7VTrVMnA",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 4,
+          "view_count": 261,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 16:08:58",
           "rowid": 14
@@ -6980,7 +7170,7 @@
           "youtube_id": "trTJmYjp89o",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 26,
+          "view_count": 196,
           "title": "How Your Body Cools Down in Extreme Heat",
           "created_at": "2026-09-23 10:12:49",
           "rowid": 13
@@ -6990,7 +7180,7 @@
           "youtube_id": "Ic9KMI0BtSU",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 32,
+          "view_count": 130,
           "title": "Ever Wonder Why Yawning Is So Contagious",
           "created_at": "2026-09-23 10:12:30",
           "rowid": 12
@@ -7000,7 +7190,7 @@
           "youtube_id": "WAaJlF3TJnA",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 292,
+          "view_count": 729,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 10:08:12",
           "rowid": 11
@@ -7040,7 +7230,7 @@
           "youtube_id": "bJXqOhbRhYo",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 138,
+          "view_count": 307,
           "title": "Ever Wonder How Stitches Actually Heal Your Skin",
           "created_at": "2026-09-21 17:17:20",
           "rowid": 7
@@ -7050,7 +7240,7 @@
           "youtube_id": "BOwZ5hRZCDY",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 3363,
+          "view_count": 3474,
           "title": "How Your Body Naturally Removes a Deep Splinter",
           "created_at": "2026-09-20 06:49:49",
           "rowid": 6
@@ -7060,7 +7250,7 @@
           "youtube_id": "q87vPj1Hke8",
           "status": "uploaded",
           "upload_date": "2026-09-17",
-          "view_count": 205,
+          "view_count": 251,
           "title": "Why Milk After Fish Is Dangerous?",
           "created_at": "2026-09-17 10:35:46",
           "rowid": 5
@@ -7070,7 +7260,7 @@
           "youtube_id": "fTCd7ZJym6Q",
           "status": "uploaded",
           "upload_date": "2026-09-17",
-          "view_count": 7877,
+          "view_count": 7933,
           "title": "Why Bees Die After Stinging",
           "created_at": "2026-09-17 10:35:46",
           "rowid": 4
@@ -7080,7 +7270,7 @@
           "youtube_id": "o0h2OF0n6Uw",
           "status": "uploaded",
           "upload_date": "2026-09-17",
-          "view_count": 1330,
+          "view_count": 1372,
           "title": "Why Do People Sleepwalk",
           "created_at": "2026-09-17 10:35:46",
           "rowid": 3
@@ -7090,7 +7280,7 @@
           "youtube_id": "nVUUXlw7DPw",
           "status": "uploaded",
           "upload_date": "2026-09-17",
-          "view_count": 1312,
+          "view_count": 1368,
           "title": "How Banana Boosts Your Energy",
           "created_at": "2026-09-17 10:35:46",
           "rowid": 2
@@ -7100,19 +7290,19 @@
           "youtube_id": "jh_BT6P3hVI",
           "status": "uploaded",
           "upload_date": "2026-09-17",
-          "view_count": 115,
+          "view_count": 199,
           "title": "Why Do People Talk In Their Sleep?",
           "created_at": "2026-09-17 10:35:46",
           "rowid": 1
         }
       ],
       "pending_retry_items": [],
-      "days_linked": 6,
+      "days_linked": 7,
       "is_underperforming": false,
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 17, 2026",
-      "overall_status": "completed_today"
+      "overall_status": "idle"
     },
     {
       "channel_id": "channel_15",
@@ -7120,9 +7310,9 @@
       "youtube_channel_name": "Bunny Planet",
       "youtube_handle": "@bunnyplanet-l6u",
       "youtube_channel_url": "https://www.youtube.com/@bunnyplanet-l6u",
-      "subscribers_count": 2220,
-      "published_videos_count": 14,
-      "live_youtube_views": 3071060,
+      "subscribers_count": 2370,
+      "published_videos_count": 16,
+      "live_youtube_views": 4628759,
       "owner_email": "keenatimu@gmail.com",
       "channel_created_at": "Sep 17, 2026",
       "source_type": "gdrive",
@@ -7130,16 +7320,14 @@
       "bilibili_url": "",
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
-        "total_in_drive": 60,
-        "posted_count": 10,
-        "remaining_unposted": 50,
+        "total_in_drive": 50,
+        "posted_count": 12,
+        "remaining_unposted": 38,
         "videos_per_day": 2,
-        "days_buffer": 25.0,
+        "days_buffer": 19.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (50 videos ready)",
+        "stock_label": "HEALTHY (38 videos ready)",
         "unposted_videos": [
-          "Dandelion Snack Attack",
-          "Tiny Paws Big Yawn",
           "Watermelon Party",
           "Cuddle Puddle",
           "The Grass Is Greener",
@@ -7152,7 +7340,9 @@
           "The Snuggle Is Real",
           "Bell Pepper Boogie",
           "Sleepyhead Flop",
-          "Banana Zoomies"
+          "Banana Zoomies",
+          "Paws And Reflect",
+          "The Great Escape"
         ]
       },
       "enabled": true,
@@ -7166,30 +7356,22 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-23 17:05:04 UTC",
+        "expires_at": "2026-09-24 08:06:43 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "success",
+      "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 14,
+      "total_uploaded": 16,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 4541342,
+      "total_views": 5020879,
       "last_run_date": "2026-09-23 16:09:12",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: 0gF25XnUdPQ",
       "daily_sheet_10_days": [
-        {
-          "date": "2026-09-14",
-          "short_date": "Sep 14",
-          "slot1": "not_run",
-          "slot2": "not_run",
-          "uploads_count": 0,
-          "views_gained": 0
-        },
         {
           "date": "2026-09-15",
           "short_date": "Sep 15",
@@ -7228,7 +7410,7 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 12257
+          "views_gained": 13344
         },
         {
           "date": "2026-09-20",
@@ -7236,7 +7418,7 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 12855
+          "views_gained": 13939
         },
         {
           "date": "2026-09-21",
@@ -7244,7 +7426,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 4498575
+          "views_gained": 4969964
         },
         {
           "date": "2026-09-22",
@@ -7252,7 +7434,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 15996
+          "views_gained": 18797
         },
         {
           "date": "2026-09-23",
@@ -7260,18 +7442,18 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 1659
+          "views_gained": 4568
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "slot1": "not_run",
+          "slot2": "not_run",
+          "uploads_count": 2,
+          "views_gained": 267
         }
       ],
       "daily_sheet_7_days": [
-        {
-          "date": "2026-09-17",
-          "short_date": "Sep 17",
-          "day_name": "Thu",
-          "is_today": false,
-          "uploads_count": 0,
-          "views_gained": 0
-        },
         {
           "date": "2026-09-18",
           "short_date": "Sep 18",
@@ -7286,7 +7468,7 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 12257
+          "views_gained": 13344
         },
         {
           "date": "2026-09-20",
@@ -7294,7 +7476,7 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 12855
+          "views_gained": 13939
         },
         {
           "date": "2026-09-21",
@@ -7302,7 +7484,7 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 4498575
+          "views_gained": 4969964
         },
         {
           "date": "2026-09-22",
@@ -7310,24 +7492,52 @@
           "day_name": "Tue",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 15996
+          "views_gained": 18797
         },
         {
           "date": "2026-09-23",
           "short_date": "Sep 23",
           "day_name": "Wed",
-          "is_today": true,
+          "is_today": false,
           "uploads_count": 3,
-          "views_gained": 1659
+          "views_gained": 4568
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "day_name": "Thu",
+          "is_today": true,
+          "uploads_count": 2,
+          "views_gained": 267
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "yt_DLqUvMDyac8",
+          "youtube_id": "DLqUvMDyac8",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 167,
+          "title": "Dandelion Snack Attack",
+          "created_at": "2026-09-24 07:06:52",
+          "rowid": 16
+        },
+        {
+          "tiktok_id": "yt_we9JIeFzw0k",
+          "youtube_id": "we9JIeFzw0k",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 100,
+          "title": "Tiny Paws Big Yawn",
+          "created_at": "2026-09-24 07:06:52",
+          "rowid": 15
+        },
         {
           "tiktok_id": "babycare_overlay_1790179752_channel_15",
           "youtube_id": "0gF25XnUdPQ",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 85,
+          "view_count": 1614,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 16:09:12",
           "rowid": 14
@@ -7337,7 +7547,7 @@
           "youtube_id": "WACiPZAWMkE",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 997,
+          "view_count": 1688,
           "title": "The Happy Wiggle",
           "created_at": "2026-09-23 05:53:16",
           "rowid": 13
@@ -7347,7 +7557,7 @@
           "youtube_id": "JQd7JJJ3O00",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 577,
+          "view_count": 1266,
           "title": "Carrot Dreams",
           "created_at": "2026-09-23 05:53:16",
           "rowid": 12
@@ -7357,7 +7567,7 @@
           "youtube_id": "0zW58LIrLVs",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 6843,
+          "view_count": 8338,
           "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
           "created_at": "2026-09-22 05:33:23",
           "rowid": 11
@@ -7367,7 +7577,7 @@
           "youtube_id": "9b8ycVhg97w",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 4629,
+          "view_count": 5253,
           "title": "Zoomies At Sunrise",
           "created_at": "2026-09-22 03:08:17",
           "rowid": 10
@@ -7377,7 +7587,7 @@
           "youtube_id": "ENYstN-w_ck",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 4524,
+          "view_count": 5206,
           "title": "Blueberry Bandit",
           "created_at": "2026-09-22 03:08:17",
           "rowid": 9
@@ -7387,7 +7597,7 @@
           "youtube_id": "TNOITldos-w",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 11254,
+          "view_count": 12647,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-21 17:39:07",
           "rowid": 8
@@ -7397,7 +7607,7 @@
           "youtube_id": "8EN7JkpS1dQ",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 4468670,
+          "view_count": 4937176,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:09:33",
           "rowid": 7
@@ -7407,7 +7617,7 @@
           "youtube_id": "BoRYtj23OqQ",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 7826,
+          "view_count": 8448,
           "title": "Popcorn Bunny",
           "created_at": "2026-09-21 04:36:41",
           "rowid": 6
@@ -7417,7 +7627,7 @@
           "youtube_id": "5_GwmOFuTLE",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 10825,
+          "view_count": 11693,
           "title": "Boop The Nose",
           "created_at": "2026-09-21 04:36:41",
           "rowid": 5
@@ -7427,7 +7637,7 @@
           "youtube_id": "Pf8RNabMko4",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 6275,
+          "view_count": 6784,
           "title": "The Strawberry Thief",
           "created_at": "2026-09-20 06:37:33",
           "rowid": 4
@@ -7437,7 +7647,7 @@
           "youtube_id": "VyA8dU0aMgY",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 6580,
+          "view_count": 7155,
           "title": "Sleepiest Flop Ever",
           "created_at": "2026-09-20 06:37:33",
           "rowid": 3
@@ -7447,7 +7657,7 @@
           "youtube_id": "3mKVW7kNPy0",
           "status": "uploaded",
           "upload_date": "2026-09-19",
-          "view_count": 5826,
+          "view_count": 6368,
           "title": "The Bunny Binky Zoomies",
           "created_at": "2026-09-19 05:16:23",
           "rowid": 2
@@ -7457,19 +7667,19 @@
           "youtube_id": "Qw22VaGYR7k",
           "status": "uploaded",
           "upload_date": "2026-09-19",
-          "view_count": 6431,
+          "view_count": 6976,
           "title": "Baby Bunnys First Carrot",
           "created_at": "2026-09-19 05:16:23",
           "rowid": 1
         }
       ],
       "pending_retry_items": [],
-      "days_linked": 6,
+      "days_linked": 7,
       "is_underperforming": false,
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 17, 2026",
-      "overall_status": "active"
+      "overall_status": "idle"
     },
     {
       "channel_id": "channel_16",
@@ -7478,8 +7688,8 @@
       "youtube_handle": "@piratebites",
       "youtube_channel_url": "https://www.youtube.com/@piratebites",
       "subscribers_count": 12,
-      "published_videos_count": 13,
-      "live_youtube_views": 180,
+      "published_videos_count": 15,
+      "live_youtube_views": 220,
       "owner_email": "mateenkhizer@gmail.com",
       "channel_created_at": "Sep 19, 2026",
       "source_type": "facebook",
@@ -7496,30 +7706,22 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-09-23 17:05:05 UTC",
+        "expires_at": "2026-09-24 08:06:51 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "success",
+      "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 13,
+      "total_uploaded": 15,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 219,
+      "total_views": 239,
       "last_run_date": "2026-09-23 16:09:26",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: ZLHmsHUw98w",
       "daily_sheet_10_days": [
-        {
-          "date": "2026-09-14",
-          "short_date": "Sep 14",
-          "slot1": "not_run",
-          "slot2": "not_run",
-          "uploads_count": 0,
-          "views_gained": 0
-        },
         {
           "date": "2026-09-15",
           "short_date": "Sep 15",
@@ -7558,7 +7760,7 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 131
+          "views_gained": 132
         },
         {
           "date": "2026-09-20",
@@ -7574,7 +7776,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 5,
-          "views_gained": 83
+          "views_gained": 99
         },
         {
           "date": "2026-09-22",
@@ -7591,17 +7793,17 @@
           "slot2": "not_run",
           "uploads_count": 3,
           "views_gained": 2
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "slot1": "not_run",
+          "slot2": "not_run",
+          "uploads_count": 2,
+          "views_gained": 3
         }
       ],
       "daily_sheet_7_days": [
-        {
-          "date": "2026-09-17",
-          "short_date": "Sep 17",
-          "day_name": "Thu",
-          "is_today": false,
-          "uploads_count": 0,
-          "views_gained": 0
-        },
         {
           "date": "2026-09-18",
           "short_date": "Sep 18",
@@ -7616,7 +7818,7 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 131
+          "views_gained": 132
         },
         {
           "date": "2026-09-20",
@@ -7632,7 +7834,7 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 5,
-          "views_gained": 83
+          "views_gained": 99
         },
         {
           "date": "2026-09-22",
@@ -7646,12 +7848,40 @@
           "date": "2026-09-23",
           "short_date": "Sep 23",
           "day_name": "Wed",
-          "is_today": true,
+          "is_today": false,
           "uploads_count": 3,
           "views_gained": 2
+        },
+        {
+          "date": "2026-09-24",
+          "short_date": "Sep 24",
+          "day_name": "Thu",
+          "is_today": true,
+          "uploads_count": 2,
+          "views_gained": 3
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "yt_trBuU2r9Ho0",
+          "youtube_id": "trBuU2r9Ho0",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 3,
+          "title": "Cozy pirate stew made with love on the high seas 🍲 #cooking #animation #cozyvibes #stew #foodie",
+          "created_at": "2026-09-24 07:06:55",
+          "rowid": 15
+        },
+        {
+          "tiktok_id": "yt_jdO1He5uWMQ",
+          "youtube_id": "jdO1He5uWMQ",
+          "status": "uploaded",
+          "upload_date": "2026-09-24",
+          "view_count": 0,
+          "title": "Cooking Breakfast With Your Best Feathered Friend 🦜 #animation #cooking #shortfilm #foodie #vir",
+          "created_at": "2026-09-24 07:06:55",
+          "rowid": 14
+        },
         {
           "tiktok_id": "babycare_overlay_1790179766_channel_16",
           "youtube_id": "ZLHmsHUw98w",
@@ -7717,7 +7947,7 @@
           "youtube_id": "piGZp3iuKL4",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 53,
+          "view_count": 67,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:09:49",
           "rowid": 7
@@ -7727,7 +7957,7 @@
           "youtube_id": "vkP8XzaSR3M",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 5,
+          "view_count": 7,
           "title": "Animated Squid Ink Pasta Magic 🍝 #animation #cooking #squidinkpasta #foodie #viral",
           "created_at": "2026-09-21 04:36:42",
           "rowid": 6
@@ -7777,23 +8007,23 @@
           "youtube_id": "lO36aZ1fS28",
           "status": "uploaded",
           "upload_date": "2026-09-19",
-          "view_count": 12,
+          "view_count": 13,
           "title": "Baking a special birthday cake for a best friend! 🎂 #animation #3danimation #wholesome #shortfilm #",
           "created_at": "2026-09-19 08:27:07",
           "rowid": 1
         }
       ],
       "pending_retry_items": [],
-      "days_linked": 4,
+      "days_linked": 5,
       "is_underperforming": false,
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 19, 2026",
-      "overall_status": "active"
+      "overall_status": "idle"
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-09-23 16:42:19 UTC",
+    "timestamp": "2026-09-24 07:09:23 UTC",
     "total_channels": 16,
     "healthy_count": 16,
     "auto_healed_count": 0,
@@ -7807,8 +8037,8 @@
         "source_target": "https://www.facebook.com/profile.php?id=61591283290566#",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-09-23",
-        "uploads_today": 3,
+        "last_upload_date": "2026-09-24",
+        "uploads_today": 2,
         "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
@@ -7826,9 +8056,9 @@
         "source_target": "N/A",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-09-23",
-        "uploads_today": 3,
-        "uploads_yesterday": 4,
+        "last_upload_date": "2026-09-24",
+        "uploads_today": 2,
+        "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
         "auto_heal_log": null,
@@ -7845,8 +8075,8 @@
         "source_target": "https://www.facebook.com/profile.php?id=61592179040143",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-09-23",
-        "uploads_today": 3,
+        "last_upload_date": "2026-09-24",
+        "uploads_today": 2,
         "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
@@ -7865,8 +8095,8 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-09-23",
-        "uploads_today": 2,
-        "uploads_yesterday": 1,
+        "uploads_today": 0,
+        "uploads_yesterday": 2,
         "missed_posting": false,
         "error_detail": null,
         "auto_heal_log": null,
@@ -7883,8 +8113,8 @@
         "source_target": "N/A",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-09-23",
-        "uploads_today": 3,
+        "last_upload_date": "2026-09-24",
+        "uploads_today": 2,
         "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
@@ -7902,8 +8132,8 @@
         "source_target": "https://www.facebook.com/seniorsalute",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-09-23",
-        "uploads_today": 3,
+        "last_upload_date": "2026-09-24",
+        "uploads_today": 2,
         "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
@@ -7922,7 +8152,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-09-23",
-        "uploads_today": 1,
+        "uploads_today": 0,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -7940,8 +8170,8 @@
         "source_target": "https://www.facebook.com/profile.php?id=61594292676031&sk=reels_tab",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-09-23",
-        "uploads_today": 3,
+        "last_upload_date": "2026-09-24",
+        "uploads_today": 2,
         "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
@@ -7959,8 +8189,8 @@
         "source_target": "https://www.facebook.com/profile.php?id=61591715404838#",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-09-23",
-        "uploads_today": 3,
+        "last_upload_date": "2026-09-24",
+        "uploads_today": 2,
         "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
@@ -7978,9 +8208,9 @@
         "source_target": "https://www.facebook.com/profile.php?id=61593491466084",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-09-23",
-        "uploads_today": 3,
-        "uploads_yesterday": 2,
+        "last_upload_date": "2026-09-24",
+        "uploads_today": 2,
+        "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
         "auto_heal_log": null,
@@ -7997,8 +8227,8 @@
         "source_target": "N/A",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-09-23",
-        "uploads_today": 3,
+        "last_upload_date": "2026-09-24",
+        "uploads_today": 2,
         "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
@@ -8016,8 +8246,8 @@
         "source_target": "N/A",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-09-23",
-        "uploads_today": 3,
+        "last_upload_date": "2026-09-24",
+        "uploads_today": 2,
         "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
@@ -8035,9 +8265,9 @@
         "source_target": "https://www.facebook.com/profile.php?id=61594226675017",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-09-23",
+        "last_upload_date": "2026-09-24",
         "uploads_today": 2,
-        "uploads_yesterday": 3,
+        "uploads_yesterday": 2,
         "missed_posting": false,
         "error_detail": null,
         "auto_heal_log": null,
@@ -8055,8 +8285,8 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-09-23",
-        "uploads_today": 4,
-        "uploads_yesterday": 2,
+        "uploads_today": 0,
+        "uploads_yesterday": 4,
         "missed_posting": false,
         "error_detail": null,
         "auto_heal_log": null,
@@ -8073,8 +8303,8 @@
         "source_target": "N/A",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-09-23",
-        "uploads_today": 3,
+        "last_upload_date": "2026-09-24",
+        "uploads_today": 2,
         "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
@@ -8092,9 +8322,9 @@
         "source_target": "https://www.facebook.com/profile.php?id=61594523063507",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-09-23",
-        "uploads_today": 3,
-        "uploads_yesterday": 2,
+        "last_upload_date": "2026-09-24",
+        "uploads_today": 2,
+        "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
         "auto_heal_log": null,
