@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-09-27 03:58:52 UTC",
+    "timestamp_utc": "2026-09-27 04:00:30 UTC",
     "total_channels": 16,
     "active_channels": 16,
     "disabled_channels": 0,
@@ -8,12 +8,12 @@
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 573,
-    "total_views_tracked": 50385683,
+    "total_uploaded_videos": 574,
+    "total_views_tracked": 50385833,
     "total_subscribers": 30161,
     "total_pending_retries": 0,
     "underperforming_channels": 2,
-    "gh_pages_synced_at": "2026-09-27 04:00:12 UTC"
+    "gh_pages_synced_at": "2026-09-27 04:00:31 UTC"
   },
   "channels": [
     {
@@ -23,8 +23,8 @@
       "youtube_handle": "@meelyansnmyhands",
       "youtube_channel_url": "https://www.youtube.com/@meelyansnmyhands",
       "subscribers_count": 740,
-      "published_videos_count": 5,
-      "live_youtube_views": 1208760,
+      "published_videos_count": 0,
+      "live_youtube_views": 0,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Apr 07, 2026",
       "source_type": "gdrive",
@@ -735,7 +735,7 @@
       "youtube_channel_url": "https://www.youtube.com/@NotAChefOfficialY",
       "subscribers_count": 17400,
       "published_videos_count": 19,
-      "live_youtube_views": 28381400,
+      "live_youtube_views": 28363400,
       "owner_email": "baarakhaaan@gmail.com",
       "channel_created_at": "Aug 30, 2026",
       "source_type": "gdrive",
@@ -743,15 +743,14 @@
       "bilibili_url": "",
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/13aPFnGVSotrOaUKVRX-MxgfrkHRn4qr-",
-        "total_in_drive": 56,
-        "posted_count": 36,
-        "remaining_unposted": 20,
+        "total_in_drive": 50,
+        "posted_count": 37,
+        "remaining_unposted": 13,
         "videos_per_day": 2,
-        "days_buffer": 10.0,
+        "days_buffer": 6.5,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (20 videos ready)",
+        "stock_label": "HEALTHY (13 videos ready)",
         "unposted_videos": [
-          "Refreshing Cucumber Lime Mocktail  #mocktail #refreshing #asmr #easyrecipe #viral",
           "Refreshing Orange Mint Mocktail  #mocktail #asmrfood #drinkrecipe #refreshing #viral",
           "Refreshing Watermelon Drink  #asmrfood #cooking #recipe #food #viral",
           "Soya Balls  (2) #asmrfood #cooking #recipe #food #viral",
@@ -764,8 +763,7 @@
           "The Ultimate Quick Egg Toast Sandwich  #eggtoast #breakfastideas #quickrecipes #asmrfood #easycooking",
           "Tomato Rice  #asmrfood #cooking #recipe #food #viral",
           "Turn Crispy Rusks Into Rich Homemade Halwa  #ruskhalwa #halwarecipe #easydessert #asmrcooking #dessertporn",
-          "Ultimate Crispy Fried Chicken & Hash Browns  #crispychicken #friedchicken #hashbrowns #asmrfood #recipe",
-          "Ultimate Crispy Soya Granule Snack Balls  #soyarecipes #crispysnacks #easyrecipes #foodasmr #snackideas"
+          "Ultimate Crispy Fried Chicken & Hash Browns  #crispychicken #friedchicken #hashbrowns #asmrfood #recipe"
         ]
       },
       "enabled": true,
@@ -787,7 +785,7 @@
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 51,
+      "total_uploaded": 52,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 28811825,
@@ -872,7 +870,7 @@
           "short_date": "Sep 27",
           "slot1": "not_run",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 1100
         }
       ],
@@ -930,11 +928,21 @@
           "short_date": "Sep 27",
           "day_name": "Sun",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 1100
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "yt_9RK6Hb3KI98",
+          "youtube_id": "9RK6Hb3KI98",
+          "status": "uploaded",
+          "upload_date": "2026-09-27",
+          "view_count": 0,
+          "title": "Refreshing Cucumber Lime Mocktail 🥒 #mocktail #refreshing #asmr #easyrecipe #viral",
+          "created_at": "2026-09-27 04:00:00",
+          "rowid": 52
+        },
         {
           "tiktok_id": "yt_0PY-fE3bVvk",
           "youtube_id": "0PY-fE3bVvk",
@@ -1424,16 +1432,6 @@
           "title": "Crispy Cheese & Veggie Bread Roll-Ups 🧀 #asmrfood #cheeselover #easyrecipe #snackideas #crispy",
           "created_at": "2026-09-11 07:39:06",
           "rowid": 3
-        },
-        {
-          "tiktok_id": "yt_y_NPA0nSZKA",
-          "youtube_id": "y_NPA0nSZKA",
-          "status": "uploaded",
-          "upload_date": "2026-09-11",
-          "view_count": 5019,
-          "title": "Crispy Cheesy Fried Okra Bites 🧀 #okrabites #cheesypull #crispysnacks #recipe #foodie",
-          "created_at": "2026-09-11 07:39:06",
-          "rowid": 2
         }
       ],
       "pending_retry_items": [],
@@ -5543,7 +5541,7 @@
       "youtube_channel_url": "https://www.youtube.com/@motionalpaw",
       "subscribers_count": 32,
       "published_videos_count": 19,
-      "live_youtube_views": 381,
+      "live_youtube_views": 382,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Feb 07, 2020",
       "source_type": "facebook",
@@ -5572,7 +5570,7 @@
       "total_uploaded": 36,
       "total_failed": 20,
       "total_pending_retry": 0,
-      "total_views": 392,
+      "total_views": 393,
       "last_run_date": "2026-09-26 16:01:13",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: r_c754BXtPw",
@@ -5639,7 +5637,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 75
+          "views_gained": 76
         },
         {
           "date": "2026-09-26",
@@ -5697,7 +5695,7 @@
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 75
+          "views_gained": 76
         },
         {
           "date": "2026-09-26",
@@ -5762,7 +5760,7 @@
           "youtube_id": "MQ58tjavjaY",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 21,
+          "view_count": 22,
           "title": "🧠✨ Can your little one get them all right? 👀 A fun way to learn, remember, and build new skills",
           "created_at": "2026-09-25 05:42:10",
           "rowid": 52
@@ -6683,13 +6681,13 @@
       "bilibili_url": "",
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1pPi14ti2JQTIa7aIspie9k85dsqX_dIQ",
-        "total_in_drive": 60,
+        "total_in_drive": 50,
         "posted_count": 3,
-        "remaining_unposted": 57,
+        "remaining_unposted": 47,
         "videos_per_day": 2,
-        "days_buffer": 28.5,
+        "days_buffer": 23.5,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (57 videos ready)",
+        "stock_label": "HEALTHY (47 videos ready)",
         "unposted_videos": [
           "Apple A, Ball B | Baby Poem",
           "Banana Boogie | Baby Poem",
@@ -7702,7 +7700,7 @@
       "total_uploaded": 20,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 404865,
+      "total_views": 405011,
       "last_run_date": "2026-09-26 16:02:46",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: 0k_DMCdEQTM",
@@ -7769,7 +7767,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 368504
+          "views_gained": 368650
         },
         {
           "date": "2026-09-26",
@@ -7827,7 +7825,7 @@
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 368504
+          "views_gained": 368650
         },
         {
           "date": "2026-09-26",
@@ -7872,7 +7870,7 @@
           "youtube_id": "P355BWOylm4",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 366911,
+          "view_count": 367057,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:41:13",
           "rowid": 18
@@ -8072,13 +8070,13 @@
       "bilibili_url": "",
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
-        "total_in_drive": 50,
+        "total_in_drive": 60,
         "posted_count": 18,
-        "remaining_unposted": 32,
+        "remaining_unposted": 42,
         "videos_per_day": 2,
-        "days_buffer": 16.0,
+        "days_buffer": 21.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (32 videos ready)",
+        "stock_label": "HEALTHY (42 videos ready)",
         "unposted_videos": [
           "Fluffy Tornado",
           "Bedtime Bunny",
@@ -8119,7 +8117,7 @@
       "total_uploaded": 25,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 10570188,
+      "total_views": 10570191,
       "last_run_date": "2026-09-26 16:03:12",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: aKTvhVCmAVM",
@@ -8202,7 +8200,7 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 440
+          "views_gained": 443
         }
       ],
       "daily_sheet_7_days": [
@@ -8260,7 +8258,7 @@
           "day_name": "Sun",
           "is_today": true,
           "uploads_count": 2,
-          "views_gained": 440
+          "views_gained": 443
         }
       ],
       "recent_videos": [
@@ -8269,7 +8267,7 @@
           "youtube_id": "1C2cG5veP98",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 291,
+          "view_count": 292,
           "title": "Morning Binky Club",
           "created_at": "2026-09-27 00:58:28",
           "rowid": 25
@@ -8279,7 +8277,7 @@
           "youtube_id": "mTACUWXD1t8",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 149,
+          "view_count": 151,
           "title": "Apple Crunch",
           "created_at": "2026-09-27 00:58:28",
           "rowid": 24
@@ -8925,7 +8923,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-09-27 03:58:52 UTC",
+    "timestamp": "2026-09-27 04:00:30 UTC",
     "total_channels": 16,
     "healthy_count": 15,
     "auto_healed_count": 0,
@@ -8959,7 +8957,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-09-27",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
