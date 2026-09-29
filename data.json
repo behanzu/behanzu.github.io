@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-09-29 09:10:55 UTC",
+    "timestamp_utc": "2026-09-29 09:15:19 UTC",
     "total_channels": 16,
     "active_channels": 16,
     "disabled_channels": 0,
@@ -9,11 +9,11 @@
     "error_channels": 0,
     "health_rate_percent": 100.0,
     "total_uploaded_videos": 660,
-    "total_views_tracked": 74218120,
-    "total_subscribers": 44688,
+    "total_views_tracked": 74249314,
+    "total_subscribers": 44689,
     "total_pending_retries": 0,
     "underperforming_channels": 1,
-    "gh_pages_synced_at": "2026-09-29 09:11:55 UTC"
+    "gh_pages_synced_at": "2026-09-29 09:15:19 UTC"
   },
   "channels": [
     {
@@ -53,7 +53,7 @@
       "total_uploaded": 70,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 2748165,
+      "total_views": 2748561,
       "last_run_date": "2026-09-27 09:56:56",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: JG4oHXLXDH0",
@@ -64,7 +64,7 @@
           "slot1": "not_run",
           "slot2": "success",
           "uploads_count": 1,
-          "views_gained": 8
+          "views_gained": 0
         },
         {
           "date": "2026-09-21",
@@ -72,7 +72,7 @@
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 5,
-          "views_gained": 148
+          "views_gained": 0
         },
         {
           "date": "2026-09-22",
@@ -80,7 +80,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 54
+          "views_gained": 0,
+          "channel_total_views": 99
         },
         {
           "date": "2026-09-23",
@@ -88,7 +89,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 104
+          "views_gained": 15,
+          "channel_total_views": 114
         },
         {
           "date": "2026-09-24",
@@ -96,7 +98,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 41
+          "views_gained": 21,
+          "channel_total_views": 135
         },
         {
           "date": "2026-09-25",
@@ -104,7 +107,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 2700151
+          "views_gained": 275,
+          "channel_total_views": 410
         },
         {
           "date": "2026-09-26",
@@ -112,7 +116,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 24450
+          "views_gained": 468843,
+          "channel_total_views": 469253
         },
         {
           "date": "2026-09-27",
@@ -120,7 +125,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 14045
+          "views_gained": 442077,
+          "channel_total_views": 911330
         },
         {
           "date": "2026-09-28",
@@ -128,7 +134,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 829
+          "views_gained": 473157,
+          "channel_total_views": 1384487
         },
         {
           "date": "2026-09-29",
@@ -136,7 +143,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 37
+          "views_gained": 1269652,
+          "channel_total_views": 2654139
         }
       ],
       "daily_sheet_7_days": [
@@ -146,7 +154,8 @@
           "day_name": "Wed",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 104
+          "views_gained": 15,
+          "channel_total_views": 114
         },
         {
           "date": "2026-09-24",
@@ -154,7 +163,8 @@
           "day_name": "Thu",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 41
+          "views_gained": 21,
+          "channel_total_views": 135
         },
         {
           "date": "2026-09-25",
@@ -162,7 +172,8 @@
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 2700151
+          "views_gained": 275,
+          "channel_total_views": 410
         },
         {
           "date": "2026-09-26",
@@ -170,7 +181,8 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 24450
+          "views_gained": 468843,
+          "channel_total_views": 469253
         },
         {
           "date": "2026-09-27",
@@ -178,7 +190,8 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 14045
+          "views_gained": 442077,
+          "channel_total_views": 911330
         },
         {
           "date": "2026-09-28",
@@ -186,7 +199,8 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 829
+          "views_gained": 473157,
+          "channel_total_views": 1384487
         },
         {
           "date": "2026-09-29",
@@ -194,7 +208,8 @@
           "day_name": "Tue",
           "is_today": true,
           "uploads_count": 2,
-          "views_gained": 37
+          "views_gained": 1269652,
+          "channel_total_views": 2654139
         }
       ],
       "recent_videos": [
@@ -253,7 +268,7 @@
           "youtube_id": "dLzkSsXLepU",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 5275,
+          "view_count": 5337,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #Baby #SmartTech",
           "created_at": "2026-09-27 05:46:20",
           "rowid": 66
@@ -313,7 +328,7 @@
           "youtube_id": "W51MFUc8_H4",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 2700149,
+          "view_count": 2700483,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:33:17",
           "rowid": 60
@@ -723,13 +738,13 @@
       "bilibili_url": "",
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/13aPFnGVSotrOaUKVRX-MxgfrkHRn4qr-",
-        "total_in_drive": 56,
+        "total_in_drive": 50,
         "posted_count": 42,
-        "remaining_unposted": 14,
+        "remaining_unposted": 8,
         "videos_per_day": 2,
-        "days_buffer": 7.0,
+        "days_buffer": 4.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (14 videos ready)",
+        "stock_label": "HEALTHY (8 videos ready)",
         "unposted_videos": [
           "Spicy Okra Fry  #asmrfood #bhindirecipe #cooking #viral",
           "Spicy Tomato Garlic Chutney  #chutney #recipe #cooking #spicyfood #asmrfood",
@@ -738,13 +753,7 @@
           "The Ultimate Quick Egg Toast Sandwich  #eggtoast #breakfastideas #quickrecipes #asmrfood #easycooking",
           "Tomato Rice  #asmrfood #cooking #recipe #food #viral",
           "Turn Crispy Rusks Into Rich Homemade Halwa  #ruskhalwa #halwarecipe #easydessert #asmrcooking #dessertporn",
-          "Ultimate Crispy Fried Chicken & Hash Browns  #crispychicken #friedchicken #hashbrowns #asmrfood #recipe",
-          "Ultimate Crispy Soya Granule Snack Balls  #soyarecipes #crispysnacks #easyrecipes #foodasmr #snackideas",
-          "Ultimate Refreshing Virgin Mojito  #mojito #asmrfood #recipe #mocktail #viral",
-          "Ultra Crispy Fried Eggplant Bites  #crispyeggplant #asmrcooking #easyrecipe #snackideas #foodie",
-          "Ultra Crispy Onion Pakoda  #onionpakoda #crispy #pakora #asmrfood #indianfood",
-          "Ultra Crispy Spicy Cauliflower Bites!  #asmrfood #cauliflower #crispy #recipe #foodie",
-          "Watermelon Lemonade  #asmrfood #cooking #recipe #food #viral"
+          "Ultimate Crispy Fried Chicken & Hash Browns  #crispychicken #friedchicken #hashbrowns #asmrfood #recipe"
         ]
       },
       "enabled": true,
@@ -769,7 +778,7 @@
       "total_uploaded": 58,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 46314669,
+      "total_views": 46338856,
       "last_run_date": "2026-09-27 09:57:33",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: uujkf0bXYJ4",
@@ -780,7 +789,7 @@
           "slot1": "not_run",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 47921
+          "views_gained": 0
         },
         {
           "date": "2026-09-21",
@@ -788,7 +797,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 39797233
+          "views_gained": 0
         },
         {
           "date": "2026-09-22",
@@ -796,7 +805,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 2378125
+          "views_gained": 0,
+          "channel_total_views": 4803041
         },
         {
           "date": "2026-09-23",
@@ -804,7 +814,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 78129
+          "views_gained": 3205392,
+          "channel_total_views": 8008433
         },
         {
           "date": "2026-09-24",
@@ -812,7 +823,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 88874
+          "views_gained": 3214676,
+          "channel_total_views": 11223109
         },
         {
           "date": "2026-09-25",
@@ -820,7 +832,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 3322899
+          "views_gained": 4949771,
+          "channel_total_views": 16172880
         },
         {
           "date": "2026-09-26",
@@ -828,7 +841,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 81367
+          "views_gained": 10804445,
+          "channel_total_views": 26977325
         },
         {
           "date": "2026-09-27",
@@ -836,7 +850,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 135529
+          "views_gained": 2143362,
+          "channel_total_views": 29120687
         },
         {
           "date": "2026-09-28",
@@ -844,7 +859,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 30519
+          "views_gained": 1495858,
+          "channel_total_views": 30616545
         },
         {
           "date": "2026-09-29",
@@ -852,7 +868,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 4002
+          "views_gained": 12755355,
+          "channel_total_views": 43371900
         }
       ],
       "daily_sheet_7_days": [
@@ -862,7 +879,8 @@
           "day_name": "Wed",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 78129
+          "views_gained": 3205392,
+          "channel_total_views": 8008433
         },
         {
           "date": "2026-09-24",
@@ -870,7 +888,8 @@
           "day_name": "Thu",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 88874
+          "views_gained": 3214676,
+          "channel_total_views": 11223109
         },
         {
           "date": "2026-09-25",
@@ -878,7 +897,8 @@
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 3322899
+          "views_gained": 4949771,
+          "channel_total_views": 16172880
         },
         {
           "date": "2026-09-26",
@@ -886,7 +906,8 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 81367
+          "views_gained": 10804445,
+          "channel_total_views": 26977325
         },
         {
           "date": "2026-09-27",
@@ -894,7 +915,8 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 135529
+          "views_gained": 2143362,
+          "channel_total_views": 29120687
         },
         {
           "date": "2026-09-28",
@@ -902,7 +924,8 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 30519
+          "views_gained": 1495858,
+          "channel_total_views": 30616545
         },
         {
           "date": "2026-09-29",
@@ -910,7 +933,8 @@
           "day_name": "Tue",
           "is_today": true,
           "uploads_count": 2,
-          "views_gained": 4002
+          "views_gained": 12755355,
+          "channel_total_views": 43371900
         }
       ],
       "recent_videos": [
@@ -919,7 +943,7 @@
           "youtube_id": "5kFXsSo2wjs",
           "status": "uploaded",
           "upload_date": "2026-09-29",
-          "view_count": 2155,
+          "view_count": 2156,
           "title": "Soya Balls 🧆 (2) #asmrfood #cooking #recipe #food #viral",
           "created_at": "2026-09-29 04:35:52",
           "rowid": 58
@@ -929,7 +953,7 @@
           "youtube_id": "y60XFbfoSE4",
           "status": "uploaded",
           "upload_date": "2026-09-29",
-          "view_count": 1847,
+          "view_count": 1907,
           "title": "Spicy Chicken Tikka Cheese Wrap 🌯 #asmrfood #cooking #recipe #food #viral",
           "created_at": "2026-09-29 04:35:52",
           "rowid": 57
@@ -939,7 +963,7 @@
           "youtube_id": "vclf6MjXILA",
           "status": "uploaded",
           "upload_date": "2026-09-28",
-          "view_count": 9382,
+          "view_count": 9444,
           "title": "Refreshing Watermelon Drink 🍹 #asmrfood #cooking #recipe #food #viral",
           "created_at": "2026-09-28 04:11:15",
           "rowid": 56
@@ -949,7 +973,7 @@
           "youtube_id": "nA6H7c8n95k",
           "status": "uploaded",
           "upload_date": "2026-09-28",
-          "view_count": 21137,
+          "view_count": 21161,
           "title": "Refreshing Orange Mint Mocktail 🍊 #mocktail #asmrfood #drinkrecipe #refreshing #viral",
           "created_at": "2026-09-28 00:35:58",
           "rowid": 55
@@ -959,7 +983,7 @@
           "youtube_id": "uujkf0bXYJ4",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 27717,
+          "view_count": 27781,
           "title": "Two little cuties are playing house outdoors. My heart just melted. #adorablebaby",
           "created_at": "2026-09-27 09:57:33",
           "rowid": 54
@@ -979,7 +1003,7 @@
           "youtube_id": "9RK6Hb3KI98",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 39869,
+          "view_count": 39913,
           "title": "Refreshing Cucumber Lime Mocktail 🥒 #mocktail #refreshing #asmr #easyrecipe #viral",
           "created_at": "2026-09-27 04:00:00",
           "rowid": 52
@@ -989,7 +1013,7 @@
           "youtube_id": "0PY-fE3bVvk",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 21239,
+          "view_count": 21262,
           "title": "Pineapple Lemonade🍆 #asmrfood #cooking #recipe #food #viral",
           "created_at": "2026-09-27 00:58:25",
           "rowid": 51
@@ -999,7 +1023,7 @@
           "youtube_id": "Cz5mLIrItNc",
           "status": "uploaded",
           "upload_date": "2026-09-26",
-          "view_count": 35588,
+          "view_count": 35627,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-26 15:58:24",
           "rowid": 50
@@ -1039,7 +1063,7 @@
           "youtube_id": "DoDDCkPg9_s",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 32707,
+          "view_count": 32718,
           "title": "Oreo Milkshake 🍪 #oreomilkshake #asmrfood #recipe #milkshake #dessert",
           "created_at": "2026-09-25 04:04:33",
           "rowid": 46
@@ -1069,7 +1093,7 @@
           "youtube_id": "ZeSN-bVuwYw",
           "status": "uploaded",
           "upload_date": "2026-09-24",
-          "view_count": 23751,
+          "view_count": 23757,
           "title": "Juicy Chicken Skewers 🍢 #chickenkabab #asmrfood #recipe #cooking #foodie",
           "created_at": "2026-09-24 07:06:36",
           "rowid": 43
@@ -1079,7 +1103,7 @@
           "youtube_id": "Wun34-adtSc",
           "status": "uploaded",
           "upload_date": "2026-09-24",
-          "view_count": 27821,
+          "view_count": 27842,
           "title": "Loaded Cheese Fries 🍟 #loadedfries #asmrfood #cheesy #recipe #foodie",
           "created_at": "2026-09-24 07:06:36",
           "rowid": 42
@@ -1099,7 +1123,7 @@
           "youtube_id": "rPoNsxedSG4",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 23985,
+          "view_count": 23997,
           "title": "Fresh Strawberry Lemonade 🍓 #strawberrylemonade #asmrfood #summerdrinks #recipereels",
           "created_at": "2026-09-23 05:53:09",
           "rowid": 40
@@ -1109,7 +1133,7 @@
           "youtube_id": "US3Ea6aoXT0",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 32399,
+          "view_count": 32427,
           "title": "Fresh Watermelon Juice 🍉 #asmrfood #watermelonjuice #recipe #drink #refreshing",
           "created_at": "2026-09-23 05:53:09",
           "rowid": 39
@@ -1119,7 +1143,7 @@
           "youtube_id": "rTu4G_lNdrE",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 2318544,
+          "view_count": 2319173,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech #sleep",
           "created_at": "2026-09-22 17:30:53",
           "rowid": 38
@@ -1139,7 +1163,7 @@
           "youtube_id": "QCExO0GLOgA",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 27286,
+          "view_count": 27293,
           "title": "Fresh Homemade Lemonade 🍋 #lemonade #drinkrecipe #asmr #refreshing #summerdrinks",
           "created_at": "2026-09-22 03:35:37",
           "rowid": 36
@@ -1149,7 +1173,7 @@
           "youtube_id": "CFizGRIsJCU",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 28126,
+          "view_count": 28141,
           "title": "Fluffy Pancakes 🥞 #pancakes #asmrfood #breakfast #recipe #cooking",
           "created_at": "2026-09-22 03:08:09",
           "rowid": 35
@@ -1159,7 +1183,7 @@
           "youtube_id": "PLej7bKhyDU",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 58363,
+          "view_count": 58390,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-21 17:33:21",
           "rowid": 34
@@ -1169,7 +1193,7 @@
           "youtube_id": "03ii7SpS0gY",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 39652407,
+          "view_count": 39675496,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 17:25:57",
           "rowid": 33
@@ -1179,7 +1203,7 @@
           "youtube_id": "ES1k7J12Dco",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 37907,
+          "view_count": 37916,
           "title": "Double Cheese Burger 🍔 #burger #asmrfood #recipe #food #smashburger",
           "created_at": "2026-09-21 04:36:36",
           "rowid": 32
@@ -1189,7 +1213,7 @@
           "youtube_id": "M8yHQP3njvU",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 48556,
+          "view_count": 48565,
           "title": "Easy 10 Minute Bread Rasmalai 🍮 #rasmalai #dessert #quickrecipes #sweettooth #easyrecipe",
           "created_at": "2026-09-21 04:36:36",
           "rowid": 31
@@ -1229,7 +1253,7 @@
           "youtube_id": "8A-9KXNuhMc",
           "status": "uploaded",
           "upload_date": "2026-09-19",
-          "view_count": 25691,
+          "view_count": 25698,
           "title": "Crispy Soya Chunks Kabab Recipe 🧆 #soyachunks #recipe #asmrfood #cooking #vegetarian",
           "created_at": "2026-09-19 03:25:21",
           "rowid": 27
@@ -1471,7 +1495,7 @@
           "slot1": "not_run",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 8876
+          "views_gained": 0
         },
         {
           "date": "2026-09-21",
@@ -1479,7 +1503,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 2862192
+          "views_gained": 0
         },
         {
           "date": "2026-09-22",
@@ -1487,7 +1511,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 24121
+          "views_gained": 0,
+          "channel_total_views": 919093
         },
         {
           "date": "2026-09-23",
@@ -1495,7 +1520,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 9072
+          "views_gained": 1169906,
+          "channel_total_views": 2088999
         },
         {
           "date": "2026-09-24",
@@ -1503,7 +1529,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 6197
+          "views_gained": 183528,
+          "channel_total_views": 2272527
         },
         {
           "date": "2026-09-25",
@@ -1511,7 +1538,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 60047
+          "views_gained": 342250,
+          "channel_total_views": 2614777
         },
         {
           "date": "2026-09-26",
@@ -1519,7 +1547,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 1147
+          "views_gained": 322315,
+          "channel_total_views": 2937092
         },
         {
           "date": "2026-09-27",
@@ -1527,7 +1556,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 257
+          "views_gained": 161863,
+          "channel_total_views": 3098955
         },
         {
           "date": "2026-09-28",
@@ -1535,7 +1565,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 108
+          "views_gained": 1329,
+          "channel_total_views": 3100284
         },
         {
           "date": "2026-09-29",
@@ -1543,7 +1574,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 5
+          "views_gained": 3050,
+          "channel_total_views": 3103334
         }
       ],
       "daily_sheet_7_days": [
@@ -1553,7 +1585,8 @@
           "day_name": "Wed",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 9072
+          "views_gained": 1169906,
+          "channel_total_views": 2088999
         },
         {
           "date": "2026-09-24",
@@ -1561,7 +1594,8 @@
           "day_name": "Thu",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 6197
+          "views_gained": 183528,
+          "channel_total_views": 2272527
         },
         {
           "date": "2026-09-25",
@@ -1569,7 +1603,8 @@
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 60047
+          "views_gained": 342250,
+          "channel_total_views": 2614777
         },
         {
           "date": "2026-09-26",
@@ -1577,7 +1612,8 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 1147
+          "views_gained": 322315,
+          "channel_total_views": 2937092
         },
         {
           "date": "2026-09-27",
@@ -1585,7 +1621,8 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 257
+          "views_gained": 161863,
+          "channel_total_views": 3098955
         },
         {
           "date": "2026-09-28",
@@ -1593,7 +1630,8 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 108
+          "views_gained": 1329,
+          "channel_total_views": 3100284
         },
         {
           "date": "2026-09-29",
@@ -1601,7 +1639,8 @@
           "day_name": "Tue",
           "is_today": true,
           "uploads_count": 1,
-          "views_gained": 5
+          "views_gained": 3050,
+          "channel_total_views": 3103334
         }
       ],
       "recent_videos": [
@@ -2151,7 +2190,7 @@
       "total_uploaded": 31,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 7351584,
+      "total_views": 7353156,
       "last_run_date": "2026-09-27 09:58:46",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: 1nR-IZmFoc8",
@@ -2170,7 +2209,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 5654950
+          "views_gained": 0
         },
         {
           "date": "2026-09-22",
@@ -2178,7 +2217,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 20982
+          "views_gained": 0,
+          "channel_total_views": 61606
         },
         {
           "date": "2026-09-23",
@@ -2186,7 +2226,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 39052
+          "views_gained": 456144,
+          "channel_total_views": 517750
         },
         {
           "date": "2026-09-24",
@@ -2194,7 +2235,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 40305
+          "views_gained": 721684,
+          "channel_total_views": 1239434
         },
         {
           "date": "2026-09-25",
@@ -2202,7 +2244,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 1475020
+          "views_gained": 1228616,
+          "channel_total_views": 2468050
         },
         {
           "date": "2026-09-26",
@@ -2210,7 +2253,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 5641
+          "views_gained": 3047469,
+          "channel_total_views": 5515519
         },
         {
           "date": "2026-09-27",
@@ -2218,7 +2262,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 8143
+          "views_gained": 455911,
+          "channel_total_views": 5971430
         },
         {
           "date": "2026-09-28",
@@ -2226,7 +2271,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 0,
-          "views_gained": 0
+          "views_gained": 416425,
+          "channel_total_views": 6387855
         },
         {
           "date": "2026-09-29",
@@ -2234,7 +2280,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 47
+          "views_gained": 841441,
+          "channel_total_views": 7229296
         }
       ],
       "daily_sheet_7_days": [
@@ -2244,7 +2291,8 @@
           "day_name": "Wed",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 39052
+          "views_gained": 456144,
+          "channel_total_views": 517750
         },
         {
           "date": "2026-09-24",
@@ -2252,7 +2300,8 @@
           "day_name": "Thu",
           "is_today": false,
           "uploads_count": 1,
-          "views_gained": 40305
+          "views_gained": 721684,
+          "channel_total_views": 1239434
         },
         {
           "date": "2026-09-25",
@@ -2260,7 +2309,8 @@
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 1,
-          "views_gained": 1475020
+          "views_gained": 1228616,
+          "channel_total_views": 2468050
         },
         {
           "date": "2026-09-26",
@@ -2268,7 +2318,8 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 1,
-          "views_gained": 5641
+          "views_gained": 3047469,
+          "channel_total_views": 5515519
         },
         {
           "date": "2026-09-27",
@@ -2276,7 +2327,8 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 8143
+          "views_gained": 455911,
+          "channel_total_views": 5971430
         },
         {
           "date": "2026-09-28",
@@ -2284,7 +2336,8 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 0,
-          "views_gained": 0
+          "views_gained": 416425,
+          "channel_total_views": 6387855
         },
         {
           "date": "2026-09-29",
@@ -2292,7 +2345,8 @@
           "day_name": "Tue",
           "is_today": true,
           "uploads_count": 1,
-          "views_gained": 47
+          "views_gained": 841441,
+          "channel_total_views": 7229296
         }
       ],
       "recent_videos": [
@@ -2311,7 +2365,7 @@
           "youtube_id": "1nR-IZmFoc8",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 3065,
+          "view_count": 3072,
           "title": "Two little cuties are playing house outdoors. My heart just melted. #adorablebaby",
           "created_at": "2026-09-27 09:58:46",
           "rowid": 30
@@ -2341,7 +2395,7 @@
           "youtube_id": "fnlS7JeTxyA",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 1475020,
+          "view_count": 1475306,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:35:02",
           "rowid": 27
@@ -2381,7 +2435,7 @@
           "youtube_id": "OswT2v6MD58",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 20982,
+          "view_count": 20997,
           "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
           "created_at": "2026-09-22 05:30:20",
           "rowid": 23
@@ -2401,7 +2455,7 @@
           "youtube_id": "5FyiXi2KuKo",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 5630162,
+          "view_count": 5631389,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:06:44",
           "rowid": 21
@@ -2491,7 +2545,7 @@
           "youtube_id": "ZYBNXXUhSVI",
           "status": "uploaded",
           "upload_date": "2026-09-08",
-          "view_count": 3575,
+          "view_count": 3590,
           "title": "Ranking EVERY Lethal Company Monster (Spooky!) 👹🔦 #monster #lethalcompany #indiehorror #tierlis",
           "created_at": "2026-09-08 06:38:53",
           "rowid": 12
@@ -2501,7 +2555,7 @@
           "youtube_id": "NYcXPU0m4ZA",
           "status": "uploaded",
           "upload_date": "2026-09-08",
-          "view_count": 4063,
+          "view_count": 4085,
           "title": "Could Kiryu Take Down Passione (Kiryu vs Diavolo) 🐉⏳ #diavolo #yakuza #jojo #jojosbizarreadvent",
           "created_at": "2026-09-08 06:38:53",
           "rowid": 11
@@ -2677,7 +2731,7 @@
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 27,
-          "views_gained": 29324
+          "views_gained": 0
         },
         {
           "date": "2026-09-21",
@@ -2685,7 +2739,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 931
+          "views_gained": 0
         },
         {
           "date": "2026-09-22",
@@ -2693,7 +2747,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 514
+          "views_gained": 0,
+          "channel_total_views": 28543
         },
         {
           "date": "2026-09-23",
@@ -2701,7 +2756,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 509
+          "views_gained": 29,
+          "channel_total_views": 28572
         },
         {
           "date": "2026-09-24",
@@ -2709,7 +2765,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 405
+          "views_gained": 93,
+          "channel_total_views": 28665
         },
         {
           "date": "2026-09-25",
@@ -2717,7 +2774,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 440
+          "views_gained": 163,
+          "channel_total_views": 28828
         },
         {
           "date": "2026-09-26",
@@ -2725,7 +2783,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 306
+          "views_gained": 120,
+          "channel_total_views": 28948
         },
         {
           "date": "2026-09-27",
@@ -2733,7 +2792,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 490
+          "views_gained": 1067,
+          "channel_total_views": 30015
         },
         {
           "date": "2026-09-28",
@@ -2741,7 +2801,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 4
+          "views_gained": 952,
+          "channel_total_views": 30967
         },
         {
           "date": "2026-09-29",
@@ -2749,7 +2810,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 3
+          "views_gained": 2254,
+          "channel_total_views": 33221
         }
       ],
       "daily_sheet_7_days": [
@@ -2759,7 +2821,8 @@
           "day_name": "Wed",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 509
+          "views_gained": 29,
+          "channel_total_views": 28572
         },
         {
           "date": "2026-09-24",
@@ -2767,7 +2830,8 @@
           "day_name": "Thu",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 405
+          "views_gained": 93,
+          "channel_total_views": 28665
         },
         {
           "date": "2026-09-25",
@@ -2775,7 +2839,8 @@
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 440
+          "views_gained": 163,
+          "channel_total_views": 28828
         },
         {
           "date": "2026-09-26",
@@ -2783,7 +2848,8 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 306
+          "views_gained": 120,
+          "channel_total_views": 28948
         },
         {
           "date": "2026-09-27",
@@ -2791,7 +2857,8 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 490
+          "views_gained": 1067,
+          "channel_total_views": 30015
         },
         {
           "date": "2026-09-28",
@@ -2799,7 +2866,8 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 4
+          "views_gained": 952,
+          "channel_total_views": 30967
         },
         {
           "date": "2026-09-29",
@@ -2807,7 +2875,8 @@
           "day_name": "Tue",
           "is_today": true,
           "uploads_count": 2,
-          "views_gained": 3
+          "views_gained": 2254,
+          "channel_total_views": 33221
         }
       ],
       "recent_videos": [
@@ -3368,7 +3437,7 @@
           "slot1": "not_run",
           "slot2": "success",
           "uploads_count": 2,
-          "views_gained": 16
+          "views_gained": 0
         },
         {
           "date": "2026-09-21",
@@ -3376,7 +3445,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 126
+          "views_gained": 0
         },
         {
           "date": "2026-09-22",
@@ -3384,7 +3453,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 16
+          "views_gained": 0,
+          "channel_total_views": 2160
         },
         {
           "date": "2026-09-23",
@@ -3392,7 +3462,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 77
+          "views_gained": 23,
+          "channel_total_views": 2183
         },
         {
           "date": "2026-09-24",
@@ -3400,7 +3471,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 30
+          "views_gained": 33,
+          "channel_total_views": 2216
         },
         {
           "date": "2026-09-25",
@@ -3408,7 +3480,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 81
+          "views_gained": 53,
+          "channel_total_views": 2269
         },
         {
           "date": "2026-09-26",
@@ -3416,7 +3489,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 69
+          "views_gained": 0,
+          "channel_total_views": 2269
         },
         {
           "date": "2026-09-27",
@@ -3424,7 +3498,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 63
+          "views_gained": 164,
+          "channel_total_views": 2433
         },
         {
           "date": "2026-09-28",
@@ -3432,7 +3507,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 10
+          "views_gained": 29,
+          "channel_total_views": 2462
         },
         {
           "date": "2026-09-29",
@@ -3440,7 +3516,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 4
+          "views_gained": 145,
+          "channel_total_views": 2607
         }
       ],
       "daily_sheet_7_days": [
@@ -3450,7 +3527,8 @@
           "day_name": "Wed",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 77
+          "views_gained": 23,
+          "channel_total_views": 2183
         },
         {
           "date": "2026-09-24",
@@ -3458,7 +3536,8 @@
           "day_name": "Thu",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 30
+          "views_gained": 33,
+          "channel_total_views": 2216
         },
         {
           "date": "2026-09-25",
@@ -3466,7 +3545,8 @@
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 81
+          "views_gained": 53,
+          "channel_total_views": 2269
         },
         {
           "date": "2026-09-26",
@@ -3474,7 +3554,8 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 69
+          "views_gained": 0,
+          "channel_total_views": 2269
         },
         {
           "date": "2026-09-27",
@@ -3482,7 +3563,8 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 63
+          "views_gained": 164,
+          "channel_total_views": 2433
         },
         {
           "date": "2026-09-28",
@@ -3490,7 +3572,8 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 10
+          "views_gained": 29,
+          "channel_total_views": 2462
         },
         {
           "date": "2026-09-29",
@@ -3498,7 +3581,8 @@
           "day_name": "Tue",
           "is_today": true,
           "uploads_count": 2,
-          "views_gained": 4
+          "views_gained": 145,
+          "channel_total_views": 2607
         }
       ],
       "recent_videos": [
@@ -4028,7 +4112,7 @@
       "total_uploaded": 27,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 106708,
+      "total_views": 106780,
       "last_run_date": "2026-09-27 10:00:58",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: -5wuEvR3FEE",
@@ -4047,7 +4131,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 698
+          "views_gained": 0
         },
         {
           "date": "2026-09-22",
@@ -4055,7 +4139,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 420
+          "views_gained": 0,
+          "channel_total_views": 66130
         },
         {
           "date": "2026-09-23",
@@ -4063,7 +4148,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 508
+          "views_gained": 38,
+          "channel_total_views": 66168
         },
         {
           "date": "2026-09-24",
@@ -4071,7 +4157,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 384
+          "views_gained": 48,
+          "channel_total_views": 66216
         },
         {
           "date": "2026-09-25",
@@ -4079,7 +4166,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 35714
+          "views_gained": 157,
+          "channel_total_views": 66373
         },
         {
           "date": "2026-09-26",
@@ -4087,7 +4175,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 349
+          "views_gained": 0,
+          "channel_total_views": 66373
         },
         {
           "date": "2026-09-27",
@@ -4095,7 +4184,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 347
+          "views_gained": 1021,
+          "channel_total_views": 67394
         },
         {
           "date": "2026-09-28",
@@ -4103,7 +4193,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 0,
-          "views_gained": 0
+          "views_gained": 562,
+          "channel_total_views": 67956
         },
         {
           "date": "2026-09-29",
@@ -4111,7 +4202,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 0,
-          "views_gained": 0
+          "views_gained": 23252,
+          "channel_total_views": 91208
         }
       ],
       "daily_sheet_7_days": [
@@ -4121,7 +4213,8 @@
           "day_name": "Wed",
           "is_today": false,
           "uploads_count": 1,
-          "views_gained": 508
+          "views_gained": 38,
+          "channel_total_views": 66168
         },
         {
           "date": "2026-09-24",
@@ -4129,7 +4222,8 @@
           "day_name": "Thu",
           "is_today": false,
           "uploads_count": 1,
-          "views_gained": 384
+          "views_gained": 48,
+          "channel_total_views": 66216
         },
         {
           "date": "2026-09-25",
@@ -4137,7 +4231,8 @@
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 1,
-          "views_gained": 35714
+          "views_gained": 157,
+          "channel_total_views": 66373
         },
         {
           "date": "2026-09-26",
@@ -4145,7 +4240,8 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 1,
-          "views_gained": 349
+          "views_gained": 0,
+          "channel_total_views": 66373
         },
         {
           "date": "2026-09-27",
@@ -4153,7 +4249,8 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 347
+          "views_gained": 1021,
+          "channel_total_views": 67394
         },
         {
           "date": "2026-09-28",
@@ -4161,7 +4258,8 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 0,
-          "views_gained": 0
+          "views_gained": 562,
+          "channel_total_views": 67956
         },
         {
           "date": "2026-09-29",
@@ -4169,7 +4267,8 @@
           "day_name": "Tue",
           "is_today": true,
           "uploads_count": 0,
-          "views_gained": 0
+          "views_gained": 23252,
+          "channel_total_views": 91208
         }
       ],
       "recent_videos": [
@@ -4178,7 +4277,7 @@
           "youtube_id": "-5wuEvR3FEE",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 115,
+          "view_count": 125,
           "title": "Two little cuties are playing house outdoors. My heart just melted. #adorablebaby",
           "created_at": "2026-09-27 10:00:58",
           "rowid": 27
@@ -4208,7 +4307,7 @@
           "youtube_id": "fqjqDjV7F_A",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 35714,
+          "view_count": 35759,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:36:55",
           "rowid": 24
@@ -4228,7 +4327,7 @@
           "youtube_id": "iHhbfX_CjlE",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 508,
+          "view_count": 519,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 16:07:14",
           "rowid": 22
@@ -4318,7 +4417,7 @@
           "youtube_id": "BFM50TFdQcI",
           "status": "uploaded",
           "upload_date": "2026-09-11",
-          "view_count": 153,
+          "view_count": 159,
           "title": "#funnykidsreels",
           "created_at": "2026-09-11 08:13:56",
           "rowid": 13
@@ -4500,7 +4599,7 @@
           "slot1": "not_run",
           "slot2": "success",
           "uploads_count": 1,
-          "views_gained": 9
+          "views_gained": 0
         },
         {
           "date": "2026-09-21",
@@ -4508,7 +4607,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 146
+          "views_gained": 0
         },
         {
           "date": "2026-09-22",
@@ -4516,7 +4615,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 16001
+          "views_gained": 0,
+          "channel_total_views": 291
         },
         {
           "date": "2026-09-23",
@@ -4524,7 +4624,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 12
+          "views_gained": 9901,
+          "channel_total_views": 10192
         },
         {
           "date": "2026-09-24",
@@ -4532,7 +4633,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 7
+          "views_gained": 6287,
+          "channel_total_views": 16479
         },
         {
           "date": "2026-09-25",
@@ -4540,7 +4642,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 4
+          "views_gained": 55,
+          "channel_total_views": 16534
         },
         {
           "date": "2026-09-26",
@@ -4548,7 +4651,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 202
+          "views_gained": 0,
+          "channel_total_views": 16534
         },
         {
           "date": "2026-09-27",
@@ -4556,7 +4660,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 417
+          "views_gained": 131,
+          "channel_total_views": 16665
         },
         {
           "date": "2026-09-28",
@@ -4564,7 +4669,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 54
+          "views_gained": 0,
+          "channel_total_views": 16665
         },
         {
           "date": "2026-09-29",
@@ -4572,7 +4678,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 10
+          "views_gained": 0,
+          "channel_total_views": 16665
         }
       ],
       "daily_sheet_7_days": [
@@ -4582,7 +4689,8 @@
           "day_name": "Wed",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 12
+          "views_gained": 9901,
+          "channel_total_views": 10192
         },
         {
           "date": "2026-09-24",
@@ -4590,7 +4698,8 @@
           "day_name": "Thu",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 7
+          "views_gained": 6287,
+          "channel_total_views": 16479
         },
         {
           "date": "2026-09-25",
@@ -4598,7 +4707,8 @@
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 4
+          "views_gained": 55,
+          "channel_total_views": 16534
         },
         {
           "date": "2026-09-26",
@@ -4606,7 +4716,8 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 202
+          "views_gained": 0,
+          "channel_total_views": 16534
         },
         {
           "date": "2026-09-27",
@@ -4614,7 +4725,8 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 417
+          "views_gained": 131,
+          "channel_total_views": 16665
         },
         {
           "date": "2026-09-28",
@@ -4622,7 +4734,8 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 54
+          "views_gained": 0,
+          "channel_total_views": 16665
         },
         {
           "date": "2026-09-29",
@@ -4630,7 +4743,8 @@
           "day_name": "Tue",
           "is_today": true,
           "uploads_count": 2,
-          "views_gained": 10
+          "views_gained": 0,
+          "channel_total_views": 16665
         }
       ],
       "recent_videos": [
@@ -5180,7 +5294,7 @@
       "total_uploaded": 50,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 2395,
+      "total_views": 2398,
       "last_run_date": "2026-09-27 10:02:11",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: 7HGdZ8hhS6Q",
@@ -5191,7 +5305,7 @@
           "slot1": "not_run",
           "slot2": "success",
           "uploads_count": 1,
-          "views_gained": 45
+          "views_gained": 0
         },
         {
           "date": "2026-09-21",
@@ -5199,7 +5313,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 312
+          "views_gained": 0
         },
         {
           "date": "2026-09-22",
@@ -5207,7 +5321,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 177
+          "views_gained": 0,
+          "channel_total_views": 116
         },
         {
           "date": "2026-09-23",
@@ -5215,7 +5330,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 307
+          "views_gained": 1,
+          "channel_total_views": 117
         },
         {
           "date": "2026-09-24",
@@ -5223,7 +5339,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 311
+          "views_gained": 47,
+          "channel_total_views": 164
         },
         {
           "date": "2026-09-25",
@@ -5231,7 +5348,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 297
+          "views_gained": 181,
+          "channel_total_views": 345
         },
         {
           "date": "2026-09-26",
@@ -5239,7 +5357,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 242
+          "views_gained": 236,
+          "channel_total_views": 581
         },
         {
           "date": "2026-09-27",
@@ -5247,7 +5366,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 362
+          "views_gained": 334,
+          "channel_total_views": 915
         },
         {
           "date": "2026-09-28",
@@ -5255,7 +5375,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 41
+          "views_gained": 363,
+          "channel_total_views": 1278
         },
         {
           "date": "2026-09-29",
@@ -5263,7 +5384,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 6
+          "views_gained": 833,
+          "channel_total_views": 2111
         }
       ],
       "daily_sheet_7_days": [
@@ -5273,7 +5395,8 @@
           "day_name": "Wed",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 307
+          "views_gained": 1,
+          "channel_total_views": 117
         },
         {
           "date": "2026-09-24",
@@ -5281,7 +5404,8 @@
           "day_name": "Thu",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 311
+          "views_gained": 47,
+          "channel_total_views": 164
         },
         {
           "date": "2026-09-25",
@@ -5289,7 +5413,8 @@
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 297
+          "views_gained": 181,
+          "channel_total_views": 345
         },
         {
           "date": "2026-09-26",
@@ -5297,7 +5422,8 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 242
+          "views_gained": 236,
+          "channel_total_views": 581
         },
         {
           "date": "2026-09-27",
@@ -5305,7 +5431,8 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 362
+          "views_gained": 334,
+          "channel_total_views": 915
         },
         {
           "date": "2026-09-28",
@@ -5313,7 +5440,8 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 41
+          "views_gained": 363,
+          "channel_total_views": 1278
         },
         {
           "date": "2026-09-29",
@@ -5321,7 +5449,8 @@
           "day_name": "Tue",
           "is_today": true,
           "uploads_count": 2,
-          "views_gained": 6
+          "views_gained": 833,
+          "channel_total_views": 2111
         }
       ],
       "recent_videos": [
@@ -5330,7 +5459,7 @@
           "youtube_id": "TWg_T6CkF7k",
           "status": "uploaded",
           "upload_date": "2026-09-29",
-          "view_count": 3,
+          "view_count": 6,
           "title": "She Asked Do You Understand My Feelings And The Kitten Rested Its Head On Her Chin #KittenLove",
           "created_at": "2026-09-29 04:37:51",
           "rowid": 50
@@ -5882,7 +6011,7 @@
           "slot1": "not_run",
           "slot2": "success",
           "uploads_count": 1,
-          "views_gained": 62
+          "views_gained": 0
         },
         {
           "date": "2026-09-21",
@@ -5890,7 +6019,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 175
+          "views_gained": 0
         },
         {
           "date": "2026-09-22",
@@ -5898,7 +6027,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 53
+          "views_gained": 0,
+          "channel_total_views": 35
         },
         {
           "date": "2026-09-23",
@@ -5906,7 +6036,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 106
+          "views_gained": 4,
+          "channel_total_views": 39
         },
         {
           "date": "2026-09-24",
@@ -5914,7 +6045,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 84
+          "views_gained": 7,
+          "channel_total_views": 46
         },
         {
           "date": "2026-09-25",
@@ -5922,7 +6054,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 150
+          "views_gained": 4,
+          "channel_total_views": 50
         },
         {
           "date": "2026-09-26",
@@ -5930,7 +6063,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 152
+          "views_gained": 229,
+          "channel_total_views": 279
         },
         {
           "date": "2026-09-27",
@@ -5938,7 +6072,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 107
+          "views_gained": 60,
+          "channel_total_views": 339
         },
         {
           "date": "2026-09-28",
@@ -5946,7 +6081,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 10
+          "views_gained": 94,
+          "channel_total_views": 433
         },
         {
           "date": "2026-09-29",
@@ -5954,7 +6090,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 4
+          "views_gained": 397,
+          "channel_total_views": 830
         }
       ],
       "daily_sheet_7_days": [
@@ -5964,7 +6101,8 @@
           "day_name": "Wed",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 106
+          "views_gained": 4,
+          "channel_total_views": 39
         },
         {
           "date": "2026-09-24",
@@ -5972,7 +6110,8 @@
           "day_name": "Thu",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 84
+          "views_gained": 7,
+          "channel_total_views": 46
         },
         {
           "date": "2026-09-25",
@@ -5980,7 +6119,8 @@
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 150
+          "views_gained": 4,
+          "channel_total_views": 50
         },
         {
           "date": "2026-09-26",
@@ -5988,7 +6128,8 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 152
+          "views_gained": 229,
+          "channel_total_views": 279
         },
         {
           "date": "2026-09-27",
@@ -5996,7 +6137,8 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 107
+          "views_gained": 60,
+          "channel_total_views": 339
         },
         {
           "date": "2026-09-28",
@@ -6004,7 +6146,8 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 10
+          "views_gained": 94,
+          "channel_total_views": 433
         },
         {
           "date": "2026-09-29",
@@ -6012,7 +6155,8 @@
           "day_name": "Tue",
           "is_today": true,
           "uploads_count": 2,
-          "views_gained": 4
+          "views_gained": 397,
+          "channel_total_views": 830
         }
       ],
       "recent_videos": [
@@ -6581,7 +6725,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 60
+          "views_gained": 0
         },
         {
           "date": "2026-09-22",
@@ -6589,7 +6733,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 46
+          "views_gained": 0,
+          "channel_total_views": 1
         },
         {
           "date": "2026-09-23",
@@ -6597,7 +6742,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 31
+          "views_gained": 0,
+          "channel_total_views": 1
         },
         {
           "date": "2026-09-24",
@@ -6605,7 +6751,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 22
+          "views_gained": 1,
+          "channel_total_views": 2
         },
         {
           "date": "2026-09-25",
@@ -6613,7 +6760,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 10
+          "views_gained": 4,
+          "channel_total_views": 6
         },
         {
           "date": "2026-09-26",
@@ -6621,7 +6769,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 1
+          "views_gained": 173,
+          "channel_total_views": 179
         },
         {
           "date": "2026-09-27",
@@ -6629,7 +6778,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 0
+          "views_gained": 21,
+          "channel_total_views": 200
         },
         {
           "date": "2026-09-28",
@@ -6637,7 +6787,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 0
+          "views_gained": 1,
+          "channel_total_views": 201
         },
         {
           "date": "2026-09-29",
@@ -6645,7 +6796,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 0
+          "views_gained": 1,
+          "channel_total_views": 202
         }
       ],
       "daily_sheet_7_days": [
@@ -6655,7 +6807,8 @@
           "day_name": "Wed",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 31
+          "views_gained": 0,
+          "channel_total_views": 1
         },
         {
           "date": "2026-09-24",
@@ -6663,7 +6816,8 @@
           "day_name": "Thu",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 22
+          "views_gained": 1,
+          "channel_total_views": 2
         },
         {
           "date": "2026-09-25",
@@ -6671,7 +6825,8 @@
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 10
+          "views_gained": 4,
+          "channel_total_views": 6
         },
         {
           "date": "2026-09-26",
@@ -6679,7 +6834,8 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 1
+          "views_gained": 173,
+          "channel_total_views": 179
         },
         {
           "date": "2026-09-27",
@@ -6687,7 +6843,8 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 0
+          "views_gained": 21,
+          "channel_total_views": 200
         },
         {
           "date": "2026-09-28",
@@ -6695,7 +6852,8 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 0
+          "views_gained": 1,
+          "channel_total_views": 201
         },
         {
           "date": "2026-09-29",
@@ -6703,7 +6861,8 @@
           "day_name": "Tue",
           "is_today": true,
           "uploads_count": 2,
-          "views_gained": 0
+          "views_gained": 1,
+          "channel_total_views": 202
         }
       ],
       "recent_videos": [
@@ -7042,7 +7201,7 @@
       "youtube_channel_name": "Pim Poem",
       "youtube_handle": "@pimpoem-us",
       "youtube_channel_url": "https://www.youtube.com/@pimpoem-us",
-      "subscribers_count": 618,
+      "subscribers_count": 619,
       "published_videos_count": 27,
       "live_youtube_views": 11494,
       "owner_email": "mikesmithere@gmail.com",
@@ -7110,7 +7269,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 509
+          "views_gained": 0
         },
         {
           "date": "2026-09-21",
@@ -7118,7 +7277,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 2705
+          "views_gained": 0
         },
         {
           "date": "2026-09-22",
@@ -7126,7 +7285,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 826
+          "views_gained": 0,
+          "channel_total_views": 10
         },
         {
           "date": "2026-09-23",
@@ -7134,7 +7294,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 1912
+          "views_gained": 29,
+          "channel_total_views": 39
         },
         {
           "date": "2026-09-24",
@@ -7142,7 +7303,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 1379
+          "views_gained": 1018,
+          "channel_total_views": 1057
         },
         {
           "date": "2026-09-25",
@@ -7150,7 +7312,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 1694
+          "views_gained": 1052,
+          "channel_total_views": 2109
         },
         {
           "date": "2026-09-26",
@@ -7158,7 +7321,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 969
+          "views_gained": 4160,
+          "channel_total_views": 6269
         },
         {
           "date": "2026-09-27",
@@ -7166,7 +7330,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 1462
+          "views_gained": 205,
+          "channel_total_views": 6474
         },
         {
           "date": "2026-09-28",
@@ -7174,7 +7339,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 231
+          "views_gained": 655,
+          "channel_total_views": 7129
         },
         {
           "date": "2026-09-29",
@@ -7182,7 +7348,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 29
+          "views_gained": 4365,
+          "channel_total_views": 11494
         }
       ],
       "daily_sheet_7_days": [
@@ -7192,7 +7359,8 @@
           "day_name": "Wed",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 1912
+          "views_gained": 29,
+          "channel_total_views": 39
         },
         {
           "date": "2026-09-24",
@@ -7200,7 +7368,8 @@
           "day_name": "Thu",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 1379
+          "views_gained": 1018,
+          "channel_total_views": 1057
         },
         {
           "date": "2026-09-25",
@@ -7208,7 +7377,8 @@
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 1694
+          "views_gained": 1052,
+          "channel_total_views": 2109
         },
         {
           "date": "2026-09-26",
@@ -7216,7 +7386,8 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 969
+          "views_gained": 4160,
+          "channel_total_views": 6269
         },
         {
           "date": "2026-09-27",
@@ -7224,7 +7395,8 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 1462
+          "views_gained": 205,
+          "channel_total_views": 6474
         },
         {
           "date": "2026-09-28",
@@ -7232,7 +7404,8 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 231
+          "views_gained": 655,
+          "channel_total_views": 7129
         },
         {
           "date": "2026-09-29",
@@ -7240,7 +7413,8 @@
           "day_name": "Tue",
           "is_today": true,
           "uploads_count": 2,
-          "views_gained": 29
+          "views_gained": 4365,
+          "channel_total_views": 11494
         }
       ],
       "recent_videos": [
@@ -7611,7 +7785,7 @@
           "slot1": "no_content",
           "slot2": "success",
           "uploads_count": 1,
-          "views_gained": 3
+          "views_gained": 0
         },
         {
           "date": "2026-09-21",
@@ -7619,7 +7793,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 6
+          "views_gained": 0
         },
         {
           "date": "2026-09-22",
@@ -7627,7 +7801,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 2
+          "views_gained": 0,
+          "channel_total_views": 6
         },
         {
           "date": "2026-09-23",
@@ -7635,7 +7810,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 13
+          "views_gained": 0,
+          "channel_total_views": 6
         },
         {
           "date": "2026-09-24",
@@ -7643,7 +7819,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 16
+          "views_gained": 8,
+          "channel_total_views": 14
         },
         {
           "date": "2026-09-25",
@@ -7651,7 +7828,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 1
+          "views_gained": 12,
+          "channel_total_views": 26
         },
         {
           "date": "2026-09-26",
@@ -7659,7 +7837,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 7
+          "views_gained": 8,
+          "channel_total_views": 34
         },
         {
           "date": "2026-09-27",
@@ -7667,7 +7846,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 0
+          "views_gained": 4,
+          "channel_total_views": 38
         },
         {
           "date": "2026-09-28",
@@ -7675,7 +7855,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 0
+          "views_gained": 7,
+          "channel_total_views": 45
         },
         {
           "date": "2026-09-29",
@@ -7683,7 +7864,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 0,
-          "views_gained": 0
+          "views_gained": 6,
+          "channel_total_views": 51
         }
       ],
       "daily_sheet_7_days": [
@@ -7693,7 +7875,8 @@
           "day_name": "Wed",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 13
+          "views_gained": 0,
+          "channel_total_views": 6
         },
         {
           "date": "2026-09-24",
@@ -7701,7 +7884,8 @@
           "day_name": "Thu",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 16
+          "views_gained": 8,
+          "channel_total_views": 14
         },
         {
           "date": "2026-09-25",
@@ -7709,7 +7893,8 @@
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 1
+          "views_gained": 12,
+          "channel_total_views": 26
         },
         {
           "date": "2026-09-26",
@@ -7717,7 +7902,8 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 7
+          "views_gained": 8,
+          "channel_total_views": 34
         },
         {
           "date": "2026-09-27",
@@ -7725,7 +7911,8 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 0
+          "views_gained": 4,
+          "channel_total_views": 38
         },
         {
           "date": "2026-09-28",
@@ -7733,7 +7920,8 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 1,
-          "views_gained": 0
+          "views_gained": 7,
+          "channel_total_views": 45
         },
         {
           "date": "2026-09-29",
@@ -7741,7 +7929,8 @@
           "day_name": "Tue",
           "is_today": true,
           "uploads_count": 0,
-          "views_gained": 0
+          "views_gained": 6,
+          "channel_total_views": 51
         }
       ],
       "recent_videos": [
@@ -8171,7 +8360,7 @@
       "total_uploaded": 23,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 447801,
+      "total_views": 447822,
       "last_run_date": "2026-09-27 10:05:08",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: L2VogWQZVoc",
@@ -8182,7 +8371,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 4773
+          "views_gained": 0
         },
         {
           "date": "2026-09-21",
@@ -8190,7 +8379,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 2085
+          "views_gained": 0
         },
         {
           "date": "2026-09-22",
@@ -8198,7 +8387,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 120
+          "views_gained": 0,
+          "channel_total_views": 13407
         },
         {
           "date": "2026-09-23",
@@ -8206,7 +8396,8 @@
           "slot1": "success",
           "slot2": "success",
           "uploads_count": 4,
-          "views_gained": 6517
+          "views_gained": 991,
+          "channel_total_views": 14398
         },
         {
           "date": "2026-09-24",
@@ -8214,7 +8405,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 10173
+          "views_gained": 612,
+          "channel_total_views": 15010
         },
         {
           "date": "2026-09-25",
@@ -8222,7 +8414,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 403243
+          "views_gained": 1282,
+          "channel_total_views": 16292
         },
         {
           "date": "2026-09-26",
@@ -8230,7 +8423,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 2584
+          "views_gained": 187287,
+          "channel_total_views": 203579
         },
         {
           "date": "2026-09-27",
@@ -8238,7 +8432,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 2159
+          "views_gained": 149807,
+          "channel_total_views": 353386
         },
         {
           "date": "2026-09-28",
@@ -8246,7 +8441,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 0,
-          "views_gained": 0
+          "views_gained": 64510,
+          "channel_total_views": 417896
         },
         {
           "date": "2026-09-29",
@@ -8254,7 +8450,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 0,
-          "views_gained": 0
+          "views_gained": 27090,
+          "channel_total_views": 444986
         }
       ],
       "daily_sheet_7_days": [
@@ -8264,7 +8461,8 @@
           "day_name": "Wed",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 6517
+          "views_gained": 991,
+          "channel_total_views": 14398
         },
         {
           "date": "2026-09-24",
@@ -8272,7 +8470,8 @@
           "day_name": "Thu",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 10173
+          "views_gained": 612,
+          "channel_total_views": 15010
         },
         {
           "date": "2026-09-25",
@@ -8280,7 +8479,8 @@
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 403243
+          "views_gained": 1282,
+          "channel_total_views": 16292
         },
         {
           "date": "2026-09-26",
@@ -8288,7 +8488,8 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 2584
+          "views_gained": 187287,
+          "channel_total_views": 203579
         },
         {
           "date": "2026-09-27",
@@ -8296,7 +8497,8 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 2159
+          "views_gained": 149807,
+          "channel_total_views": 353386
         },
         {
           "date": "2026-09-28",
@@ -8304,7 +8506,8 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 0,
-          "views_gained": 0
+          "views_gained": 64510,
+          "channel_total_views": 417896
         },
         {
           "date": "2026-09-29",
@@ -8312,7 +8515,8 @@
           "day_name": "Tue",
           "is_today": true,
           "uploads_count": 0,
-          "views_gained": 0
+          "views_gained": 27090,
+          "channel_total_views": 444986
         }
       ],
       "recent_videos": [
@@ -8481,7 +8685,7 @@
           "youtube_id": "bJXqOhbRhYo",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 1719,
+          "view_count": 1740,
           "title": "Ever Wonder How Stitches Actually Heal Your Skin",
           "created_at": "2026-09-21 17:17:20",
           "rowid": 7
@@ -8571,13 +8775,13 @@
       "bilibili_url": "",
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
-        "total_in_drive": 60,
+        "total_in_drive": 50,
         "posted_count": 22,
-        "remaining_unposted": 38,
+        "remaining_unposted": 28,
         "videos_per_day": 2,
-        "days_buffer": 19.0,
+        "days_buffer": 14.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (38 videos ready)",
+        "stock_label": "HEALTHY (28 videos ready)",
         "unposted_videos": [
           "Fluffy Tornado",
           "Sleepyhead Flop",
@@ -8618,7 +8822,7 @@
       "total_uploaded": 31,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 14075080,
+      "total_views": 14080023,
       "last_run_date": "2026-09-27 10:05:44",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: U6kJmicCY1s",
@@ -8629,7 +8833,7 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 26549
+          "views_gained": 0
         },
         {
           "date": "2026-09-21",
@@ -8637,7 +8841,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 13582950
+          "views_gained": 0
         },
         {
           "date": "2026-09-22",
@@ -8645,7 +8849,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 49823
+          "views_gained": 0,
+          "channel_total_views": 833207
         },
         {
           "date": "2026-09-23",
@@ -8653,7 +8858,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 41760
+          "views_gained": 2237853,
+          "channel_total_views": 3071060
         },
         {
           "date": "2026-09-24",
@@ -8661,7 +8867,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 59118
+          "views_gained": 1557699,
+          "channel_total_views": 4628759
         },
         {
           "date": "2026-09-25",
@@ -8669,7 +8876,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 225205
+          "views_gained": 1270812,
+          "channel_total_views": 5899571
         },
         {
           "date": "2026-09-26",
@@ -8677,7 +8885,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 27872
+          "views_gained": 2812735,
+          "channel_total_views": 8712306
         },
         {
           "date": "2026-09-27",
@@ -8685,7 +8894,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 4,
-          "views_gained": 31383
+          "views_gained": 1543941,
+          "channel_total_views": 10256247
         },
         {
           "date": "2026-09-28",
@@ -8693,7 +8903,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 3646
+          "views_gained": 633928,
+          "channel_total_views": 10890175
         },
         {
           "date": "2026-09-29",
@@ -8701,7 +8912,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 753
+          "views_gained": 2768138,
+          "channel_total_views": 13658313
         }
       ],
       "daily_sheet_7_days": [
@@ -8711,7 +8923,8 @@
           "day_name": "Wed",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 41760
+          "views_gained": 2237853,
+          "channel_total_views": 3071060
         },
         {
           "date": "2026-09-24",
@@ -8719,7 +8932,8 @@
           "day_name": "Thu",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 59118
+          "views_gained": 1557699,
+          "channel_total_views": 4628759
         },
         {
           "date": "2026-09-25",
@@ -8727,7 +8941,8 @@
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 225205
+          "views_gained": 1270812,
+          "channel_total_views": 5899571
         },
         {
           "date": "2026-09-26",
@@ -8735,7 +8950,8 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 27872
+          "views_gained": 2812735,
+          "channel_total_views": 8712306
         },
         {
           "date": "2026-09-27",
@@ -8743,7 +8959,8 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 4,
-          "views_gained": 31383
+          "views_gained": 1543941,
+          "channel_total_views": 10256247
         },
         {
           "date": "2026-09-28",
@@ -8751,7 +8968,8 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 3646
+          "views_gained": 633928,
+          "channel_total_views": 10890175
         },
         {
           "date": "2026-09-29",
@@ -8759,7 +8977,8 @@
           "day_name": "Tue",
           "is_today": true,
           "uploads_count": 2,
-          "views_gained": 753
+          "views_gained": 2768138,
+          "channel_total_views": 13658313
         }
       ],
       "recent_videos": [
@@ -8778,7 +8997,7 @@
           "youtube_id": "IeW8Blz_TOk",
           "status": "uploaded",
           "upload_date": "2026-09-29",
-          "view_count": 374,
+          "view_count": 375,
           "title": "Bell Pepper Boogie",
           "created_at": "2026-09-29 04:35:58",
           "rowid": 30
@@ -8788,7 +9007,7 @@
           "youtube_id": "OwhJJgHPEdQ",
           "status": "uploaded",
           "upload_date": "2026-09-28",
-          "view_count": 2132,
+          "view_count": 2137,
           "title": "Bedtime Bunny",
           "created_at": "2026-09-28 00:36:03",
           "rowid": 29
@@ -8808,7 +9027,7 @@
           "youtube_id": "U6kJmicCY1s",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 8694,
+          "view_count": 8701,
           "title": "Two little cuties are playing house outdoors. My heart just melted. #adorablebaby",
           "created_at": "2026-09-27 10:05:44",
           "rowid": 27
@@ -8838,7 +9057,7 @@
           "youtube_id": "mTACUWXD1t8",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 5703,
+          "view_count": 5706,
           "title": "Apple Crunch",
           "created_at": "2026-09-27 00:58:28",
           "rowid": 24
@@ -8848,7 +9067,7 @@
           "youtube_id": "aKTvhVCmAVM",
           "status": "uploaded",
           "upload_date": "2026-09-26",
-          "view_count": 13694,
+          "view_count": 13701,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-26 16:03:12",
           "rowid": 23
@@ -8878,7 +9097,7 @@
           "youtube_id": "_QusNar6qHE",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 206234,
+          "view_count": 206432,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:41:50",
           "rowid": 20
@@ -8888,7 +9107,7 @@
           "youtube_id": "ObE6QB8gQhI",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 8656,
+          "view_count": 8657,
           "title": "Watermelon Party",
           "created_at": "2026-09-25 03:20:32",
           "rowid": 19
@@ -8968,7 +9187,7 @@
           "youtube_id": "0zW58LIrLVs",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 24668,
+          "view_count": 24672,
           "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
           "created_at": "2026-09-22 05:33:23",
           "rowid": 11
@@ -9008,7 +9227,7 @@
           "youtube_id": "8EN7JkpS1dQ",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 13518010,
+          "view_count": 13522672,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:09:33",
           "rowid": 7
@@ -9048,7 +9267,7 @@
           "youtube_id": "VyA8dU0aMgY",
           "status": "uploaded",
           "upload_date": "2026-09-20",
-          "view_count": 13531,
+          "view_count": 13586,
           "title": "Sleepiest Flop Ever",
           "created_at": "2026-09-20 06:37:33",
           "rowid": 3
@@ -9137,7 +9356,7 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 5,
-          "views_gained": 450
+          "views_gained": 0
         },
         {
           "date": "2026-09-22",
@@ -9145,7 +9364,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 131
+          "views_gained": 0,
+          "channel_total_views": 148
         },
         {
           "date": "2026-09-23",
@@ -9153,7 +9373,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 152
+          "views_gained": 32,
+          "channel_total_views": 180
         },
         {
           "date": "2026-09-24",
@@ -9161,7 +9382,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 149
+          "views_gained": 40,
+          "channel_total_views": 220
         },
         {
           "date": "2026-09-25",
@@ -9169,7 +9391,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
-          "views_gained": 152
+          "views_gained": 32,
+          "channel_total_views": 252
         },
         {
           "date": "2026-09-26",
@@ -9177,7 +9400,8 @@
           "slot1": "failed",
           "slot2": "not_run",
           "uploads_count": 2,
-          "views_gained": 43
+          "views_gained": 399,
+          "channel_total_views": 651
         },
         {
           "date": "2026-09-27",
@@ -9185,7 +9409,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 0,
-          "views_gained": 0
+          "views_gained": 7,
+          "channel_total_views": 658
         },
         {
           "date": "2026-09-28",
@@ -9193,7 +9418,8 @@
           "slot1": "not_run",
           "slot2": "not_run",
           "uploads_count": 0,
-          "views_gained": 0
+          "views_gained": 451,
+          "channel_total_views": 1109
         },
         {
           "date": "2026-09-29",
@@ -9201,7 +9427,8 @@
           "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
-          "views_gained": 0
+          "views_gained": 117,
+          "channel_total_views": 1226
         }
       ],
       "daily_sheet_7_days": [
@@ -9211,7 +9438,8 @@
           "day_name": "Wed",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 152
+          "views_gained": 32,
+          "channel_total_views": 180
         },
         {
           "date": "2026-09-24",
@@ -9219,7 +9447,8 @@
           "day_name": "Thu",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 149
+          "views_gained": 40,
+          "channel_total_views": 220
         },
         {
           "date": "2026-09-25",
@@ -9227,7 +9456,8 @@
           "day_name": "Fri",
           "is_today": false,
           "uploads_count": 3,
-          "views_gained": 152
+          "views_gained": 32,
+          "channel_total_views": 252
         },
         {
           "date": "2026-09-26",
@@ -9235,7 +9465,8 @@
           "day_name": "Sat",
           "is_today": false,
           "uploads_count": 2,
-          "views_gained": 43
+          "views_gained": 399,
+          "channel_total_views": 651
         },
         {
           "date": "2026-09-27",
@@ -9243,7 +9474,8 @@
           "day_name": "Sun",
           "is_today": false,
           "uploads_count": 0,
-          "views_gained": 0
+          "views_gained": 7,
+          "channel_total_views": 658
         },
         {
           "date": "2026-09-28",
@@ -9251,7 +9483,8 @@
           "day_name": "Mon",
           "is_today": false,
           "uploads_count": 0,
-          "views_gained": 0
+          "views_gained": 451,
+          "channel_total_views": 1109
         },
         {
           "date": "2026-09-29",
@@ -9259,7 +9492,8 @@
           "day_name": "Tue",
           "is_today": true,
           "uploads_count": 1,
-          "views_gained": 0
+          "views_gained": 117,
+          "channel_total_views": 1226
         }
       ],
       "recent_videos": [
@@ -9496,7 +9730,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-09-29 09:10:55 UTC",
+    "timestamp": "2026-09-29 09:15:19 UTC",
     "total_channels": 16,
     "healthy_count": 14,
     "auto_healed_count": 0,
