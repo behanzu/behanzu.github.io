@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-10-06 08:24:41 UTC",
+    "timestamp_utc": "2026-10-06 08:31:00 UTC",
     "total_channels": 17,
     "active_channels": 16,
     "disabled_channels": 1,
     "idle_channels": 1,
-    "today_completed_channels": 1,
+    "today_completed_channels": 13,
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 789,
-    "total_views_tracked": 98823748,
+    "total_uploaded_videos": 803,
+    "total_views_tracked": 98826840,
     "total_subscribers": 62413,
     "total_pending_retries": 1,
     "underperforming_channels": 1,
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-10-06 08:24:43 UTC"
+    "gh_pages_synced_at": "2026-10-06 08:31:02 UTC"
   },
   "channels": [
     {
@@ -28,7 +28,7 @@
       "youtube_handle": "@meelyansnmyhands",
       "youtube_channel_url": "https://www.youtube.com/@meelyansnmyhands",
       "subscribers_count": 1890,
-      "published_videos_count": 23,
+      "published_videos_count": 24,
       "live_youtube_views": 3117573,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Apr 07, 2026",
@@ -62,15 +62,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 81,
+      "total_uploaded": 82,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 3178085,
-      "last_run_date": "2026-10-05 07:12:41",
+      "total_views": 3178088,
+      "last_run_date": "2026-10-06 08:24:51",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: mZkhQPeyVHo",
+      "last_run_message": "Uploaded YouTube ID: h9eY81uQFXI",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-27",
@@ -150,9 +150,9 @@
         {
           "date": "2026-10-06",
           "short_date": "Oct 06",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -210,11 +210,21 @@
           "short_date": "Oct 06",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "broadcast_day1_1791275091_channel_1",
+          "youtube_id": "h9eY81uQFXI",
+          "status": "uploaded",
+          "upload_date": "2026-10-06",
+          "view_count": 3,
+          "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
+          "created_at": "2026-10-06 08:24:51",
+          "rowid": 83
+        },
         {
           "tiktok_id": "yt_A4ZCDeFtK_U",
           "youtube_id": "A4ZCDeFtK_U",
@@ -704,16 +714,6 @@
           "title": "Video",
           "created_at": "2026-09-12 04:46:14",
           "rowid": 34
-        },
-        {
-          "tiktok_id": "yt_mfNteNkP8SI",
-          "youtube_id": "mfNteNkP8SI",
-          "status": "uploaded",
-          "upload_date": "2026-09-12",
-          "view_count": 3,
-          "title": "Video",
-          "created_at": "2026-09-12 04:46:14",
-          "rowid": 33
         }
       ],
       "pending_retry_items": [],
@@ -722,7 +722,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 25, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_2",
@@ -732,7 +732,7 @@
       "youtube_handle": "@notachefofficialy",
       "youtube_channel_url": "https://www.youtube.com/@notachefofficialy",
       "subscribers_count": 39500,
-      "published_videos_count": 66,
+      "published_videos_count": 67,
       "live_youtube_views": 64141938,
       "owner_email": "baarakhaaan@gmail.com",
       "channel_created_at": "Aug 30, 2026",
@@ -783,15 +783,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 69,
+      "total_uploaded": 70,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 64260129,
-      "last_run_date": "2026-10-05 07:13:00",
+      "total_views": 64261368,
+      "last_run_date": "2026-10-06 08:25:10",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: _fe_53VwZVg",
+      "last_run_message": "Uploaded YouTube ID: mJqKBh6u3yU",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-27",
@@ -871,9 +871,9 @@
         {
           "date": "2026-10-06",
           "short_date": "Oct 06",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -931,17 +931,27 @@
           "short_date": "Oct 06",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
         {
+          "tiktok_id": "broadcast_day1_1791275110_channel_2",
+          "youtube_id": "mJqKBh6u3yU",
+          "status": "uploaded",
+          "upload_date": "2026-10-06",
+          "view_count": 2,
+          "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
+          "created_at": "2026-10-06 08:25:10",
+          "rowid": 70
+        },
+        {
           "tiktok_id": "yt_zfvaRkOAUBM",
           "youtube_id": "zfvaRkOAUBM",
           "status": "uploaded",
           "upload_date": "2026-10-06",
-          "view_count": 3056,
+          "view_count": 3091,
           "title": "Ultimate Crispy Soya Granule Snack Balls 🧆 #soyarecipes #crispysnacks #easyrecipes #foodasmr",
           "created_at": "2026-10-06 02:07:35",
           "rowid": 69
@@ -951,7 +961,7 @@
           "youtube_id": "_fe_53VwZVg",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 92523,
+          "view_count": 92724,
           "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
           "created_at": "2026-10-05 07:13:00",
           "rowid": 68
@@ -961,7 +971,7 @@
           "youtube_id": "t2q--9LsgFk",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 2723,
+          "view_count": 2727,
           "title": "Turn Crispy Rusks Into Rich Homemade Halwa 🍮 #ruskhalwa #halwarecipe #easydessert #asmrcooking",
           "created_at": "2026-10-05 05:03:08",
           "rowid": 67
@@ -971,7 +981,7 @@
           "youtube_id": "hgtf6evk8AA",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 18920,
+          "view_count": 18923,
           "title": "Ultimate Crispy Fried Chicken & Hash Browns 🍗 #crispychicken #friedchicken #hashbrowns #asmrfoo",
           "created_at": "2026-10-05 05:03:08",
           "rowid": 66
@@ -1001,7 +1011,7 @@
           "youtube_id": "7hlEEeW_5x4",
           "status": "uploaded",
           "upload_date": "2026-10-01",
-          "view_count": 22896,
+          "view_count": 22939,
           "title": "The ultimate creamy Paneer Butter Masala 🍲 #paneer #indianfood #recipe #asmrfood #cooking",
           "created_at": "2026-10-01 04:30:19",
           "rowid": 63
@@ -1161,7 +1171,7 @@
           "youtube_id": "yN0VDgbbbiw",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 8201430,
+          "view_count": 8202381,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:33:57",
           "rowid": 47
@@ -1425,16 +1435,6 @@
           "title": "Crispy Kung Pao Chicken 🌶️ #kungpaochicken #easyrecipe #asmrfood #asianfood #viral",
           "created_at": "2026-09-15 00:17:02",
           "rowid": 21
-        },
-        {
-          "tiktok_id": "1rIiOJ7gOqvNkH4IfeHB4bnIa6A0GD-WF",
-          "youtube_id": "GiN2BYBivFk",
-          "status": "uploaded",
-          "upload_date": "2026-09-14",
-          "view_count": 19571,
-          "title": "Crispy Korean Fried Chicken 🍗 #koreanfriedchicken #crispychicken #recipe #foodie #asmrfood",
-          "created_at": "2026-09-14 22:12:05",
-          "rowid": 20
         }
       ],
       "pending_retry_items": [],
@@ -1443,7 +1443,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 01, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_3",
@@ -1453,7 +1453,7 @@
       "youtube_handle": "@quote4quotes",
       "youtube_channel_url": "https://www.youtube.com/@quote4quotes",
       "subscribers_count": 1610,
-      "published_videos_count": 53,
+      "published_videos_count": 54,
       "live_youtube_views": 3111559,
       "owner_email": "mrsabdulmateen36@gmail.com",
       "channel_created_at": "Sep 01, 2026",
@@ -1514,15 +1514,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 54,
+      "total_uploaded": 55,
       "total_failed": 0,
       "total_pending_retry": 1,
-      "total_views": 3121144,
-      "last_run_date": "2026-10-05 07:13:18",
+      "total_views": 3121169,
+      "last_run_date": "2026-10-06 08:25:30",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: JleOTLcXi-g",
+      "last_run_message": "Uploaded YouTube ID: xpoJdu4P_J0",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-27",
@@ -1602,9 +1602,9 @@
         {
           "date": "2026-10-06",
           "short_date": "Oct 06",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -1662,11 +1662,21 @@
           "short_date": "Oct 06",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "broadcast_day1_1791275130_channel_3",
+          "youtube_id": "xpoJdu4P_J0",
+          "status": "uploaded",
+          "upload_date": "2026-10-06",
+          "view_count": 1,
+          "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
+          "created_at": "2026-10-06 08:25:30",
+          "rowid": 56
+        },
         {
           "tiktok_id": "yt_yT5atYceyLE",
           "youtube_id": "yT5atYceyLE",
@@ -1682,7 +1692,7 @@
           "youtube_id": "JleOTLcXi-g",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 6807,
+          "view_count": 6823,
           "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
           "created_at": "2026-10-05 07:13:18",
           "rowid": 54
@@ -1742,7 +1752,7 @@
           "youtube_id": "dZIXdsrS5Fw",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 287,
+          "view_count": 288,
           "title": "Two little cuties are playing house outdoors. My heart just melted. #adorablebaby",
           "created_at": "2026-09-27 09:58:12",
           "rowid": 48
@@ -1902,7 +1912,7 @@
           "youtube_id": "Cg36Su32UNc",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 2845395,
+          "view_count": 2845402,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:06:28",
           "rowid": 32
@@ -2156,16 +2166,6 @@
           "title": "Do/did you have/had this feeling by someone? ❤️  #couplegoals #connection #bond #quotes #positi",
           "created_at": "2026-09-05 01:29:24",
           "rowid": 8
-        },
-        {
-          "tiktok_id": "yt_whBe7Q8F2to",
-          "youtube_id": "whBe7Q8F2to",
-          "status": "uploaded",
-          "upload_date": "2026-09-04",
-          "view_count": 279,
-          "title": "Is this you? #mentalhealth #menthalhealthmatters #menthalhealthawareness #itsokaytonotbeokay #i",
-          "created_at": "2026-09-04 01:43:24",
-          "rowid": 5
         }
       ],
       "pending_retry_items": [
@@ -2186,7 +2186,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Oct 05, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_4",
@@ -2196,7 +2196,7 @@
       "youtube_handle": "@luvthugga-h1p",
       "youtube_channel_url": "https://www.youtube.com/@luvthugga-h1p",
       "subscribers_count": 5140,
-      "published_videos_count": 39,
+      "published_videos_count": 40,
       "live_youtube_views": 9437919,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Oct 28, 2025",
@@ -2230,15 +2230,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 39,
+      "total_uploaded": 40,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 9803290,
-      "last_run_date": "2026-10-05 07:13:37",
+      "total_views": 9805115,
+      "last_run_date": "2026-10-06 08:25:50",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: 9dGtcnGrG6g",
+      "last_run_message": "Uploaded YouTube ID: IT1iOEPkPx4",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-27",
@@ -2318,9 +2318,9 @@
         {
           "date": "2026-10-06",
           "short_date": "Oct 06",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -2378,17 +2378,27 @@
           "short_date": "Oct 06",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
         {
+          "tiktok_id": "yt_IT1iOEPkPx4",
+          "youtube_id": "IT1iOEPkPx4",
+          "status": "uploaded",
+          "upload_date": "2026-10-06",
+          "view_count": 0,
+          "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
+          "created_at": "2026-10-06 08:25:49",
+          "rowid": 40
+        },
+        {
           "tiktok_id": "broadcast_avocado_1791184417_channel_4",
           "youtube_id": "9dGtcnGrG6g",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 51834,
+          "view_count": 51866,
           "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
           "created_at": "2026-10-05 07:13:37",
           "rowid": 39
@@ -2508,7 +2518,7 @@
           "youtube_id": "fnlS7JeTxyA",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 1980527,
+          "view_count": 1980712,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:35:02",
           "rowid": 27
@@ -2568,7 +2578,7 @@
           "youtube_id": "5FyiXi2KuKo",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 7445280,
+          "view_count": 7446888,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:06:44",
           "rowid": 21
@@ -2780,7 +2790,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 02, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_5",
@@ -2790,7 +2800,7 @@
       "youtube_handle": "@luvthuggaas",
       "youtube_channel_url": "https://www.youtube.com/@luvthuggaas",
       "subscribers_count": 405,
-      "published_videos_count": 12,
+      "published_videos_count": 13,
       "live_youtube_views": 14814,
       "owner_email": "khadijaammar284@gmail.com",
       "channel_created_at": "Sep 01, 2026",
@@ -2851,15 +2861,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 64,
+      "total_uploaded": 65,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 36341,
-      "last_run_date": "2026-10-05 07:13:54",
+      "last_run_date": "2026-10-06 08:26:11",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: Fwdr2rVeqTs",
+      "last_run_message": "Uploaded YouTube ID: flJaJsLrIEw",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-27",
@@ -2939,9 +2949,9 @@
         {
           "date": "2026-10-06",
           "short_date": "Oct 06",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -2999,11 +3009,21 @@
           "short_date": "Oct 06",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "broadcast_day1_1791275171_channel_5",
+          "youtube_id": "flJaJsLrIEw",
+          "status": "uploaded",
+          "upload_date": "2026-10-06",
+          "view_count": 0,
+          "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
+          "created_at": "2026-10-06 08:26:11",
+          "rowid": 65
+        },
         {
           "tiktok_id": "yt_cb4-3f_FLWU",
           "youtube_id": "cb4-3f_FLWU",
@@ -3493,16 +3513,6 @@
           "title": "#fyppppppppppppppppppppppp #hickeys #transformers #rs",
           "created_at": "2026-09-20 09:47:46",
           "rowid": 16
-        },
-        {
-          "tiktok_id": "yt_m7L3y1rhjsI",
-          "youtube_id": "m7L3y1rhjsI",
-          "status": "uploaded",
-          "upload_date": "2026-09-20",
-          "view_count": 763,
-          "title": "#fyppppppppppppppppppppppp #luvthugga #rs",
-          "created_at": "2026-09-20 09:47:46",
-          "rowid": 15
         }
       ],
       "pending_retry_items": [],
@@ -3511,7 +3521,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 02, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_6",
@@ -3521,7 +3531,7 @@
       "youtube_handle": "@eorias_ai",
       "youtube_channel_url": "https://www.youtube.com/@eorias_ai",
       "subscribers_count": 105,
-      "published_videos_count": 52,
+      "published_videos_count": 53,
       "live_youtube_views": 3242,
       "owner_email": "chotaaakhannn@gmail.com",
       "channel_created_at": "Sep 02, 2026",
@@ -3555,15 +3565,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 52,
+      "total_uploaded": 53,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 3242,
-      "last_run_date": "2026-10-05 07:14:15",
+      "last_run_date": "2026-10-06 08:26:32",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: b8TYCCY3m2Q",
+      "last_run_message": "Uploaded YouTube ID: gkzhCPUewOg",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-27",
@@ -3643,9 +3653,9 @@
         {
           "date": "2026-10-06",
           "short_date": "Oct 06",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -3703,11 +3713,21 @@
           "short_date": "Oct 06",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "broadcast_day1_1791275192_channel_6",
+          "youtube_id": "gkzhCPUewOg",
+          "status": "uploaded",
+          "upload_date": "2026-10-06",
+          "view_count": 0,
+          "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
+          "created_at": "2026-10-06 08:26:32",
+          "rowid": 53
+        },
         {
           "tiktok_id": "broadcast_avocado_1791184455_channel_6",
           "youtube_id": "b8TYCCY3m2Q",
@@ -4197,16 +4217,6 @@
           "title": "El Yankee vende carros #elyankee #elyankees #aivideo #funny #chistoso",
           "created_at": "2026-09-07 01:21:23",
           "rowid": 4
-        },
-        {
-          "tiktok_id": "7682015146784328973",
-          "youtube_id": "4j7jKsKTEQQ",
-          "status": "uploaded",
-          "upload_date": "2026-09-05",
-          "view_count": 486,
-          "title": "El Yankee reto de septiembre #elyankee #retoseptiembre #hombres #ganso #soldados",
-          "created_at": "2026-09-05 18:04:34",
-          "rowid": 3
         }
       ],
       "pending_retry_items": [],
@@ -4215,7 +4225,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 27, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_7",
@@ -4720,7 +4730,7 @@
       "youtube_handle": "@kiddiekitties",
       "youtube_channel_url": "https://www.youtube.com/@kiddiekitties",
       "subscribers_count": 250,
-      "published_videos_count": 13,
+      "published_videos_count": 14,
       "live_youtube_views": 1447,
       "owner_email": "marryaksaa@gmail.com",
       "channel_created_at": "Sep 03, 2026",
@@ -4731,14 +4741,13 @@
         "gdrive_url": "https://drive.google.com/drive/folders/1YJ9zIepTOez7GcEo62ck_iu_YraEJHyv",
         "folder_title": "TORTOISE",
         "total_in_drive": 23,
-        "posted_count": 2,
-        "remaining_unposted": 21,
+        "posted_count": 3,
+        "remaining_unposted": 20,
         "videos_per_day": 1,
-        "days_buffer": 21.0,
+        "days_buffer": 20.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (21 videos ready)",
+        "stock_label": "HEALTHY (20 videos ready)",
         "unposted_videos": [
-          "Can you spot the real baby hidden among all these fluffy teddy bears #cutebaby #babycostume",
           "Cutest little bumblebee you'll see today!  #baby #cutebaby #bumblebee #babyfever #viral",
           "Found A Cozy Little Red Fox Sleeping On Our Sofa Wait Until He Turns Around #cutebaby",
           "Found A Little Penguin Chilling In The Crib Wait Till You See The Cute Smile Inside #cutebaby",
@@ -4752,16 +4761,17 @@
           "I Thought This Rug Came With A Zebra  #baby #cutebaby #funny #parenting #viral",
           "I Was Not Expecting The Cuteness At The End  #baby #cutebaby #wholesome #funnybabies #viral",
           "Little Koala Refused To Let Go Of The Tree Trunk Today Maximum Cuddle Mode #cutebaby",
-          "Meet the cutest little sloth taking the most relaxing nap of the day #cutebaby #babycostume"
+          "Meet the cutest little sloth taking the most relaxing nap of the day #cutebaby #babycostume",
+          "Ordered A Giant Sweet Strawberry For The Nursery Didn't Expect It To Wiggle And Giggle"
         ]
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1YJ9zIepTOez7GcEo62ck_iu_YraEJHyv",
         "stock_status": "healthy",
-        "remaining_unposted": 21,
+        "remaining_unposted": 20,
         "total_available": 23,
-        "days_buffer": 21.0,
+        "days_buffer": 20.0,
         "alert_message": null
       },
       "enabled": true,
@@ -4781,15 +4791,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 56,
+      "total_uploaded": 57,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 18095,
-      "last_run_date": "2026-10-05 07:14:51",
+      "last_run_date": "2026-10-06 08:26:53",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: GfKTgZfNZXs",
+      "last_run_message": "Uploaded YouTube ID: GC9ietv2tSA",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-27",
@@ -4869,9 +4879,9 @@
         {
           "date": "2026-10-06",
           "short_date": "Oct 06",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -4929,11 +4939,21 @@
           "short_date": "Oct 06",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "broadcast_day1_1791275213_channel_8",
+          "youtube_id": "GC9ietv2tSA",
+          "status": "uploaded",
+          "upload_date": "2026-10-06",
+          "view_count": 0,
+          "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
+          "created_at": "2026-10-06 08:26:53",
+          "rowid": 57
+        },
         {
           "tiktok_id": "yt_VRW0-rpuXHM",
           "youtube_id": "VRW0-rpuXHM",
@@ -5423,16 +5443,6 @@
           "title": "The wolf paid the high price for beating the Chihuahua dog’s wife 😱🥰#chihuahua #funnydogs #aivi",
           "created_at": "2026-09-08 06:38:52",
           "rowid": 8
-        },
-        {
-          "tiktok_id": "yt_6Yno82DutHw",
-          "youtube_id": "6Yno82DutHw",
-          "status": "uploaded",
-          "upload_date": "2026-09-07",
-          "view_count": 2,
-          "title": "The Chihuahuas went to train and fight the villain’ 😱#AIvideo #funnydogs #AI",
-          "created_at": "2026-09-07 01:21:22",
-          "rowid": 7
         }
       ],
       "pending_retry_items": [],
@@ -5441,7 +5451,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Oct 05, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_9",
@@ -5451,7 +5461,7 @@
       "youtube_handle": "@minimistakes",
       "youtube_channel_url": "https://www.youtube.com/@minimistakes",
       "subscribers_count": 141,
-      "published_videos_count": 22,
+      "published_videos_count": 24,
       "live_youtube_views": 851,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Sep 03, 2026",
@@ -5485,15 +5495,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 54,
+      "total_uploaded": 55,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 4731,
-      "last_run_date": "2026-10-05 07:15:10",
+      "last_run_date": "2026-10-06 08:27:15",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: nK8FxG52y2M",
+      "last_run_message": "Uploaded YouTube ID: zknucsSXcjU",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-27",
@@ -5573,9 +5583,9 @@
         {
           "date": "2026-10-06",
           "short_date": "Oct 06",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -5633,11 +5643,21 @@
           "short_date": "Oct 06",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "broadcast_day1_1791275235_channel_9",
+          "youtube_id": "zknucsSXcjU",
+          "status": "uploaded",
+          "upload_date": "2026-10-06",
+          "view_count": 0,
+          "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
+          "created_at": "2026-10-06 08:27:15",
+          "rowid": 55
+        },
         {
           "tiktok_id": "yt_nK8FxG52y2M",
           "youtube_id": "nK8FxG52y2M",
@@ -6127,16 +6147,6 @@
           "title": "Too Cute to Handle Today! 🐦💖\n\n#CuteBirds #Adorable #FantasyBird #ViralReels #TrendingReels \n\n🤖",
           "created_at": "2026-09-07 01:21:25",
           "rowid": 6
-        },
-        {
-          "tiktok_id": "yt_3fhTDXaJKMM",
-          "youtube_id": "3fhTDXaJKMM",
-          "status": "uploaded",
-          "upload_date": "2026-09-06",
-          "view_count": 26,
-          "title": "You’ve NEVER seen a bird show off like this! 😱🐦\n\n#BirdShow #CuteBirds #NatureLovers #Amazing #V",
-          "created_at": "2026-09-06 04:49:38",
-          "rowid": 5
         }
       ],
       "pending_retry_items": [],
@@ -6145,7 +6155,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 28, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_10",
@@ -6155,7 +6165,7 @@
       "youtube_handle": "@motionalpaw",
       "youtube_channel_url": "https://www.youtube.com/@motionalpaw",
       "subscribers_count": 89,
-      "published_videos_count": 37,
+      "published_videos_count": 38,
       "live_youtube_views": 1452,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Feb 07, 2020",
@@ -6218,13 +6228,13 @@
       },
       "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 54,
+      "total_uploaded": 55,
       "total_failed": 20,
       "total_pending_retry": 0,
       "total_views": 1566,
-      "last_run_date": "2026-10-06 03:14:59",
+      "last_run_date": "2026-10-06 08:27:38",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: TKPGqQQvqTM",
+      "last_run_message": "Uploaded YouTube ID: zXO6sEBRq8Y",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-27",
@@ -6306,7 +6316,7 @@
           "short_date": "Oct 06",
           "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
@@ -6364,11 +6374,21 @@
           "short_date": "Oct 06",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "broadcast_day1_1791275258_channel_10",
+          "youtube_id": "zXO6sEBRq8Y",
+          "status": "uploaded",
+          "upload_date": "2026-10-06",
+          "view_count": 0,
+          "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
+          "created_at": "2026-10-06 08:27:38",
+          "rowid": 75
+        },
         {
           "tiktok_id": "yt_TKPGqQQvqTM",
           "youtube_id": "TKPGqQQvqTM",
@@ -6858,16 +6878,6 @@
           "title": "Cantonese people can eat this stuff for a lifetime! The Ultimate Guide to Honey Sauce Barbecued Pork!",
           "created_at": "2026-09-16 00:17:55",
           "rowid": 26
-        },
-        {
-          "tiktok_id": "BV142421A7xb",
-          "youtube_id": null,
-          "status": "failed_permanent",
-          "upload_date": "2026-09-16",
-          "view_count": 1584040,
-          "title": "ah? ! So greedy",
-          "created_at": "2026-09-16 00:17:47",
-          "rowid": 25
         }
       ],
       "pending_retry_items": [],
@@ -6886,7 +6896,7 @@
       "youtube_handle": "@muslimheartpodcasts",
       "youtube_channel_url": "https://www.youtube.com/@muslimheartpodcasts",
       "subscribers_count": 0,
-      "published_videos_count": 35,
+      "published_videos_count": 36,
       "live_youtube_views": 217,
       "owner_email": "",
       "channel_created_at": "Sep 17, 2026",
@@ -6920,15 +6930,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 37,
+      "total_uploaded": 38,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 218,
-      "last_run_date": "2026-10-05 07:15:47",
+      "last_run_date": "2026-10-06 08:27:58",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: Lu6gjIAZ0zo",
+      "last_run_message": "Uploaded YouTube ID: tFhdhqV6p74",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-27",
@@ -7008,9 +7018,9 @@
         {
           "date": "2026-10-06",
           "short_date": "Oct 06",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -7068,11 +7078,21 @@
           "short_date": "Oct 06",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "broadcast_day1_1791275278_channel_11",
+          "youtube_id": "tFhdhqV6p74",
+          "status": "uploaded",
+          "upload_date": "2026-10-06",
+          "view_count": 0,
+          "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
+          "created_at": "2026-10-06 08:27:58",
+          "rowid": 39
+        },
         {
           "tiktok_id": "broadcast_avocado_1791184547_channel_11",
           "youtube_id": "Lu6gjIAZ0zo",
@@ -7450,7 +7470,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 27, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_12",
@@ -7460,7 +7480,7 @@
       "youtube_handle": "@pimpoem-us",
       "youtube_channel_url": "https://www.youtube.com/@pimpoem-us",
       "subscribers_count": 906,
-      "published_videos_count": 32,
+      "published_videos_count": 33,
       "live_youtube_views": 19136,
       "owner_email": "mikesmithere@gmail.com",
       "channel_created_at": "Sep 18, 2026",
@@ -7478,7 +7498,6 @@
         "stock_status": "healthy",
         "stock_label": "HEALTHY (39 videos ready)",
         "unposted_videos": [
-          "Pip Poem Videos",
           "Little Letter Parade | Baby Poem",
           "My Little Family | Baby Poem",
           "One Sunny Apple | Baby Poem",
@@ -7492,7 +7511,8 @@
           "Seven Silly Monkeys | Baby Poem",
           "Share With Friends | Baby Poem",
           "Snowflake Dance | Baby Poem",
-          "Splish Splash Fish | Baby Poem"
+          "Splish Splash Fish | Baby Poem",
+          "Splish Splash Rain | Baby Poem"
         ]
       },
       "content_inventory": {
@@ -7522,15 +7542,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 54,
+      "total_uploaded": 55,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 19251,
-      "last_run_date": "2026-10-05 07:16:06",
+      "last_run_date": "2026-10-06 08:28:18",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: zzCir3rKZe0",
+      "last_run_message": "Uploaded YouTube ID: jrToS5ikwg0",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-27",
@@ -7610,9 +7630,9 @@
         {
           "date": "2026-10-06",
           "short_date": "Oct 06",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
@@ -7670,11 +7690,21 @@
           "short_date": "Oct 06",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "broadcast_day1_1791275298_channel_12",
+          "youtube_id": "jrToS5ikwg0",
+          "status": "uploaded",
+          "upload_date": "2026-10-06",
+          "view_count": 0,
+          "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
+          "created_at": "2026-10-06 08:28:18",
+          "rowid": 76
+        },
         {
           "tiktok_id": "yt_jPkqDqBb42o",
           "youtube_id": "jPkqDqBb42o",
@@ -8164,16 +8194,6 @@
           "title": "Apple A, Ball B | Cute Baby Poem & Nursery Rhymes #Shorts",
           "created_at": "2026-09-21 04:36:40",
           "rowid": 27
-        },
-        {
-          "tiktok_id": "1Kf6Oo4mG31ASKfiF3lSFUKbqcTFM-ONd",
-          "youtube_id": "WnkW_eEhC-4",
-          "status": "uploaded",
-          "upload_date": "2026-09-20",
-          "view_count": 666,
-          "title": "A B C With Pip | Cute Baby Poem & Nursery Rhymes #Shorts",
-          "created_at": "2026-09-20 09:40:44",
-          "rowid": 26
         }
       ],
       "pending_retry_items": [],
@@ -8192,7 +8212,7 @@
       "youtube_handle": "@cutepawmoments-k2c",
       "youtube_channel_url": "https://www.youtube.com/@cutepawmoments-k2c",
       "subscribers_count": 0,
-      "published_videos_count": 41,
+      "published_videos_count": 42,
       "live_youtube_views": 61,
       "owner_email": "cutepawmoments@gmail.com",
       "channel_created_at": "Sep 05, 2026",
@@ -8210,6 +8230,7 @@
         "stock_status": "healthy",
         "stock_label": "HEALTHY (60 videos ready)",
         "unposted_videos": [
+          "Sleeping Baby Dreams",
           "02 Up We Float In Colors Bright Baby Lullaby Poem For Sleeping Babies",
           "03 On The Moon We Spread A Feast Baby Lullaby Poem For Sleeping Babies",
           "04 Climb Aboard The Starlight Train Baby Lullaby Poem For Sleeping Babies",
@@ -8223,8 +8244,7 @@
           "12 At The Carnival So Sweet Baby Lullaby Poem For Sleeping Babies",
           "13 In The Mushroom Village Small Baby Lullaby Poem For Sleeping Babies",
           "14 Sail Away In Paper White Baby Lullaby Poem For Sleeping Babies",
-          "15 Owls Are Singing Soft And Low Baby Lullaby Poem For Sleeping Babies",
-          "16 Ride The Carousel Of Stars Baby Lullaby Poem For Sleeping Babies"
+          "15 Owls Are Singing Soft And Low Baby Lullaby Poem For Sleeping Babies"
         ]
       },
       "content_inventory": {
@@ -8253,15 +8273,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 43,
+      "total_uploaded": 44,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 61,
-      "last_run_date": "2026-10-05 07:16:25",
+      "last_run_date": "2026-10-06 08:28:39",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: 25ZPzgkLRwY",
+      "last_run_message": "Uploaded YouTube ID: X-tLK0IwBpY",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-27",
@@ -8341,9 +8361,9 @@
         {
           "date": "2026-10-06",
           "short_date": "Oct 06",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -8401,11 +8421,21 @@
           "short_date": "Oct 06",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "broadcast_day1_1791275319_channel_13",
+          "youtube_id": "X-tLK0IwBpY",
+          "status": "uploaded",
+          "upload_date": "2026-10-06",
+          "view_count": 0,
+          "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
+          "created_at": "2026-10-06 08:28:39",
+          "rowid": 45
+        },
         {
           "tiktok_id": "yt_jbGAJZbKcRk",
           "youtube_id": "jbGAJZbKcRk",
@@ -8843,7 +8873,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Oct 05, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_14",
@@ -8853,7 +8883,7 @@
       "youtube_handle": "@curiotomy",
       "youtube_channel_url": "https://www.youtube.com/@curiotomy",
       "subscribers_count": 2070,
-      "published_videos_count": 25,
+      "published_videos_count": 26,
       "live_youtube_views": 457552,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Sep 11, 2026",
@@ -8914,15 +8944,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 30,
+      "total_uploaded": 31,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 460085,
-      "last_run_date": "2026-10-05 07:33:15",
+      "last_run_date": "2026-10-06 08:29:00",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: JhYCa8YlyMg",
+      "last_run_message": "Uploaded YouTube ID: DHRgawEJKDI",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-27",
@@ -9002,9 +9032,9 @@
         {
           "date": "2026-10-06",
           "short_date": "Oct 06",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -9062,11 +9092,21 @@
           "short_date": "Oct 06",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "broadcast_day1_1791275340_channel_14",
+          "youtube_id": "DHRgawEJKDI",
+          "status": "uploaded",
+          "upload_date": "2026-10-06",
+          "view_count": 0,
+          "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
+          "created_at": "2026-10-06 08:29:00",
+          "rowid": 31
+        },
         {
           "tiktok_id": "yt_ohd-GNZUpzw",
           "youtube_id": "ohd-GNZUpzw",
@@ -9374,7 +9414,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 17, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_15",
@@ -10511,7 +10551,7 @@
       "youtube_handle": "@pulsesmedia",
       "youtube_channel_url": "https://www.youtube.com/@pulsesmedia",
       "subscribers_count": 0,
-      "published_videos_count": 4,
+      "published_videos_count": 5,
       "live_youtube_views": 5,
       "owner_email": "mateenkhizer@gmail.com",
       "channel_created_at": "Feb 07, 2020",
@@ -10545,15 +10585,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 4,
+      "total_uploaded": 5,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 5,
-      "last_run_date": "2026-10-05 07:17:06",
+      "last_run_date": "2026-10-06 08:29:23",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: plFEynN0XCI",
+      "last_run_message": "Uploaded YouTube ID: wcKXCnz_20U",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-27",
@@ -10631,9 +10671,9 @@
         {
           "date": "2026-10-06",
           "short_date": "Oct 06",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -10691,11 +10731,21 @@
           "short_date": "Oct 06",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "broadcast_day1_1791275363_channel_17",
+          "youtube_id": "wcKXCnz_20U",
+          "status": "uploaded",
+          "upload_date": "2026-10-06",
+          "view_count": 0,
+          "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
+          "created_at": "2026-10-06 08:29:23",
+          "rowid": 5
+        },
         {
           "tiktok_id": "broadcast_avocado_1791184626_channel_17",
           "youtube_id": "plFEynN0XCI",
@@ -10743,11 +10793,11 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 29, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-10-06 08:24:41 UTC",
+    "timestamp": "2026-10-06 08:31:00 UTC",
     "total_channels": 17,
     "healthy_count": 14,
     "auto_healed_count": 0,
@@ -10762,7 +10812,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-10-06",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
@@ -10790,7 +10840,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-10-06",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
@@ -10818,7 +10868,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-10-06",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -10845,8 +10895,8 @@
         "source_target": "faghieegiza",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-10-05",
-        "uploads_today": 0,
+        "last_upload_date": "2026-10-06",
+        "uploads_today": 1,
         "uploads_yesterday": 2,
         "missed_posting": false,
         "error_detail": null,
@@ -10874,7 +10924,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-10-06",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
@@ -10901,8 +10951,8 @@
         "source_target": "https://www.facebook.com/profile.php?id=61594592974641",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-10-05",
-        "uploads_today": 0,
+        "last_upload_date": "2026-10-06",
+        "uploads_today": 1,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -10958,7 +11008,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-10-06",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -10971,9 +11021,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1YJ9zIepTOez7GcEo62ck_iu_YraEJHyv",
           "stock_status": "healthy",
-          "remaining_unposted": 21,
+          "remaining_unposted": 20,
           "total_available": 23,
-          "days_buffer": 21.0,
+          "days_buffer": 20.0,
           "alert_message": null
         }
       },
@@ -10985,8 +11035,8 @@
         "source_target": "N/A",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-10-05",
-        "uploads_today": 0,
+        "last_upload_date": "2026-10-06",
+        "uploads_today": 1,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -11014,7 +11064,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-10-06",
-        "uploads_today": 2,
+        "uploads_today": 3,
         "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
@@ -11041,8 +11091,8 @@
         "source_target": "https://www.facebook.com/bennybrunotv",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-10-05",
-        "uploads_today": 0,
+        "last_upload_date": "2026-10-06",
+        "uploads_today": 1,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -11070,7 +11120,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-10-06",
-        "uploads_today": 2,
+        "uploads_today": 3,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -11098,7 +11148,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-10-06",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -11126,7 +11176,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-10-06",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -11209,8 +11259,8 @@
         "source_target": "N/A",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-10-05",
-        "uploads_today": 0,
+        "last_upload_date": "2026-10-06",
+        "uploads_today": 1,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
