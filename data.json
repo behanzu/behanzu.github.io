@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-10-08 08:20:03 UTC",
+    "timestamp_utc": "2026-10-08 08:31:22 UTC",
     "total_channels": 17,
-    "active_channels": 15,
-    "disabled_channels": 2,
-    "idle_channels": 2,
-    "today_completed_channels": 0,
+    "active_channels": 16,
+    "disabled_channels": 1,
+    "idle_channels": 1,
+    "today_completed_channels": 10,
     "token_warnings": 0,
-    "error_channels": 0,
-    "health_rate_percent": 100.0,
-    "total_uploaded_videos": 829,
-    "total_views_tracked": 101128359,
+    "error_channels": 1,
+    "health_rate_percent": 93.8,
+    "total_uploaded_videos": 842,
+    "total_views_tracked": 101124111,
     "total_subscribers": 63646,
     "total_pending_retries": 1,
     "underperforming_channels": 4,
     "content_depleted_channels": 0,
-    "content_low_channels": 0,
-    "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-10-08 08:20:08 UTC"
+    "content_low_channels": 1,
+    "content_alerts_count": 1,
+    "gh_pages_synced_at": "2026-10-08 08:31:27 UTC"
   },
   "channels": [
     {
@@ -28,7 +28,7 @@
       "youtube_handle": "@meelyansnmyhands",
       "youtube_channel_url": "https://www.youtube.com/@meelyansnmyhands",
       "subscribers_count": 1920,
-      "published_videos_count": 26,
+      "published_videos_count": 27,
       "live_youtube_views": 3171230,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Apr 07, 2026",
@@ -62,15 +62,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 84,
+      "total_uploaded": 85,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 3210711,
-      "last_run_date": "2026-10-06 08:24:51",
+      "total_views": 3211985,
+      "last_run_date": "2026-10-08 08:26:37",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: h9eY81uQFXI",
+      "last_run_message": "Uploaded YouTube ID: YhV7XHWj6NY",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-29",
@@ -148,9 +148,9 @@
         {
           "date": "2026-10-08",
           "short_date": "Oct 08",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -208,11 +208,21 @@
           "short_date": "Oct 08",
           "day_name": "Thu",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "babycare_badge_1791447997_channel_1",
+          "youtube_id": "YhV7XHWj6NY",
+          "status": "uploaded",
+          "upload_date": "2026-10-08",
+          "view_count": 0,
+          "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
+          "created_at": "2026-10-08 08:26:37",
+          "rowid": 86
+        },
         {
           "tiktok_id": "yt_s-naazmr-oU",
           "youtube_id": "s-naazmr-oU",
@@ -258,7 +268,7 @@
           "youtube_id": "mZkhQPeyVHo",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 22938,
+          "view_count": 23024,
           "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
           "created_at": "2026-10-05 07:12:41",
           "rowid": 81
@@ -408,7 +418,7 @@
           "youtube_id": "dLzkSsXLepU",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 6484,
+          "view_count": 6489,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #Baby #SmartTech",
           "created_at": "2026-09-27 05:46:20",
           "rowid": 66
@@ -468,7 +478,7 @@
           "youtube_id": "W51MFUc8_H4",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 3122085,
+          "view_count": 3123268,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:33:17",
           "rowid": 60
@@ -702,16 +712,6 @@
           "title": "🌈 One tiny \"helper\" turned a simple experiment into a giant rainbow foam explosion! 🤯🫧😂",
           "created_at": "2026-09-17 00:10:20",
           "rowid": 37
-        },
-        {
-          "tiktok_id": "2329628284446410",
-          "youtube_id": "RLumgo9is1g",
-          "status": "uploaded",
-          "upload_date": "2026-09-15",
-          "view_count": 10,
-          "title": "Bro really turned a paper plate into a drift board 😭🐱 Olympic-level drifting. Zero thoughts, ju",
-          "created_at": "2026-09-15 22:12:05",
-          "rowid": 36
         }
       ],
       "pending_retry_items": [],
@@ -720,7 +720,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 25, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_2",
@@ -730,7 +730,7 @@
       "youtube_handle": "@notachefofficialy",
       "youtube_channel_url": "https://www.youtube.com/@notachefofficialy",
       "subscribers_count": 40400,
-      "published_videos_count": 69,
+      "published_videos_count": 70,
       "live_youtube_views": 65521131,
       "owner_email": "baarakhaaan@gmail.com",
       "channel_created_at": "Aug 30, 2026",
@@ -740,26 +740,30 @@
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/13aPFnGVSotrOaUKVRX-MxgfrkHRn4qr-",
         "folder_title": "NOT A CHEF",
-        "total_in_drive": 50,
-        "posted_count": 50,
-        "remaining_unposted": 0,
+        "total_in_drive": 56,
+        "posted_count": 53,
+        "remaining_unposted": 3,
         "videos_per_day": 1,
-        "days_buffer": 0.0,
-        "stock_status": "depleted",
-        "stock_label": "EMPTY (0 videos left!)",
-        "unposted_videos": []
+        "days_buffer": 3.0,
+        "stock_status": "low_stock",
+        "stock_label": "LOW STOCK (3 videos left)",
+        "unposted_videos": [
+          "Ultra Crispy Onion Pakoda  #onionpakoda #crispy #pakora #asmrfood #indianfood",
+          "Ultra Crispy Spicy Cauliflower Bites!  #asmrfood #cauliflower #crispy #recipe #foodie",
+          "Watermelon Lemonade  #asmrfood #cooking #recipe #food #viral"
+        ]
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/13aPFnGVSotrOaUKVRX-MxgfrkHRn4qr-",
-        "stock_status": "depleted",
-        "remaining_unposted": 0,
-        "total_available": 50,
-        "days_buffer": 0.0,
-        "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
+        "stock_status": "low_stock",
+        "remaining_unposted": 3,
+        "total_available": 56,
+        "days_buffer": 3.0,
+        "alert_message": "Only 3 unposted videos remaining in Google Drive (~3.0 days left). Add more videos soon."
       },
       "enabled": true,
-      "status": "idle",
+      "status": "active",
       "upload_mode": "sequence",
       "videos_per_day": 1,
       "slot_times": {
@@ -775,15 +779,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 72,
+      "total_uploaded": 73,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 65521131,
-      "last_run_date": "2026-10-06 08:25:10",
+      "last_run_date": "2026-10-08 08:26:46",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: mJqKBh6u3yU",
+      "last_run_message": "Uploaded YouTube ID: ACTKn75aNYw",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-29",
@@ -861,9 +865,9 @@
         {
           "date": "2026-10-08",
           "short_date": "Oct 08",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -921,17 +925,27 @@
           "short_date": "Oct 08",
           "day_name": "Thu",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
         {
+          "tiktok_id": "babycare_badge_1791448006_channel_2",
+          "youtube_id": "ACTKn75aNYw",
+          "status": "uploaded",
+          "upload_date": "2026-10-08",
+          "view_count": 0,
+          "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
+          "created_at": "2026-10-08 08:26:46",
+          "rowid": 73
+        },
+        {
           "tiktok_id": "yt_NFT4YurjGXc",
           "youtube_id": "NFT4YurjGXc",
           "status": "uploaded",
           "upload_date": "2026-10-08",
-          "view_count": 2327,
+          "view_count": 2344,
           "title": "Ultra Crispy Fried Eggplant Bites 🍆 #crispyeggplant #asmrcooking #easyrecipe #snackideas",
           "created_at": "2026-10-08 07:36:51",
           "rowid": 72
@@ -941,7 +955,7 @@
           "youtube_id": "iNEqHvVp80w",
           "status": "uploaded",
           "upload_date": "2026-10-07",
-          "view_count": 1170,
+          "view_count": 1238,
           "title": "Ultimate Refreshing Virgin Mojito 🍹 #mojito #asmrfood #recipe #mocktail #viral",
           "created_at": "2026-10-07 05:36:22",
           "rowid": 71
@@ -971,7 +985,7 @@
           "youtube_id": "_fe_53VwZVg",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 140701,
+          "view_count": 140798,
           "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
           "created_at": "2026-10-05 07:13:00",
           "rowid": 68
@@ -991,7 +1005,7 @@
           "youtube_id": "hgtf6evk8AA",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 21203,
+          "view_count": 21357,
           "title": "Ultimate Crispy Fried Chicken & Hash Browns 🍗 #crispychicken #friedchicken #hashbrowns #asmrfoo",
           "created_at": "2026-10-05 05:03:08",
           "rowid": 66
@@ -1001,7 +1015,7 @@
           "youtube_id": "PJ8YCb2EIF8",
           "status": "uploaded",
           "upload_date": "2026-10-03",
-          "view_count": 4761,
+          "view_count": 4828,
           "title": "Tomato Rice 🍲 #asmrfood #cooking #recipe #food #viral",
           "created_at": "2026-10-03 01:44:49",
           "rowid": 65
@@ -1181,7 +1195,7 @@
           "youtube_id": "yN0VDgbbbiw",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 9215235,
+          "view_count": 9218880,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:33:57",
           "rowid": 47
@@ -1231,7 +1245,7 @@
           "youtube_id": "Wun34-adtSc",
           "status": "uploaded",
           "upload_date": "2026-09-24",
-          "view_count": 35652,
+          "view_count": 35654,
           "title": "Loaded Cheese Fries 🍟 #loadedfries #asmrfood #cheesy #recipe #foodie",
           "created_at": "2026-09-24 07:06:36",
           "rowid": 42
@@ -1415,16 +1429,6 @@
           "title": "Crispy Onion Ring 🥐 #asmrfood #cooking #recipe #food #viral",
           "created_at": "2026-09-17 00:10:29",
           "rowid": 24
-        },
-        {
-          "tiktok_id": "1QQlpS6TvaWxSu3lsdxHDkuYax9aAdcPn",
-          "youtube_id": "C2uNqm3egAI",
-          "status": "uploaded",
-          "upload_date": "2026-09-16",
-          "view_count": 10112,
-          "title": "Crispy Onion Pakoras 🧅 #pakora #onionpakoda #asmrfood #recipe #crispysnacks",
-          "created_at": "2026-09-16 00:15:18",
-          "rowid": 23
         }
       ],
       "pending_retry_items": [],
@@ -1433,8 +1437,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 01, 2026",
-      "overall_status": "idle",
-      "idle_reason": "inventory_depleted"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_3",
@@ -1444,7 +1447,7 @@
       "youtube_handle": "@quote4quotes",
       "youtube_channel_url": "https://www.youtube.com/@quote4quotes",
       "subscribers_count": 1610,
-      "published_videos_count": 56,
+      "published_videos_count": 57,
       "live_youtube_views": 3149226,
       "owner_email": "mrsabdulmateen36@gmail.com",
       "channel_created_at": "Sep 01, 2026",
@@ -1505,15 +1508,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 57,
+      "total_uploaded": 58,
       "total_failed": 0,
       "total_pending_retry": 1,
       "total_views": 3152149,
-      "last_run_date": "2026-10-06 08:25:30",
+      "last_run_date": "2026-10-08 08:27:01",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: xpoJdu4P_J0",
+      "last_run_message": "Uploaded YouTube ID: WC9eW62M6_s",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-29",
@@ -1591,9 +1594,9 @@
         {
           "date": "2026-10-08",
           "short_date": "Oct 08",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -1651,11 +1654,21 @@
           "short_date": "Oct 08",
           "day_name": "Thu",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "babycare_badge_1791448021_channel_3",
+          "youtube_id": "WC9eW62M6_s",
+          "status": "uploaded",
+          "upload_date": "2026-10-08",
+          "view_count": 0,
+          "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
+          "created_at": "2026-10-08 08:27:01",
+          "rowid": 59
+        },
         {
           "tiktok_id": "yt_bqN_CMHAkn8",
           "youtube_id": "bqN_CMHAkn8",
@@ -2145,16 +2158,6 @@
           "title": "Being a good mom #mom #momsoftiktok #menthalhealth #menthalhealthmatters #mentalhealthawareness",
           "created_at": "2026-09-06 04:49:38",
           "rowid": 9
-        },
-        {
-          "tiktok_id": "yt_410xNaby_QU",
-          "youtube_id": "410xNaby_QU",
-          "status": "uploaded",
-          "upload_date": "2026-09-05",
-          "view_count": 593,
-          "title": "Don’t want to pretend that ‘ I’m fine’ anymore  #tired #scared #scaredofmyself #tiredoftrying #",
-          "created_at": "2026-09-06 04:49:38",
-          "rowid": 10
         }
       ],
       "pending_retry_items": [
@@ -2175,7 +2178,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Oct 05, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_4",
@@ -2185,7 +2188,7 @@
       "youtube_handle": "@luvthugga-h1p",
       "youtube_channel_url": "https://www.youtube.com/@luvthugga-h1p",
       "subscribers_count": 5360,
-      "published_videos_count": 41,
+      "published_videos_count": 42,
       "live_youtube_views": 10060990,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Oct 28, 2025",
@@ -2219,15 +2222,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 41,
+      "total_uploaded": 42,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 10204540,
-      "last_run_date": "2026-10-06 08:25:50",
+      "total_views": 10205659,
+      "last_run_date": "2026-10-08 08:27:12",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: IT1iOEPkPx4",
+      "last_run_message": "Uploaded YouTube ID: bGdaOPzdLgs",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-29",
@@ -2305,9 +2308,9 @@
         {
           "date": "2026-10-08",
           "short_date": "Oct 08",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -2365,11 +2368,21 @@
           "short_date": "Oct 08",
           "day_name": "Thu",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "babycare_badge_1791448032_channel_4",
+          "youtube_id": "bGdaOPzdLgs",
+          "status": "uploaded",
+          "upload_date": "2026-10-08",
+          "view_count": 1,
+          "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
+          "created_at": "2026-10-08 08:27:12",
+          "rowid": 42
+        },
         {
           "tiktok_id": "yt_gTTiHywq9ig",
           "youtube_id": "gTTiHywq9ig",
@@ -2405,7 +2418,7 @@
           "youtube_id": "UnRv-SaIpjU",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 1456,
+          "view_count": 1483,
           "title": "TikTok video",
           "created_at": "2026-10-05 05:03:08",
           "rowid": 38
@@ -2515,7 +2528,7 @@
           "youtube_id": "fnlS7JeTxyA",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 2117731,
+          "view_count": 2117893,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:35:02",
           "rowid": 27
@@ -2575,7 +2588,7 @@
           "youtube_id": "5FyiXi2KuKo",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 7691058,
+          "view_count": 7691987,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:06:44",
           "rowid": 21
@@ -2787,7 +2800,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 02, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_5",
@@ -2797,7 +2810,7 @@
       "youtube_handle": "@luvthuggaas",
       "youtube_channel_url": "https://www.youtube.com/@luvthuggaas",
       "subscribers_count": 419,
-      "published_videos_count": 15,
+      "published_videos_count": 16,
       "live_youtube_views": 15122,
       "owner_email": "khadijaammar284@gmail.com",
       "channel_created_at": "Sep 01, 2026",
@@ -2856,15 +2869,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 67,
+      "total_uploaded": 68,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 36700,
-      "last_run_date": "2026-10-06 08:26:11",
+      "last_run_date": "2026-10-08 08:27:23",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: flJaJsLrIEw",
+      "last_run_message": "Uploaded YouTube ID: njjokYN0moQ",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-29",
@@ -2942,9 +2955,9 @@
         {
           "date": "2026-10-08",
           "short_date": "Oct 08",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -3002,11 +3015,21 @@
           "short_date": "Oct 08",
           "day_name": "Thu",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "babycare_badge_1791448043_channel_5",
+          "youtube_id": "njjokYN0moQ",
+          "status": "uploaded",
+          "upload_date": "2026-10-08",
+          "view_count": 0,
+          "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
+          "created_at": "2026-10-08 08:27:23",
+          "rowid": 68
+        },
         {
           "tiktok_id": "yt_AaYEpJhUEJU",
           "youtube_id": "AaYEpJhUEJU",
@@ -3496,16 +3519,6 @@
           "title": "w bro #fyppppppppppppppppppppppp #talk #love #rs",
           "created_at": "2026-09-20 09:47:46",
           "rowid": 19
-        },
-        {
-          "tiktok_id": "yt_Zm--VvRRMo8",
-          "youtube_id": "Zm--VvRRMo8",
-          "status": "uploaded",
-          "upload_date": "2026-09-20",
-          "view_count": 1810,
-          "title": "#fyppppppppppppppppppppppp #done #retire #rs",
-          "created_at": "2026-09-20 09:47:46",
-          "rowid": 18
         }
       ],
       "pending_retry_items": [],
@@ -3514,7 +3527,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 02, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_6",
@@ -3524,7 +3537,7 @@
       "youtube_handle": "@eorias_ai",
       "youtube_channel_url": "https://www.youtube.com/@eorias_ai",
       "subscribers_count": 109,
-      "published_videos_count": 53,
+      "published_videos_count": 54,
       "live_youtube_views": 3359,
       "owner_email": "chotaaakhannn@gmail.com",
       "channel_created_at": "Sep 02, 2026",
@@ -3558,15 +3571,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 53,
+      "total_uploaded": 54,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 3359,
-      "last_run_date": "2026-10-06 08:26:32",
+      "last_run_date": "2026-10-08 08:27:33",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: gkzhCPUewOg",
+      "last_run_message": "Uploaded YouTube ID: zptJZXfEJC0",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-29",
@@ -3644,9 +3657,9 @@
         {
           "date": "2026-10-08",
           "short_date": "Oct 08",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -3704,11 +3717,21 @@
           "short_date": "Oct 08",
           "day_name": "Thu",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "babycare_badge_1791448053_channel_6",
+          "youtube_id": "zptJZXfEJC0",
+          "status": "uploaded",
+          "upload_date": "2026-10-08",
+          "view_count": 0,
+          "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
+          "created_at": "2026-10-08 08:27:33",
+          "rowid": 54
+        },
         {
           "tiktok_id": "broadcast_day1_1791275192_channel_6",
           "youtube_id": "gkzhCPUewOg",
@@ -4198,16 +4221,6 @@
           "title": "El Yankee se va a Los Ángeles #elyankee #losangeles #aivideo #comedia #humor",
           "created_at": "2026-09-07 01:21:23",
           "rowid": 5
-        },
-        {
-          "tiktok_id": "yt_cJ97___-xPQ",
-          "youtube_id": "cJ97___-xPQ",
-          "status": "uploaded",
-          "upload_date": "2026-09-07",
-          "view_count": 39,
-          "title": "El Yankee vende carros #elyankee #elyankees #aivideo #funny #chistoso",
-          "created_at": "2026-09-07 01:21:23",
-          "rowid": 4
         }
       ],
       "pending_retry_items": [],
@@ -4218,7 +4231,7 @@
       ],
       "has_db": true,
       "linked_date": "Sep 27, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_7",
@@ -4721,7 +4734,7 @@
       "youtube_handle": "@kiddiekitties",
       "youtube_channel_url": "https://www.youtube.com/@kiddiekitties",
       "subscribers_count": 255,
-      "published_videos_count": 16,
+      "published_videos_count": 17,
       "live_youtube_views": 1671,
       "owner_email": "marryaksaa@gmail.com",
       "channel_created_at": "Sep 03, 2026",
@@ -4782,15 +4795,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 59,
+      "total_uploaded": 60,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 18284,
-      "last_run_date": "2026-10-06 08:26:53",
+      "last_run_date": "2026-10-08 08:27:46",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: GC9ietv2tSA",
+      "last_run_message": "Uploaded YouTube ID: eFvBBHtV79s",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-29",
@@ -4868,9 +4881,9 @@
         {
           "date": "2026-10-08",
           "short_date": "Oct 08",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -4928,11 +4941,21 @@
           "short_date": "Oct 08",
           "day_name": "Thu",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "babycare_badge_1791448066_channel_8",
+          "youtube_id": "eFvBBHtV79s",
+          "status": "uploaded",
+          "upload_date": "2026-10-08",
+          "view_count": 0,
+          "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
+          "created_at": "2026-10-08 08:27:46",
+          "rowid": 60
+        },
         {
           "tiktok_id": "yt_uvwMof6P7yI",
           "youtube_id": "uvwMof6P7yI",
@@ -5422,16 +5445,6 @@
           "title": "They laughed at him because he was riding a bicycle and then returned to them in Rose Lis' car",
           "created_at": "2026-09-10 00:59:34",
           "rowid": 11
-        },
-        {
-          "tiktok_id": "yt_HaCNEawM6D0",
-          "youtube_id": "HaCNEawM6D0",
-          "status": "uploaded",
-          "upload_date": "2026-09-10",
-          "view_count": 39,
-          "title": "The Chihuahua who lost everything and then became a millionaire 😱🥰#funnydogs #chihuahua #AIvide",
-          "created_at": "2026-09-10 00:59:34",
-          "rowid": 10
         }
       ],
       "pending_retry_items": [],
@@ -5440,7 +5453,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Oct 05, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_9",
@@ -5484,15 +5497,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "failed",
       "slot2_today": "not_run",
-      "total_uploaded": 55,
+      "total_uploaded": 56,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 4813,
-      "last_run_date": "2026-10-06 08:27:15",
-      "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: zknucsSXcjU",
+      "last_run_date": "2026-10-08 08:29:00",
+      "last_run_status": "failed",
+      "last_run_message": "Broadcast upload failed: <HttpError 410 when requesting https://youtube.googleapis.com/upload/youtube/v3/videos?part=snippet%2Cstatus&alt=json&uploadType=resumable returned \"Gone\". Details: \"Gone\">",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-29",
@@ -5570,9 +5583,9 @@
         {
           "date": "2026-10-08",
           "short_date": "Oct 08",
-          "slot1": "not_run",
+          "slot1": "failed",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -5630,11 +5643,21 @@
           "short_date": "Oct 08",
           "day_name": "Thu",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "yt_KukTSVrfuJM",
+          "youtube_id": "KukTSVrfuJM",
+          "status": "uploaded",
+          "upload_date": "2026-10-08",
+          "view_count": 0,
+          "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
+          "created_at": "2026-10-08 08:30:23",
+          "rowid": 56
+        },
         {
           "tiktok_id": "broadcast_day1_1791275235_channel_9",
           "youtube_id": "zknucsSXcjU",
@@ -6124,16 +6147,6 @@
           "title": "Wait… why is this tiny bird THIS beautiful?! 😳🐦\n\n#CuteBird #BirdLovers #Nature #Amazing #ViralR",
           "created_at": "2026-09-07 01:21:25",
           "rowid": 7
-        },
-        {
-          "tiktok_id": "yt_vwF7kcnGkv4",
-          "youtube_id": "vwF7kcnGkv4",
-          "status": "uploaded",
-          "upload_date": "2026-09-07",
-          "view_count": 18,
-          "title": "Too Cute to Handle Today! 🐦💖\n\n#CuteBirds #Adorable #FantasyBird #ViralReels #TrendingReels \n\n🤖",
-          "created_at": "2026-09-07 01:21:25",
-          "rowid": 6
         }
       ],
       "pending_retry_items": [],
@@ -6144,7 +6157,7 @@
       ],
       "has_db": true,
       "linked_date": "Sep 28, 2026",
-      "overall_status": "active"
+      "overall_status": "error"
     },
     {
       "channel_id": "channel_10",
@@ -6154,7 +6167,7 @@
       "youtube_handle": "@motionalpaw",
       "youtube_channel_url": "https://www.youtube.com/@motionalpaw",
       "subscribers_count": 92,
-      "published_videos_count": 40,
+      "published_videos_count": 41,
       "live_youtube_views": 1618,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Feb 07, 2020",
@@ -6215,15 +6228,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 57,
+      "total_uploaded": 58,
       "total_failed": 20,
       "total_pending_retry": 0,
       "total_views": 1638,
-      "last_run_date": "2026-10-06 08:27:38",
+      "last_run_date": "2026-10-08 08:29:10",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: zXO6sEBRq8Y",
+      "last_run_message": "Uploaded YouTube ID: eJFwCIefbLM",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-29",
@@ -6301,9 +6314,9 @@
         {
           "date": "2026-10-08",
           "short_date": "Oct 08",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -6361,11 +6374,21 @@
           "short_date": "Oct 08",
           "day_name": "Thu",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "babycare_badge_1791448150_channel_10",
+          "youtube_id": "eJFwCIefbLM",
+          "status": "uploaded",
+          "upload_date": "2026-10-08",
+          "view_count": 0,
+          "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
+          "created_at": "2026-10-08 08:29:10",
+          "rowid": 78
+        },
         {
           "tiktok_id": "yt_LJsbzChQa9c",
           "youtube_id": "LJsbzChQa9c",
@@ -6855,16 +6878,6 @@
           "title": "Just show me how thirsty you are! !",
           "created_at": "2026-09-16 00:18:17",
           "rowid": 29
-        },
-        {
-          "tiktok_id": "BV1qm4y1J7vm",
-          "youtube_id": null,
-          "status": "failed_permanent",
-          "upload_date": "2026-09-16",
-          "view_count": 1357059,
-          "title": "\"Guangdong Xia Ri Ming Shui\"",
-          "created_at": "2026-09-16 00:18:10",
-          "rowid": 28
         }
       ],
       "pending_retry_items": [],
@@ -6873,7 +6886,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Oct 06, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_11",
@@ -6883,7 +6896,7 @@
       "youtube_handle": "@muslimheartpodcasts",
       "youtube_channel_url": "https://www.youtube.com/@muslimheartpodcasts",
       "subscribers_count": 0,
-      "published_videos_count": 38,
+      "published_videos_count": 39,
       "live_youtube_views": 220,
       "owner_email": "",
       "channel_created_at": "Sep 17, 2026",
@@ -6917,15 +6930,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 40,
+      "total_uploaded": 41,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 222,
-      "last_run_date": "2026-10-06 08:27:58",
+      "last_run_date": "2026-10-08 08:29:20",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: tFhdhqV6p74",
+      "last_run_message": "Uploaded YouTube ID: 56PYluyGlqI",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-29",
@@ -7003,9 +7016,9 @@
         {
           "date": "2026-10-08",
           "short_date": "Oct 08",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -7063,11 +7076,21 @@
           "short_date": "Oct 08",
           "day_name": "Thu",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "babycare_badge_1791448160_channel_11",
+          "youtube_id": "56PYluyGlqI",
+          "status": "uploaded",
+          "upload_date": "2026-10-08",
+          "view_count": 0,
+          "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
+          "created_at": "2026-10-08 08:29:20",
+          "rowid": 42
+        },
         {
           "tiktok_id": "yt_8dYa_FkWqVE",
           "youtube_id": "8dYa_FkWqVE",
@@ -7478,7 +7501,7 @@
       ],
       "has_db": true,
       "linked_date": "Sep 27, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_12",
@@ -7488,7 +7511,7 @@
       "youtube_handle": "@pimpoem-us",
       "youtube_channel_url": "https://www.youtube.com/@pimpoem-us",
       "subscribers_count": 911,
-      "published_videos_count": 37,
+      "published_videos_count": 38,
       "live_youtube_views": 19568,
       "owner_email": "mikesmithere@gmail.com",
       "channel_created_at": "Sep 18, 2026",
@@ -7498,13 +7521,13 @@
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1pPi14ti2JQTIa7aIspie9k85dsqX_dIQ",
         "folder_title": "Pip Poem Videos (60)",
-        "total_in_drive": 51,
+        "total_in_drive": 61,
         "posted_count": 26,
-        "remaining_unposted": 25,
+        "remaining_unposted": 35,
         "videos_per_day": 2,
-        "days_buffer": 12.5,
+        "days_buffer": 17.5,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (25 videos ready)",
+        "stock_label": "HEALTHY (35 videos ready)",
         "unposted_videos": [
           "Pip Paints The World | Baby Poem",
           "Pip The Little Duckling | Baby Poem",
@@ -7527,9 +7550,9 @@
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1pPi14ti2JQTIa7aIspie9k85dsqX_dIQ",
         "stock_status": "healthy",
-        "remaining_unposted": 25,
-        "total_available": 51,
-        "days_buffer": 12.5,
+        "remaining_unposted": 35,
+        "total_available": 61,
+        "days_buffer": 17.5,
         "alert_message": null
       },
       "enabled": true,
@@ -7550,15 +7573,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 59,
+      "total_uploaded": 60,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 19754,
-      "last_run_date": "2026-10-06 08:28:18",
+      "last_run_date": "2026-10-08 08:29:29",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: jrToS5ikwg0",
+      "last_run_message": "Uploaded YouTube ID: pDr2PwTg60g",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-29",
@@ -7636,9 +7659,9 @@
         {
           "date": "2026-10-08",
           "short_date": "Oct 08",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
@@ -7696,11 +7719,21 @@
           "short_date": "Oct 08",
           "day_name": "Thu",
           "is_today": true,
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "babycare_badge_1791448169_channel_12",
+          "youtube_id": "pDr2PwTg60g",
+          "status": "uploaded",
+          "upload_date": "2026-10-08",
+          "view_count": 0,
+          "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
+          "created_at": "2026-10-08 08:29:29",
+          "rowid": 81
+        },
         {
           "tiktok_id": "yt_by-mBrRhCqg",
           "youtube_id": "by-mBrRhCqg",
@@ -8190,16 +8223,6 @@
           "title": "Brush Brush Your Teeth | Good Habits Song & Cute Baby Poem #Shorts",
           "created_at": "2026-09-22 03:39:35",
           "rowid": 31
-        },
-        {
-          "tiktok_id": "yt_vf6MbsmQG5k",
-          "youtube_id": "vf6MbsmQG5k",
-          "status": "uploaded",
-          "upload_date": "2026-09-22",
-          "view_count": 553,
-          "title": "Banana Boogie | Cute Baby Poem & Nursery Rhymes #Shorts",
-          "created_at": "2026-09-22 03:08:12",
-          "rowid": 30
         }
       ],
       "pending_retry_items": [],
@@ -8228,13 +8251,13 @@
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/13_GJvPUQnmPOUW5muAF0jDFpHmXySGyI",
         "folder_title": "Sleeping Baby Dreams (60)",
-        "total_in_drive": 50,
+        "total_in_drive": 61,
         "posted_count": 3,
-        "remaining_unposted": 47,
+        "remaining_unposted": 58,
         "videos_per_day": 1,
-        "days_buffer": 47.0,
+        "days_buffer": 58.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (47 videos ready)",
+        "stock_label": "HEALTHY (58 videos ready)",
         "unposted_videos": [
           "04 Climb Aboard The Starlight Train Baby Lullaby Poem For Sleeping Babies",
           "05 In The Forest Fairies Glow Baby Lullaby Poem For Sleeping Babies",
@@ -8257,9 +8280,9 @@
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/13_GJvPUQnmPOUW5muAF0jDFpHmXySGyI",
         "stock_status": "healthy",
-        "remaining_unposted": 47,
-        "total_available": 50,
-        "days_buffer": 47.0,
+        "remaining_unposted": 58,
+        "total_available": 61,
+        "days_buffer": 58.0,
         "alert_message": null
       },
       "enabled": true,
@@ -8279,15 +8302,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 46,
+      "total_uploaded": 47,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 63,
-      "last_run_date": "2026-10-06 08:28:39",
+      "last_run_date": "2026-10-08 08:29:39",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: X-tLK0IwBpY",
+      "last_run_message": "Uploaded YouTube ID: s5pr5-0mXeY",
       "daily_sheet_10_days": [
         {
           "date": "2026-09-29",
@@ -8365,9 +8388,9 @@
         {
           "date": "2026-10-08",
           "short_date": "Oct 08",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -8425,11 +8448,21 @@
           "short_date": "Oct 08",
           "day_name": "Thu",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "babycare_badge_1791448179_channel_13",
+          "youtube_id": "s5pr5-0mXeY",
+          "status": "uploaded",
+          "upload_date": "2026-10-08",
+          "view_count": 0,
+          "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
+          "created_at": "2026-10-08 08:29:39",
+          "rowid": 48
+        },
         {
           "tiktok_id": "yt_ImuzpaKdkwI",
           "youtube_id": "ImuzpaKdkwI",
@@ -8897,7 +8930,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Oct 05, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_14",
@@ -8970,7 +9003,7 @@
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 33,
+      "total_uploaded": 34,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 461027,
@@ -9056,7 +9089,7 @@
           "short_date": "Oct 08",
           "slot1": "not_run",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -9114,11 +9147,21 @@
           "short_date": "Oct 08",
           "day_name": "Thu",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "yt_4BNTlXuXxGU",
+          "youtube_id": "4BNTlXuXxGU",
+          "status": "uploaded",
+          "upload_date": "2026-10-08",
+          "view_count": 0,
+          "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
+          "created_at": "2026-10-08 08:30:05",
+          "rowid": 34
+        },
         {
           "tiktok_id": "yt_VT8uUYMU4Zs",
           "youtube_id": "VT8uUYMU4Zs",
@@ -9463,11 +9506,11 @@
       "profile_code": "PF #9",
       "youtube_channel_name": "Bunny Planet",
       "source_title": "BUNNY PLANET",
-      "youtube_handle": "@bunnyplanet-l6u",
-      "youtube_channel_url": "https://www.youtube.com/@bunnyplanet-l6u",
+      "youtube_handle": "@BunnyPlanet-l6u",
+      "youtube_channel_url": "https://www.youtube.com/@BunnyPlanet-l6u",
       "subscribers_count": 9470,
-      "published_videos_count": 39,
-      "live_youtube_views": 18058420,
+      "published_videos_count": 20,
+      "live_youtube_views": 722420,
       "owner_email": "keenatimu@gmail.com",
       "channel_created_at": "Sep 17, 2026",
       "source_type": "gdrive",
@@ -9476,13 +9519,13 @@
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
         "folder_title": "BUNNY PLANET",
-        "total_in_drive": 50,
+        "total_in_drive": 60,
         "posted_count": 28,
-        "remaining_unposted": 22,
+        "remaining_unposted": 32,
         "videos_per_day": 1,
-        "days_buffer": 22.0,
+        "days_buffer": 32.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (22 videos ready)",
+        "stock_label": "HEALTHY (32 videos ready)",
         "unposted_videos": [
           "Fluffy Tornado",
           "Starlight Snuggles",
@@ -9505,9 +9548,9 @@
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
         "stock_status": "healthy",
-        "remaining_unposted": 22,
-        "total_available": 50,
-        "days_buffer": 22.0,
+        "remaining_unposted": 32,
+        "total_available": 60,
+        "days_buffer": 32.0,
         "alert_message": null
       },
       "enabled": true,
@@ -9532,7 +9575,7 @@
       "total_uploaded": 39,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 18058420,
+      "total_views": 18051779,
       "last_run_date": "2026-10-06 09:34:41",
       "last_run_status": "skipped",
       "last_run_message": "Slot 1 has already executed successfully today (2026-10-06). Skipping.",
@@ -9713,7 +9756,7 @@
           "youtube_id": "TFih9B1x6sU",
           "status": "uploaded",
           "upload_date": "2026-10-02",
-          "view_count": 1108,
+          "view_count": 1100,
           "title": "The Great Escape",
           "created_at": "2026-10-02 03:29:37",
           "rowid": 36
@@ -9723,7 +9766,7 @@
           "youtube_id": "Dwqr6QfW4Ao",
           "status": "uploaded",
           "upload_date": "2026-10-01",
-          "view_count": 2544,
+          "view_count": 2500,
           "title": "Paws And Reflect",
           "created_at": "2026-10-01 03:19:56",
           "rowid": 35
@@ -9733,7 +9776,7 @@
           "youtube_id": "75MdbXjOnP8",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 50289,
+          "view_count": 50000,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
           "created_at": "2026-09-30 15:19:51",
           "rowid": 34
@@ -9743,7 +9786,7 @@
           "youtube_id": "owD08vpZqgk",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 4467,
+          "view_count": 4400,
           "title": "Sleepyhead Flop",
           "created_at": "2026-09-30 03:14:16",
           "rowid": 33
@@ -9753,7 +9796,7 @@
           "youtube_id": "NN8BtvxdjBs",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 4879,
+          "view_count": 4800,
           "title": "Banana Zoomies",
           "created_at": "2026-09-30 03:14:16",
           "rowid": 32
@@ -9763,7 +9806,7 @@
           "youtube_id": "gz1RmKzMPI8",
           "status": "uploaded",
           "upload_date": "2026-09-29",
-          "view_count": 5105,
+          "view_count": 5100,
           "title": "The Snuggle Is Real",
           "created_at": "2026-09-29 04:35:58",
           "rowid": 31
@@ -9773,7 +9816,7 @@
           "youtube_id": "IeW8Blz_TOk",
           "status": "uploaded",
           "upload_date": "2026-09-29",
-          "view_count": 5638,
+          "view_count": 5600,
           "title": "Bell Pepper Boogie",
           "created_at": "2026-09-29 04:35:58",
           "rowid": 30
@@ -9783,7 +9826,7 @@
           "youtube_id": "OwhJJgHPEdQ",
           "status": "uploaded",
           "upload_date": "2026-09-28",
-          "view_count": 6045,
+          "view_count": 6000,
           "title": "Bedtime Bunny",
           "created_at": "2026-09-28 00:36:03",
           "rowid": 29
@@ -9793,7 +9836,7 @@
           "youtube_id": "TnxGr-y-8D8",
           "status": "uploaded",
           "upload_date": "2026-09-28",
-          "view_count": 5653,
+          "view_count": 5600,
           "title": "Cucumber Crunch",
           "created_at": "2026-09-28 00:36:03",
           "rowid": 28
@@ -9803,7 +9846,7 @@
           "youtube_id": "U6kJmicCY1s",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 17510,
+          "view_count": 17000,
           "title": "Two little cuties are playing house outdoors. My heart just melted. #adorablebaby",
           "created_at": "2026-09-27 10:05:44",
           "rowid": 27
@@ -9813,7 +9856,7 @@
           "youtube_id": "XZJPTspMP2I",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 22195,
+          "view_count": 22000,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #Baby #SmartTech",
           "created_at": "2026-09-27 05:43:51",
           "rowid": 26
@@ -9823,7 +9866,7 @@
           "youtube_id": "1C2cG5veP98",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 8592,
+          "view_count": 8500,
           "title": "Morning Binky Club",
           "created_at": "2026-09-27 00:58:28",
           "rowid": 25
@@ -9833,7 +9876,7 @@
           "youtube_id": "mTACUWXD1t8",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 9777,
+          "view_count": 9700,
           "title": "Apple Crunch",
           "created_at": "2026-09-27 00:58:28",
           "rowid": 24
@@ -9843,7 +9886,7 @@
           "youtube_id": "aKTvhVCmAVM",
           "status": "uploaded",
           "upload_date": "2026-09-26",
-          "view_count": 20692,
+          "view_count": 20000,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-26 16:03:12",
           "rowid": 23
@@ -9853,7 +9896,7 @@
           "youtube_id": "kz7i2YdJXhk",
           "status": "uploaded",
           "upload_date": "2026-09-26",
-          "view_count": 9697,
+          "view_count": 9600,
           "title": "The Grass Is Greener",
           "created_at": "2026-09-26 04:42:10",
           "rowid": 22
@@ -9863,7 +9906,7 @@
           "youtube_id": "DXC1XQ5Cpyg",
           "status": "uploaded",
           "upload_date": "2026-09-26",
-          "view_count": 10193,
+          "view_count": 10000,
           "title": "Raspberry Kisses",
           "created_at": "2026-09-26 04:42:10",
           "rowid": 21
@@ -9873,7 +9916,7 @@
           "youtube_id": "_QusNar6qHE",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 540749,
+          "view_count": 540000,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:41:50",
           "rowid": 20
@@ -10865,11 +10908,11 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-10-08 08:20:04 UTC",
+    "timestamp": "2026-10-08 08:31:22 UTC",
     "total_channels": 17,
-    "healthy_count": 11,
+    "healthy_count": 13,
     "auto_healed_count": 0,
-    "action_required_count": 3,
+    "action_required_count": 2,
     "channels": [
       {
         "channel_id": "channel_1",
@@ -10880,7 +10923,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-10-08",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -10905,26 +10948,26 @@
         "profile_code": "PF #2",
         "source_type": "gdrive",
         "source_target": "N/A",
-        "status": "action_required",
+        "status": "monitoring",
         "token_status": "valid",
         "last_upload_date": "2026-10-08",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 1,
         "missed_posting": false,
-        "error_detail": null,
+        "error_detail": "Only 3 unposted videos remaining in Google Drive (~3.0 days left). Add more videos soon.",
         "auto_heal_log": null,
-        "user_action_needed": true,
-        "action_title": "Content Depleted: Not A Chef",
-        "action_description": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped.",
-        "action_button_type": "update_source",
+        "user_action_needed": false,
+        "action_title": null,
+        "action_description": null,
+        "action_button_type": null,
         "content_inventory": {
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/13aPFnGVSotrOaUKVRX-MxgfrkHRn4qr-",
-          "stock_status": "depleted",
-          "remaining_unposted": 0,
-          "total_available": 50,
-          "days_buffer": 0.0,
-          "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
+          "stock_status": "low_stock",
+          "remaining_unposted": 3,
+          "total_available": 56,
+          "days_buffer": 3.0,
+          "alert_message": "Only 3 unposted videos remaining in Google Drive (~3.0 days left). Add more videos soon."
         }
       },
       {
@@ -10936,7 +10979,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-10-08",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -10963,8 +11006,8 @@
         "source_target": "faghieegiza",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-10-07",
-        "uploads_today": 0,
+        "last_upload_date": "2026-10-08",
+        "uploads_today": 1,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -10992,7 +11035,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-10-08",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -11017,13 +11060,13 @@
         "profile_code": "PF #1",
         "source_type": "facebook",
         "source_target": "https://www.facebook.com/profile.php?id=61594592974641",
-        "status": "monitoring",
+        "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-10-06",
-        "uploads_today": 0,
+        "last_upload_date": "2026-10-08",
+        "uploads_today": 1,
         "uploads_yesterday": 0,
-        "missed_posting": true,
-        "error_detail": "No uploads recorded in the last 48 hours. Scheduled upload pending next slot.",
+        "missed_posting": false,
+        "error_detail": null,
         "auto_heal_log": null,
         "user_action_needed": false,
         "action_title": null,
@@ -11076,7 +11119,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-10-08",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -11101,13 +11144,13 @@
         "profile_code": "",
         "source_type": "local_folder",
         "source_target": "N/A",
-        "status": "monitoring",
+        "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-10-06",
-        "uploads_today": 0,
+        "last_upload_date": "2026-10-08",
+        "uploads_today": 1,
         "uploads_yesterday": 0,
-        "missed_posting": true,
-        "error_detail": "No uploads recorded in the last 48 hours. Scheduled upload pending next slot.",
+        "missed_posting": false,
+        "error_detail": "Broadcast upload failed: <HttpError 410 when requesting https://youtube.googleapis.com/upload/youtube/v3/videos?part=snippet%2Cstatus&alt=json&uploadType=resumable returned \"Gone\". Details: \"Gone\">",
         "auto_heal_log": null,
         "user_action_needed": false,
         "action_title": null,
@@ -11132,7 +11175,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-10-08",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -11160,7 +11203,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-10-08",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -11188,7 +11231,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-10-08",
-        "uploads_today": 2,
+        "uploads_today": 3,
         "uploads_yesterday": 2,
         "missed_posting": false,
         "error_detail": null,
@@ -11201,9 +11244,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1pPi14ti2JQTIa7aIspie9k85dsqX_dIQ",
           "stock_status": "healthy",
-          "remaining_unposted": 25,
-          "total_available": 51,
-          "days_buffer": 12.5,
+          "remaining_unposted": 35,
+          "total_available": 61,
+          "days_buffer": 17.5,
           "alert_message": null
         }
       },
@@ -11216,7 +11259,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-10-08",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -11229,9 +11272,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/13_GJvPUQnmPOUW5muAF0jDFpHmXySGyI",
           "stock_status": "healthy",
-          "remaining_unposted": 47,
-          "total_available": 50,
-          "days_buffer": 47.0,
+          "remaining_unposted": 58,
+          "total_available": 61,
+          "days_buffer": 58.0,
           "alert_message": null
         }
       },
@@ -11244,10 +11287,10 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-10-08",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 1,
         "missed_posting": false,
-        "error_detail": null,
+        "error_detail": "Broadcast upload failed: <HttpError 410 when requesting https://youtube.googleapis.com/upload/youtube/v3/videos?part=snippet%2Cstatus&alt=json&uploadType=resumable returned \"Gone\". Details: \"Gone\">",
         "auto_heal_log": null,
         "user_action_needed": false,
         "action_title": null,
@@ -11285,9 +11328,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
           "stock_status": "healthy",
-          "remaining_unposted": 22,
-          "total_available": 50,
-          "days_buffer": 22.0,
+          "remaining_unposted": 32,
+          "total_available": 60,
+          "days_buffer": 32.0,
           "alert_message": null
         }
       },
@@ -11349,34 +11392,6 @@
       }
     ],
     "action_required_items": [
-      {
-        "channel_id": "channel_2",
-        "name": "Not A Chef",
-        "profile_code": "PF #2",
-        "source_type": "gdrive",
-        "source_target": "N/A",
-        "status": "action_required",
-        "token_status": "valid",
-        "last_upload_date": "2026-10-08",
-        "uploads_today": 1,
-        "uploads_yesterday": 1,
-        "missed_posting": false,
-        "error_detail": null,
-        "auto_heal_log": null,
-        "user_action_needed": true,
-        "action_title": "Content Depleted: Not A Chef",
-        "action_description": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped.",
-        "action_button_type": "update_source",
-        "content_inventory": {
-          "source_type": "gdrive",
-          "source_url": "https://drive.google.com/drive/folders/13aPFnGVSotrOaUKVRX-MxgfrkHRn4qr-",
-          "stock_status": "depleted",
-          "remaining_unposted": 0,
-          "total_available": 50,
-          "days_buffer": 0.0,
-          "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
-        }
-      },
       {
         "channel_id": "channel_16",
         "name": "Pirate Bites",
