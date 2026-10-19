@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-10-19 06:29:17 UTC",
+    "timestamp_utc": "2026-10-19 06:34:56 UTC",
     "total_channels": 17,
     "active_channels": 15,
     "disabled_channels": 2,
@@ -10,14 +10,14 @@
     "error_channels": 0,
     "health_rate_percent": 100.0,
     "total_uploaded_videos": 994,
-    "total_views_tracked": 104536411,
+    "total_views_tracked": 104536434,
     "total_subscribers": 113846,
     "total_pending_retries": 1,
     "underperforming_channels": 6,
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-10-19 06:30:19 UTC"
+    "gh_pages_synced_at": "2026-10-19 06:34:59 UTC"
   },
   "channels": [
     {
@@ -7577,27 +7577,37 @@
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1pPi14ti2JQTIa7aIspie9k85dsqX_dIQ",
         "folder_title": "Pip Poem Videos (60)",
-        "total_in_drive": 51,
+        "total_in_drive": 61,
         "posted_count": 47,
-        "remaining_unposted": 4,
+        "remaining_unposted": 14,
         "videos_per_day": 2,
-        "days_buffer": 2.0,
-        "stock_status": "low_stock",
-        "stock_label": "LOW STOCK (4 videos left)",
+        "days_buffer": 7.0,
+        "stock_status": "healthy",
+        "stock_label": "HEALTHY (14 videos ready)",
         "unposted_videos": [
           "The Happy Puppy | Baby Poem",
           "The Moon Is Smiling | Baby Poem",
           "The Shape Parade | Baby Poem",
-          "Pip Poem Videos"
+          "Pip Poem Videos",
+          "The Sleepy Kitten | Baby Poem",
+          "The Windy Day | Baby Poem",
+          "Time To Sleep, Little One | Baby Poem",
+          "Vroom Vroom Little Car | Baby Poem",
+          "Wash Your Hands | Baby Poem",
+          "Wiggle And Giggle | Baby Poem",
+          "Yellow Like The Sun | Baby Poem",
+          "Yummy Veggies Time | Baby Poem",
+          "Yummy Yummy Apple | Baby Poem",
+          "Zoom To Z With Me | Baby Poem"
         ]
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1pPi14ti2JQTIa7aIspie9k85dsqX_dIQ",
         "stock_status": "healthy",
-        "remaining_unposted": 4,
-        "total_available": 51,
-        "days_buffer": 2.0,
+        "remaining_unposted": 14,
+        "total_available": 61,
+        "days_buffer": 7.0,
         "alert_message": null
       },
       "enabled": true,
@@ -9082,7 +9092,7 @@
       "total_uploaded": 43,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 471376,
+      "total_views": 471399,
       "last_run_date": "2026-10-08 09:22:54",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: rUSuFDoJjxc",
@@ -9482,7 +9492,7 @@
           "youtube_id": "P355BWOylm4",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 405038,
+          "view_count": 405061,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:41:13",
           "rowid": 18
@@ -9910,7 +9920,7 @@
           "youtube_id": "PhQ7oe5iKp0",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 1281,
+          "view_count": 1279,
           "title": "Lettuce Party",
           "created_at": "2026-10-14 03:18:23",
           "rowid": 46
@@ -9920,7 +9930,7 @@
           "youtube_id": "GvGYF3MOgeo",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 1667,
+          "view_count": 1665,
           "title": "Dreamy Loaf",
           "created_at": "2026-10-14 03:18:23",
           "rowid": 45
@@ -9930,7 +9940,7 @@
           "youtube_id": "9_0kj7NgGJI",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 1984,
+          "view_count": 1983,
           "title": "Mud Free Meadows",
           "created_at": "2026-10-14 03:18:23",
           "rowid": 44
@@ -9940,7 +9950,7 @@
           "youtube_id": "P2vwhl-mpVc",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 1757,
+          "view_count": 1753,
           "title": "Peach Nibbles",
           "created_at": "2026-10-14 03:18:23",
           "rowid": 43
@@ -10000,7 +10010,7 @@
           "youtube_id": "OhHjWaoJgIc",
           "status": "uploaded",
           "upload_date": "2026-10-06",
-          "view_count": 1983,
+          "view_count": 1982,
           "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
           "created_at": "2026-10-06 09:34:38",
           "rowid": 37
@@ -10100,7 +10110,7 @@
           "youtube_id": "U6kJmicCY1s",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 18293,
+          "view_count": 18298,
           "title": "Two little cuties are playing house outdoors. My heart just melted. #adorablebaby",
           "created_at": "2026-09-27 10:05:44",
           "rowid": 27
@@ -10170,7 +10180,7 @@
           "youtube_id": "_QusNar6qHE",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 550913,
+          "view_count": 550914,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:41:50",
           "rowid": 20
@@ -11193,7 +11203,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-10-19 06:29:17 UTC",
+    "timestamp": "2026-10-19 06:34:56 UTC",
     "total_channels": 17,
     "healthy_count": 8,
     "auto_healed_count": 0,
@@ -11529,9 +11539,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1pPi14ti2JQTIa7aIspie9k85dsqX_dIQ",
           "stock_status": "healthy",
-          "remaining_unposted": 4,
-          "total_available": 51,
-          "days_buffer": 2.0,
+          "remaining_unposted": 14,
+          "total_available": 61,
+          "days_buffer": 7.0,
           "alert_message": null
         }
       },
