@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-10-20 04:59:33 UTC",
-    "total_channels": 17,
-    "active_channels": 15,
+    "timestamp_utc": "2026-10-20 05:29:36 UTC",
+    "total_channels": 16,
+    "active_channels": 14,
     "disabled_channels": 2,
     "idle_channels": 2,
     "today_completed_channels": 0,
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 1007,
-    "total_views_tracked": 185228163,
-    "total_subscribers": 114579,
+    "total_uploaded_videos": 913,
+    "total_views_tracked": 112361051,
+    "total_subscribers": 70189,
     "total_pending_retries": 1,
     "underperforming_channels": 6,
     "content_depleted_channels": 0,
-    "content_low_channels": 1,
-    "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-10-20 05:00:14 UTC"
+    "content_low_channels": 2,
+    "content_alerts_count": 2,
+    "gh_pages_synced_at": "2026-10-20 05:30:14 UTC"
   },
   "channels": [
     {
@@ -27,7 +27,7 @@
       "source_title": "Tiny Wonder World",
       "youtube_handle": "@meelyansnmyhands",
       "youtube_channel_url": "https://www.youtube.com/@meelyansnmyhands",
-      "subscribers_count": 2570,
+      "subscribers_count": 2580,
       "published_videos_count": 35,
       "live_youtube_views": 4490210,
       "owner_email": "behanzu@gmail.com",
@@ -45,6 +45,8 @@
         "days_buffer": null,
         "alert_message": null
       },
+      "is_monetized": false,
+      "monetized_date": null,
       "enabled": true,
       "status": "active",
       "upload_mode": "sequence",
@@ -227,7 +229,7 @@
           "youtube_id": "MbTPCRoeQPE",
           "status": "uploaded",
           "upload_date": "2026-10-17",
-          "view_count": 816,
+          "view_count": 850,
           "title": "When the baby finds the secret controller for his big brother 🤖 #aivideo #wholesome #funny",
           "created_at": "2026-10-17 02:23:02",
           "rowid": 93
@@ -247,7 +249,7 @@
           "youtube_id": "L7zyb5hN0ak",
           "status": "uploaded",
           "upload_date": "2026-10-15",
-          "view_count": 1423,
+          "view_count": 1475,
           "title": "When monster feet turn tears into instant laughter! 👾 #siblinggoals #funnykids #familyhumor",
           "created_at": "2026-10-15 13:31:45",
           "rowid": 91
@@ -347,7 +349,7 @@
           "youtube_id": "mZkhQPeyVHo",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 97682,
+          "view_count": 98121,
           "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
           "created_at": "2026-10-05 07:12:41",
           "rowid": 81
@@ -377,7 +379,7 @@
           "youtube_id": "NGDdU3-fszY",
           "status": "uploaded",
           "upload_date": "2026-10-03",
-          "view_count": 2073,
+          "view_count": 2077,
           "title": "The magical birthday party setup that every kid dreams of 🎈 #birthday #wholesome #family #cute",
           "created_at": "2026-10-03 01:44:49",
           "rowid": 78
@@ -387,7 +389,7 @@
           "youtube_id": "6ppzkTgPT4M",
           "status": "uploaded",
           "upload_date": "2026-10-02",
-          "view_count": 2400,
+          "view_count": 2421,
           "title": "Never Mess With A Toddler Who Controls The Weather 🌧️ #animation #siblinggoals #familyhumor #re",
           "created_at": "2026-10-02 03:29:17",
           "rowid": 77
@@ -728,7 +730,7 @@
       "source_title": "NOT A CHEF",
       "youtube_handle": "@notachefofficialy",
       "youtube_channel_url": "https://www.youtube.com/@notachefofficialy",
-      "subscribers_count": 44500,
+      "subscribers_count": 44600,
       "published_videos_count": 80,
       "live_youtube_views": 72867916,
       "owner_email": "baarakhaaan@gmail.com",
@@ -739,31 +741,28 @@
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/13aPFnGVSotrOaUKVRX-MxgfrkHRn4qr-",
         "folder_title": "NOT A CHEF",
-        "total_in_drive": 68,
-        "posted_count": 64,
-        "remaining_unposted": 4,
+        "total_in_drive": 50,
+        "posted_count": 50,
+        "remaining_unposted": 0,
         "videos_per_day": 1,
-        "days_buffer": 4.0,
-        "stock_status": "low_stock",
-        "stock_label": "LOW STOCK (4 videos left)",
-        "unposted_videos": [
-          "Ultimate Cheesy Korean Corn Dog ASMR  #corndog #cheesepull #asmrfood #easyrecipe #streetfood",
-          "Ultra Crispy Onion Pakoda  #onionpakoda #crispy #pakora #asmrfood #indianfood",
-          "Ultra Crispy Spicy Cauliflower Bites!  #asmrfood #cauliflower #crispy #recipe #foodie",
-          "Watermelon Lemonade  #asmrfood #cooking #recipe #food #viral"
-        ]
+        "days_buffer": 0.0,
+        "stock_status": "depleted",
+        "stock_label": "EMPTY (0 videos left!)",
+        "unposted_videos": []
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/13aPFnGVSotrOaUKVRX-MxgfrkHRn4qr-",
-        "stock_status": "healthy",
-        "remaining_unposted": 4,
-        "total_available": 68,
-        "days_buffer": 4.0,
-        "alert_message": null
+        "stock_status": "depleted",
+        "remaining_unposted": 0,
+        "total_available": 50,
+        "days_buffer": 0.0,
+        "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
       },
+      "is_monetized": true,
+      "monetized_date": "2026-10-05",
       "enabled": true,
-      "status": "active",
+      "status": "idle",
       "upload_mode": "sequence",
       "videos_per_day": 1,
       "slot_times": {
@@ -784,7 +783,7 @@
       "total_uploaded": 84,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 72976647,
+      "total_views": 72976882,
       "last_run_date": "2026-10-08 08:26:46",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: ACTKn75aNYw",
@@ -934,7 +933,7 @@
           "youtube_id": "KrRWxd1U4ZA",
           "status": "uploaded",
           "upload_date": "2026-10-20",
-          "view_count": 1055,
+          "view_count": 1119,
           "title": "The Ultimate Rich & Creamy New England Clam Chowder 🍲 #clamchowder #soupseason #comfortfood",
           "created_at": "2026-10-20 04:45:45",
           "rowid": 84
@@ -944,7 +943,7 @@
           "youtube_id": "xSyR-Xtdpeg",
           "status": "uploaded",
           "upload_date": "2026-10-19",
-          "view_count": 5629,
+          "view_count": 5734,
           "title": "The Ultimate Loaded Baked Potato 🥔 #loadedbakedpotato #bakedpotato #asmrfood #easyrecipes",
           "created_at": "2026-10-19 04:28:19",
           "rowid": 83
@@ -954,7 +953,7 @@
           "youtube_id": "VCDHY2Ng0DI",
           "status": "uploaded",
           "upload_date": "2026-10-17",
-          "view_count": 2437,
+          "view_count": 2449,
           "title": "The ultimate homemade Caesar salad recipe 🥗 #caesarsalad #saladrecipe #asmrcooking #easyrecipes",
           "created_at": "2026-10-17 02:23:02",
           "rowid": 82
@@ -974,7 +973,7 @@
           "youtube_id": "mS6yvU7J0DY",
           "status": "uploaded",
           "upload_date": "2026-10-15",
-          "view_count": 18435,
+          "view_count": 18433,
           "title": "The Ultimate Crispy Smash Burger 🍔 #smashburger #asmrfood #burger #recipe #foodie",
           "created_at": "2026-10-15 13:31:45",
           "rowid": 80
@@ -984,7 +983,7 @@
           "youtube_id": "E_Qm20Bml5Y",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 18179,
+          "view_count": 18198,
           "title": "Flaky Croissant Ice Cream Waffle 🥐 #croffle #asmrfood #dessert #croissant #recipe",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 79
@@ -1024,7 +1023,7 @@
           "youtube_id": "5N2GB2YnmbQ",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 5169,
+          "view_count": 5175,
           "title": "The Easiest Whipped Dalgona Coffee Recipe ☕ #dalgonacoffee #coffee #recipe #easyrecipe",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 75
@@ -1034,7 +1033,7 @@
           "youtube_id": "P31BZSvZ03k",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 10192,
+          "view_count": 10180,
           "title": "The Famous Baked Feta Pasta That Broke The Internet 🍝 #fetapasta #bakedfetapasta #asmrcooking",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 74
@@ -1064,7 +1063,7 @@
           "youtube_id": "iNEqHvVp80w",
           "status": "uploaded",
           "upload_date": "2026-10-07",
-          "view_count": 4871,
+          "view_count": 4883,
           "title": "Ultimate Refreshing Virgin Mojito 🍹 #mojito #asmrfood #recipe #mocktail #viral",
           "created_at": "2026-10-07 05:36:22",
           "rowid": 71
@@ -1114,7 +1113,7 @@
           "youtube_id": "hgtf6evk8AA",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 25687,
+          "view_count": 25696,
           "title": "Ultimate Crispy Fried Chicken & Hash Browns 🍗 #crispychicken #friedchicken #hashbrowns #asmrfoo",
           "created_at": "2026-10-05 05:03:08",
           "rowid": 66
@@ -1234,7 +1233,7 @@
           "youtube_id": "uujkf0bXYJ4",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 57067,
+          "view_count": 57089,
           "title": "Two little cuties are playing house outdoors. My heart just melted. #adorablebaby",
           "created_at": "2026-09-27 09:57:33",
           "rowid": 54
@@ -1436,7 +1435,8 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 01, 2026",
-      "overall_status": "active"
+      "overall_status": "idle",
+      "idle_reason": "inventory_depleted"
     },
     {
       "channel_id": "channel_3",
@@ -1490,6 +1490,8 @@
         "days_buffer": 15.0,
         "alert_message": null
       },
+      "is_monetized": false,
+      "monetized_date": null,
       "enabled": true,
       "status": "active",
       "upload_mode": "sequence",
@@ -2203,6 +2205,8 @@
         "days_buffer": null,
         "alert_message": null
       },
+      "is_monetized": true,
+      "monetized_date": null,
       "enabled": true,
       "status": "active",
       "upload_mode": "popular_split",
@@ -2225,7 +2229,7 @@
       "total_uploaded": 43,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 11770354,
+      "total_views": 11770923,
       "last_run_date": "2026-10-08 08:27:12",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: bGdaOPzdLgs",
@@ -2375,7 +2379,7 @@
           "youtube_id": "ES1xfvEk0u4",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 1838,
+          "view_count": 1841,
           "title": "Jojo's Bizarre Adventure don't make a LICK of sense. #steelballrun #jojosbizarreadventure",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 43
@@ -2385,7 +2389,7 @@
           "youtube_id": "bGdaOPzdLgs",
           "status": "uploaded",
           "upload_date": "2026-10-08",
-          "view_count": 5993,
+          "view_count": 5998,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
           "created_at": "2026-10-08 08:27:12",
           "rowid": 42
@@ -2395,7 +2399,7 @@
           "youtube_id": "gTTiHywq9ig",
           "status": "uploaded",
           "upload_date": "2026-10-07",
-          "view_count": 16493,
+          "view_count": 16494,
           "title": "Jojo's Makes Zero Sense. And It's Hilarious #jojo #jojosbizzareadventure #stand",
           "created_at": "2026-10-07 05:36:21",
           "rowid": 41
@@ -2535,7 +2539,7 @@
           "youtube_id": "fnlS7JeTxyA",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 2594921,
+          "view_count": 2595035,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:35:02",
           "rowid": 27
@@ -2545,7 +2549,7 @@
           "youtube_id": "4hxqAaHKXlg",
           "status": "uploaded",
           "upload_date": "2026-09-24",
-          "view_count": 47730,
+          "view_count": 47734,
           "title": "i am rich doll 😎",
           "created_at": "2026-09-24 12:00:13",
           "rowid": 26
@@ -2595,7 +2599,7 @@
           "youtube_id": "5FyiXi2KuKo",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 8712261,
+          "view_count": 8712703,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:06:44",
           "rowid": 21
@@ -2848,6 +2852,8 @@
         "days_buffer": 2.0,
         "alert_message": "Only 2 unposted videos remaining in Google Drive (~2.0 days left). Add more videos soon."
       },
+      "is_monetized": false,
+      "monetized_date": null,
       "enabled": true,
       "status": "active",
       "upload_mode": "sequence",
@@ -3549,6 +3555,8 @@
         "days_buffer": null,
         "alert_message": null
       },
+      "is_monetized": false,
+      "monetized_date": null,
       "enabled": true,
       "status": "active",
       "upload_mode": "popular_split",
@@ -4252,6 +4260,8 @@
         "days_buffer": null,
         "alert_message": null
       },
+      "is_monetized": false,
+      "monetized_date": null,
       "enabled": false,
       "status": "idle",
       "upload_mode": "popular_split",
@@ -4760,6 +4770,8 @@
         "days_buffer": 4.0,
         "alert_message": null
       },
+      "is_monetized": false,
+      "monetized_date": null,
       "enabled": true,
       "status": "active",
       "upload_mode": "sequence",
@@ -5461,6 +5473,8 @@
         "days_buffer": 8.0,
         "alert_message": null
       },
+      "is_monetized": false,
+      "monetized_date": null,
       "enabled": true,
       "status": "active",
       "upload_mode": "sequence",
@@ -6140,719 +6154,6 @@
       "overall_status": "active"
     },
     {
-      "channel_id": "channel_10",
-      "profile_code": "",
-      "youtube_channel_name": "Little Olivia Talk",
-      "source_title": "FAMILY BABY",
-      "youtube_handle": "@notachefofficialy",
-      "youtube_channel_url": "https://www.youtube.com/@notachefofficialy",
-      "subscribers_count": 44500,
-      "published_videos_count": 80,
-      "live_youtube_views": 72867916,
-      "owner_email": "behanzu@gmail.com",
-      "channel_created_at": "Feb 07, 2020",
-      "source_type": "gdrive",
-      "source_url": "https://drive.google.com/drive/folders/1bPHboh2thzv_C41KquY8vmrtOpPV1ojK",
-      "bilibili_url": "",
-      "gdrive_inventory": {
-        "gdrive_url": "https://drive.google.com/drive/folders/1bPHboh2thzv_C41KquY8vmrtOpPV1ojK",
-        "folder_title": "FAMILY BABY",
-        "total_in_drive": 18,
-        "posted_count": 18,
-        "remaining_unposted": 0,
-        "videos_per_day": 1,
-        "days_buffer": 0.0,
-        "stock_status": "depleted",
-        "stock_label": "EMPTY (0 videos left!)",
-        "unposted_videos": []
-      },
-      "content_inventory": {
-        "source_type": "gdrive",
-        "source_url": "https://drive.google.com/drive/folders/1bPHboh2thzv_C41KquY8vmrtOpPV1ojK",
-        "stock_status": "depleted",
-        "remaining_unposted": 0,
-        "total_available": 18,
-        "days_buffer": 0.0,
-        "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
-      },
-      "enabled": true,
-      "status": "idle",
-      "upload_mode": "sequence",
-      "videos_per_day": 1,
-      "slot_times": {
-        "1": "22:09"
-      },
-      "token_health": {
-        "has_secret": true,
-        "has_token": true,
-        "token_status": "valid",
-        "expires_at": "2026-10-20 05:45:48 UTC",
-        "is_valid": true,
-        "message": "Valid (Refresh Token present)",
-        "has_refresh_token": true,
-        "is_expired": false
-      },
-      "slot1_today": "not_run",
-      "slot2_today": "not_run",
-      "total_uploaded": 94,
-      "total_failed": 20,
-      "total_pending_retry": 0,
-      "total_views": 72867916,
-      "last_run_date": "2026-10-08 08:29:10",
-      "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: eJFwCIefbLM",
-      "daily_sheet_10_days": [
-        {
-          "date": "2026-10-11",
-          "short_date": "Oct 11",
-          "slot1": "not_run",
-          "slot2": "not_run",
-          "uploads_count": 0,
-          "views_gained": 0
-        },
-        {
-          "date": "2026-10-12",
-          "short_date": "Oct 12",
-          "slot1": "not_run",
-          "slot2": "not_run",
-          "uploads_count": 0,
-          "views_gained": 0
-        },
-        {
-          "date": "2026-10-13",
-          "short_date": "Oct 13",
-          "slot1": "not_run",
-          "slot2": "not_run",
-          "uploads_count": 0,
-          "views_gained": 0
-        },
-        {
-          "date": "2026-10-14",
-          "short_date": "Oct 14",
-          "slot1": "not_run",
-          "slot2": "not_run",
-          "uploads_count": 3,
-          "views_gained": 0
-        },
-        {
-          "date": "2026-10-15",
-          "short_date": "Oct 15",
-          "slot1": "not_run",
-          "slot2": "not_run",
-          "uploads_count": 0,
-          "views_gained": 0
-        },
-        {
-          "date": "2026-10-16",
-          "short_date": "Oct 16",
-          "slot1": "not_run",
-          "slot2": "not_run",
-          "uploads_count": 30,
-          "views_gained": 0
-        },
-        {
-          "date": "2026-10-17",
-          "short_date": "Oct 17",
-          "slot1": "not_run",
-          "slot2": "not_run",
-          "uploads_count": 1,
-          "views_gained": 0
-        },
-        {
-          "date": "2026-10-18",
-          "short_date": "Oct 18",
-          "slot1": "not_run",
-          "slot2": "not_run",
-          "uploads_count": 0,
-          "views_gained": 0
-        },
-        {
-          "date": "2026-10-19",
-          "short_date": "Oct 19",
-          "slot1": "not_run",
-          "slot2": "not_run",
-          "uploads_count": 1,
-          "views_gained": 0
-        },
-        {
-          "date": "2026-10-20",
-          "short_date": "Oct 20",
-          "slot1": "not_run",
-          "slot2": "not_run",
-          "uploads_count": 1,
-          "views_gained": 0
-        }
-      ],
-      "daily_sheet_7_days": [
-        {
-          "date": "2026-10-14",
-          "short_date": "Oct 14",
-          "day_name": "Wed",
-          "is_today": false,
-          "uploads_count": 3,
-          "views_gained": 0
-        },
-        {
-          "date": "2026-10-15",
-          "short_date": "Oct 15",
-          "day_name": "Thu",
-          "is_today": false,
-          "uploads_count": 0,
-          "views_gained": 0
-        },
-        {
-          "date": "2026-10-16",
-          "short_date": "Oct 16",
-          "day_name": "Fri",
-          "is_today": false,
-          "uploads_count": 30,
-          "views_gained": 0
-        },
-        {
-          "date": "2026-10-17",
-          "short_date": "Oct 17",
-          "day_name": "Sat",
-          "is_today": false,
-          "uploads_count": 1,
-          "views_gained": 0
-        },
-        {
-          "date": "2026-10-18",
-          "short_date": "Oct 18",
-          "day_name": "Sun",
-          "is_today": false,
-          "uploads_count": 0,
-          "views_gained": 0
-        },
-        {
-          "date": "2026-10-19",
-          "short_date": "Oct 19",
-          "day_name": "Mon",
-          "is_today": false,
-          "uploads_count": 1,
-          "views_gained": 0
-        },
-        {
-          "date": "2026-10-20",
-          "short_date": "Oct 20",
-          "day_name": "Tue",
-          "is_today": true,
-          "uploads_count": 1,
-          "views_gained": 0
-        }
-      ],
-      "recent_videos": [
-        {
-          "tiktok_id": "yt_KrRWxd1U4ZA",
-          "youtube_id": "KrRWxd1U4ZA",
-          "status": "uploaded",
-          "upload_date": "2026-10-20",
-          "view_count": 1055,
-          "title": "The Ultimate Rich & Creamy New England Clam Chowder 🍲 #clamchowder #soupseason #comfortfood",
-          "created_at": "2026-10-20 04:45:51",
-          "rowid": 114
-        },
-        {
-          "tiktok_id": "yt_xSyR-Xtdpeg",
-          "youtube_id": "xSyR-Xtdpeg",
-          "status": "uploaded",
-          "upload_date": "2026-10-19",
-          "view_count": 5629,
-          "title": "The Ultimate Loaded Baked Potato 🥔 #loadedbakedpotato #bakedpotato #asmrfood #easyrecipes",
-          "created_at": "2026-10-19 04:28:22",
-          "rowid": 113
-        },
-        {
-          "tiktok_id": "yt_VCDHY2Ng0DI",
-          "youtube_id": "VCDHY2Ng0DI",
-          "status": "uploaded",
-          "upload_date": "2026-10-17",
-          "view_count": 2437,
-          "title": "The ultimate homemade Caesar salad recipe 🥗 #caesarsalad #saladrecipe #asmrcooking #easyrecipes",
-          "created_at": "2026-10-17 02:23:05",
-          "rowid": 112
-        },
-        {
-          "tiktok_id": "yt_0PY-fE3bVvk",
-          "youtube_id": "0PY-fE3bVvk",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 35066,
-          "title": "Pineapple Lemonade🍆 #asmrfood #cooking #recipe #food #viral",
-          "created_at": "2026-10-16 07:58:04",
-          "rowid": 111
-        },
-        {
-          "tiktok_id": "yt_9RK6Hb3KI98",
-          "youtube_id": "9RK6Hb3KI98",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 58313,
-          "title": "Refreshing Cucumber Lime Mocktail 🥒 #mocktail #refreshing #asmr #easyrecipe #viral",
-          "created_at": "2026-10-16 07:58:04",
-          "rowid": 110
-        },
-        {
-          "tiktok_id": "yt_KOCBMfdG6Ko",
-          "youtube_id": "KOCBMfdG6Ko",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 81134,
-          "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #Baby #SmartTech",
-          "created_at": "2026-10-16 07:58:04",
-          "rowid": 109
-        },
-        {
-          "tiktok_id": "yt_uujkf0bXYJ4",
-          "youtube_id": "uujkf0bXYJ4",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 57067,
-          "title": "Two little cuties are playing house outdoors. My heart just melted. #adorablebaby",
-          "created_at": "2026-10-16 07:58:04",
-          "rowid": 108
-        },
-        {
-          "tiktok_id": "yt_nA6H7c8n95k",
-          "youtube_id": "nA6H7c8n95k",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 38623,
-          "title": "Refreshing Orange Mint Mocktail 🍊 #mocktail #asmrfood #drinkrecipe #refreshing #viral",
-          "created_at": "2026-10-16 07:58:04",
-          "rowid": 107
-        },
-        {
-          "tiktok_id": "yt_vclf6MjXILA",
-          "youtube_id": "vclf6MjXILA",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 27254,
-          "title": "Refreshing Watermelon Drink 🍹 #asmrfood #cooking #recipe #food #viral",
-          "created_at": "2026-10-16 07:58:04",
-          "rowid": 106
-        },
-        {
-          "tiktok_id": "yt_5kFXsSo2wjs",
-          "youtube_id": "5kFXsSo2wjs",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 19681,
-          "title": "Soya Balls 🧆 (2) #asmrfood #cooking #recipe #food #viral",
-          "created_at": "2026-10-16 07:58:04",
-          "rowid": 105
-        },
-        {
-          "tiktok_id": "yt_y60XFbfoSE4",
-          "youtube_id": "y60XFbfoSE4",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 35179,
-          "title": "Spicy Chicken Tikka Cheese Wrap 🌯 #asmrfood #cooking #recipe #food #viral",
-          "created_at": "2026-10-16 07:58:04",
-          "rowid": 104
-        },
-        {
-          "tiktok_id": "yt_PnR9p3kruDE",
-          "youtube_id": "PnR9p3kruDE",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 25227,
-          "title": "Spicy Okra Fry 🌶️ #asmrfood #bhindirecipe #cooking #viral",
-          "created_at": "2026-10-16 07:58:04",
-          "rowid": 103
-        },
-        {
-          "tiktok_id": "yt_1XPjh-fO50A",
-          "youtube_id": "1XPjh-fO50A",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 55038,
-          "title": "Spicy Tomato Garlic Chutney 🌶️ #chutney #recipe #cooking #spicyfood #asmrfood",
-          "created_at": "2026-10-16 07:58:04",
-          "rowid": 102
-        },
-        {
-          "tiktok_id": "yt_ihGjnmSaYI0",
-          "youtube_id": "ihGjnmSaYI0",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 27454,
-          "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
-          "created_at": "2026-10-16 07:58:04",
-          "rowid": 101
-        },
-        {
-          "tiktok_id": "yt_ee_5xEeEEfA",
-          "youtube_id": "ee_5xEeEEfA",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 26638,
-          "title": "The Ultimate Creamy Banana Protein Shake 🍌 #smoothie #proteinshake #healthyrecipes #easyrecipe",
-          "created_at": "2026-10-16 07:58:03",
-          "rowid": 100
-        },
-        {
-          "tiktok_id": "yt_7hlEEeW_5x4",
-          "youtube_id": "7hlEEeW_5x4",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 25822,
-          "title": "The ultimate creamy Paneer Butter Masala 🍲 #paneer #indianfood #recipe #asmrfood #cooking",
-          "created_at": "2026-10-16 07:58:03",
-          "rowid": 99
-        },
-        {
-          "tiktok_id": "yt__JrixkRfciY",
-          "youtube_id": "_JrixkRfciY",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 30208,
-          "title": "The Ultimate Quick Egg Toast Sandwich 🥪 #eggtoast #breakfastideas #quickrecipes #asmrfood #easy",
-          "created_at": "2026-10-16 07:58:03",
-          "rowid": 98
-        },
-        {
-          "tiktok_id": "yt_PJ8YCb2EIF8",
-          "youtube_id": "PJ8YCb2EIF8",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 7144,
-          "title": "Tomato Rice 🍲 #asmrfood #cooking #recipe #food #viral",
-          "created_at": "2026-10-16 07:58:03",
-          "rowid": 97
-        },
-        {
-          "tiktok_id": "yt_t2q--9LsgFk",
-          "youtube_id": "t2q--9LsgFk",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 7471,
-          "title": "Turn Crispy Rusks Into Rich Homemade Halwa 🍮 #ruskhalwa #halwarecipe #easydessert #asmrcooking",
-          "created_at": "2026-10-16 07:58:03",
-          "rowid": 96
-        },
-        {
-          "tiktok_id": "yt_hgtf6evk8AA",
-          "youtube_id": "hgtf6evk8AA",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 25687,
-          "title": "Ultimate Crispy Fried Chicken & Hash Browns 🍗 #crispychicken #friedchicken #hashbrowns #asmrfoo",
-          "created_at": "2026-10-16 07:58:03",
-          "rowid": 95
-        },
-        {
-          "tiktok_id": "yt__fe_53VwZVg",
-          "youtube_id": "_fe_53VwZVg",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 201963,
-          "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
-          "created_at": "2026-10-16 07:58:03",
-          "rowid": 94
-        },
-        {
-          "tiktok_id": "yt_zfvaRkOAUBM",
-          "youtube_id": "zfvaRkOAUBM",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 18111,
-          "title": "Ultimate Crispy Soya Granule Snack Balls 🧆 #soyarecipes #crispysnacks #easyrecipes #foodasmr",
-          "created_at": "2026-10-16 07:58:03",
-          "rowid": 93
-        },
-        {
-          "tiktok_id": "yt_mJqKBh6u3yU",
-          "youtube_id": "mJqKBh6u3yU",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 10289,
-          "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
-          "created_at": "2026-10-16 07:58:03",
-          "rowid": 92
-        },
-        {
-          "tiktok_id": "yt_iNEqHvVp80w",
-          "youtube_id": "iNEqHvVp80w",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 4871,
-          "title": "Ultimate Refreshing Virgin Mojito 🍹 #mojito #asmrfood #recipe #mocktail #viral",
-          "created_at": "2026-10-16 07:58:03",
-          "rowid": 91
-        },
-        {
-          "tiktok_id": "yt_NFT4YurjGXc",
-          "youtube_id": "NFT4YurjGXc",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 10171,
-          "title": "Ultra Crispy Fried Eggplant Bites 🍆 #crispyeggplant #asmrcooking #easyrecipe #snackideas",
-          "created_at": "2026-10-16 07:58:03",
-          "rowid": 90
-        },
-        {
-          "tiktok_id": "yt_E_Qm20Bml5Y",
-          "youtube_id": "E_Qm20Bml5Y",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 18179,
-          "title": "Flaky Croissant Ice Cream Waffle 🥐 #croffle #asmrfood #dessert #croissant #recipe",
-          "created_at": "2026-10-16 07:58:03",
-          "rowid": 89
-        },
-        {
-          "tiktok_id": "yt_5FJ9j87nXDQ",
-          "youtube_id": "5FJ9j87nXDQ",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 3966,
-          "title": "How To Make The Viral Dubai Pistachio Chocolate Bar 🍫 #dubaichocolate #pistachiochocolate",
-          "created_at": "2026-10-16 07:58:03",
-          "rowid": 88
-        },
-        {
-          "tiktok_id": "yt_QS7f4MD3ZBQ",
-          "youtube_id": "QS7f4MD3ZBQ",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 3311,
-          "title": "Soft and Pillowy Cloud Cakes 🧁 #cloudcake #souffle #baking #asmrfood #dessert",
-          "created_at": "2026-10-16 07:58:03",
-          "rowid": 87
-        },
-        {
-          "tiktok_id": "yt_cn59frReJNo",
-          "youtube_id": "cn59frReJNo",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 4539,
-          "title": "The Crispiest Nashville Hot Chicken Sandwich You Need To Try 🍗 #nashvillehotchicken",
-          "created_at": "2026-10-16 07:58:03",
-          "rowid": 86
-        },
-        {
-          "tiktok_id": "yt_5N2GB2YnmbQ",
-          "youtube_id": "5N2GB2YnmbQ",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 5169,
-          "title": "The Easiest Whipped Dalgona Coffee Recipe ☕ #dalgonacoffee #coffee #recipe #easyrecipe",
-          "created_at": "2026-10-16 07:58:03",
-          "rowid": 85
-        },
-        {
-          "tiktok_id": "yt_P31BZSvZ03k",
-          "youtube_id": "P31BZSvZ03k",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 10180,
-          "title": "The Famous Baked Feta Pasta That Broke The Internet 🍝 #fetapasta #bakedfetapasta #asmrcooking",
-          "created_at": "2026-10-16 07:58:03",
-          "rowid": 84
-        },
-        {
-          "tiktok_id": "yt_mS6yvU7J0DY",
-          "youtube_id": "mS6yvU7J0DY",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 18433,
-          "title": "The Ultimate Crispy Smash Burger 🍔 #smashburger #asmrfood #burger #recipe #foodie",
-          "created_at": "2026-10-16 07:58:03",
-          "rowid": 83
-        },
-        {
-          "tiktok_id": "yt_yc6hIx3Ye7o",
-          "youtube_id": "yc6hIx3Ye7o",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 4903,
-          "title": "The Ultimate Fluffy French Toast 🥞 #frenchtoast #breakfastideas #recipe #foodie #asmrfood",
-          "created_at": "2026-10-16 07:58:03",
-          "rowid": 82
-        },
-        {
-          "tiktok_id": "yt_PR0N3KFmVbw",
-          "youtube_id": "PR0N3KFmVbw",
-          "status": "uploaded",
-          "upload_date": "2026-10-14",
-          "view_count": 10,
-          "title": "He Took That Clapping Way Too Personally 👶 #babyfever #toddlerlife #funnybaby #parentinghumor",
-          "created_at": "2026-10-14 03:18:20",
-          "rowid": 81
-        },
-        {
-          "tiktok_id": "yt_jExSLr4dddk",
-          "youtube_id": "jExSLr4dddk",
-          "status": "uploaded",
-          "upload_date": "2026-10-14",
-          "view_count": 11,
-          "title": "He's 13 months old and already won every argument in this house #funnybaby #toddlerlife",
-          "created_at": "2026-10-14 03:18:20",
-          "rowid": 80
-        },
-        {
-          "tiktok_id": "yt_RLGsJ9cBPHQ",
-          "youtube_id": "RLGsJ9cBPHQ",
-          "status": "uploaded",
-          "upload_date": "2026-10-14",
-          "view_count": 8,
-          "title": "The Disrespect Was So Personal 😂 #toddlerlife #parentinghumor #funnybaby #familytime #viral",
-          "created_at": "2026-10-14 03:18:20",
-          "rowid": 79
-        },
-        {
-          "tiktok_id": "babycare_badge_1791448150_channel_10",
-          "youtube_id": "eJFwCIefbLM",
-          "status": "uploaded",
-          "upload_date": "2026-10-08",
-          "view_count": 4,
-          "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
-          "created_at": "2026-10-08 08:29:10",
-          "rowid": 78
-        },
-        {
-          "tiktok_id": "yt_LJsbzChQa9c",
-          "youtube_id": "LJsbzChQa9c",
-          "status": "uploaded",
-          "upload_date": "2026-10-08",
-          "view_count": 7,
-          "title": "He really thought mama and daddy were 1 year old too 👶 #toddlerlife #babyfever #funnybaby",
-          "created_at": "2026-10-08 07:36:55",
-          "rowid": 77
-        },
-        {
-          "tiktok_id": "yt_wecFNn0Cfhk",
-          "youtube_id": "wecFNn0Cfhk",
-          "status": "uploaded",
-          "upload_date": "2026-10-07",
-          "view_count": 8,
-          "title": "He left mom hanging and gave dad the high five 👶 #funnybaby #toddlerlife #parentinghumor",
-          "created_at": "2026-10-07 05:36:27",
-          "rowid": 76
-        },
-        {
-          "tiktok_id": "broadcast_day1_1791275258_channel_10",
-          "youtube_id": "zXO6sEBRq8Y",
-          "status": "uploaded",
-          "upload_date": "2026-10-06",
-          "view_count": 12,
-          "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
-          "created_at": "2026-10-06 08:27:38",
-          "rowid": 75
-        },
-        {
-          "tiktok_id": "yt_TKPGqQQvqTM",
-          "youtube_id": "TKPGqQQvqTM",
-          "status": "uploaded",
-          "upload_date": "2026-10-06",
-          "view_count": 13,
-          "title": "He comforted her until he realized he was getting played 👶 #toddlerlife #parentinghumor",
-          "created_at": "2026-10-06 03:14:46",
-          "rowid": 74
-        },
-        {
-          "tiktok_id": "yt_peKNwn0sMXQ",
-          "youtube_id": "peKNwn0sMXQ",
-          "status": "uploaded",
-          "upload_date": "2026-10-06",
-          "view_count": 12,
-          "title": "No Expression. 🫥 #BennyAndBruno #FunnyAnimation #3DAnimation #FunnyAnimals #Comedy",
-          "created_at": "2026-10-06 02:08:51",
-          "rowid": 73
-        },
-        {
-          "tiktok_id": "broadcast_avocado_1791184528_channel_10",
-          "youtube_id": "CrpOptoYEsU",
-          "status": "uploaded",
-          "upload_date": "2026-10-05",
-          "view_count": 11,
-          "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
-          "created_at": "2026-10-05 07:15:28",
-          "rowid": 72
-        },
-        {
-          "tiktok_id": "yt_9TmzYiq1KnU",
-          "youtube_id": "9TmzYiq1KnU",
-          "status": "uploaded",
-          "upload_date": "2026-10-05",
-          "view_count": 5,
-          "title": "A Stranger from Another World. 🍃 #BennyAndBruno #FunnyAnimation #3DAnimation #FunnyAnimals #Com",
-          "created_at": "2026-10-05 05:03:13",
-          "rowid": 71
-        },
-        {
-          "tiktok_id": "yt_bx0X4CxqKls",
-          "youtube_id": "bx0X4CxqKls",
-          "status": "uploaded",
-          "upload_date": "2026-10-05",
-          "view_count": 7,
-          "title": "The Grumpy Hedgehog. 🦔 #BennyAndBruno #FunnyAnimation #3DAnimation #FunnyAnimals #Comedy",
-          "created_at": "2026-10-05 05:03:13",
-          "rowid": 70
-        },
-        {
-          "tiktok_id": "yt_8oGgAtMZ9oc",
-          "youtube_id": "8oGgAtMZ9oc",
-          "status": "uploaded",
-          "upload_date": "2026-10-03",
-          "view_count": 13,
-          "title": "The Last Stick. 🦫🐺 #BennyAndBruno #FunnyAnimation #3DAnimation #FunnyAnimals #Comedy",
-          "created_at": "2026-10-03 01:44:54",
-          "rowid": 69
-        },
-        {
-          "tiktok_id": "yt_Q-DwX5nDVfY",
-          "youtube_id": "Q-DwX5nDVfY",
-          "status": "uploaded",
-          "upload_date": "2026-10-02",
-          "view_count": 12,
-          "title": "The Naughty Squirrel. 🐿️ #BennyAndBruno #FunnyAnimation #3DAnimation #FunnyAnimals #Comedy",
-          "created_at": "2026-10-02 03:29:36",
-          "rowid": 68
-        },
-        {
-          "tiktok_id": "yt_V4HDmJ_nq5Y",
-          "youtube_id": "V4HDmJ_nq5Y",
-          "status": "uploaded",
-          "upload_date": "2026-10-01",
-          "view_count": 8,
-          "title": "The Butterfly Meadow.🦋 #BennyAndBruno #FunnyAnimation #3DAnimation #FunnyAnimals #Comedy",
-          "created_at": "2026-10-01 03:19:52",
-          "rowid": 67
-        },
-        {
-          "tiktok_id": "broadcast_babycare_1790781492_channel_10",
-          "youtube_id": "Vb7sFtQZZN8",
-          "status": "uploaded",
-          "upload_date": "2026-09-30",
-          "view_count": 54,
-          "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
-          "created_at": "2026-09-30 15:18:12",
-          "rowid": 66
-        },
-        {
-          "tiktok_id": "yt_SBgiS9WA7f8",
-          "youtube_id": "SBgiS9WA7f8",
-          "status": "uploaded",
-          "upload_date": "2026-09-30",
-          "view_count": 22,
-          "title": "The Honey Log. 🐝 #BennyAndBruno #FunnyAnimation #3DAnimation #FunnyAnimals #Comedy",
-          "created_at": "2026-09-30 04:21:12",
-          "rowid": 65
-        }
-      ],
-      "pending_retry_items": [],
-      "days_linked": 14,
-      "is_underperforming": false,
-      "underperforming_reasons": [],
-      "has_db": true,
-      "linked_date": "Oct 06, 2026",
-      "overall_status": "idle",
-      "idle_reason": "inventory_depleted"
-    },
-    {
       "channel_id": "channel_11",
       "profile_code": "PF #6",
       "youtube_channel_name": "Bunny Planet",
@@ -6877,6 +6178,8 @@
         "days_buffer": null,
         "alert_message": null
       },
+      "is_monetized": false,
+      "monetized_date": null,
       "enabled": true,
       "status": "active",
       "upload_mode": "popular_split",
@@ -7574,37 +6877,28 @@
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1pPi14ti2JQTIa7aIspie9k85dsqX_dIQ",
         "folder_title": "Pip Poem Videos (60)",
-        "total_in_drive": 61,
+        "total_in_drive": 50,
         "posted_count": 49,
-        "remaining_unposted": 12,
+        "remaining_unposted": 1,
         "videos_per_day": 2,
-        "days_buffer": 6.0,
-        "stock_status": "healthy",
-        "stock_label": "HEALTHY (12 videos ready)",
+        "days_buffer": 0.5,
+        "stock_status": "low_stock",
+        "stock_label": "LOW STOCK (1 videos left)",
         "unposted_videos": [
-          "The Shape Parade | Baby Poem",
-          "Pip Poem Videos",
-          "The Sleepy Kitten | Baby Poem",
-          "The Windy Day | Baby Poem",
-          "Time To Sleep, Little One | Baby Poem",
-          "Vroom Vroom Little Car | Baby Poem",
-          "Wash Your Hands | Baby Poem",
-          "Wiggle And Giggle | Baby Poem",
-          "Yellow Like The Sun | Baby Poem",
-          "Yummy Veggies Time | Baby Poem",
-          "Yummy Yummy Apple | Baby Poem",
-          "Zoom To Z With Me | Baby Poem"
+          "The Shape Parade | Baby Poem"
         ]
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1pPi14ti2JQTIa7aIspie9k85dsqX_dIQ",
-        "stock_status": "healthy",
-        "remaining_unposted": 12,
-        "total_available": 61,
-        "days_buffer": 6.0,
-        "alert_message": null
+        "stock_status": "low_stock",
+        "remaining_unposted": 1,
+        "total_available": 50,
+        "days_buffer": 0.5,
+        "alert_message": "Only 1 unposted videos remaining in Google Drive (~0.5 days left). Add more videos soon."
       },
+      "is_monetized": false,
+      "monetized_date": null,
       "enabled": true,
       "status": "active",
       "upload_mode": "sequence",
@@ -7778,7 +7072,7 @@
           "youtube_id": "7lmbqnfQtuw",
           "status": "uploaded",
           "upload_date": "2026-10-20",
-          "view_count": 12,
+          "view_count": 14,
           "title": "The Happy Puppy | Animal Nursery Rhymes & Cute Baby Poem #Shorts",
           "created_at": "2026-10-20 04:45:52",
           "rowid": 104
@@ -8300,13 +7594,13 @@
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/13_GJvPUQnmPOUW5muAF0jDFpHmXySGyI",
         "folder_title": "Sleeping Baby Dreams (60)",
-        "total_in_drive": 61,
+        "total_in_drive": 50,
         "posted_count": 13,
-        "remaining_unposted": 48,
+        "remaining_unposted": 37,
         "videos_per_day": 1,
-        "days_buffer": 48.0,
+        "days_buffer": 37.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (48 videos ready)",
+        "stock_label": "HEALTHY (37 videos ready)",
         "unposted_videos": [
           "14 Sail Away In Paper White Baby Lullaby Poem For Sleeping Babies",
           "15 Owls Are Singing Soft And Low Baby Lullaby Poem For Sleeping Babies",
@@ -8329,11 +7623,13 @@
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/13_GJvPUQnmPOUW5muAF0jDFpHmXySGyI",
         "stock_status": "healthy",
-        "remaining_unposted": 48,
-        "total_available": 61,
-        "days_buffer": 48.0,
+        "remaining_unposted": 37,
+        "total_available": 50,
+        "days_buffer": 37.0,
         "alert_message": null
       },
+      "is_monetized": false,
+      "monetized_date": null,
       "enabled": true,
       "status": "active",
       "upload_mode": "sequence",
@@ -9065,6 +8361,8 @@
         "days_buffer": 23.0,
         "alert_message": null
       },
+      "is_monetized": false,
+      "monetized_date": null,
       "enabled": true,
       "status": "active",
       "upload_mode": "sequence",
@@ -9743,6 +9041,8 @@
         "days_buffer": 24.0,
         "alert_message": null
       },
+      "is_monetized": true,
+      "monetized_date": null,
       "enabled": true,
       "status": "active",
       "upload_mode": "sequence",
@@ -9995,7 +9295,7 @@
           "youtube_id": "dbWwO5BqFRM",
           "status": "uploaded",
           "upload_date": "2026-10-08",
-          "view_count": 3415,
+          "view_count": 3421,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
           "created_at": "2026-10-08 09:23:05",
           "rowid": 41
@@ -10205,7 +9505,7 @@
           "youtube_id": "_QusNar6qHE",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 551104,
+          "view_count": 551152,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:41:50",
           "rowid": 20
@@ -10434,6 +9734,8 @@
         "days_buffer": null,
         "alert_message": null
       },
+      "is_monetized": false,
+      "monetized_date": null,
       "enabled": true,
       "status": "active",
       "upload_mode": "popular_split",
@@ -10987,6 +10289,8 @@
         "days_buffer": 8.0,
         "alert_message": null
       },
+      "is_monetized": false,
+      "monetized_date": null,
       "enabled": true,
       "status": "active",
       "upload_mode": "sequence",
@@ -11228,9 +10532,9 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-10-20 04:59:33 UTC",
-    "total_channels": 17,
-    "healthy_count": 9,
+    "timestamp": "2026-10-20 05:29:36 UTC",
+    "total_channels": 16,
+    "healthy_count": 7,
     "auto_healed_count": 0,
     "action_required_count": 1,
     "channels": [
@@ -11268,7 +10572,7 @@
         "profile_code": "PF #2",
         "source_type": "gdrive",
         "source_target": "N/A",
-        "status": "healthy",
+        "status": "action_required",
         "token_status": "valid",
         "last_upload_date": "2026-10-20",
         "uploads_today": 1,
@@ -11276,18 +10580,18 @@
         "missed_posting": false,
         "error_detail": null,
         "auto_heal_log": null,
-        "user_action_needed": false,
-        "action_title": null,
-        "action_description": null,
-        "action_button_type": null,
+        "user_action_needed": true,
+        "action_title": "Content Depleted: Not A Chef",
+        "action_description": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped.",
+        "action_button_type": "update_source",
         "content_inventory": {
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/13aPFnGVSotrOaUKVRX-MxgfrkHRn4qr-",
-          "stock_status": "healthy",
-          "remaining_unposted": 4,
-          "total_available": 68,
-          "days_buffer": 4.0,
-          "alert_message": null
+          "stock_status": "depleted",
+          "remaining_unposted": 0,
+          "total_available": 50,
+          "days_buffer": 0.0,
+          "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
         }
       },
       {
@@ -11487,34 +10791,6 @@
         }
       },
       {
-        "channel_id": "channel_10",
-        "name": "Little Olivia Talk",
-        "profile_code": "",
-        "source_type": "gdrive",
-        "source_target": "N/A",
-        "status": "action_required",
-        "token_status": "valid",
-        "last_upload_date": "2026-10-20",
-        "uploads_today": 1,
-        "uploads_yesterday": 1,
-        "missed_posting": false,
-        "error_detail": null,
-        "auto_heal_log": null,
-        "user_action_needed": true,
-        "action_title": "Content Depleted: Little Olivia Talk",
-        "action_description": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped.",
-        "action_button_type": "update_source",
-        "content_inventory": {
-          "source_type": "gdrive",
-          "source_url": "https://drive.google.com/drive/folders/1bPHboh2thzv_C41KquY8vmrtOpPV1ojK",
-          "stock_status": "depleted",
-          "remaining_unposted": 0,
-          "total_available": 18,
-          "days_buffer": 0.0,
-          "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
-        }
-      },
-      {
         "channel_id": "channel_11",
         "name": "Bunny Planet",
         "profile_code": "PF #6",
@@ -11548,13 +10824,13 @@
         "profile_code": "PF #7",
         "source_type": "gdrive",
         "source_target": "N/A",
-        "status": "healthy",
+        "status": "monitoring",
         "token_status": "valid",
         "last_upload_date": "2026-10-20",
         "uploads_today": 2,
         "uploads_yesterday": 2,
         "missed_posting": false,
-        "error_detail": null,
+        "error_detail": "Only 1 unposted videos remaining in Google Drive (~0.5 days left). Add more videos soon.",
         "auto_heal_log": null,
         "user_action_needed": false,
         "action_title": null,
@@ -11563,11 +10839,11 @@
         "content_inventory": {
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1pPi14ti2JQTIa7aIspie9k85dsqX_dIQ",
-          "stock_status": "healthy",
-          "remaining_unposted": 12,
-          "total_available": 61,
-          "days_buffer": 6.0,
-          "alert_message": null
+          "stock_status": "low_stock",
+          "remaining_unposted": 1,
+          "total_available": 50,
+          "days_buffer": 0.5,
+          "alert_message": "Only 1 unposted videos remaining in Google Drive (~0.5 days left). Add more videos soon."
         }
       },
       {
@@ -11592,9 +10868,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/13_GJvPUQnmPOUW5muAF0jDFpHmXySGyI",
           "stock_status": "healthy",
-          "remaining_unposted": 48,
-          "total_available": 61,
-          "days_buffer": 48.0,
+          "remaining_unposted": 37,
+          "total_available": 50,
+          "days_buffer": 37.0,
           "alert_message": null
         }
       },
@@ -11713,9 +10989,9 @@
     ],
     "action_required_items": [
       {
-        "channel_id": "channel_10",
-        "name": "Little Olivia Talk",
-        "profile_code": "",
+        "channel_id": "channel_2",
+        "name": "Not A Chef",
+        "profile_code": "PF #2",
         "source_type": "gdrive",
         "source_target": "N/A",
         "status": "action_required",
@@ -11727,15 +11003,15 @@
         "error_detail": null,
         "auto_heal_log": null,
         "user_action_needed": true,
-        "action_title": "Content Depleted: Little Olivia Talk",
+        "action_title": "Content Depleted: Not A Chef",
         "action_description": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped.",
         "action_button_type": "update_source",
         "content_inventory": {
           "source_type": "gdrive",
-          "source_url": "https://drive.google.com/drive/folders/1bPHboh2thzv_C41KquY8vmrtOpPV1ojK",
+          "source_url": "https://drive.google.com/drive/folders/13aPFnGVSotrOaUKVRX-MxgfrkHRn4qr-",
           "stock_status": "depleted",
           "remaining_unposted": 0,
-          "total_available": 18,
+          "total_available": 50,
           "days_buffer": 0.0,
           "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
         }
