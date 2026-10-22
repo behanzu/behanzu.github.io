@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-10-22 18:09:19 UTC",
+    "timestamp_utc": "2026-10-22 18:29:43 UTC",
     "total_channels": 12,
     "active_channels": 8,
     "disabled_channels": 4,
@@ -10,14 +10,14 @@
     "error_channels": 1,
     "health_rate_percent": 87.5,
     "total_uploaded_videos": 753,
-    "total_views_tracked": 115381728,
+    "total_views_tracked": 115529301,
     "total_subscribers": 71237,
     "total_pending_retries": 1,
     "underperforming_channels": 2,
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-10-22 18:09:22 UTC"
+    "gh_pages_synced_at": "2026-10-22 18:30:08 UTC"
   },
   "channels": [
     {
@@ -61,7 +61,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-10-22 18:31:30 UTC",
+        "expires_at": "2026-10-22 19:27:48 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -730,7 +730,7 @@
       "channel_id": "channel_2",
       "profile_code": "PF #2",
       "youtube_channel_name": "Not A Chef",
-      "source_title": "NOT A CHEF",
+      "source_title": "NOT A CHEF (Cooking & Recipes)",
       "youtube_handle": "@notachefofficialy",
       "youtube_channel_url": "https://www.youtube.com/@notachefofficialy",
       "subscribers_count": 45700,
@@ -747,8 +747,8 @@
         "total_in_drive": 68,
         "posted_count": 66,
         "remaining_unposted": 2,
-        "videos_per_day": 1,
-        "days_buffer": 2.0,
+        "videos_per_day": 2,
+        "days_buffer": 1.0,
         "stock_status": "low_stock",
         "stock_label": "LOW STOCK (2 videos left)",
         "unposted_videos": [
@@ -762,8 +762,8 @@
         "stock_status": "low_stock",
         "remaining_unposted": 2,
         "total_available": 68,
-        "days_buffer": 2.0,
-        "alert_message": "Only 2 unposted videos remaining in Google Drive (~2.0 days left). Add more videos soon."
+        "days_buffer": 1.0,
+        "alert_message": "Only 2 unposted videos remaining in Google Drive (~1.0 days left). Add more videos soon."
       },
       "is_monetized": true,
       "monetized_date": "2026-10-05",
@@ -773,15 +773,16 @@
       "days_idle": null,
       "is_idle_expired": false,
       "upload_mode": "sequence",
-      "videos_per_day": 1,
+      "videos_per_day": 2,
       "slot_times": {
-        "1": "22:07"
+        "1": "22:07",
+        "2": "16:00"
       },
       "token_health": {
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-10-22 18:31:30 UTC",
+        "expires_at": "2026-10-22 19:27:51 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -792,7 +793,7 @@
       "total_uploaded": 87,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 75527316,
+      "total_views": 75674889,
       "last_run_date": "2026-10-08 08:26:46",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: ACTKn75aNYw",
@@ -962,7 +963,7 @@
           "youtube_id": "zu1y6A6wmFk",
           "status": "uploaded",
           "upload_date": "2026-10-21",
-          "view_count": 13269,
+          "view_count": 13596,
           "title": "Ultimate Cheesy Korean Corn Dog ASMR 🧀 #corndog #cheesepull #asmrfood #easyrecipe #streetfood",
           "created_at": "2026-10-21 05:55:49",
           "rowid": 85
@@ -972,7 +973,7 @@
           "youtube_id": "KrRWxd1U4ZA",
           "status": "uploaded",
           "upload_date": "2026-10-20",
-          "view_count": 4343,
+          "view_count": 4346,
           "title": "The Ultimate Rich & Creamy New England Clam Chowder 🍲 #clamchowder #soupseason #comfortfood",
           "created_at": "2026-10-20 04:45:45",
           "rowid": 84
@@ -982,7 +983,7 @@
           "youtube_id": "xSyR-Xtdpeg",
           "status": "uploaded",
           "upload_date": "2026-10-19",
-          "view_count": 19620,
+          "view_count": 19635,
           "title": "The Ultimate Loaded Baked Potato 🥔 #loadedbakedpotato #bakedpotato #asmrfood #easyrecipes",
           "created_at": "2026-10-19 04:28:19",
           "rowid": 83
@@ -992,7 +993,7 @@
           "youtube_id": "VCDHY2Ng0DI",
           "status": "uploaded",
           "upload_date": "2026-10-17",
-          "view_count": 3198,
+          "view_count": 3240,
           "title": "The ultimate homemade Caesar salad recipe 🥗 #caesarsalad #saladrecipe #asmrcooking #easyrecipes",
           "created_at": "2026-10-17 02:23:02",
           "rowid": 82
@@ -1002,7 +1003,7 @@
           "youtube_id": "yc6hIx3Ye7o",
           "status": "uploaded",
           "upload_date": "2026-10-16",
-          "view_count": 5789,
+          "view_count": 5822,
           "title": "The Ultimate Fluffy French Toast 🥞 #frenchtoast #breakfastideas #recipe #foodie #asmrfood",
           "created_at": "2026-10-16 07:24:31",
           "rowid": 81
@@ -1132,7 +1133,7 @@
           "youtube_id": "_fe_53VwZVg",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 212250,
+          "view_count": 212285,
           "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
           "created_at": "2026-10-05 07:13:00",
           "rowid": 68
@@ -1172,7 +1173,7 @@
           "youtube_id": "_JrixkRfciY",
           "status": "uploaded",
           "upload_date": "2026-10-02",
-          "view_count": 30506,
+          "view_count": 30518,
           "title": "The Ultimate Quick Egg Toast Sandwich 🥪 #eggtoast #breakfastideas #quickrecipes #asmrfood #easy",
           "created_at": "2026-10-02 03:29:17",
           "rowid": 64
@@ -1262,7 +1263,7 @@
           "youtube_id": "nA6H7c8n95k",
           "status": "uploaded",
           "upload_date": "2026-09-28",
-          "view_count": 38739,
+          "view_count": 38795,
           "title": "Refreshing Orange Mint Mocktail 🍊 #mocktail #asmrfood #drinkrecipe #refreshing #viral",
           "created_at": "2026-09-28 00:35:58",
           "rowid": 55
@@ -1272,7 +1273,7 @@
           "youtube_id": "uujkf0bXYJ4",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 57131,
+          "view_count": 57724,
           "title": "Two little cuties are playing house outdoors. My heart just melted. #adorablebaby",
           "created_at": "2026-09-27 09:57:33",
           "rowid": 54
@@ -1282,7 +1283,7 @@
           "youtube_id": "KOCBMfdG6Ko",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 81134,
+          "view_count": 81794,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #Baby #SmartTech",
           "created_at": "2026-09-27 05:46:43",
           "rowid": 53
@@ -1292,7 +1293,7 @@
           "youtube_id": "9RK6Hb3KI98",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 58405,
+          "view_count": 58733,
           "title": "Refreshing Cucumber Lime Mocktail 🥒 #mocktail #refreshing #asmr #easyrecipe #viral",
           "created_at": "2026-09-27 04:00:00",
           "rowid": 52
@@ -1302,7 +1303,7 @@
           "youtube_id": "0PY-fE3bVvk",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 35296,
+          "view_count": 35507,
           "title": "Pineapple Lemonade🍆 #asmrfood #cooking #recipe #food #viral",
           "created_at": "2026-09-27 00:58:25",
           "rowid": 51
@@ -1312,7 +1313,7 @@
           "youtube_id": "Cz5mLIrItNc",
           "status": "uploaded",
           "upload_date": "2026-09-26",
-          "view_count": 59920,
+          "view_count": 60507,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-26 15:58:24",
           "rowid": 50
@@ -1322,7 +1323,7 @@
           "youtube_id": "Fn9ocp6eIEU",
           "status": "uploaded",
           "upload_date": "2026-09-26",
-          "view_count": 28565,
+          "view_count": 28791,
           "title": "Peach Ice Tea 🍆 #asmrfood #cooking #recipe #food #viral",
           "created_at": "2026-09-26 04:42:06",
           "rowid": 49
@@ -1332,7 +1333,7 @@
           "youtube_id": "ccrxIkE6gRI",
           "status": "uploaded",
           "upload_date": "2026-09-26",
-          "view_count": 40112,
+          "view_count": 40353,
           "title": "Philly Cheesesteak Sandwich 🥪 #phillycheesesteak #asmrfood #sandwich #cooking #recipe",
           "created_at": "2026-09-26 04:42:06",
           "rowid": 48
@@ -1342,7 +1343,7 @@
           "youtube_id": "yN0VDgbbbiw",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 12986238,
+          "view_count": 14274214,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:33:57",
           "rowid": 47
@@ -1352,7 +1353,7 @@
           "youtube_id": "DoDDCkPg9_s",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 49964,
+          "view_count": 50261,
           "title": "Oreo Milkshake 🍪 #oreomilkshake #asmrfood #recipe #milkshake #dessert",
           "created_at": "2026-09-25 04:04:33",
           "rowid": 46
@@ -1362,7 +1363,7 @@
           "youtube_id": "D9ax-aItBBU",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 38456,
+          "view_count": 38639,
           "title": "Mango Milkshake 🥭 (19) #asmrfood #cooking #recipe #food #viral",
           "created_at": "2026-09-25 03:20:27",
           "rowid": 45
@@ -1382,7 +1383,7 @@
           "youtube_id": "ZeSN-bVuwYw",
           "status": "uploaded",
           "upload_date": "2026-09-24",
-          "view_count": 30682,
+          "view_count": 30845,
           "title": "Juicy Chicken Skewers 🍢 #chickenkabab #asmrfood #recipe #cooking #foodie",
           "created_at": "2026-09-24 07:06:36",
           "rowid": 43
@@ -1392,7 +1393,7 @@
           "youtube_id": "Wun34-adtSc",
           "status": "uploaded",
           "upload_date": "2026-09-24",
-          "view_count": 36615,
+          "view_count": 36802,
           "title": "Loaded Cheese Fries 🍟 #loadedfries #asmrfood #cheesy #recipe #foodie",
           "created_at": "2026-09-24 07:06:36",
           "rowid": 42
@@ -1412,7 +1413,7 @@
           "youtube_id": "rPoNsxedSG4",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 30669,
+          "view_count": 30835,
           "title": "Fresh Strawberry Lemonade 🍓 #strawberrylemonade #asmrfood #summerdrinks #recipereels",
           "created_at": "2026-09-23 05:53:09",
           "rowid": 40
@@ -1422,7 +1423,7 @@
           "youtube_id": "US3Ea6aoXT0",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 41764,
+          "view_count": 41929,
           "title": "Fresh Watermelon Juice 🍉 #asmrfood #watermelonjuice #recipe #drink #refreshing",
           "created_at": "2026-09-23 05:53:09",
           "rowid": 39
@@ -1432,7 +1433,7 @@
           "youtube_id": "rTu4G_lNdrE",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 5080141,
+          "view_count": 6163222,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech #sleep",
           "created_at": "2026-09-22 17:30:53",
           "rowid": 38
@@ -1513,7 +1514,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-10-22 18:31:30 UTC",
+        "expires_at": "2026-10-22 19:27:48 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -2219,7 +2220,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-10-22 18:31:30 UTC",
+        "expires_at": "2026-10-22 19:27:48 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -2540,7 +2541,7 @@
           "youtube_id": "fnlS7JeTxyA",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 2603696,
+          "view_count": 2603745,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:35:02",
           "rowid": 27
@@ -2600,7 +2601,7 @@
           "youtube_id": "5FyiXi2KuKo",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 8733599,
+          "view_count": 8733662,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:06:44",
           "rowid": 21
@@ -2866,7 +2867,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-10-22 18:31:30 UTC",
+        "expires_at": "2026-10-22 19:27:48 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -3573,7 +3574,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-10-22 18:31:30 UTC",
+        "expires_at": "2026-10-22 19:27:48 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -4281,7 +4282,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-10-22 18:31:30 UTC",
+        "expires_at": "2026-10-22 19:27:48 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -4789,7 +4790,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-10-22 18:31:30 UTC",
+        "expires_at": "2026-10-22 19:27:48 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -5517,7 +5518,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-10-22 18:31:34 UTC",
+        "expires_at": "2026-10-22 19:27:50 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -6250,7 +6251,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-10-22 18:31:35 UTC",
+        "expires_at": "2026-10-22 19:27:51 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -6943,7 +6944,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-10-22 18:31:35 UTC",
+        "expires_at": "2026-10-22 19:27:51 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -7661,7 +7662,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-10-22 18:31:35 UTC",
+        "expires_at": "2026-10-22 19:27:51 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -8181,7 +8182,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-10-22 18:09:19 UTC",
+    "timestamp": "2026-10-22 18:29:43 UTC",
     "total_channels": 12,
     "healthy_count": 5,
     "auto_healed_count": 0,
@@ -8227,7 +8228,7 @@
         "uploads_today": 1,
         "uploads_yesterday": 2,
         "missed_posting": false,
-        "error_detail": "Only 2 unposted videos remaining in Google Drive (~2.0 days left). Add more videos soon.",
+        "error_detail": "Only 2 unposted videos remaining in Google Drive (~1.0 days left). Add more videos soon.",
         "auto_heal_log": null,
         "user_action_needed": false,
         "action_title": null,
@@ -8239,8 +8240,8 @@
           "stock_status": "low_stock",
           "remaining_unposted": 2,
           "total_available": 68,
-          "days_buffer": 2.0,
-          "alert_message": "Only 2 unposted videos remaining in Google Drive (~2.0 days left). Add more videos soon."
+          "days_buffer": 1.0,
+          "alert_message": "Only 2 unposted videos remaining in Google Drive (~1.0 days left). Add more videos soon."
         }
       },
       {
