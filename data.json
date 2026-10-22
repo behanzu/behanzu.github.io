@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-10-22 10:29:22 UTC",
+    "timestamp_utc": "2026-10-22 10:37:16 UTC",
     "total_channels": 16,
     "active_channels": 7,
     "disabled_channels": 9,
@@ -17,7 +17,7 @@
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-10-22 10:30:17 UTC"
+    "gh_pages_synced_at": "2026-10-22 10:38:03 UTC"
   },
   "channels": [
     {
@@ -2990,11 +2990,11 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-10-22 10:29:23 UTC",
+    "timestamp": "2026-10-22 10:37:16 UTC",
     "total_channels": 16,
     "healthy_count": 0,
     "auto_healed_count": 0,
-    "action_required_count": 7,
+    "action_required_count": 6,
     "channels": [
       {
         "channel_id": "channel_1",
@@ -3357,7 +3357,7 @@
         "profile_code": "PF #9",
         "source_type": "gdrive",
         "source_target": "N/A",
-        "status": "action_required",
+        "status": "monitoring",
         "token_status": "valid",
         "last_upload_date": null,
         "uploads_today": 0,
@@ -3365,18 +3365,18 @@
         "missed_posting": true,
         "error_detail": "No uploads recorded in the last 48 hours. Scheduled upload pending next slot.",
         "auto_heal_log": null,
-        "user_action_needed": true,
-        "action_title": "Content Depleted: Bunny Planet",
-        "action_description": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped.",
-        "action_button_type": "update_source",
+        "user_action_needed": false,
+        "action_title": null,
+        "action_description": null,
+        "action_button_type": null,
         "content_inventory": {
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
-          "stock_status": "depleted",
-          "remaining_unposted": 0,
-          "total_available": 0,
-          "days_buffer": 0,
-          "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
+          "stock_status": "healthy",
+          "remaining_unposted": 11,
+          "total_available": 50,
+          "days_buffer": 11.0,
+          "alert_message": null
         }
       },
       {
@@ -3387,7 +3387,7 @@
         "source_target": "https://www.facebook.com/profile.php?id=61594523063507",
         "status": "monitoring",
         "token_status": "valid",
-        "last_upload_date": null,
+        "last_upload_date": "2026-10-16",
         "uploads_today": 0,
         "uploads_yesterday": 0,
         "missed_posting": true,
@@ -3415,7 +3415,7 @@
         "source_target": "N/A",
         "status": "monitoring",
         "token_status": "valid",
-        "last_upload_date": null,
+        "last_upload_date": "2026-10-08",
         "uploads_today": 0,
         "uploads_yesterday": 0,
         "missed_posting": true,
@@ -3424,7 +3424,16 @@
         "user_action_needed": false,
         "action_title": null,
         "action_description": null,
-        "action_button_type": null
+        "action_button_type": null,
+        "content_inventory": {
+          "source_type": "local_folder",
+          "source_url": "content/channel_17",
+          "stock_status": "healthy",
+          "remaining_unposted": 8,
+          "total_available": 11,
+          "days_buffer": 8.0,
+          "alert_message": null
+        }
       }
     ],
     "action_required_items": [
@@ -3589,34 +3598,6 @@
         "content_inventory": {
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1Z80VWahTafQMiDU1S86M6z5mLnvo_CT3",
-          "stock_status": "depleted",
-          "remaining_unposted": 0,
-          "total_available": 0,
-          "days_buffer": 0,
-          "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
-        }
-      },
-      {
-        "channel_id": "channel_15",
-        "name": "Bunny Planet",
-        "profile_code": "PF #9",
-        "source_type": "gdrive",
-        "source_target": "N/A",
-        "status": "action_required",
-        "token_status": "valid",
-        "last_upload_date": null,
-        "uploads_today": 0,
-        "uploads_yesterday": 0,
-        "missed_posting": true,
-        "error_detail": "No uploads recorded in the last 48 hours. Scheduled upload pending next slot.",
-        "auto_heal_log": null,
-        "user_action_needed": true,
-        "action_title": "Content Depleted: Bunny Planet",
-        "action_description": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped.",
-        "action_button_type": "update_source",
-        "content_inventory": {
-          "source_type": "gdrive",
-          "source_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
           "stock_status": "depleted",
           "remaining_unposted": 0,
           "total_available": 0,
