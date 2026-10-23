@@ -1,10 +1,10 @@
 {
   "summary": {
-    "timestamp_utc": "2026-10-23 05:29:47 UTC",
+    "timestamp_utc": "2026-10-23 05:47:01 UTC",
     "total_channels": 12,
-    "active_channels": 8,
-    "disabled_channels": 4,
-    "idle_channels": 4,
+    "active_channels": 7,
+    "disabled_channels": 5,
+    "idle_channels": 5,
     "today_completed_channels": 0,
     "token_warnings": 0,
     "error_channels": 0,
@@ -15,9 +15,9 @@
     "total_pending_retries": 1,
     "underperforming_channels": 2,
     "content_depleted_channels": 0,
-    "content_low_channels": 1,
-    "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-10-23 05:30:25 UTC"
+    "content_low_channels": 0,
+    "content_alerts_count": 0,
+    "gh_pages_synced_at": "2026-10-23 05:47:04 UTC"
   },
   "channels": [
     {
@@ -272,7 +272,7 @@
           "youtube_id": "aHJparwLo9g",
           "status": "uploaded",
           "upload_date": "2026-10-16",
-          "view_count": 1642,
+          "view_count": 1650,
           "title": "When saying no to your little sibling backfires in the most dramatic way 🍦 #wholesome",
           "created_at": "2026-10-16 07:24:31",
           "rowid": 92
@@ -382,7 +382,7 @@
           "youtube_id": "mZkhQPeyVHo",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 124449,
+          "view_count": 124450,
           "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
           "created_at": "2026-10-05 07:12:41",
           "rowid": 81
@@ -744,30 +744,28 @@
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/13aPFnGVSotrOaUKVRX-MxgfrkHRn4qr-",
         "folder_title": "NOT A CHEF",
-        "total_in_drive": 68,
-        "posted_count": 67,
-        "remaining_unposted": 1,
+        "total_in_drive": 50,
+        "posted_count": 50,
+        "remaining_unposted": 0,
         "videos_per_day": 2,
-        "days_buffer": 0.5,
-        "stock_status": "low_stock",
-        "stock_label": "LOW STOCK (1 videos left)",
-        "unposted_videos": [
-          "Watermelon Lemonade  #asmrfood #cooking #recipe #food #viral"
-        ]
+        "days_buffer": 0.0,
+        "stock_status": "depleted",
+        "stock_label": "EMPTY (0 videos left!)",
+        "unposted_videos": []
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/13aPFnGVSotrOaUKVRX-MxgfrkHRn4qr-",
-        "stock_status": "low_stock",
-        "remaining_unposted": 1,
-        "total_available": 68,
-        "days_buffer": 0.5,
-        "alert_message": "Only 1 unposted videos remaining in Google Drive (~0.5 days left). Add more videos soon."
+        "stock_status": "depleted",
+        "remaining_unposted": 0,
+        "total_available": 50,
+        "days_buffer": 0.0,
+        "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
       },
       "is_monetized": true,
       "monetized_date": "2026-10-05",
       "enabled": true,
-      "status": "active",
+      "status": "idle",
       "idle_since": null,
       "days_idle": null,
       "is_idle_expired": false,
@@ -942,7 +940,7 @@
           "youtube_id": "4XiKPg2ghS8",
           "status": "uploaded",
           "upload_date": "2026-10-23",
-          "view_count": 1165,
+          "view_count": 1222,
           "title": "Ultra Crispy Spicy Cauliflower Bites! 🥦 #asmrfood #cauliflower #crispy #recipe #foodie",
           "created_at": "2026-10-23 05:10:55",
           "rowid": 88
@@ -972,7 +970,7 @@
           "youtube_id": "zu1y6A6wmFk",
           "status": "uploaded",
           "upload_date": "2026-10-21",
-          "view_count": 16876,
+          "view_count": 16913,
           "title": "Ultimate Cheesy Korean Corn Dog ASMR 🧀 #corndog #cheesepull #asmrfood #easyrecipe #streetfood",
           "created_at": "2026-10-21 05:55:49",
           "rowid": 85
@@ -1142,7 +1140,7 @@
           "youtube_id": "_fe_53VwZVg",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 213026,
+          "view_count": 213048,
           "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
           "created_at": "2026-10-05 07:13:00",
           "rowid": 68
@@ -1162,7 +1160,7 @@
           "youtube_id": "hgtf6evk8AA",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 26101,
+          "view_count": 26105,
           "title": "Ultimate Crispy Fried Chicken & Hash Browns 🍗 #crispychicken #friedchicken #hashbrowns #asmrfoo",
           "created_at": "2026-10-05 05:03:08",
           "rowid": 66
@@ -1444,7 +1442,8 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 01, 2026",
-      "overall_status": "active"
+      "overall_status": "idle",
+      "idle_reason": "inventory_depleted"
     },
     {
       "channel_id": "channel_3",
@@ -2599,7 +2598,7 @@
           "youtube_id": "5FyiXi2KuKo",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 8734459,
+          "view_count": 8734477,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:06:44",
           "rowid": 21
@@ -7151,7 +7150,7 @@
           "youtube_id": "--5mMl3aBwo",
           "status": "uploaded",
           "upload_date": "2026-10-20",
-          "view_count": 146,
+          "view_count": 149,
           "title": "Clover Hunter",
           "created_at": "2026-10-20 04:45:56",
           "rowid": 49
@@ -8188,11 +8187,11 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-10-23 05:29:47 UTC",
+    "timestamp": "2026-10-23 05:47:01 UTC",
     "total_channels": 12,
     "healthy_count": 5,
     "auto_healed_count": 0,
-    "action_required_count": 3,
+    "action_required_count": 4,
     "channels": [
       {
         "channel_id": "channel_1",
@@ -8228,26 +8227,26 @@
         "profile_code": "PF #2",
         "source_type": "gdrive",
         "source_target": "N/A",
-        "status": "monitoring",
+        "status": "action_required",
         "token_status": "valid",
         "last_upload_date": "2026-10-23",
         "uploads_today": 1,
         "uploads_yesterday": 1,
         "missed_posting": false,
-        "error_detail": "Only 1 unposted videos remaining in Google Drive (~0.5 days left). Add more videos soon.",
+        "error_detail": null,
         "auto_heal_log": null,
-        "user_action_needed": false,
-        "action_title": null,
-        "action_description": null,
-        "action_button_type": null,
+        "user_action_needed": true,
+        "action_title": "Content Depleted: Not A Chef",
+        "action_description": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped.",
+        "action_button_type": "update_source",
         "content_inventory": {
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/13aPFnGVSotrOaUKVRX-MxgfrkHRn4qr-",
-          "stock_status": "low_stock",
-          "remaining_unposted": 1,
-          "total_available": 68,
-          "days_buffer": 0.5,
-          "alert_message": "Only 1 unposted videos remaining in Google Drive (~0.5 days left). Add more videos soon."
+          "stock_status": "depleted",
+          "remaining_unposted": 0,
+          "total_available": 50,
+          "days_buffer": 0.0,
+          "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
         }
       },
       {
@@ -8532,6 +8531,34 @@
       }
     ],
     "action_required_items": [
+      {
+        "channel_id": "channel_2",
+        "name": "Not A Chef",
+        "profile_code": "PF #2",
+        "source_type": "gdrive",
+        "source_target": "N/A",
+        "status": "action_required",
+        "token_status": "valid",
+        "last_upload_date": "2026-10-23",
+        "uploads_today": 1,
+        "uploads_yesterday": 1,
+        "missed_posting": false,
+        "error_detail": null,
+        "auto_heal_log": null,
+        "user_action_needed": true,
+        "action_title": "Content Depleted: Not A Chef",
+        "action_description": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped.",
+        "action_button_type": "update_source",
+        "content_inventory": {
+          "source_type": "gdrive",
+          "source_url": "https://drive.google.com/drive/folders/13aPFnGVSotrOaUKVRX-MxgfrkHRn4qr-",
+          "stock_status": "depleted",
+          "remaining_unposted": 0,
+          "total_available": 50,
+          "days_buffer": 0.0,
+          "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
+        }
+      },
       {
         "channel_id": "channel_7",
         "name": "Excellent Caulking",
