@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-10-23 06:30:11 UTC",
+    "timestamp_utc": "2026-10-23 06:53:01 UTC",
     "total_channels": 12,
     "active_channels": 8,
     "disabled_channels": 4,
     "idle_channels": 4,
-    "today_completed_channels": 0,
+    "today_completed_channels": 3,
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 760,
-    "total_views_tracked": 115696568,
+    "total_uploaded_videos": 767,
+    "total_views_tracked": 115696581,
     "total_subscribers": 71436,
     "total_pending_retries": 1,
     "underperforming_channels": 2,
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-10-23 06:30:13 UTC"
+    "gh_pages_synced_at": "2026-10-23 06:53:57 UTC"
   },
   "channels": [
     {
@@ -28,7 +28,7 @@
       "youtube_handle": "@meelyansnmyhands",
       "youtube_channel_url": "https://www.youtube.com/@meelyansnmyhands",
       "subscribers_count": 2650,
-      "published_videos_count": 38,
+      "published_videos_count": 39,
       "live_youtube_views": 4909551,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Apr 07, 2026",
@@ -67,15 +67,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 96,
+      "total_uploaded": 97,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 4909551,
-      "last_run_date": "2026-10-08 08:26:37",
+      "last_run_date": "2026-10-23 06:51:55",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: YhV7XHWj6NY",
+      "last_run_message": "Uploaded YouTube ID: jYavogc2hC0",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-14",
@@ -152,9 +152,9 @@
         {
           "date": "2026-10-23",
           "short_date": "Oct 23",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -212,11 +212,21 @@
           "short_date": "Oct 23",
           "day_name": "Fri",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "broadcast_newbron_1792738315_channel_1",
+          "youtube_id": "jYavogc2hC0",
+          "status": "uploaded",
+          "upload_date": "2026-10-23",
+          "view_count": 0,
+          "title": "Newbron baby🥰🥰 #baby",
+          "created_at": "2026-10-23 06:51:55",
+          "rowid": 98
+        },
         {
           "tiktok_id": "yt_BVXmkw9oxd0",
           "youtube_id": "BVXmkw9oxd0",
@@ -706,16 +716,6 @@
           "title": "When your cat finally gets a voice collar and spills all your secrets 🐱 #catsoftiktok #funnycat",
           "created_at": "2026-09-22 03:08:09",
           "rowid": 49
-        },
-        {
-          "tiktok_id": "yt_ohuAdfAkWPE",
-          "youtube_id": "ohuAdfAkWPE",
-          "status": "uploaded",
-          "upload_date": "2026-09-21",
-          "view_count": 20,
-          "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
-          "created_at": "2026-09-21 17:32:35",
-          "rowid": 48
         }
       ],
       "pending_retry_items": [],
@@ -724,7 +724,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 25, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_2",
@@ -734,7 +734,7 @@
       "youtube_handle": "@notachefofficialy",
       "youtube_channel_url": "https://www.youtube.com/@notachefofficialy",
       "subscribers_count": 45900,
-      "published_videos_count": 83,
+      "published_videos_count": 84,
       "live_youtube_views": 75834432,
       "owner_email": "baarakhaaan@gmail.com",
       "channel_created_at": "Aug 30, 2026",
@@ -787,15 +787,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 88,
+      "total_uploaded": 89,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 75834432,
-      "last_run_date": "2026-10-08 08:26:46",
+      "last_run_date": "2026-10-23 06:52:04",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: ACTKn75aNYw",
+      "last_run_message": "Uploaded YouTube ID: SnRtzIuIHlE",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-14",
@@ -872,9 +872,9 @@
         {
           "date": "2026-10-23",
           "short_date": "Oct 23",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -932,17 +932,27 @@
           "short_date": "Oct 23",
           "day_name": "Fri",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
         {
+          "tiktok_id": "broadcast_newbron_1792738324_channel_2",
+          "youtube_id": "SnRtzIuIHlE",
+          "status": "uploaded",
+          "upload_date": "2026-10-23",
+          "view_count": 0,
+          "title": "Newbron baby🥰🥰 #baby",
+          "created_at": "2026-10-23 06:52:04",
+          "rowid": 89
+        },
+        {
           "tiktok_id": "yt_4XiKPg2ghS8",
           "youtube_id": "4XiKPg2ghS8",
           "status": "uploaded",
           "upload_date": "2026-10-23",
-          "view_count": 1314,
+          "view_count": 1375,
           "title": "Ultra Crispy Spicy Cauliflower Bites! 🥦 #asmrfood #cauliflower #crispy #recipe #foodie",
           "created_at": "2026-10-23 05:10:55",
           "rowid": 88
@@ -952,7 +962,7 @@
           "youtube_id": "yhrydpLr-h0",
           "status": "uploaded",
           "upload_date": "2026-10-22",
-          "view_count": 1006,
+          "view_count": 1037,
           "title": "Ultra Crispy Onion Pakoda 🧅 #onionpakoda #crispy #pakora #asmrfood #indianfood",
           "created_at": "2026-10-22 05:16:35",
           "rowid": 87
@@ -972,7 +982,7 @@
           "youtube_id": "zu1y6A6wmFk",
           "status": "uploaded",
           "upload_date": "2026-10-21",
-          "view_count": 16992,
+          "view_count": 17037,
           "title": "Ultimate Cheesy Korean Corn Dog ASMR 🧀 #corndog #cheesepull #asmrfood #easyrecipe #streetfood",
           "created_at": "2026-10-21 05:55:49",
           "rowid": 85
@@ -982,7 +992,7 @@
           "youtube_id": "KrRWxd1U4ZA",
           "status": "uploaded",
           "upload_date": "2026-10-20",
-          "view_count": 4512,
+          "view_count": 4521,
           "title": "The Ultimate Rich & Creamy New England Clam Chowder 🍲 #clamchowder #soupseason #comfortfood",
           "created_at": "2026-10-20 04:45:45",
           "rowid": 84
@@ -992,7 +1002,7 @@
           "youtube_id": "xSyR-Xtdpeg",
           "status": "uploaded",
           "upload_date": "2026-10-19",
-          "view_count": 19878,
+          "view_count": 19894,
           "title": "The Ultimate Loaded Baked Potato 🥔 #loadedbakedpotato #bakedpotato #asmrfood #easyrecipes",
           "created_at": "2026-10-19 04:28:19",
           "rowid": 83
@@ -1032,7 +1042,7 @@
           "youtube_id": "E_Qm20Bml5Y",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 18749,
+          "view_count": 18748,
           "title": "Flaky Croissant Ice Cream Waffle 🥐 #croffle #asmrfood #dessert #croissant #recipe",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 79
@@ -1052,7 +1062,7 @@
           "youtube_id": "QS7f4MD3ZBQ",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 3765,
+          "view_count": 3769,
           "title": "Soft and Pillowy Cloud Cakes 🧁 #cloudcake #souffle #baking #asmrfood #dessert",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 77
@@ -1062,7 +1072,7 @@
           "youtube_id": "cn59frReJNo",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 5101,
+          "view_count": 5108,
           "title": "The Crispiest Nashville Hot Chicken Sandwich You Need To Try 🍗 #nashvillehotchicken",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 76
@@ -1072,7 +1082,7 @@
           "youtube_id": "5N2GB2YnmbQ",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 5900,
+          "view_count": 5904,
           "title": "The Easiest Whipped Dalgona Coffee Recipe ☕ #dalgonacoffee #coffee #recipe #easyrecipe",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 75
@@ -1142,7 +1152,7 @@
           "youtube_id": "_fe_53VwZVg",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 213054,
+          "view_count": 213069,
           "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
           "created_at": "2026-10-05 07:13:00",
           "rowid": 68
@@ -1182,7 +1192,7 @@
           "youtube_id": "_JrixkRfciY",
           "status": "uploaded",
           "upload_date": "2026-10-02",
-          "view_count": 30536,
+          "view_count": 30542,
           "title": "The Ultimate Quick Egg Toast Sandwich 🥪 #eggtoast #breakfastideas #quickrecipes #asmrfood #easy",
           "created_at": "2026-10-02 03:29:17",
           "rowid": 64
@@ -1426,16 +1436,6 @@
           "title": "Fresh Strawberry Lemonade 🍓 #strawberrylemonade #asmrfood #summerdrinks #recipereels",
           "created_at": "2026-09-23 05:53:09",
           "rowid": 40
-        },
-        {
-          "tiktok_id": "yt_US3Ea6aoXT0",
-          "youtube_id": "US3Ea6aoXT0",
-          "status": "uploaded",
-          "upload_date": "2026-09-23",
-          "view_count": 41929,
-          "title": "Fresh Watermelon Juice 🍉 #asmrfood #watermelonjuice #recipe #drink #refreshing",
-          "created_at": "2026-09-23 05:53:09",
-          "rowid": 39
         }
       ],
       "pending_retry_items": [],
@@ -1454,7 +1454,7 @@
       "youtube_handle": "@quote4quotes",
       "youtube_channel_url": "https://www.youtube.com/@quote4quotes",
       "subscribers_count": 1630,
-      "published_videos_count": 71,
+      "published_videos_count": 72,
       "live_youtube_views": 3166552,
       "owner_email": "mrsabdulmateen36@gmail.com",
       "channel_created_at": "Sep 01, 2026",
@@ -1518,15 +1518,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 72,
+      "total_uploaded": 73,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 3168388,
-      "last_run_date": "2026-10-22 17:59:05",
-      "last_run_status": "failed",
-      "last_run_message": "Failed to download any of the 1 candidates for slot 2.",
+      "last_run_date": "2026-10-23 06:52:14",
+      "last_run_status": "success",
+      "last_run_message": "Uploaded YouTube ID: CB-zC1RapVg",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-14",
@@ -1603,9 +1603,9 @@
         {
           "date": "2026-10-23",
           "short_date": "Oct 23",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -1663,11 +1663,21 @@
           "short_date": "Oct 23",
           "day_name": "Fri",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "broadcast_newbron_1792738334_channel_3",
+          "youtube_id": "CB-zC1RapVg",
+          "status": "uploaded",
+          "upload_date": "2026-10-23",
+          "view_count": 0,
+          "title": "Newbron baby🥰🥰 #baby",
+          "created_at": "2026-10-23 06:52:14",
+          "rowid": 74
+        },
         {
           "tiktok_id": "yt_dk6pVcf8Kbk",
           "youtube_id": "dk6pVcf8Kbk",
@@ -2157,16 +2167,6 @@
           "title": "1.9K views · 45 reactions | Tiny First Moments on Reels",
           "created_at": "2026-09-17 03:42:10",
           "rowid": 24
-        },
-        {
-          "tiktok_id": "2581952575585322",
-          "youtube_id": "yLXswRtmelc",
-          "status": "uploaded",
-          "upload_date": "2026-09-17",
-          "view_count": 2401,
-          "title": "The exact moment he heard his dad's voice for the very first time 🥹 That little smile says ever",
-          "created_at": "2026-09-17 00:10:35",
-          "rowid": 23
         }
       ],
       "pending_retry_items": [],
@@ -2185,7 +2185,7 @@
       "youtube_handle": "@luvthugga-h1p",
       "youtube_channel_url": "https://www.youtube.com/@luvthugga-h1p",
       "subscribers_count": 6320,
-      "published_videos_count": 43,
+      "published_videos_count": 44,
       "live_youtube_views": 11808902,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Oct 28, 2025",
@@ -2224,15 +2224,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 43,
+      "total_uploaded": 44,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 11808902,
-      "last_run_date": "2026-10-08 08:27:12",
+      "last_run_date": "2026-10-23 06:52:24",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: bGdaOPzdLgs",
+      "last_run_message": "Uploaded YouTube ID: fAKcgfKA6fI",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-14",
@@ -2309,9 +2309,9 @@
         {
           "date": "2026-10-23",
           "short_date": "Oct 23",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -2369,11 +2369,21 @@
           "short_date": "Oct 23",
           "day_name": "Fri",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "broadcast_newbron_1792738344_channel_4",
+          "youtube_id": "fAKcgfKA6fI",
+          "status": "uploaded",
+          "upload_date": "2026-10-23",
+          "view_count": 0,
+          "title": "Newbron baby🥰🥰 #baby",
+          "created_at": "2026-10-23 06:52:24",
+          "rowid": 44
+        },
         {
           "tiktok_id": "yt_ES1xfvEk0u4",
           "youtube_id": "ES1xfvEk0u4",
@@ -2599,7 +2609,7 @@
           "youtube_id": "5FyiXi2KuKo",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 8734573,
+          "view_count": 8734626,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:06:44",
           "rowid": 21
@@ -2811,7 +2821,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 02, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_5",
@@ -2871,15 +2881,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 81,
+      "total_uploaded": 82,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 37988,
-      "last_run_date": "2026-10-08 08:27:23",
+      "last_run_date": "2026-10-23 06:52:34",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: njjokYN0moQ",
+      "last_run_message": "Uploaded YouTube ID: crvJtPgi_T4",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-14",
@@ -2956,9 +2966,9 @@
         {
           "date": "2026-10-23",
           "short_date": "Oct 23",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -3016,11 +3026,21 @@
           "short_date": "Oct 23",
           "day_name": "Fri",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "broadcast_newbron_1792738354_channel_5",
+          "youtube_id": "crvJtPgi_T4",
+          "status": "uploaded",
+          "upload_date": "2026-10-23",
+          "view_count": 0,
+          "title": "Newbron baby🥰🥰 #baby",
+          "created_at": "2026-10-23 06:52:34",
+          "rowid": 82
+        },
         {
           "tiktok_id": "yt_w2MHJCTWyT4",
           "youtube_id": "w2MHJCTWyT4",
@@ -3510,16 +3530,6 @@
           "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
           "created_at": "2026-09-22 05:30:41",
           "rowid": 33
-        },
-        {
-          "tiktok_id": "yt_Zkljpw2-o24",
-          "youtube_id": "Zkljpw2-o24",
-          "status": "uploaded",
-          "upload_date": "2026-09-22",
-          "view_count": 1,
-          "title": "Duxie EP09 - Fancy Restaurant Fiasco | Funny Cartoon Animation #Shorts",
-          "created_at": "2026-09-22 03:36:42",
-          "rowid": 32
         }
       ],
       "pending_retry_items": [],
@@ -3578,15 +3588,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 55,
+      "total_uploaded": 56,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 3452,
-      "last_run_date": "2026-10-08 08:27:33",
+      "last_run_date": "2026-10-23 06:52:45",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: zptJZXfEJC0",
+      "last_run_message": "Uploaded YouTube ID: beuONuM1Y5A",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-14",
@@ -3663,9 +3673,9 @@
         {
           "date": "2026-10-23",
           "short_date": "Oct 23",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -3723,11 +3733,21 @@
           "short_date": "Oct 23",
           "day_name": "Fri",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "broadcast_newbron_1792738365_channel_6",
+          "youtube_id": "beuONuM1Y5A",
+          "status": "uploaded",
+          "upload_date": "2026-10-23",
+          "view_count": 0,
+          "title": "Newbron baby🥰🥰 #baby",
+          "created_at": "2026-10-23 06:52:45",
+          "rowid": 56
+        },
         {
           "tiktok_id": "yt_60WEG8E_2Jc",
           "youtube_id": "60WEG8E_2Jc",
@@ -4217,16 +4237,6 @@
           "title": "El Yankee en LA 🌴#elyankee #comedia #aivideo #losangeles #taquero",
           "created_at": "2026-09-08 06:38:54",
           "rowid": 7
-        },
-        {
-          "tiktok_id": "yt_4ewqjchAFdA",
-          "youtube_id": "4ewqjchAFdA",
-          "status": "uploaded",
-          "upload_date": "2026-09-08",
-          "view_count": 32,
-          "title": "El yankee se va a la india #elyankee #aivideo #funny #chistoso",
-          "created_at": "2026-09-08 06:38:54",
-          "rowid": 6
         }
       ],
       "pending_retry_items": [],
@@ -4237,7 +4247,7 @@
       ],
       "has_db": true,
       "linked_date": "Sep 27, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_7",
@@ -4286,15 +4296,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 29,
+      "total_uploaded": 30,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 437815,
-      "last_run_date": "2026-10-05 07:14:32",
+      "last_run_date": "2026-10-23 06:52:55",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: DYsTGcpB7FI",
+      "last_run_message": "Uploaded YouTube ID: Ry54TDlJtsE",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-14",
@@ -4371,9 +4381,9 @@
         {
           "date": "2026-10-23",
           "short_date": "Oct 23",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -4431,11 +4441,21 @@
           "short_date": "Oct 23",
           "day_name": "Fri",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "broadcast_newbron_1792738375_channel_7",
+          "youtube_id": "Ry54TDlJtsE",
+          "status": "uploaded",
+          "upload_date": "2026-10-23",
+          "view_count": 0,
+          "title": "Newbron baby🥰🥰 #baby",
+          "created_at": "2026-10-23 06:52:55",
+          "rowid": 30
+        },
         {
           "tiktok_id": "broadcast_avocado_1791184472_channel_7",
           "youtube_id": "DYsTGcpB7FI",
@@ -6258,7 +6278,7 @@
       "total_uploaded": 47,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 472708,
+      "total_views": 472721,
       "last_run_date": "2026-10-21 16:31:02",
       "last_run_status": "failed",
       "last_run_message": "YouTube upload failed: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
@@ -6418,7 +6438,7 @@
           "youtube_id": "naIeRAnj_lk",
           "status": "uploaded",
           "upload_date": "2026-10-21",
-          "view_count": 26,
+          "view_count": 27,
           "title": "How Sea Cucumbers Regenerate #Shorts #Science #Facts",
           "created_at": "2026-10-21 05:55:55",
           "rowid": 46
@@ -6698,7 +6718,7 @@
           "youtube_id": "P355BWOylm4",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 405635,
+          "view_count": 405647,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:41:13",
           "rowid": 18
@@ -8188,9 +8208,9 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-10-23 06:30:11 UTC",
+    "timestamp": "2026-10-23 06:53:01 UTC",
     "total_channels": 12,
-    "healthy_count": 5,
+    "healthy_count": 7,
     "auto_healed_count": 0,
     "action_required_count": 3,
     "channels": [
@@ -8203,7 +8223,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-10-23",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -8231,7 +8251,7 @@
         "status": "monitoring",
         "token_status": "valid",
         "last_upload_date": "2026-10-23",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": "Only 1 unposted videos remaining in Google Drive (~0.5 days left). Add more videos soon.",
@@ -8259,10 +8279,10 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-10-23",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 1,
         "missed_posting": false,
-        "error_detail": "Failed to download any of the 1 candidates for slot 2.",
+        "error_detail": null,
         "auto_heal_log": null,
         "user_action_needed": false,
         "action_title": null,
@@ -8284,13 +8304,13 @@
         "profile_code": "",
         "source_type": "tiktok",
         "source_target": "faghieegiza",
-        "status": "monitoring",
+        "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-10-14",
-        "uploads_today": 0,
+        "last_upload_date": "2026-10-23",
+        "uploads_today": 1,
         "uploads_yesterday": 0,
-        "missed_posting": true,
-        "error_detail": "No uploads recorded in the last 48 hours. Scheduled upload pending next slot.",
+        "missed_posting": false,
+        "error_detail": null,
         "auto_heal_log": null,
         "user_action_needed": false,
         "action_title": null,
@@ -8314,8 +8334,8 @@
         "source_target": "N/A",
         "status": "idle",
         "token_status": "valid",
-        "last_upload_date": "2026-10-22",
-        "uploads_today": 0,
+        "last_upload_date": "2026-10-23",
+        "uploads_today": 1,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": "Channel is currently set to IDLE (Paused, 1/7 days elapsed).",
@@ -8340,13 +8360,13 @@
         "profile_code": "PF #1",
         "source_type": "facebook",
         "source_target": "https://www.facebook.com/profile.php?id=61594592974641",
-        "status": "monitoring",
+        "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-10-14",
-        "uploads_today": 0,
+        "last_upload_date": "2026-10-23",
+        "uploads_today": 1,
         "uploads_yesterday": 0,
-        "missed_posting": true,
-        "error_detail": "No uploads recorded in the last 48 hours. Scheduled upload pending next slot.",
+        "missed_posting": false,
+        "error_detail": null,
         "auto_heal_log": null,
         "user_action_needed": false,
         "action_title": null,
@@ -8370,10 +8390,10 @@
         "source_target": "https://www.facebook.com/profile.php?id=61592577731084&sk=reels_tab",
         "status": "idle_due_resume",
         "token_status": "valid",
-        "last_upload_date": "2026-10-05",
-        "uploads_today": 0,
+        "last_upload_date": "2026-10-23",
+        "uploads_today": 1,
         "uploads_yesterday": 0,
-        "missed_posting": true,
+        "missed_posting": false,
         "error_detail": "Idle time passed (8 days elapsed). Time to resume content posting.",
         "auto_heal_log": null,
         "user_action_needed": true,
@@ -8540,10 +8560,10 @@
         "source_target": "https://www.facebook.com/profile.php?id=61592577731084&sk=reels_tab",
         "status": "idle_due_resume",
         "token_status": "valid",
-        "last_upload_date": "2026-10-05",
-        "uploads_today": 0,
+        "last_upload_date": "2026-10-23",
+        "uploads_today": 1,
         "uploads_yesterday": 0,
-        "missed_posting": true,
+        "missed_posting": false,
         "error_detail": "Idle time passed (8 days elapsed). Time to resume content posting.",
         "auto_heal_log": null,
         "user_action_needed": true,
