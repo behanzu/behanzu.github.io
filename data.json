@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-10-26 05:29:53 UTC",
+    "timestamp_utc": "2026-10-26 05:49:11 UTC",
     "total_channels": 14,
     "active_channels": 12,
     "disabled_channels": 1,
     "idle_channels": 1,
-    "today_completed_channels": 0,
+    "today_completed_channels": 1,
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 793,
-    "total_views_tracked": 118063644,
+    "total_uploaded_videos": 795,
+    "total_views_tracked": 118069250,
     "total_subscribers": 72889,
     "total_pending_retries": 1,
     "underperforming_channels": 2,
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-10-26 05:30:13 UTC"
+    "gh_pages_synced_at": "2026-10-26 05:49:13 UTC"
   },
   "channels": [
     {
@@ -734,7 +734,7 @@
       "youtube_handle": "@notachefofficialy",
       "youtube_channel_url": "https://www.youtube.com/@notachefofficialy",
       "subscribers_count": 47300,
-      "published_videos_count": 84,
+      "published_videos_count": 87,
       "live_youtube_views": 77581203,
       "owner_email": "baarakhaaan@gmail.com",
       "channel_created_at": "Aug 30, 2026",
@@ -745,15 +745,14 @@
         "gdrive_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
         "folder_title": "COMPILED REELS",
         "total_in_drive": 36,
-        "posted_count": 9,
-        "remaining_unposted": 27,
+        "posted_count": 10,
+        "remaining_unposted": 26,
         "videos_per_day": 2,
-        "days_buffer": 13.5,
+        "days_buffer": 13.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (27 videos ready)",
+        "stock_label": "HEALTHY (26 videos ready)",
         "unposted_videos": [
           "Best Burgers & Sandwiches Compilation  | ASMR Cooking #burger #sandwich #asmrfood",
-          "Cheesy Philly Cheesesteak & Double Cheeseburger | Most Satisfying ASMR  #cheeseburger",
           "Cheesy Street Food Compilation  | ASMR Cooking #streetfood #tacos #cheesepull",
           "Cheesy Stuffed Bell Peppers & Cozy Beef Chili | Comfort Dinner ASMR  #beefchili #dinnerideas",
           "Cloud Cakes, Viral Dubai Chocolate & Croffle | Trendy Desserts ASMR  #dubaichocolate",
@@ -766,16 +765,17 @@
           "Fettuccine Alfredo, Beef Stroganoff & Baked Feta Pasta | Creamy Pasta ASMR  #pasta #alfredo",
           "Fluffy French Toast & Churros with Chocolate | Most Satisfying Desserts ASMR  #dessert",
           "Gooey Chocolate Chip Cookies & New York Cheesecake | Best Desserts ASMR  #cheesecake #cookies",
-          "Grilled Cheese with Tomato Soup & Buttermilk Fried Chicken Sandwich | ASMR  #grilledcheese"
+          "Grilled Cheese with Tomato Soup & Buttermilk Fried Chicken Sandwich | ASMR  #grilledcheese",
+          "Homemade Caesar Salad & Creamy Clam Chowder | Comfort Food ASMR  #caesarsalad #clamchowder"
         ]
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
         "stock_status": "healthy",
-        "remaining_unposted": 27,
+        "remaining_unposted": 26,
         "total_available": 36,
-        "days_buffer": 13.5,
+        "days_buffer": 13.0,
         "alert_message": null
       },
       "is_monetized": true,
@@ -801,15 +801,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
-      "slot2_today": "not_run",
-      "total_uploaded": 90,
+      "slot1_today": "success",
+      "slot2_today": "success",
+      "total_uploaded": 92,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 78168418,
-      "last_run_date": "2026-10-23 06:52:04",
+      "total_views": 78173997,
+      "last_run_date": "2026-10-26 05:37:59",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: SnRtzIuIHlE",
+      "last_run_message": "Uploaded YouTube ID: TIz15DPSwrQ",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-17",
@@ -886,9 +886,9 @@
         {
           "date": "2026-10-26",
           "short_date": "Oct 26",
-          "slot1": "not_run",
-          "slot2": "not_run",
-          "uploads_count": 0,
+          "slot1": "success",
+          "slot2": "success",
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -946,11 +946,31 @@
           "short_date": "Oct 26",
           "day_name": "Mon",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "1oEA5Frt4ay7ZwJDlQpWexKj6Mf1Bz98i",
+          "youtube_id": "TIz15DPSwrQ",
+          "status": "uploaded",
+          "upload_date": "2026-10-26",
+          "view_count": 92,
+          "title": "Can't Handle This Cuteness! Sweetest Newborn Baby 🥰 #cutebaby #babylove #shorts",
+          "created_at": "2026-10-26 05:37:59",
+          "rowid": 92
+        },
+        {
+          "tiktok_id": "yt_idPqtkVuZ6E",
+          "youtube_id": "idPqtkVuZ6E",
+          "status": "uploaded",
+          "upload_date": "2026-10-26",
+          "view_count": 28,
+          "title": "Cheesy Philly Cheesesteak & Double Cheeseburger | Most Satisfying ASMR 🥩🍔 #cheeseburger",
+          "created_at": "2026-10-26 05:37:13",
+          "rowid": 91
+        },
         {
           "tiktok_id": "yt_oBDNnILX68k",
           "youtube_id": "oBDNnILX68k",
@@ -966,7 +986,7 @@
           "youtube_id": "SnRtzIuIHlE",
           "status": "uploaded",
           "upload_date": "2026-10-23",
-          "view_count": 30645,
+          "view_count": 30682,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-10-23 06:52:04",
           "rowid": 89
@@ -986,7 +1006,7 @@
           "youtube_id": "yhrydpLr-h0",
           "status": "uploaded",
           "upload_date": "2026-10-22",
-          "view_count": 3129,
+          "view_count": 3195,
           "title": "Ultra Crispy Onion Pakoda 🧅 #onionpakoda #crispy #pakora #asmrfood #indianfood",
           "created_at": "2026-10-22 05:16:35",
           "rowid": 87
@@ -1036,7 +1056,7 @@
           "youtube_id": "VCDHY2Ng0DI",
           "status": "uploaded",
           "upload_date": "2026-10-17",
-          "view_count": 4382,
+          "view_count": 4424,
           "title": "The ultimate homemade Caesar salad recipe 🥗 #caesarsalad #saladrecipe #asmrcooking #easyrecipes",
           "created_at": "2026-10-17 02:23:02",
           "rowid": 82
@@ -1046,7 +1066,7 @@
           "youtube_id": "yc6hIx3Ye7o",
           "status": "uploaded",
           "upload_date": "2026-10-16",
-          "view_count": 6924,
+          "view_count": 6951,
           "title": "The Ultimate Fluffy French Toast 🥞 #frenchtoast #breakfastideas #recipe #foodie #asmrfood",
           "created_at": "2026-10-16 07:24:31",
           "rowid": 81
@@ -1186,7 +1206,7 @@
           "youtube_id": "t2q--9LsgFk",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 8247,
+          "view_count": 8251,
           "title": "Turn Crispy Rusks Into Rich Homemade Halwa 🍮 #ruskhalwa #halwarecipe #easydessert #asmrcooking",
           "created_at": "2026-10-05 05:03:08",
           "rowid": 67
@@ -1326,7 +1346,7 @@
           "youtube_id": "KOCBMfdG6Ko",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 82552,
+          "view_count": 82565,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #Baby #SmartTech",
           "created_at": "2026-09-27 05:46:43",
           "rowid": 53
@@ -1366,7 +1386,7 @@
           "youtube_id": "Fn9ocp6eIEU",
           "status": "uploaded",
           "upload_date": "2026-09-26",
-          "view_count": 29050,
+          "view_count": 29053,
           "title": "Peach Ice Tea 🍆 #asmrfood #cooking #recipe #food #viral",
           "created_at": "2026-09-26 04:42:06",
           "rowid": 49
@@ -1386,7 +1406,7 @@
           "youtube_id": "yN0VDgbbbiw",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 15983183,
+          "view_count": 15987059,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:33:57",
           "rowid": 47
@@ -1430,26 +1450,6 @@
           "title": "Juicy Chicken Skewers 🍢 #chickenkabab #asmrfood #recipe #cooking #foodie",
           "created_at": "2026-09-24 07:06:36",
           "rowid": 43
-        },
-        {
-          "tiktok_id": "yt_Wun34-adtSc",
-          "youtube_id": "Wun34-adtSc",
-          "status": "uploaded",
-          "upload_date": "2026-09-24",
-          "view_count": 37028,
-          "title": "Loaded Cheese Fries 🍟 #loadedfries #asmrfood #cheesy #recipe #foodie",
-          "created_at": "2026-09-24 07:06:36",
-          "rowid": 42
-        },
-        {
-          "tiktok_id": "babycare_overlay_1790179564_channel_2",
-          "youtube_id": "uwrICPlA6Z0",
-          "status": "uploaded",
-          "upload_date": "2026-09-23",
-          "view_count": 21745,
-          "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
-          "created_at": "2026-09-23 16:06:04",
-          "rowid": 41
         }
       ],
       "pending_retry_items": [],
@@ -1458,7 +1458,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 01, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_3",
@@ -2621,7 +2621,7 @@
           "youtube_id": "5FyiXi2KuKo",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 8741118,
+          "view_count": 8741281,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:06:44",
           "rowid": 21
@@ -5754,7 +5754,7 @@
           "youtube_id": "3trkHhhMLm0",
           "status": "uploaded",
           "upload_date": "2026-10-25",
-          "view_count": 185,
+          "view_count": 184,
           "title": "Yummy Veggies Time | Cute Baby Poem & Nursery Rhymes #Shorts",
           "created_at": "2026-10-25 05:36:51",
           "rowid": 115
@@ -6327,7 +6327,7 @@
       "total_uploaded": 52,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 479970,
+      "total_views": 479997,
       "last_run_date": "2026-10-24 16:31:46",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: wUbrqJyppkg",
@@ -6517,7 +6517,7 @@
           "youtube_id": "megGFIGotnM",
           "status": "uploaded",
           "upload_date": "2026-10-23",
-          "view_count": 5274,
+          "view_count": 5301,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-10-23 06:53:29",
           "rowid": 48
@@ -8500,9 +8500,9 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-10-26 05:29:53 UTC",
+    "timestamp": "2026-10-26 05:49:11 UTC",
     "total_channels": 14,
-    "healthy_count": 4,
+    "healthy_count": 5,
     "auto_healed_count": 0,
     "action_required_count": 1,
     "channels": [
@@ -8540,13 +8540,13 @@
         "profile_code": "PF #2",
         "source_type": "gdrive",
         "source_target": "N/A",
-        "status": "monitoring",
+        "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-10-24",
-        "uploads_today": 0,
+        "last_upload_date": "2026-10-26",
+        "uploads_today": 2,
         "uploads_yesterday": 0,
-        "missed_posting": true,
-        "error_detail": "No uploads recorded in the last 48 hours. Scheduled upload pending next slot.",
+        "missed_posting": false,
+        "error_detail": null,
         "auto_heal_log": null,
         "user_action_needed": false,
         "action_title": null,
@@ -8556,9 +8556,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
           "stock_status": "healthy",
-          "remaining_unposted": 27,
+          "remaining_unposted": 26,
           "total_available": 36,
-          "days_buffer": 13.5,
+          "days_buffer": 13.0,
           "alert_message": null
         }
       },
@@ -8850,10 +8850,10 @@
         "source_target": "https://space.bilibili.com/24301201",
         "status": "idle",
         "token_status": "valid",
-        "last_upload_date": "2026-10-24",
-        "uploads_today": 0,
+        "last_upload_date": "2026-10-26",
+        "uploads_today": 2,
         "uploads_yesterday": 0,
-        "missed_posting": true,
+        "missed_posting": false,
         "error_detail": "Channel is currently set to IDLE (Paused).",
         "auto_heal_log": null,
         "user_action_needed": false,
