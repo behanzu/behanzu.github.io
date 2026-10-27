@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-10-27 17:53:24 UTC",
+    "timestamp_utc": "2026-10-27 17:54:02 UTC",
     "total_channels": 13,
     "active_channels": 11,
     "disabled_channels": 1,
@@ -17,7 +17,7 @@
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-10-27 17:53:24 UTC"
+    "gh_pages_synced_at": "2026-10-27 17:54:03 UTC"
   },
   "channels": [
     {
@@ -2390,7 +2390,7 @@
           "youtube_id": "1I2QTOm3C08",
           "status": "uploaded",
           "upload_date": "2026-10-27",
-          "view_count": 769,
+          "view_count": 778,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-10-27 08:34:12",
           "rowid": 46
@@ -5580,8 +5580,8 @@
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1pPi14ti2JQTIa7aIspie9k85dsqX_dIQ",
         "folder_title": "Pip Poem Videos (60)",
-        "total_in_drive": 51,
-        "posted_count": 51,
+        "total_in_drive": 61,
+        "posted_count": 61,
         "remaining_unposted": 0,
         "videos_per_day": 2,
         "days_buffer": 0.0,
@@ -5594,7 +5594,7 @@
         "source_url": "https://drive.google.com/drive/folders/1pPi14ti2JQTIa7aIspie9k85dsqX_dIQ",
         "stock_status": "depleted",
         "remaining_unposted": 0,
-        "total_available": 51,
+        "total_available": 61,
         "days_buffer": 0.0,
         "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
       },
@@ -5621,15 +5621,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "failed",
+      "slot1_today": "no_content",
       "slot2_today": "not_run",
       "total_uploaded": 95,
       "total_failed": 1,
       "total_pending_retry": 0,
       "total_views": 23789,
-      "last_run_date": "2026-10-27 17:51:33",
-      "last_run_status": "failed",
-      "last_run_message": "Failed to download any of the 1 candidates for slot 1.",
+      "last_run_date": "2026-10-27 17:53:30",
+      "last_run_status": "no_content",
+      "last_run_message": "No unposted videos found for channel source channel_12.",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-18",
@@ -5706,7 +5706,7 @@
         {
           "date": "2026-10-27",
           "short_date": "Oct 27",
-          "slot1": "failed",
+          "slot1": "no_content",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -8339,7 +8339,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-10-27 17:53:24 UTC",
+    "timestamp": "2026-10-27 17:54:02 UTC",
     "total_channels": 13,
     "healthy_count": 10,
     "auto_healed_count": 0,
@@ -8581,7 +8581,7 @@
         "uploads_today": 0,
         "uploads_yesterday": 1,
         "missed_posting": false,
-        "error_detail": "Failed to download any of the 1 candidates for slot 1.",
+        "error_detail": null,
         "auto_heal_log": null,
         "user_action_needed": true,
         "action_title": "Content Depleted: Pim Poem",
@@ -8592,7 +8592,7 @@
           "source_url": "https://drive.google.com/drive/folders/1pPi14ti2JQTIa7aIspie9k85dsqX_dIQ",
           "stock_status": "depleted",
           "remaining_unposted": 0,
-          "total_available": 51,
+          "total_available": 61,
           "days_buffer": 0.0,
           "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
         }
@@ -8723,7 +8723,7 @@
         "uploads_today": 0,
         "uploads_yesterday": 1,
         "missed_posting": false,
-        "error_detail": "Failed to download any of the 1 candidates for slot 1.",
+        "error_detail": null,
         "auto_heal_log": null,
         "user_action_needed": true,
         "action_title": "Content Depleted: Pim Poem",
@@ -8734,7 +8734,7 @@
           "source_url": "https://drive.google.com/drive/folders/1pPi14ti2JQTIa7aIspie9k85dsqX_dIQ",
           "stock_status": "depleted",
           "remaining_unposted": 0,
-          "total_available": 51,
+          "total_available": 61,
           "days_buffer": 0.0,
           "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
         }
