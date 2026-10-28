@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-10-28 13:40:05 UTC",
+    "timestamp_utc": "2026-10-28 13:41:36 UTC",
     "total_channels": 13,
     "active_channels": 11,
     "disabled_channels": 1,
@@ -17,7 +17,7 @@
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-10-28 13:41:17 UTC"
+    "gh_pages_synced_at": "2026-10-28 13:42:23 UTC"
   },
   "channels": [
     {
@@ -7059,13 +7059,13 @@
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
         "folder_title": "BUNNY PLANET",
-        "total_in_drive": 50,
+        "total_in_drive": 60,
         "posted_count": 41,
-        "remaining_unposted": 9,
+        "remaining_unposted": 19,
         "videos_per_day": 1,
-        "days_buffer": 9.0,
+        "days_buffer": 19.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (9 videos ready)",
+        "stock_label": "HEALTHY (19 videos ready)",
         "unposted_videos": [
           "Baby Bunnys First Carrot",
           "The Strawberry Thief",
@@ -7075,16 +7075,22 @@
           "Daisy Chain Dance",
           "Cuddle Bug",
           "The Carrot Rocket",
-          "Lullaby Lop"
+          "Lullaby Lop",
+          "Spinach Sprint",
+          "Marshmallow Nap",
+          "The Happy Hopscotch",
+          "Twilight Twirl",
+          "Corn Crunch",
+          "Blanket Burrito"
         ]
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
         "stock_status": "healthy",
-        "remaining_unposted": 9,
-        "total_available": 50,
-        "days_buffer": 9.0,
+        "remaining_unposted": 19,
+        "total_available": 60,
+        "days_buffer": 19.0,
         "alert_message": null
       },
       "is_monetized": false,
@@ -8371,7 +8377,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-10-28 13:40:05 UTC",
+    "timestamp": "2026-10-28 13:41:36 UTC",
     "total_channels": 13,
     "healthy_count": 10,
     "auto_healed_count": 0,
@@ -8679,9 +8685,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
           "stock_status": "healthy",
-          "remaining_unposted": 9,
-          "total_available": 50,
-          "days_buffer": 9.0,
+          "remaining_unposted": 19,
+          "total_available": 60,
+          "days_buffer": 19.0,
           "alert_message": null
         }
       },
