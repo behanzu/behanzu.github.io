@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-10-30 17:39:26 UTC",
+    "timestamp_utc": "2026-10-30 17:40:30 UTC",
     "total_channels": 9,
-    "active_channels": 8,
-    "disabled_channels": 0,
-    "idle_channels": 0,
+    "active_channels": 7,
+    "disabled_channels": 1,
+    "idle_channels": 1,
     "today_completed_channels": 0,
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
     "total_uploaded_videos": 584,
-    "total_views_tracked": 121497366,
+    "total_views_tracked": 121497612,
     "total_subscribers": 73152,
     "total_pending_retries": 2,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-10-30 17:40:30 UTC"
+    "gh_pages_synced_at": "2026-10-30 17:41:08 UTC"
   },
   "channels": [
     {
@@ -1186,7 +1186,7 @@
           "youtube_id": "cn59frReJNo",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 6333,
+          "view_count": 6353,
           "title": "The Crispiest Nashville Hot Chicken Sandwich You Need To Try 🍗 #nashvillehotchicken",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 76
@@ -2900,16 +2900,16 @@
       "content_inventory": {
         "source_type": "tiktok",
         "source_url": "https://www.tiktok.com/@fishing_tiktoks",
-        "stock_status": "healthy",
-        "remaining_unposted": null,
-        "total_available": null,
-        "days_buffer": null,
-        "alert_message": null
+        "stock_status": "depleted",
+        "remaining_unposted": 0,
+        "total_available": 0,
+        "days_buffer": 0,
+        "alert_message": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL."
       },
       "is_monetized": false,
       "monetized_date": null,
       "enabled": true,
-      "status": "active",
+      "status": "idle",
       "idle_since": null,
       "days_idle": null,
       "is_idle_expired": false,
@@ -2929,15 +2929,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "failed",
       "slot2_today": "not_run",
       "total_uploaded": 91,
       "total_failed": 0,
       "total_pending_retry": 1,
       "total_views": 38046,
-      "last_run_date": "2026-10-28 14:54:12",
-      "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: Hy3tOSkHbnI",
+      "last_run_date": "2026-10-30 17:40:06",
+      "last_run_status": "failed",
+      "last_run_message": "Failed to download any of the 1 candidates for slot 1.",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-21",
@@ -3014,7 +3014,7 @@
         {
           "date": "2026-10-30",
           "short_date": "Oct 30",
-          "slot1": "not_run",
+          "slot1": "failed",
           "slot2": "not_run",
           "uploads_count": 2,
           "views_gained": 0
@@ -3598,7 +3598,8 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 02, 2026",
-      "overall_status": "active"
+      "overall_status": "idle",
+      "idle_reason": "inventory_depleted"
     },
     {
       "channel_id": "channel_7",
@@ -3648,15 +3649,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "skipped",
       "slot2_today": "not_run",
       "total_uploaded": 41,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 439010,
-      "last_run_date": "2026-10-27 16:32:52",
-      "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: DqBfaUqsJ90",
+      "total_views": 439038,
+      "last_run_date": "2026-10-30 17:40:08",
+      "last_run_status": "skipped",
+      "last_run_message": "Slot 1 has already executed successfully today (2026-10-30). Skipping.",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-21",
@@ -3733,7 +3734,7 @@
         {
           "date": "2026-10-30",
           "short_date": "Oct 30",
-          "slot1": "not_run",
+          "slot1": "skipped",
           "slot2": "not_run",
           "uploads_count": 2,
           "views_gained": 0
@@ -4093,7 +4094,7 @@
           "youtube_id": "DlbEy7LLTBM",
           "status": "uploaded",
           "upload_date": "2026-09-08",
-          "view_count": 7479,
+          "view_count": 7481,
           "title": "#funnykidsvideo",
           "created_at": "2026-09-08 06:38:53",
           "rowid": 12
@@ -4113,7 +4114,7 @@
           "youtube_id": "E6hmIPIGgzc",
           "status": "uploaded",
           "upload_date": "2026-09-07",
-          "view_count": 602,
+          "view_count": 604,
           "title": "#funnykidsreels",
           "created_at": "2026-09-07 01:21:20",
           "rowid": 10
@@ -4123,7 +4124,7 @@
           "youtube_id": "VCGWBBjIhjo",
           "status": "uploaded",
           "upload_date": "2026-09-07",
-          "view_count": 7396,
+          "view_count": 7398,
           "title": "#FunnyKidsMoments",
           "created_at": "2026-09-07 01:21:20",
           "rowid": 9
@@ -4133,7 +4134,7 @@
           "youtube_id": "eivuVsSQAmQ",
           "status": "uploaded",
           "upload_date": "2026-09-06",
-          "view_count": 1513,
+          "view_count": 1516,
           "title": "#FunnyKidsMoments",
           "created_at": "2026-09-06 04:49:35",
           "rowid": 8
@@ -4143,7 +4144,7 @@
           "youtube_id": "ehmbGDU-G78",
           "status": "uploaded",
           "upload_date": "2026-09-06",
-          "view_count": 686,
+          "view_count": 688,
           "title": "#FunnyKidsMoments",
           "created_at": "2026-09-06 04:49:35",
           "rowid": 7
@@ -4153,7 +4154,7 @@
           "youtube_id": "BFHx2PaBdTE",
           "status": "uploaded",
           "upload_date": "2026-09-05",
-          "view_count": 571,
+          "view_count": 574,
           "title": "#funnykidsvideo",
           "created_at": "2026-09-05 01:29:30",
           "rowid": 6
@@ -4163,7 +4164,7 @@
           "youtube_id": "AqpccbkgNKk",
           "status": "uploaded",
           "upload_date": "2026-09-04",
-          "view_count": 572,
+          "view_count": 575,
           "title": "#funnykids",
           "created_at": "2026-09-04 07:35:06",
           "rowid": 5
@@ -4173,7 +4174,7 @@
           "youtube_id": "MwZ0Jdwb7gQ",
           "status": "uploaded",
           "upload_date": "2026-09-04",
-          "view_count": 364,
+          "view_count": 365,
           "title": "Try this paper toy again and again 💕  #DIY #easyorigami #satisfying #asmr #origamitutorial",
           "created_at": "2026-09-04 01:43:26",
           "rowid": 4
@@ -4183,7 +4184,7 @@
           "youtube_id": "2NWKJaaIxBo",
           "status": "uploaded",
           "upload_date": "2026-09-04",
-          "view_count": 392,
+          "view_count": 395,
           "title": "Make a easy paper candy 💕  #DIY #easyorigami #origamitutorial #foryoupage #cutecrafts",
           "created_at": "2026-09-04 01:43:26",
           "rowid": 3
@@ -4193,7 +4194,7 @@
           "youtube_id": "399RrqpwN04",
           "status": "uploaded",
           "upload_date": "2026-09-03",
-          "view_count": 522,
+          "view_count": 526,
           "title": "DIY wall decor 💕  #DIY #origamitutorial #handmade #easyorigami #fyppppppppppppppppppppppp",
           "created_at": "2026-09-03 05:05:07",
           "rowid": 2
@@ -4203,7 +4204,7 @@
           "youtube_id": "klxeOj9mdmg",
           "status": "uploaded",
           "upload_date": "2026-09-03",
-          "view_count": 738,
+          "view_count": 741,
           "title": "How to make a paper box without glue 💕  #DIY #cutecrafts #satisfying #easyorigami #origamitutor",
           "created_at": "2026-09-03 05:05:07",
           "rowid": 1
@@ -4286,15 +4287,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "skipped",
       "slot2_today": "not_run",
       "total_uploaded": 58,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 505098,
-      "last_run_date": "2026-10-27 16:34:56",
-      "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: Sc0_CW6WIOM",
+      "total_views": 505316,
+      "last_run_date": "2026-10-30 17:40:27",
+      "last_run_status": "skipped",
+      "last_run_message": "Channel 'channel_14' already received 1 uploads today on YouTube (max: 1). Skipping slot 1 to prevent duplicate!",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-21",
@@ -4371,7 +4372,7 @@
         {
           "date": "2026-10-30",
           "short_date": "Oct 30",
-          "slot1": "not_run",
+          "slot1": "skipped",
           "slot2": "not_run",
           "uploads_count": 1,
           "views_gained": 0
@@ -4451,7 +4452,7 @@
           "youtube_id": "Zx0uCBj8X_k",
           "status": "uploaded",
           "upload_date": "2026-10-29",
-          "view_count": 16342,
+          "view_count": 16344,
           "title": "Why Crocodiles Swallow Stones #Shorts #Science #Facts",
           "created_at": "2026-10-29 07:54:22",
           "rowid": 57
@@ -4741,7 +4742,7 @@
           "youtube_id": "2t39SfiUYMM",
           "status": "uploaded",
           "upload_date": "2026-10-02",
-          "view_count": 176,
+          "view_count": 178,
           "title": "How Air Layering Plant Propagation Works #Shorts #Science #Facts",
           "created_at": "2026-10-02 03:29:37",
           "rowid": 28
@@ -4751,7 +4752,7 @@
           "youtube_id": "wCzagdD2vm0",
           "status": "uploaded",
           "upload_date": "2026-10-01",
-          "view_count": 225,
+          "view_count": 227,
           "title": "How African Bullfrogs Dig Rescue Canals #Shorts #Science #Facts",
           "created_at": "2026-10-01 03:19:55",
           "rowid": 27
@@ -4761,7 +4762,7 @@
           "youtube_id": "ODZNTUFEcgg",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 856,
+          "view_count": 863,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
           "created_at": "2026-09-30 15:19:30",
           "rowid": 26
@@ -4771,7 +4772,7 @@
           "youtube_id": "YSrFl3WM2SE",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 429,
+          "view_count": 442,
           "title": "Why Spicy Food Makes Your Nose Run",
           "created_at": "2026-09-30 03:40:02",
           "rowid": 25
@@ -4781,7 +4782,7 @@
           "youtube_id": "W0vakKpseyU",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 348,
+          "view_count": 351,
           "title": "Why Cutting Onions Makes You Cry",
           "created_at": "2026-09-30 03:35:18",
           "rowid": 24
@@ -4791,7 +4792,7 @@
           "youtube_id": "L2VogWQZVoc",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 1583,
+          "view_count": 1597,
           "title": "Two little cuties are playing house outdoors. My heart just melted. #adorablebaby",
           "created_at": "2026-09-27 10:05:00",
           "rowid": 23
@@ -4801,7 +4802,7 @@
           "youtube_id": "mfTZmvP9ZUw",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 1997,
+          "view_count": 2008,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #Baby #SmartTech",
           "created_at": "2026-09-27 05:51:11",
           "rowid": 22
@@ -4811,7 +4812,7 @@
           "youtube_id": "jP0SBPus838",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 1649,
+          "view_count": 1650,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #Baby #SmartTech",
           "created_at": "2026-09-27 05:42:57",
           "rowid": 21
@@ -4821,7 +4822,7 @@
           "youtube_id": "0k_DMCdEQTM",
           "status": "uploaded",
           "upload_date": "2026-09-26",
-          "view_count": 2350,
+          "view_count": 2357,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-26 16:02:46",
           "rowid": 20
@@ -4831,7 +4832,7 @@
           "youtube_id": "71FYfkBsW_s",
           "status": "uploaded",
           "upload_date": "2026-09-26",
-          "view_count": 1691,
+          "view_count": 1692,
           "title": "Why Bright Sunlight Makes You Sneeze",
           "created_at": "2026-09-26 04:42:10",
           "rowid": 19
@@ -4841,7 +4842,7 @@
           "youtube_id": "P355BWOylm4",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 406228,
+          "view_count": 406364,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:41:13",
           "rowid": 18
@@ -4851,7 +4852,7 @@
           "youtube_id": "pm7n-UHCkdM",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 2759,
+          "view_count": 2771,
           "title": "The Real Science Behind Why Cats Purr Is Wild",
           "created_at": "2026-09-25 03:20:31",
           "rowid": 17
@@ -4861,7 +4862,7 @@
           "youtube_id": "WKOqcz3JuUw",
           "status": "uploaded",
           "upload_date": "2026-09-24",
-          "view_count": 7336,
+          "view_count": 7338,
           "title": "i am rich doll 😎",
           "created_at": "2026-09-24 12:01:48",
           "rowid": 16
@@ -4871,7 +4872,7 @@
           "youtube_id": "QuHhC_DFKQo",
           "status": "uploaded",
           "upload_date": "2026-09-24",
-          "view_count": 4969,
+          "view_count": 4971,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
           "created_at": "2026-09-24 11:46:10",
           "rowid": 15
@@ -4891,7 +4892,7 @@
           "youtube_id": "trTJmYjp89o",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 3883,
+          "view_count": 3885,
           "title": "How Your Body Cools Down in Extreme Heat",
           "created_at": "2026-09-23 10:12:49",
           "rowid": 13
@@ -5692,11 +5693,11 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-10-30 17:39:26 UTC",
+    "timestamp": "2026-10-30 17:40:30 UTC",
     "total_channels": 9,
-    "healthy_count": 7,
+    "healthy_count": 6,
     "auto_healed_count": 0,
-    "action_required_count": 0,
+    "action_required_count": 1,
     "channels": [
       {
         "channel_id": "channel_1",
@@ -5816,26 +5817,26 @@
         "profile_code": "",
         "source_type": "tiktok",
         "source_target": "fishing_tiktoks",
-        "status": "healthy",
+        "status": "action_required",
         "token_status": "valid",
         "last_upload_date": "2026-10-30",
         "uploads_today": 2,
         "uploads_yesterday": 3,
         "missed_posting": false,
-        "error_detail": null,
+        "error_detail": "Failed to download any of the 1 candidates for slot 1.",
         "auto_heal_log": null,
-        "user_action_needed": false,
-        "action_title": null,
-        "action_description": null,
-        "action_button_type": null,
+        "user_action_needed": true,
+        "action_title": "Content Depleted: AI Emotional Shorts",
+        "action_description": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL.",
+        "action_button_type": "update_source",
         "content_inventory": {
           "source_type": "tiktok",
           "source_url": "https://www.tiktok.com/@fishing_tiktoks",
-          "stock_status": "healthy",
-          "remaining_unposted": null,
-          "total_available": null,
-          "days_buffer": null,
-          "alert_message": null
+          "stock_status": "depleted",
+          "remaining_unposted": 0,
+          "total_available": 0,
+          "days_buffer": 0,
+          "alert_message": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL."
         }
       },
       {
@@ -5951,6 +5952,35 @@
         }
       }
     ],
-    "action_required_items": []
+    "action_required_items": [
+      {
+        "channel_id": "channel_5",
+        "name": "AI Emotional Shorts",
+        "profile_code": "",
+        "source_type": "tiktok",
+        "source_target": "fishing_tiktoks",
+        "status": "action_required",
+        "token_status": "valid",
+        "last_upload_date": "2026-10-30",
+        "uploads_today": 2,
+        "uploads_yesterday": 3,
+        "missed_posting": false,
+        "error_detail": "Failed to download any of the 1 candidates for slot 1.",
+        "auto_heal_log": null,
+        "user_action_needed": true,
+        "action_title": "Content Depleted: AI Emotional Shorts",
+        "action_description": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL.",
+        "action_button_type": "update_source",
+        "content_inventory": {
+          "source_type": "tiktok",
+          "source_url": "https://www.tiktok.com/@fishing_tiktoks",
+          "stock_status": "depleted",
+          "remaining_unposted": 0,
+          "total_available": 0,
+          "days_buffer": 0,
+          "alert_message": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL."
+        }
+      }
+    ]
   }
 }
