@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-01 07:29:39 UTC",
+    "timestamp_utc": "2026-11-01 07:49:57 UTC",
     "total_channels": 6,
     "active_channels": 5,
     "disabled_channels": 0,
     "idle_channels": 0,
     "today_completed_channels": 2,
     "token_warnings": 0,
-    "error_channels": 0,
-    "health_rate_percent": 100.0,
+    "error_channels": 1,
+    "health_rate_percent": 80.0,
     "total_uploaded_videos": 442,
-    "total_views_tracked": 102648941,
+    "total_views_tracked": 102648966,
     "total_subscribers": 60385,
-    "total_pending_retries": 1,
+    "total_pending_retries": 2,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
-    "content_low_channels": 0,
-    "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-11-01 07:30:12 UTC"
+    "content_low_channels": 1,
+    "content_alerts_count": 1,
+    "gh_pages_synced_at": "2026-11-01 07:50:00 UTC"
   },
   "channels": [
     {
@@ -61,7 +61,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-01 07:41:06 UTC",
+        "expires_at": "2026-11-01 08:37:41 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -72,7 +72,7 @@
       "total_uploaded": 105,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 4946470,
+      "total_views": 4946472,
       "last_run_date": "2026-11-01 00:46:53",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: nJbF-l-N0II",
@@ -252,7 +252,7 @@
           "youtube_id": "qSEvFWoVcqg",
           "status": "uploaded",
           "upload_date": "2026-10-29",
-          "view_count": 133,
+          "view_count": 134,
           "title": "POV: You walk into the birthday party setup EVERY kid dreams of! ✨🎂 This is pure magic — the",
           "created_at": "2026-10-29 07:54:19",
           "rowid": 103
@@ -372,7 +372,7 @@
           "youtube_id": "L7zyb5hN0ak",
           "status": "uploaded",
           "upload_date": "2026-10-15",
-          "view_count": 2003,
+          "view_count": 2004,
           "title": "When monster feet turn tears into instant laughter! 👾 #siblinggoals #funnykids #familyhumor",
           "created_at": "2026-10-15 13:31:45",
           "rowid": 91
@@ -795,7 +795,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-01 07:41:06 UTC",
+        "expires_at": "2026-11-01 08:37:41 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -956,7 +956,7 @@
           "youtube_id": "Zp25A2Fva7Y",
           "status": "uploaded",
           "upload_date": "2026-11-01",
-          "view_count": 1466,
+          "view_count": 1489,
           "title": "Crispy Cheesy Birria Tacos 🌮 #birriatacos #quesabirria #asmrfood #recipe #tacos",
           "created_at": "2026-11-01 00:47:20",
           "rowid": 103
@@ -976,7 +976,7 @@
           "youtube_id": "uSPTDaQpk_k",
           "status": "uploaded",
           "upload_date": "2026-10-31",
-          "view_count": 10658,
+          "view_count": 10702,
           "title": "Baby Red Panda Surprise! Plushie Giggled 🐼 #shorts #cutebaby #viral",
           "created_at": "2026-10-31 06:34:20",
           "rowid": 101
@@ -996,7 +996,7 @@
           "youtube_id": "McVQ79kugP0",
           "status": "uploaded",
           "upload_date": "2026-10-30",
-          "view_count": 2248,
+          "view_count": 2278,
           "title": "Creamy Banana Pudding & Gooey Chocolate Chip Cookies | Sweet Treats ASMR 🍌🍪 #bananapudding",
           "created_at": "2026-10-30 02:32:49",
           "rowid": 99
@@ -1046,7 +1046,7 @@
           "youtube_id": "ciB8zBs7O1Q",
           "status": "uploaded",
           "upload_date": "2026-10-27",
-          "view_count": 27059,
+          "view_count": 27097,
           "title": "A wise little owl decided to perch on our rocking chair and show off tha #cutebaby #babycostume",
           "created_at": "2026-10-27 09:02:56",
           "rowid": 94
@@ -1106,7 +1106,7 @@
           "youtube_id": "4XiKPg2ghS8",
           "status": "uploaded",
           "upload_date": "2026-10-23",
-          "view_count": 13853,
+          "view_count": 13864,
           "title": "Ultra Crispy Spicy Cauliflower Bites! 🥦 #asmrfood #cauliflower #crispy #recipe #foodie",
           "created_at": "2026-10-23 05:10:55",
           "rowid": 88
@@ -1246,7 +1246,7 @@
           "youtube_id": "P31BZSvZ03k",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 13043,
+          "view_count": 13046,
           "title": "The Famous Baked Feta Pasta That Broke The Internet 🍝 #fetapasta #bakedfetapasta #asmrcooking",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 74
@@ -1464,42 +1464,39 @@
       "channel_id": "channel_3",
       "profile_code": "CH3",
       "youtube_channel_name": "Quote 4 Quotes",
-      "source_title": "NUNU BUNU (Kids Animation)",
-      "youtube_handle": "@quote4quotes",
-      "youtube_channel_url": "https://www.youtube.com/@quote4quotes",
+      "source_title": "TINY FIRST MOMENTS (Wholesome Baby)",
+      "youtube_handle": "@babygiggles-j8o",
+      "youtube_channel_url": "https://www.youtube.com/@babygiggles-j8o",
       "subscribers_count": 1620,
       "published_videos_count": 87,
       "live_youtube_views": 3175672,
       "owner_email": "mrsabdulmateen36@gmail.com",
       "channel_created_at": "Sep 01, 2026",
       "source_type": "gdrive",
-      "source_url": "https://drive.google.com/drive/folders/1qilynHNaVDXDue0i7fCj2iM-ip92d1GD",
+      "source_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
       "bilibili_url": "",
       "gdrive_inventory": {
-        "gdrive_url": "https://drive.google.com/drive/folders/1qilynHNaVDXDue0i7fCj2iM-ip92d1GD",
-        "folder_title": "NUNU BUNU",
-        "total_in_drive": 29,
-        "posted_count": 25,
-        "remaining_unposted": 4,
+        "gdrive_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
+        "folder_title": "TINY FIRST MOMENTS",
+        "total_in_drive": 23,
+        "posted_count": 22,
+        "remaining_unposted": 1,
         "videos_per_day": 2,
-        "days_buffer": 2.0,
+        "days_buffer": 0.5,
         "stock_status": "low_stock",
-        "stock_label": "LOW STOCK (4 videos left)",
+        "stock_label": "LOW STOCK (1 videos left)",
         "unposted_videos": [
-          "The Sweetest Surprise For Dad's Special Day  #animation #family #birthday #heartwarming #viral",
-          "The Sweetest Tea Party You'll See Today  #cozyvibes #cuteanimation #wholesome #teaparty #viral",
-          "This Little Girl Playing Dress Up With Her Pets Is The Cutest Thing Ever!  #animation #cute",
-          "Watching her spell her own name for the first time  #parenting #cutebaby #wholesome"
+          "Look at those sweet eyes and beautiful smile!  #baby #cutebaby #adorable #babylove #viral"
         ]
       },
       "content_inventory": {
         "source_type": "gdrive",
-        "source_url": "https://drive.google.com/drive/folders/1qilynHNaVDXDue0i7fCj2iM-ip92d1GD",
-        "stock_status": "healthy",
-        "remaining_unposted": 4,
-        "total_available": 29,
-        "days_buffer": 2.0,
-        "alert_message": null
+        "source_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
+        "stock_status": "low_stock",
+        "remaining_unposted": 1,
+        "total_available": 23,
+        "days_buffer": 0.5,
+        "alert_message": "Only 1 unposted videos remaining in Google Drive (~0.5 days left). Add more videos soon."
       },
       "is_monetized": false,
       "monetized_date": null,
@@ -1518,21 +1515,21 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-01 07:41:03 UTC",
+        "expires_at": "2026-11-01 08:37:41 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
       "slot1_today": "success",
-      "slot2_today": "not_run",
+      "slot2_today": "failed",
       "total_uploaded": 88,
       "total_failed": 0,
-      "total_pending_retry": 0,
-      "total_views": 3176902,
-      "last_run_date": "2026-11-01 00:47:32",
-      "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: z8ktZPtR8NU",
+      "total_pending_retry": 1,
+      "total_views": 3176925,
+      "last_run_date": "2026-11-01 07:45:02",
+      "last_run_status": "failed",
+      "last_run_message": "Failed to download any of the 1 candidates for slot 2.",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-23",
@@ -1610,7 +1607,7 @@
           "date": "2026-11-01",
           "short_date": "Nov 01",
           "slot1": "success",
-          "slot2": "not_run",
+          "slot2": "failed",
           "uploads_count": 1,
           "views_gained": 0
         }
@@ -1675,11 +1672,21 @@
       ],
       "recent_videos": [
         {
+          "tiktok_id": "1YnWXycqyDBYiX-GLQo9VUqXpvXiKyRAQ",
+          "youtube_id": null,
+          "status": "pending_retry",
+          "upload_date": "2026-11-01",
+          "view_count": 0,
+          "title": "Look at those sweet eyes and beautiful smile! 👶 #baby #cutebaby #adorable #babylove #viral",
+          "created_at": "2026-11-01 07:45:02",
+          "rowid": 90
+        },
+        {
           "tiktok_id": "1KZJ3uPgnh4R552PCOQCH9v7sykKMNjAo",
           "youtube_id": "z8ktZPtR8NU",
           "status": "uploaded",
           "upload_date": "2026-11-01",
-          "view_count": 5,
+          "view_count": 9,
           "title": "The Sweetest Aquarium Visit Ever 🐠 #animation #kidslearning #cute #wholesome",
           "created_at": "2026-11-01 00:47:32",
           "rowid": 89
@@ -1689,7 +1696,7 @@
           "youtube_id": "qnKeS0Ep1k0",
           "status": "uploaded",
           "upload_date": "2026-10-31",
-          "view_count": 24,
+          "view_count": 30,
           "title": "I thought I bought a stuffed turtle for the nursery turns out it came #cutebaby #babycostume",
           "created_at": "2026-10-31 20:38:32",
           "rowid": 88
@@ -1699,7 +1706,7 @@
           "youtube_id": "SKtC97gbllA",
           "status": "uploaded",
           "upload_date": "2026-10-31",
-          "view_count": 14,
+          "view_count": 17,
           "title": "The magic of bedtime routines with little ones 🌙✨ 🌙 #bedtimeroutine #parenting",
           "created_at": "2026-10-31 05:08:12",
           "rowid": 87
@@ -1709,7 +1716,7 @@
           "youtube_id": "aG96DJ3_yLA",
           "status": "uploaded",
           "upload_date": "2026-10-30",
-          "view_count": 16,
+          "view_count": 22,
           "title": "The Cutest Snowy Day Adventure With The Sweetest Crew ❄️ #animation #cuteanimals",
           "created_at": "2026-10-30 02:32:49",
           "rowid": 86
@@ -1729,7 +1736,7 @@
           "youtube_id": "o9mpn5Xu-dw",
           "status": "uploaded",
           "upload_date": "2026-10-29",
-          "view_count": 49,
+          "view_count": 50,
           "title": "Found the cutest laundry surprise hidden under the towels 🦝 Video #cutebaby #babycostume",
           "created_at": "2026-10-29 07:54:20",
           "rowid": 84
@@ -1739,7 +1746,7 @@
           "youtube_id": "fDbzYWkIoSw",
           "status": "uploaded",
           "upload_date": "2026-10-29",
-          "view_count": 23,
+          "view_count": 25,
           "title": "Teaching Little Ones Traffic Rules 🚦 #animation #kidslearning #parenting #trafficsafety",
           "created_at": "2026-10-29 07:54:20",
           "rowid": 83
@@ -2119,7 +2126,7 @@
           "youtube_id": "8Pkk4zyYBdc",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 56141,
+          "view_count": 56142,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:34:32",
           "rowid": 44
@@ -2163,25 +2170,27 @@
           "title": "Follow us if you're happy for the baby",
           "created_at": "2026-09-24 07:06:36",
           "rowid": 40
-        },
-        {
-          "tiktok_id": "babycare_overlay_1790179577_channel_3",
-          "youtube_id": "OPVM5Tq421Y",
-          "status": "uploaded",
-          "upload_date": "2026-09-23",
-          "view_count": 4480,
-          "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
-          "created_at": "2026-09-23 16:06:17",
-          "rowid": 39
         }
       ],
-      "pending_retry_items": [],
+      "pending_retry_items": [
+        {
+          "tiktok_id": "1YnWXycqyDBYiX-GLQo9VUqXpvXiKyRAQ",
+          "youtube_id": null,
+          "status": "pending_retry",
+          "upload_date": "2026-11-01",
+          "view_count": 0,
+          "title": "Look at those sweet eyes and beautiful smile! 👶 #baby #cutebaby #adorable #babylove #viral",
+          "retry_count": 1,
+          "next_retry_date": null,
+          "created_at": "2026-11-01 07:45:02"
+        }
+      ],
       "days_linked": 27,
       "is_underperforming": false,
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Oct 05, 2026",
-      "overall_status": "active"
+      "overall_status": "error"
     },
     {
       "channel_id": "channel_4",
@@ -2224,7 +2233,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-01 07:41:03 UTC",
+        "expires_at": "2026-11-01 08:37:41 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -2931,7 +2940,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-01 07:41:03 UTC",
+        "expires_at": "2026-11-01 08:37:41 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -3610,9 +3619,9 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-01 07:29:39 UTC",
+    "timestamp": "2026-11-01 07:49:57 UTC",
     "total_channels": 6,
-    "healthy_count": 5,
+    "healthy_count": 4,
     "auto_healed_count": 0,
     "action_required_count": 0,
     "channels": [
@@ -3678,13 +3687,13 @@
         "profile_code": "CH3",
         "source_type": "gdrive",
         "source_target": "N/A",
-        "status": "healthy",
+        "status": "monitoring",
         "token_status": "valid",
         "last_upload_date": "2026-11-01",
         "uploads_today": 1,
         "uploads_yesterday": 1,
         "missed_posting": false,
-        "error_detail": null,
+        "error_detail": "Only 1 unposted videos remaining in Google Drive (~0.5 days left). Add more videos soon.",
         "auto_heal_log": null,
         "user_action_needed": false,
         "action_title": null,
@@ -3692,12 +3701,12 @@
         "action_button_type": null,
         "content_inventory": {
           "source_type": "gdrive",
-          "source_url": "https://drive.google.com/drive/folders/1qilynHNaVDXDue0i7fCj2iM-ip92d1GD",
-          "stock_status": "healthy",
-          "remaining_unposted": 4,
-          "total_available": 29,
-          "days_buffer": 2.0,
-          "alert_message": null
+          "source_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
+          "stock_status": "low_stock",
+          "remaining_unposted": 1,
+          "total_available": 23,
+          "days_buffer": 0.5,
+          "alert_message": "Only 1 unposted videos remaining in Google Drive (~0.5 days left). Add more videos soon."
         }
       },
       {
