@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-01 07:49:57 UTC",
+    "timestamp_utc": "2026-11-01 07:59:17 UTC",
     "total_channels": 6,
-    "active_channels": 5,
-    "disabled_channels": 0,
-    "idle_channels": 0,
+    "active_channels": 4,
+    "disabled_channels": 1,
+    "idle_channels": 1,
     "today_completed_channels": 2,
     "token_warnings": 0,
-    "error_channels": 1,
-    "health_rate_percent": 80.0,
-    "total_uploaded_videos": 442,
+    "error_channels": 0,
+    "health_rate_percent": 100.0,
+    "total_uploaded_videos": 443,
     "total_views_tracked": 102648966,
     "total_subscribers": 60385,
-    "total_pending_retries": 2,
+    "total_pending_retries": 1,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
-    "content_low_channels": 1,
-    "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-01 07:50:00 UTC"
+    "content_low_channels": 0,
+    "content_alerts_count": 0,
+    "gh_pages_synced_at": "2026-11-01 08:00:20 UTC"
   },
   "channels": [
     {
@@ -956,7 +956,7 @@
           "youtube_id": "Zp25A2Fva7Y",
           "status": "uploaded",
           "upload_date": "2026-11-01",
-          "view_count": 1489,
+          "view_count": 1510,
           "title": "Crispy Cheesy Birria Tacos 🌮 #birriatacos #quesabirria #asmrfood #recipe #tacos",
           "created_at": "2026-11-01 00:47:20",
           "rowid": 103
@@ -966,7 +966,7 @@
           "youtube_id": "Bgt6iaVy-UQ",
           "status": "uploaded",
           "upload_date": "2026-10-31",
-          "view_count": 1507,
+          "view_count": 1602,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-10-31 06:37:21",
           "rowid": 102
@@ -976,7 +976,7 @@
           "youtube_id": "uSPTDaQpk_k",
           "status": "uploaded",
           "upload_date": "2026-10-31",
-          "view_count": 10702,
+          "view_count": 10740,
           "title": "Baby Red Panda Surprise! Plushie Giggled 🐼 #shorts #cutebaby #viral",
           "created_at": "2026-10-31 06:34:20",
           "rowid": 101
@@ -1468,7 +1468,7 @@
       "youtube_handle": "@babygiggles-j8o",
       "youtube_channel_url": "https://www.youtube.com/@babygiggles-j8o",
       "subscribers_count": 1620,
-      "published_videos_count": 87,
+      "published_videos_count": 88,
       "live_youtube_views": 3175672,
       "owner_email": "mrsabdulmateen36@gmail.com",
       "channel_created_at": "Sep 01, 2026",
@@ -1479,29 +1479,27 @@
         "gdrive_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
         "folder_title": "TINY FIRST MOMENTS",
         "total_in_drive": 23,
-        "posted_count": 22,
-        "remaining_unposted": 1,
+        "posted_count": 23,
+        "remaining_unposted": 0,
         "videos_per_day": 2,
-        "days_buffer": 0.5,
-        "stock_status": "low_stock",
-        "stock_label": "LOW STOCK (1 videos left)",
-        "unposted_videos": [
-          "Look at those sweet eyes and beautiful smile!  #baby #cutebaby #adorable #babylove #viral"
-        ]
+        "days_buffer": 0.0,
+        "stock_status": "depleted",
+        "stock_label": "EMPTY (0 videos left!)",
+        "unposted_videos": []
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
-        "stock_status": "low_stock",
-        "remaining_unposted": 1,
+        "stock_status": "depleted",
+        "remaining_unposted": 0,
         "total_available": 23,
-        "days_buffer": 0.5,
-        "alert_message": "Only 1 unposted videos remaining in Google Drive (~0.5 days left). Add more videos soon."
+        "days_buffer": 0.0,
+        "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
       },
       "is_monetized": false,
       "monetized_date": null,
       "enabled": true,
-      "status": "active",
+      "status": "idle",
       "idle_since": null,
       "days_idle": null,
       "is_idle_expired": false,
@@ -1522,14 +1520,14 @@
         "is_expired": false
       },
       "slot1_today": "success",
-      "slot2_today": "failed",
-      "total_uploaded": 88,
-      "total_failed": 0,
-      "total_pending_retry": 1,
+      "slot2_today": "success",
+      "total_uploaded": 89,
+      "total_failed": 1,
+      "total_pending_retry": 0,
       "total_views": 3176925,
-      "last_run_date": "2026-11-01 07:45:02",
-      "last_run_status": "failed",
-      "last_run_message": "Failed to download any of the 1 candidates for slot 2.",
+      "last_run_date": "2026-11-01 07:52:56",
+      "last_run_status": "success",
+      "last_run_message": "Uploaded YouTube ID: mxlic97ykgQ",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-23",
@@ -1607,8 +1605,8 @@
           "date": "2026-11-01",
           "short_date": "Nov 01",
           "slot1": "success",
-          "slot2": "failed",
-          "uploads_count": 1,
+          "slot2": "success",
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -1666,15 +1664,25 @@
           "short_date": "Nov 01",
           "day_name": "Sun",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
         {
+          "tiktok_id": "1jk8hBnZ9pGwHo8N2HHgGukiXbmTj4Iff",
+          "youtube_id": "mxlic97ykgQ",
+          "status": "uploaded",
+          "upload_date": "2026-11-01",
+          "view_count": 0,
+          "title": "The exact moment this baby sees clearly for the first time 🥹 #wholesome #babyglasses",
+          "created_at": "2026-11-01 07:52:56",
+          "rowid": 91
+        },
+        {
           "tiktok_id": "1YnWXycqyDBYiX-GLQo9VUqXpvXiKyRAQ",
           "youtube_id": null,
-          "status": "pending_retry",
+          "status": "failed_permanent",
           "upload_date": "2026-11-01",
           "view_count": 0,
           "title": "Look at those sweet eyes and beautiful smile! 👶 #baby #cutebaby #adorable #babylove #viral",
@@ -2160,37 +2168,16 @@
           "title": "The exact moment this baby saw his dad for the very first time 🥹 #wholesome #emotional #babygla",
           "created_at": "2026-09-24 07:06:36",
           "rowid": 41
-        },
-        {
-          "tiktok_id": "yt_hHB-tOOET4I",
-          "youtube_id": "hHB-tOOET4I",
-          "status": "uploaded",
-          "upload_date": "2026-09-24",
-          "view_count": 1876,
-          "title": "Follow us if you're happy for the baby",
-          "created_at": "2026-09-24 07:06:36",
-          "rowid": 40
         }
       ],
-      "pending_retry_items": [
-        {
-          "tiktok_id": "1YnWXycqyDBYiX-GLQo9VUqXpvXiKyRAQ",
-          "youtube_id": null,
-          "status": "pending_retry",
-          "upload_date": "2026-11-01",
-          "view_count": 0,
-          "title": "Look at those sweet eyes and beautiful smile! 👶 #baby #cutebaby #adorable #babylove #viral",
-          "retry_count": 1,
-          "next_retry_date": null,
-          "created_at": "2026-11-01 07:45:02"
-        }
-      ],
+      "pending_retry_items": [],
       "days_linked": 27,
       "is_underperforming": false,
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Oct 05, 2026",
-      "overall_status": "error"
+      "overall_status": "idle",
+      "idle_reason": "inventory_depleted"
     },
     {
       "channel_id": "channel_4",
@@ -3619,11 +3606,11 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-01 07:49:57 UTC",
+    "timestamp": "2026-11-01 07:59:17 UTC",
     "total_channels": 6,
     "healthy_count": 4,
     "auto_healed_count": 0,
-    "action_required_count": 0,
+    "action_required_count": 1,
     "channels": [
       {
         "channel_id": "channel_1",
@@ -3687,26 +3674,26 @@
         "profile_code": "CH3",
         "source_type": "gdrive",
         "source_target": "N/A",
-        "status": "monitoring",
+        "status": "action_required",
         "token_status": "valid",
         "last_upload_date": "2026-11-01",
-        "uploads_today": 1,
-        "uploads_yesterday": 1,
+        "uploads_today": 2,
+        "uploads_yesterday": 2,
         "missed_posting": false,
-        "error_detail": "Only 1 unposted videos remaining in Google Drive (~0.5 days left). Add more videos soon.",
+        "error_detail": null,
         "auto_heal_log": null,
-        "user_action_needed": false,
-        "action_title": null,
-        "action_description": null,
-        "action_button_type": null,
+        "user_action_needed": true,
+        "action_title": "Content Depleted: Quote 4 Quotes",
+        "action_description": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped.",
+        "action_button_type": "update_source",
         "content_inventory": {
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
-          "stock_status": "low_stock",
-          "remaining_unposted": 1,
+          "stock_status": "depleted",
+          "remaining_unposted": 0,
           "total_available": 23,
-          "days_buffer": 0.5,
-          "alert_message": "Only 1 unposted videos remaining in Google Drive (~0.5 days left). Add more videos soon."
+          "days_buffer": 0.0,
+          "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
         }
       },
       {
@@ -3794,6 +3781,35 @@
         }
       }
     ],
-    "action_required_items": []
+    "action_required_items": [
+      {
+        "channel_id": "channel_3",
+        "name": "Quote 4 Quotes",
+        "profile_code": "CH3",
+        "source_type": "gdrive",
+        "source_target": "N/A",
+        "status": "action_required",
+        "token_status": "valid",
+        "last_upload_date": "2026-11-01",
+        "uploads_today": 2,
+        "uploads_yesterday": 2,
+        "missed_posting": false,
+        "error_detail": null,
+        "auto_heal_log": null,
+        "user_action_needed": true,
+        "action_title": "Content Depleted: Quote 4 Quotes",
+        "action_description": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped.",
+        "action_button_type": "update_source",
+        "content_inventory": {
+          "source_type": "gdrive",
+          "source_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
+          "stock_status": "depleted",
+          "remaining_unposted": 0,
+          "total_available": 23,
+          "days_buffer": 0.0,
+          "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
+        }
+      }
+    ]
   }
 }
