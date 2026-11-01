@@ -1,15 +1,15 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-01 18:25:49 UTC",
+    "timestamp_utc": "2026-11-01 18:30:00 UTC",
     "total_channels": 6,
     "active_channels": 5,
     "disabled_channels": 0,
     "idle_channels": 0,
-    "today_completed_channels": 3,
+    "today_completed_channels": 4,
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 443,
+    "total_uploaded_videos": 444,
     "total_views_tracked": 102846990,
     "total_subscribers": 60586,
     "total_pending_retries": 1,
@@ -17,7 +17,7 @@
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-11-01 18:26:50 UTC"
+    "gh_pages_synced_at": "2026-11-01 18:30:26 UTC"
   },
   "channels": [
     {
@@ -61,11 +61,11 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-01 13:07:23 UTC",
+        "expires_at": "2026-11-01 19:25:31 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "success",
       "slot2_today": "not_run",
@@ -734,7 +734,7 @@
       "youtube_handle": "@notachefofficialy",
       "youtube_channel_url": "https://www.youtube.com/@notachefofficialy",
       "subscribers_count": 49500,
-      "published_videos_count": 97,
+      "published_videos_count": 98,
       "live_youtube_views": 82839302,
       "owner_email": "baarakhaaan@gmail.com",
       "channel_created_at": "Aug 30, 2026",
@@ -795,21 +795,21 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-01 13:07:23 UTC",
+        "expires_at": "2026-11-01 19:25:31 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "success",
-      "slot2_today": "not_run",
-      "total_uploaded": 103,
+      "slot2_today": "success",
+      "total_uploaded": 104,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 82839302,
-      "last_run_date": "2026-11-01 00:47:20",
+      "last_run_date": "2026-11-01 18:26:48",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: Zp25A2Fva7Y",
+      "last_run_message": "Uploaded YouTube ID: GU2fViW_WaY",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-23",
@@ -887,8 +887,8 @@
           "date": "2026-11-01",
           "short_date": "Nov 01",
           "slot1": "success",
-          "slot2": "not_run",
-          "uploads_count": 1,
+          "slot2": "success",
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -946,17 +946,27 @@
           "short_date": "Nov 01",
           "day_name": "Sun",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
         {
+          "tiktok_id": "1GqhzGQOQcls3utc_LMTDc5T4jep3QOB6",
+          "youtube_id": "GU2fViW_WaY",
+          "status": "uploaded",
+          "upload_date": "2026-11-01",
+          "view_count": 0,
+          "title": "Cutest little bumblebee you& see today! 🐝 Video #cutebaby #babycostume",
+          "created_at": "2026-11-01 18:26:48",
+          "rowid": 104
+        },
+        {
           "tiktok_id": "1_jONkGBm42UR1vp_kR8Q2FxJOeT8nvvE",
           "youtube_id": "Zp25A2Fva7Y",
           "status": "uploaded",
           "upload_date": "2026-11-01",
-          "view_count": 2193,
+          "view_count": 2208,
           "title": "Crispy Cheesy Birria Tacos 🌮 #birriatacos #quesabirria #asmrfood #recipe #tacos",
           "created_at": "2026-11-01 00:47:20",
           "rowid": 103
@@ -966,7 +976,7 @@
           "youtube_id": "Bgt6iaVy-UQ",
           "status": "uploaded",
           "upload_date": "2026-10-31",
-          "view_count": 2261,
+          "view_count": 2271,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-10-31 06:37:21",
           "rowid": 102
@@ -976,7 +986,7 @@
           "youtube_id": "uSPTDaQpk_k",
           "status": "uploaded",
           "upload_date": "2026-10-31",
-          "view_count": 11657,
+          "view_count": 11680,
           "title": "Baby Red Panda Surprise! Plushie Giggled 🐼 #shorts #cutebaby #viral",
           "created_at": "2026-10-31 06:34:20",
           "rowid": 101
@@ -1136,7 +1146,7 @@
           "youtube_id": "zu1y6A6wmFk",
           "status": "uploaded",
           "upload_date": "2026-10-21",
-          "view_count": 24516,
+          "view_count": 24560,
           "title": "Ultimate Cheesy Korean Corn Dog ASMR 🧀 #corndog #cheesepull #asmrfood #easyrecipe #streetfood",
           "created_at": "2026-10-21 05:55:49",
           "rowid": 85
@@ -1440,16 +1450,6 @@
           "title": "Refreshing Orange Mint Mocktail 🍊 #mocktail #asmrfood #drinkrecipe #refreshing #viral",
           "created_at": "2026-09-28 00:35:58",
           "rowid": 55
-        },
-        {
-          "tiktok_id": "twocuties_1790503053_channel_2",
-          "youtube_id": "uujkf0bXYJ4",
-          "status": "uploaded",
-          "upload_date": "2026-09-27",
-          "view_count": 59048,
-          "title": "Two little cuties are playing house outdoors. My heart just melted. #adorablebaby",
-          "created_at": "2026-09-27 09:57:33",
-          "rowid": 54
         }
       ],
       "pending_retry_items": [],
@@ -1458,7 +1458,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 01, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_3",
@@ -1469,7 +1469,7 @@
       "youtube_channel_url": "https://www.youtube.com/@babygiggles-j8o",
       "subscribers_count": 1620,
       "published_videos_count": 88,
-      "live_youtube_views": 3175672,
+      "live_youtube_views": 3175845,
       "owner_email": "mrsabdulmateen36@gmail.com",
       "channel_created_at": "Sep 01, 2026",
       "source_type": "gdrive",
@@ -1523,11 +1523,11 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-01 13:07:23 UTC",
+        "expires_at": "2026-11-01 19:25:31 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "success",
       "slot2_today": "success",
@@ -2229,11 +2229,11 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-01 13:07:23 UTC",
+        "expires_at": "2026-11-01 19:25:32 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "success",
       "slot2_today": "not_run",
@@ -2650,7 +2650,7 @@
           "youtube_id": "ZMg68rtsy8U",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 29621,
+          "view_count": 29624,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 16:06:31",
           "rowid": 25
@@ -2936,11 +2936,11 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-01 13:07:23 UTC",
+        "expires_at": "2026-11-01 19:25:31 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "success",
       "slot2_today": "not_run",
@@ -3615,7 +3615,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-01 18:25:49 UTC",
+    "timestamp": "2026-11-01 18:30:00 UTC",
     "total_channels": 6,
     "healthy_count": 5,
     "auto_healed_count": 0,
@@ -3658,8 +3658,8 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-11-01",
-        "uploads_today": 1,
-        "uploads_yesterday": 1,
+        "uploads_today": 2,
+        "uploads_yesterday": 2,
         "missed_posting": false,
         "error_detail": null,
         "auto_heal_log": null,
@@ -3770,8 +3770,8 @@
         "status": "idle",
         "token_status": "valid",
         "last_upload_date": "2026-11-01",
-        "uploads_today": 1,
-        "uploads_yesterday": 1,
+        "uploads_today": 2,
+        "uploads_yesterday": 2,
         "missed_posting": false,
         "error_detail": "Channel is currently set to IDLE (Paused).",
         "auto_heal_log": null,
