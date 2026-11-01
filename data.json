@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-01 06:59:27 UTC",
+    "timestamp_utc": "2026-11-01 07:15:29 UTC",
     "total_channels": 8,
     "active_channels": 7,
     "disabled_channels": 0,
@@ -9,15 +9,15 @@
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 560,
+    "total_uploaded_videos": 562,
     "total_views_tracked": 122212463,
     "total_subscribers": 72725,
-    "total_pending_retries": 2,
+    "total_pending_retries": 1,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-11-01 07:00:06 UTC"
+    "gh_pages_synced_at": "2026-11-01 07:15:32 UTC"
   },
   "channels": [
     {
@@ -222,7 +222,7 @@
           "youtube_id": "nJbF-l-N0II",
           "status": "uploaded",
           "upload_date": "2026-11-01",
-          "view_count": 11,
+          "view_count": 39,
           "title": "When you refuse to share your sundae with your little brother 😂 #Shorts #Baby #CuteBaby",
           "created_at": "2026-11-01 05:44:04",
           "rowid": 106
@@ -252,7 +252,7 @@
           "youtube_id": "qSEvFWoVcqg",
           "status": "uploaded",
           "upload_date": "2026-10-29",
-          "view_count": 133,
+          "view_count": 134,
           "title": "POV: You walk into the birthday party setup EVERY kid dreams of! ✨🎂 This is pure magic — the",
           "created_at": "2026-10-29 07:54:19",
           "rowid": 103
@@ -956,7 +956,7 @@
           "youtube_id": "Zp25A2Fva7Y",
           "status": "uploaded",
           "upload_date": "2026-11-01",
-          "view_count": 1413,
+          "view_count": 1434,
           "title": "Crispy Cheesy Birria Tacos 🌮 #birriatacos #quesabirria #asmrfood #recipe #tacos",
           "created_at": "2026-11-01 05:44:04",
           "rowid": 103
@@ -976,7 +976,7 @@
           "youtube_id": "uSPTDaQpk_k",
           "status": "uploaded",
           "upload_date": "2026-10-31",
-          "view_count": 10614,
+          "view_count": 10633,
           "title": "Baby Red Panda Surprise! Plushie Giggled 🐼 #shorts #cutebaby #viral",
           "created_at": "2026-10-31 06:34:20",
           "rowid": 101
@@ -986,7 +986,7 @@
           "youtube_id": "qWwe-HiszqI",
           "status": "uploaded",
           "upload_date": "2026-10-31",
-          "view_count": 1707,
+          "view_count": 1717,
           "title": "Creamy Beef Stroganoff is the ultimate comfort dinner 🍝 #beefstroganoff #easyrecipe",
           "created_at": "2026-10-31 05:08:12",
           "rowid": 100
@@ -1086,7 +1086,7 @@
           "youtube_id": "oBDNnILX68k",
           "status": "uploaded",
           "upload_date": "2026-10-24",
-          "view_count": 16448,
+          "view_count": 16494,
           "title": "Watermelon Lemonade 🍋 #asmrfood #cooking #recipe #food #viral",
           "created_at": "2026-10-24 12:12:39",
           "rowid": 90
@@ -4353,16 +4353,13 @@
         "gdrive_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
         "folder_title": "BUNNY PLANET",
         "total_in_drive": 60,
-        "posted_count": 41,
-        "remaining_unposted": 19,
+        "posted_count": 44,
+        "remaining_unposted": 16,
         "videos_per_day": 1,
-        "days_buffer": 19.0,
+        "days_buffer": 16.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (19 videos ready)",
+        "stock_label": "HEALTHY (16 videos ready)",
         "unposted_videos": [
-          "Baby Bunnys First Carrot",
-          "The Strawberry Thief",
-          "Fluffy Tornado",
           "Blueberry Zoom",
           "Snore Loaf",
           "Daisy Chain Dance",
@@ -4374,16 +4371,19 @@
           "The Happy Hopscotch",
           "Twilight Twirl",
           "Corn Crunch",
-          "Blanket Burrito"
+          "Blanket Burrito",
+          "The Meadow Marathon",
+          "Pajama Flop",
+          "Grape Escape"
         ]
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
         "stock_status": "healthy",
-        "remaining_unposted": 19,
+        "remaining_unposted": 16,
         "total_available": 60,
-        "days_buffer": 19.0,
+        "days_buffer": 16.0,
         "alert_message": null
       },
       "is_monetized": false,
@@ -4410,9 +4410,9 @@
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 58,
-      "total_failed": 0,
-      "total_pending_retry": 1,
+      "total_uploaded": 60,
+      "total_failed": 1,
+      "total_pending_retry": 0,
       "total_views": 19063437,
       "last_run_date": "2026-10-23 06:53:42",
       "last_run_status": "success",
@@ -4651,7 +4651,7 @@
         {
           "tiktok_id": "1LRXckZBDGAS7oVKciwwWBPp2QDdw5ZO1",
           "youtube_id": null,
-          "status": "pending_retry",
+          "status": "failed_permanent",
           "upload_date": "2026-10-20",
           "view_count": 0,
           "title": "Playful Baby Bunny Fluffy Tornado #Shorts #CuteBunny #Viral",
@@ -5059,19 +5059,7 @@
           "rowid": 10
         }
       ],
-      "pending_retry_items": [
-        {
-          "tiktok_id": "1LRXckZBDGAS7oVKciwwWBPp2QDdw5ZO1",
-          "youtube_id": null,
-          "status": "pending_retry",
-          "upload_date": "2026-10-20",
-          "view_count": 0,
-          "title": "Playful Baby Bunny Fluffy Tornado #Shorts #CuteBunny #Viral",
-          "retry_count": 4,
-          "next_retry_date": null,
-          "created_at": "2026-10-20 07:07:13"
-        }
-      ],
+      "pending_retry_items": [],
       "days_linked": 45,
       "is_underperforming": false,
       "underperforming_reasons": [],
@@ -5081,7 +5069,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-01 06:59:27 UTC",
+    "timestamp": "2026-11-01 07:15:29 UTC",
     "total_channels": 8,
     "healthy_count": 6,
     "auto_healed_count": 0,
@@ -5277,9 +5265,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
           "stock_status": "healthy",
-          "remaining_unposted": 19,
+          "remaining_unposted": 16,
           "total_available": 60,
-          "days_buffer": 19.0,
+          "days_buffer": 16.0,
           "alert_message": null
         }
       },
