@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-03 13:27:14 UTC",
+    "timestamp_utc": "2026-11-03 13:28:21 UTC",
     "total_channels": 6,
     "active_channels": 5,
     "disabled_channels": 0,
@@ -17,7 +17,7 @@
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-03 13:28:02 UTC"
+    "gh_pages_synced_at": "2026-11-03 13:29:13 UTC"
   },
   "channels": [
     {
@@ -62,11 +62,11 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-03 10:25:43 UTC",
+        "expires_at": "2026-11-03 14:26:42 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "success",
       "slot2_today": "not_run",
@@ -796,11 +796,11 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-03 10:25:43 UTC",
+        "expires_at": "2026-11-03 14:26:42 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
@@ -967,7 +967,7 @@
           "youtube_id": "-qibXtrXc-Y",
           "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 876,
+          "view_count": 892,
           "title": "Cheesy Stuffed Bell Peppers 🫑 #stuffedpeppers #easyrecipe #comfortfood #dinnerideas #viral",
           "created_at": "2026-11-03 05:02:04",
           "rowid": 108
@@ -1077,7 +1077,7 @@
           "youtube_id": "-Ives9r2hqM",
           "status": "uploaded",
           "upload_date": "2026-10-29",
-          "view_count": 3191,
+          "view_count": 3212,
           "title": "Cozy Bread Pudding & Creamy Rice Pudding | Comfort Desserts ASMR 🍮🥣 #pudding #dessert",
           "created_at": "2026-10-29 07:54:19",
           "rowid": 97
@@ -1147,7 +1147,7 @@
           "youtube_id": "oBDNnILX68k",
           "status": "uploaded",
           "upload_date": "2026-10-24",
-          "view_count": 17196,
+          "view_count": 17232,
           "title": "Watermelon Lemonade 🍋 #asmrfood #cooking #recipe #food #viral",
           "created_at": "2026-10-24 12:12:39",
           "rowid": 90
@@ -1517,11 +1517,11 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-03 10:25:43 UTC",
+        "expires_at": "2026-11-03 14:26:42 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
@@ -2235,11 +2235,11 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-03 10:25:43 UTC",
+        "expires_at": "2026-11-03 14:26:45 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
@@ -2942,11 +2942,11 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-03 10:25:43 UTC",
+        "expires_at": "2026-11-03 14:26:42 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
@@ -3609,7 +3609,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-03 13:27:14 UTC",
+    "timestamp": "2026-11-03 13:28:22 UTC",
     "total_channels": 6,
     "healthy_count": 4,
     "auto_healed_count": 0,
