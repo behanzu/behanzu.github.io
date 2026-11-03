@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-03 16:23:00 UTC",
+    "timestamp_utc": "2026-11-03 16:25:14 UTC",
     "total_channels": 6,
     "active_channels": 5,
     "disabled_channels": 0,
@@ -10,14 +10,14 @@
     "error_channels": 0,
     "health_rate_percent": 100.0,
     "total_uploaded_videos": 464,
-    "total_views_tracked": 103889751,
+    "total_views_tracked": 103889752,
     "total_subscribers": 61087,
     "total_pending_retries": 1,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-03 16:24:06 UTC"
+    "gh_pages_synced_at": "2026-11-03 16:25:16 UTC"
   },
   "channels": [
     {
@@ -62,7 +62,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-03 16:26:51 UTC",
+        "expires_at": "2026-11-03 17:24:01 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -796,7 +796,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-03 16:26:54 UTC",
+        "expires_at": "2026-11-03 17:24:01 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -977,7 +977,7 @@
           "youtube_id": "h3LZQOwWTHk",
           "status": "uploaded",
           "upload_date": "2026-11-02",
-          "view_count": 26657,
+          "view_count": 26660,
           "title": "Baby Monkey Surprise! Stuffed Toy Woke Up 🐒 #shorts #cutebaby #viral",
           "created_at": "2026-11-02 09:04:09",
           "rowid": 107
@@ -1516,7 +1516,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-03 16:26:57 UTC",
+        "expires_at": "2026-11-03 17:24:02 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -2234,7 +2234,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-03 16:27:00 UTC",
+        "expires_at": "2026-11-03 17:24:02 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -2245,7 +2245,7 @@
       "total_uploaded": 54,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 11849777,
+      "total_views": 11849778,
       "last_run_date": "2026-11-02 01:21:50",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: r6ONpZSUo2Y",
@@ -2685,7 +2685,7 @@
           "youtube_id": "ZMg68rtsy8U",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 29646,
+          "view_count": 29647,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 16:06:31",
           "rowid": 25
@@ -2941,7 +2941,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-03 16:27:04 UTC",
+        "expires_at": "2026-11-03 17:23:20 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -2953,7 +2953,7 @@
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 38080,
-      "last_run_date": "2026-11-03 16:22:13",
+      "last_run_date": "2026-11-03 16:24:04",
       "last_run_status": "skipped",
       "last_run_message": "Channel 'channel_5' already received 2 uploads today on YouTube (max: 2). Skipping slot 1 to prevent duplicate!",
       "daily_sheet_10_days": [
@@ -3608,7 +3608,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-03 16:23:00 UTC",
+    "timestamp": "2026-11-03 16:25:14 UTC",
     "total_channels": 6,
     "healthy_count": 4,
     "auto_healed_count": 0,
