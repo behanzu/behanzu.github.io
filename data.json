@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-03 15:59:47 UTC",
+    "timestamp_utc": "2026-11-03 16:01:04 UTC",
     "total_channels": 6,
     "active_channels": 5,
     "disabled_channels": 0,
@@ -17,7 +17,7 @@
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-03 16:00:33 UTC"
+    "gh_pages_synced_at": "2026-11-03 16:01:05 UTC"
   },
   "channels": [
     {
@@ -802,15 +802,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
-      "slot2_today": "not_run",
+      "slot1_today": "success",
+      "slot2_today": "skipped",
       "total_uploaded": 109,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 83875883,
-      "last_run_date": "2026-11-02 01:20:36",
-      "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: ywL1fresN50",
+      "last_run_date": "2026-11-03 16:00:16",
+      "last_run_status": "skipped",
+      "last_run_message": "Channel 'channel_2' already received 2 uploads today on YouTube (max: 2). Skipping slot 2 to prevent duplicate!",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-25",
@@ -887,8 +887,8 @@
         {
           "date": "2026-11-03",
           "short_date": "Nov 03",
-          "slot1": "not_run",
-          "slot2": "not_run",
+          "slot1": "success",
+          "slot2": "skipped",
           "uploads_count": 2,
           "views_gained": 0
         }
@@ -957,7 +957,7 @@
           "youtube_id": "8CYzPRgAmag",
           "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 546,
+          "view_count": 548,
           "title": "Baby love for his elder Brother #ViralVideo #CuteBaby",
           "created_at": "2026-11-03 09:45:26",
           "rowid": 109
@@ -1257,7 +1257,7 @@
           "youtube_id": "E_Qm20Bml5Y",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 20048,
+          "view_count": 20130,
           "title": "Flaky Croissant Ice Cream Waffle 🥐 #croffle #asmrfood #dessert #croissant #recipe",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 79
@@ -1267,7 +1267,7 @@
           "youtube_id": "5FJ9j87nXDQ",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 5610,
+          "view_count": 5684,
           "title": "How To Make The Viral Dubai Pistachio Chocolate Bar 🍫 #dubaichocolate #pistachiochocolate",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 78
@@ -1277,7 +1277,7 @@
           "youtube_id": "QS7f4MD3ZBQ",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 5140,
+          "view_count": 5199,
           "title": "Soft and Pillowy Cloud Cakes 🧁 #cloudcake #souffle #baking #asmrfood #dessert",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 77
@@ -1287,7 +1287,7 @@
           "youtube_id": "cn59frReJNo",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 6587,
+          "view_count": 6590,
           "title": "The Crispiest Nashville Hot Chicken Sandwich You Need To Try 🍗 #nashvillehotchicken",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 76
@@ -1327,7 +1327,7 @@
           "youtube_id": "NFT4YurjGXc",
           "status": "uploaded",
           "upload_date": "2026-10-08",
-          "view_count": 11632,
+          "view_count": 11701,
           "title": "Ultra Crispy Fried Eggplant Bites 🍆 #crispyeggplant #asmrcooking #easyrecipe #snackideas",
           "created_at": "2026-10-08 07:36:51",
           "rowid": 72
@@ -1337,7 +1337,7 @@
           "youtube_id": "iNEqHvVp80w",
           "status": "uploaded",
           "upload_date": "2026-10-07",
-          "view_count": 6160,
+          "view_count": 6216,
           "title": "Ultimate Refreshing Virgin Mojito 🍹 #mojito #asmrfood #recipe #mocktail #viral",
           "created_at": "2026-10-07 05:36:22",
           "rowid": 71
@@ -1347,7 +1347,7 @@
           "youtube_id": "mJqKBh6u3yU",
           "status": "uploaded",
           "upload_date": "2026-10-06",
-          "view_count": 12625,
+          "view_count": 12718,
           "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
           "created_at": "2026-10-06 08:25:10",
           "rowid": 70
@@ -1357,7 +1357,7 @@
           "youtube_id": "zfvaRkOAUBM",
           "status": "uploaded",
           "upload_date": "2026-10-06",
-          "view_count": 19679,
+          "view_count": 19714,
           "title": "Ultimate Crispy Soya Granule Snack Balls 🧆 #soyarecipes #crispysnacks #easyrecipes #foodasmr",
           "created_at": "2026-10-06 02:07:35",
           "rowid": 69
@@ -1367,7 +1367,7 @@
           "youtube_id": "_fe_53VwZVg",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 229195,
+          "view_count": 230659,
           "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
           "created_at": "2026-10-05 07:13:00",
           "rowid": 68
@@ -1377,7 +1377,7 @@
           "youtube_id": "t2q--9LsgFk",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 8730,
+          "view_count": 8781,
           "title": "Turn Crispy Rusks Into Rich Homemade Halwa 🍮 #ruskhalwa #halwarecipe #easydessert #asmrcooking",
           "created_at": "2026-10-05 05:03:08",
           "rowid": 67
@@ -1387,7 +1387,7 @@
           "youtube_id": "hgtf6evk8AA",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 27113,
+          "view_count": 27165,
           "title": "Ultimate Crispy Fried Chicken & Hash Browns 🍗 #crispychicken #friedchicken #hashbrowns #asmrfoo",
           "created_at": "2026-10-05 05:03:08",
           "rowid": 66
@@ -1397,7 +1397,7 @@
           "youtube_id": "PJ8YCb2EIF8",
           "status": "uploaded",
           "upload_date": "2026-10-03",
-          "view_count": 8227,
+          "view_count": 8280,
           "title": "Tomato Rice 🍲 #asmrfood #cooking #recipe #food #viral",
           "created_at": "2026-10-03 01:44:49",
           "rowid": 65
@@ -1407,7 +1407,7 @@
           "youtube_id": "_JrixkRfciY",
           "status": "uploaded",
           "upload_date": "2026-10-02",
-          "view_count": 31296,
+          "view_count": 31356,
           "title": "The Ultimate Quick Egg Toast Sandwich 🥪 #eggtoast #breakfastideas #quickrecipes #asmrfood #easy",
           "created_at": "2026-10-02 03:29:17",
           "rowid": 64
@@ -1417,7 +1417,7 @@
           "youtube_id": "7hlEEeW_5x4",
           "status": "uploaded",
           "upload_date": "2026-10-01",
-          "view_count": 26804,
+          "view_count": 26841,
           "title": "The ultimate creamy Paneer Butter Masala 🍲 #paneer #indianfood #recipe #asmrfood #cooking",
           "created_at": "2026-10-01 04:30:19",
           "rowid": 63
@@ -1427,7 +1427,7 @@
           "youtube_id": "ee_5xEeEEfA",
           "status": "uploaded",
           "upload_date": "2026-10-01",
-          "view_count": 27955,
+          "view_count": 28023,
           "title": "The Ultimate Creamy Banana Protein Shake 🍌 #smoothie #proteinshake #healthyrecipes #easyrecipe",
           "created_at": "2026-10-01 03:19:45",
           "rowid": 62
@@ -1437,7 +1437,7 @@
           "youtube_id": "ihGjnmSaYI0",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 29151,
+          "view_count": 29228,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
           "created_at": "2026-09-30 15:15:30",
           "rowid": 61
@@ -1447,7 +1447,7 @@
           "youtube_id": "1XPjh-fO50A",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 57383,
+          "view_count": 57541,
           "title": "Spicy Tomato Garlic Chutney 🌶️ #chutney #recipe #cooking #spicyfood #asmrfood",
           "created_at": "2026-09-30 04:19:59",
           "rowid": 60
@@ -2947,15 +2947,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
-      "slot2_today": "not_run",
+      "slot1_today": "skipped",
+      "slot2_today": "success",
       "total_uploaded": 99,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 38080,
-      "last_run_date": "2026-11-01 21:21:58",
+      "last_run_date": "2026-11-03 16:00:25",
       "last_run_status": "skipped",
-      "last_run_message": "Slot 2 has already executed successfully today (2026-11-01). Skipping.",
+      "last_run_message": "Channel 'channel_5' already received 2 uploads today on YouTube (max: 2). Skipping slot 1 to prevent duplicate!",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-25",
@@ -3032,8 +3032,8 @@
         {
           "date": "2026-11-03",
           "short_date": "Nov 03",
-          "slot1": "not_run",
-          "slot2": "not_run",
+          "slot1": "skipped",
+          "slot2": "success",
           "uploads_count": 2,
           "views_gained": 0
         }
@@ -3608,7 +3608,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-03 15:59:47 UTC",
+    "timestamp": "2026-11-03 16:01:04 UTC",
     "total_channels": 6,
     "healthy_count": 4,
     "auto_healed_count": 0,
