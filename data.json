@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-03 15:00:43 UTC",
+    "timestamp_utc": "2026-11-03 15:33:49 UTC",
     "total_channels": 6,
     "active_channels": 5,
     "disabled_channels": 0,
     "idle_channels": 0,
-    "today_completed_channels": 0,
+    "today_completed_channels": 1,
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
     "total_uploaded_videos": 463,
-    "total_views_tracked": 103889705,
+    "total_views_tracked": 103889721,
     "total_subscribers": 61087,
     "total_pending_retries": 1,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-03 15:00:53 UTC"
+    "gh_pages_synced_at": "2026-11-03 15:33:52 UTC"
   },
   "channels": [
     {
@@ -28,7 +28,7 @@
       "youtube_handle": "@meelyansnmyhands",
       "youtube_channel_url": "https://www.youtube.com/@meelyansnmyhands",
       "subscribers_count": 2670,
-      "published_videos_count": 50,
+      "published_videos_count": 51,
       "live_youtube_views": 4939713,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Apr 07, 2026",
@@ -62,21 +62,21 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-03 15:23:37 UTC",
+        "expires_at": "2026-11-03 16:26:51 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
       "slot1_today": "success",
-      "slot2_today": "not_run",
+      "slot2_today": "success",
       "total_uploaded": 109,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 4948822,
-      "last_run_date": "2026-11-03 08:30:39",
+      "total_views": 4948823,
+      "last_run_date": "2026-11-03 15:00:43",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: KOhj_IXF500",
+      "last_run_message": "Uploaded YouTube ID: qTc5Xm8l9V0",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-25",
@@ -154,7 +154,7 @@
           "date": "2026-11-03",
           "short_date": "Nov 03",
           "slot1": "success",
-          "slot2": "not_run",
+          "slot2": "success",
           "uploads_count": 2,
           "views_gained": 0
         }
@@ -223,7 +223,7 @@
           "youtube_id": "qTc5Xm8l9V0",
           "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 0,
+          "view_count": 1,
           "title": "This Has It's Own Secret Luxury Room! 😺✨ #shorts #cathouse #cutecats #secretroom #catvideos #fyp",
           "created_at": "2026-11-03 15:00:41",
           "rowid": 110
@@ -725,7 +725,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Nov 02, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_2",
@@ -796,7 +796,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-03 15:23:37 UTC",
+        "expires_at": "2026-11-03 16:26:54 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -957,7 +957,7 @@
           "youtube_id": "8CYzPRgAmag",
           "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 477,
+          "view_count": 513,
           "title": "Baby love for his elder Brother #ViralVideo #CuteBaby",
           "created_at": "2026-11-03 09:45:26",
           "rowid": 109
@@ -967,7 +967,7 @@
           "youtube_id": "-qibXtrXc-Y",
           "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 1033,
+          "view_count": 1065,
           "title": "Cheesy Stuffed Bell Peppers 🫑 #stuffedpeppers #easyrecipe #comfortfood #dinnerideas #viral",
           "created_at": "2026-11-03 05:02:04",
           "rowid": 108
@@ -977,7 +977,7 @@
           "youtube_id": "h3LZQOwWTHk",
           "status": "uploaded",
           "upload_date": "2026-11-02",
-          "view_count": 26584,
+          "view_count": 26606,
           "title": "Baby Monkey Surprise! Stuffed Toy Woke Up 🐒 #shorts #cutebaby #viral",
           "created_at": "2026-11-02 09:04:09",
           "rowid": 107
@@ -987,7 +987,7 @@
           "youtube_id": "4NnWT_TWSP4",
           "status": "uploaded",
           "upload_date": "2026-11-02",
-          "view_count": 2875,
+          "view_count": 2897,
           "title": "Sky riding the futuristic elevator straight to mealtime and cozy nap heaven! #PamperedPet",
           "created_at": "2026-11-02 09:04:09",
           "rowid": 106
@@ -1017,7 +1017,7 @@
           "youtube_id": "Zp25A2Fva7Y",
           "status": "uploaded",
           "upload_date": "2026-11-01",
-          "view_count": 3284,
+          "view_count": 3330,
           "title": "Crispy Cheesy Birria Tacos 🌮 #birriatacos #quesabirria #asmrfood #recipe #tacos",
           "created_at": "2026-11-01 00:47:20",
           "rowid": 103
@@ -1037,7 +1037,7 @@
           "youtube_id": "uSPTDaQpk_k",
           "status": "uploaded",
           "upload_date": "2026-10-31",
-          "view_count": 13976,
+          "view_count": 13984,
           "title": "Baby Red Panda Surprise! Plushie Giggled 🐼 #shorts #cutebaby #viral",
           "created_at": "2026-10-31 06:34:20",
           "rowid": 101
@@ -1047,7 +1047,7 @@
           "youtube_id": "qWwe-HiszqI",
           "status": "uploaded",
           "upload_date": "2026-10-31",
-          "view_count": 2565,
+          "view_count": 2582,
           "title": "Creamy Beef Stroganoff is the ultimate comfort dinner 🍝 #beefstroganoff #easyrecipe",
           "created_at": "2026-10-31 05:08:12",
           "rowid": 100
@@ -1517,21 +1517,21 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-03 15:23:40 UTC",
+        "expires_at": "2026-11-03 16:26:57 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
       "total_uploaded": 92,
       "total_failed": 0,
       "total_pending_retry": 1,
-      "total_views": 3177153,
-      "last_run_date": "2026-11-02 01:21:12",
+      "total_views": 3177159,
+      "last_run_date": "2026-11-03 15:30:28",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: fRDX5CTAEiU",
+      "last_run_message": "Live YouTube upload detected: GJgpkotIANM",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-25",
@@ -1608,7 +1608,7 @@
         {
           "date": "2026-11-03",
           "short_date": "Nov 03",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 1,
           "views_gained": 0
@@ -2078,7 +2078,7 @@
           "youtube_id": "JleOTLcXi-g",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 35803,
+          "view_count": 35806,
           "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
           "created_at": "2026-10-05 07:13:18",
           "rowid": 54
@@ -2168,7 +2168,7 @@
           "youtube_id": "8Pkk4zyYBdc",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 56149,
+          "view_count": 56152,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:34:32",
           "rowid": 44
@@ -2235,7 +2235,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-03 15:23:37 UTC",
+        "expires_at": "2026-11-03 16:27:00 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -2246,7 +2246,7 @@
       "total_uploaded": 54,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 11849767,
+      "total_views": 11849776,
       "last_run_date": "2026-11-02 01:21:50",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: r6ONpZSUo2Y",
@@ -2396,7 +2396,7 @@
           "youtube_id": "T7yO-SnqvcA",
           "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 1012,
+          "view_count": 1021,
           "title": "The Coldest Anime Villain Entry Ever 🥶👑 #Shorts #Anime #Villain",
           "created_at": "2026-11-03 05:02:04",
           "rowid": 54
@@ -2942,7 +2942,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-03 15:23:37 UTC",
+        "expires_at": "2026-11-03 16:27:04 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -3609,7 +3609,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-03 15:00:43 UTC",
+    "timestamp": "2026-11-03 15:33:49 UTC",
     "total_channels": 6,
     "healthy_count": 4,
     "auto_healed_count": 0,
