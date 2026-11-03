@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-03 16:27:24 UTC",
+    "timestamp_utc": "2026-11-03 16:28:45 UTC",
     "total_channels": 6,
     "active_channels": 5,
     "disabled_channels": 0,
@@ -17,7 +17,7 @@
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-03 16:28:19 UTC"
+    "gh_pages_synced_at": "2026-11-03 16:29:29 UTC"
   },
   "channels": [
     {
@@ -745,13 +745,13 @@
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
         "folder_title": "COMPILED REELS",
-        "total_in_drive": 51,
-        "posted_count": 18,
-        "remaining_unposted": 33,
+        "total_in_drive": 48,
+        "posted_count": 17,
+        "remaining_unposted": 31,
         "videos_per_day": 2,
-        "days_buffer": 16.5,
+        "days_buffer": 15.5,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (33 videos ready)",
+        "stock_label": "HEALTHY (31 videos ready)",
         "unposted_videos": [
           "Best Burgers & Sandwiches Compilation  | ASMR Cooking #burger #sandwich #asmrfood",
           "Cheesy Street Food Compilation  | ASMR Cooking #streetfood #tacos #cheesepull",
@@ -774,9 +774,9 @@
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
         "stock_status": "healthy",
-        "remaining_unposted": 33,
-        "total_available": 51,
-        "days_buffer": 16.5,
+        "remaining_unposted": 31,
+        "total_available": 48,
+        "days_buffer": 15.5,
         "alert_message": null
       },
       "is_monetized": true,
@@ -957,7 +957,7 @@
           "youtube_id": "8CYzPRgAmag",
           "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 578,
+          "view_count": 579,
           "title": "Baby love for his elder Brother #ViralVideo #CuteBaby",
           "created_at": "2026-11-03 09:45:26",
           "rowid": 109
@@ -2953,7 +2953,7 @@
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 38080,
-      "last_run_date": "2026-11-03 16:27:06",
+      "last_run_date": "2026-11-03 16:28:17",
       "last_run_status": "skipped",
       "last_run_message": "Channel 'channel_5' already received 2 uploads today on YouTube (max: 2). Skipping slot 1 to prevent duplicate!",
       "daily_sheet_10_days": [
@@ -3608,7 +3608,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-03 16:27:24 UTC",
+    "timestamp": "2026-11-03 16:28:45 UTC",
     "total_channels": 6,
     "healthy_count": 4,
     "auto_healed_count": 0,
@@ -3664,9 +3664,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
           "stock_status": "healthy",
-          "remaining_unposted": 33,
-          "total_available": 51,
-          "days_buffer": 16.5,
+          "remaining_unposted": 31,
+          "total_available": 48,
+          "days_buffer": 15.5,
           "alert_message": null
         }
       },
