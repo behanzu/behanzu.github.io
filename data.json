@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-05 15:45:08 UTC",
+    "timestamp_utc": "2026-11-05 15:48:30 UTC",
     "total_channels": 8,
     "active_channels": 7,
     "disabled_channels": 0,
@@ -12,12 +12,12 @@
     "total_uploaded_videos": 609,
     "total_views_tracked": 124531961,
     "total_subscribers": 74038,
-    "total_pending_retries": 17,
+    "total_pending_retries": 16,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-11-05 15:47:21 UTC"
+    "gh_pages_synced_at": "2026-11-05 15:48:42 UTC"
   },
   "channels": [
     {
@@ -1013,7 +1013,7 @@
           "youtube_id": "SwWj9XU_gDc",
           "status": "uploaded",
           "upload_date": "2026-11-05",
-          "view_count": 31737,
+          "view_count": 31743,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-05 06:25:26",
           "rowid": 113
@@ -1023,7 +1023,7 @@
           "youtube_id": "rgDaz_x-bL4",
           "status": "uploaded",
           "upload_date": "2026-11-05",
-          "view_count": 3082,
+          "view_count": 3087,
           "title": "Crispy Fried Chicken, Hash Browns, Eggplant & Cauliflower Bites | Crunchy ASMR 🍗🥦 #friedchicken",
           "created_at": "2026-11-05 06:25:26",
           "rowid": 112
@@ -1536,14 +1536,13 @@
         "gdrive_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
         "folder_title": "TINY FIRST MOMENTS",
         "total_in_drive": 23,
-        "posted_count": 17,
-        "remaining_unposted": 6,
+        "posted_count": 18,
+        "remaining_unposted": 5,
         "videos_per_day": 2,
-        "days_buffer": 3.0,
-        "stock_status": "healthy",
-        "stock_label": "HEALTHY (6 videos ready)",
+        "days_buffer": 2.5,
+        "stock_status": "low_stock",
+        "stock_label": "LOW STOCK (5 videos left)",
         "unposted_videos": [
-          "Look at those sweet eyes and beautiful smile!  #baby #cutebaby #adorable #babylove #viral",
           "The moment this baby hears her parent's voice for the first time  #wholesome #emotional",
           "The moment this baby hears his dad's voice for the first time  #wholesome #emotional #baby",
           "The moment this baby hears his dads voice for the first time  #wholesome #heartwarming",
@@ -1555,9 +1554,9 @@
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
         "stock_status": "healthy",
-        "remaining_unposted": 6,
+        "remaining_unposted": 5,
         "total_available": 23,
-        "days_buffer": 3.0,
+        "days_buffer": 2.5,
         "alert_message": null
       },
       "is_monetized": false,
@@ -1586,8 +1585,8 @@
       "slot1_today": "not_run",
       "slot2_today": "not_run",
       "total_uploaded": 94,
-      "total_failed": 0,
-      "total_pending_retry": 1,
+      "total_failed": 1,
+      "total_pending_retry": 0,
       "total_views": 3177313,
       "last_run_date": "2026-11-04 02:00:50",
       "last_run_status": "success",
@@ -1786,7 +1785,7 @@
         {
           "tiktok_id": "1YnWXycqyDBYiX-GLQo9VUqXpvXiKyRAQ",
           "youtube_id": null,
-          "status": "pending_retry",
+          "status": "failed_permanent",
           "upload_date": "2026-11-02",
           "view_count": 0,
           "title": "Look at those sweet eyes and beautiful smile! 👶 #baby #cutebaby #adorable #babylove #viral",
@@ -2234,19 +2233,7 @@
           "rowid": 46
         }
       ],
-      "pending_retry_items": [
-        {
-          "tiktok_id": "1YnWXycqyDBYiX-GLQo9VUqXpvXiKyRAQ",
-          "youtube_id": null,
-          "status": "pending_retry",
-          "upload_date": "2026-11-02",
-          "view_count": 0,
-          "title": "Look at those sweet eyes and beautiful smile! 👶 #baby #cutebaby #adorable #babylove #viral",
-          "retry_count": 7,
-          "next_retry_date": null,
-          "created_at": "2026-11-02 01:21:07"
-        }
-      ],
+      "pending_retry_items": [],
       "days_linked": 31,
       "is_underperforming": false,
       "underperforming_reasons": [],
@@ -4619,7 +4606,7 @@
           "youtube_id": "3RNtBrYe3Ls",
           "status": "uploaded",
           "upload_date": "2026-11-05",
-          "view_count": 2369,
+          "view_count": 2371,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-05 06:25:25",
           "rowid": 67
@@ -4699,7 +4686,7 @@
           "youtube_id": "RhjZ2V9UrCE",
           "status": "uploaded",
           "upload_date": "2026-10-26",
-          "view_count": 646,
+          "view_count": 657,
           "title": "The Zoomie Express",
           "created_at": "2026-10-26 05:11:46",
           "rowid": 57
@@ -4899,7 +4886,7 @@
           "youtube_id": "OhHjWaoJgIc",
           "status": "uploaded",
           "upload_date": "2026-10-06",
-          "view_count": 2310,
+          "view_count": 2312,
           "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
           "created_at": "2026-10-06 09:34:38",
           "rowid": 37
@@ -4909,7 +4896,7 @@
           "youtube_id": "TFih9B1x6sU",
           "status": "uploaded",
           "upload_date": "2026-10-02",
-          "view_count": 1931,
+          "view_count": 1934,
           "title": "The Great Escape",
           "created_at": "2026-10-02 03:29:37",
           "rowid": 36
@@ -5125,7 +5112,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-05 15:45:08 UTC",
+    "timestamp": "2026-11-05 15:48:30 UTC",
     "total_channels": 8,
     "healthy_count": 6,
     "auto_healed_count": 0,
@@ -5209,9 +5196,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
           "stock_status": "healthy",
-          "remaining_unposted": 6,
+          "remaining_unposted": 5,
           "total_available": 23,
-          "days_buffer": 3.0,
+          "days_buffer": 2.5,
           "alert_message": null
         }
       },
