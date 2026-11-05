@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-05 15:59:20 UTC",
+    "timestamp_utc": "2026-11-05 16:01:29 UTC",
     "total_channels": 8,
     "active_channels": 7,
     "disabled_channels": 0,
@@ -9,7 +9,7 @@
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 609,
+    "total_uploaded_videos": 610,
     "total_views_tracked": 124531977,
     "total_subscribers": 74038,
     "total_pending_retries": 16,
@@ -17,7 +17,7 @@
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-11-05 15:59:49 UTC"
+    "gh_pages_synced_at": "2026-11-05 16:01:52 UTC"
   },
   "channels": [
     {
@@ -858,15 +858,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 113,
+      "total_uploaded": 114,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 84658747,
-      "last_run_date": "2026-11-04 02:00:16",
+      "last_run_date": "2026-11-05 16:00:24",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: _BHRDGdgfZA",
+      "last_run_message": "Live YouTube upload detected: rgDaz_x-bL4",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-27",
@@ -943,9 +943,9 @@
         {
           "date": "2026-11-05",
           "short_date": "Nov 05",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
@@ -1003,17 +1003,27 @@
           "short_date": "Nov 05",
           "day_name": "Thu",
           "is_today": true,
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
       "recent_videos": [
         {
+          "tiktok_id": "1IZsNii4dhs_dk5BNcpe212uCJPF8YSe3",
+          "youtube_id": null,
+          "status": "uploaded",
+          "upload_date": "2026-11-05",
+          "view_count": 0,
+          "title": "Can you spot the real baby hidden among all these fluffy teddy bears #cutebaby #babycostume",
+          "created_at": "2026-11-05 16:01:09",
+          "rowid": 114
+        },
+        {
           "tiktok_id": "yt_SwWj9XU_gDc",
           "youtube_id": "SwWj9XU_gDc",
           "status": "uploaded",
           "upload_date": "2026-11-05",
-          "view_count": 31780,
+          "view_count": 31812,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-05 06:25:26",
           "rowid": 113
@@ -1023,7 +1033,7 @@
           "youtube_id": "rgDaz_x-bL4",
           "status": "uploaded",
           "upload_date": "2026-11-05",
-          "view_count": 3109,
+          "view_count": 3132,
           "title": "Crispy Fried Chicken, Hash Browns, Eggplant & Cauliflower Bites | Crunchy ASMR 🍗🥦 #friedchicken",
           "created_at": "2026-11-05 06:25:26",
           "rowid": 112
@@ -1073,7 +1083,7 @@
           "youtube_id": "h3LZQOwWTHk",
           "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 27988,
+          "view_count": 28052,
           "title": "Baby Monkey Surprise! Stuffed Toy Woke Up 🐒 #shorts #cutebaby #viral",
           "created_at": "2026-11-03 00:04:12",
           "rowid": 107
@@ -1203,7 +1213,7 @@
           "youtube_id": "ciB8zBs7O1Q",
           "status": "uploaded",
           "upload_date": "2026-10-27",
-          "view_count": 28282,
+          "view_count": 28316,
           "title": "A wise little owl decided to perch on our rocking chair and show off tha #cutebaby #babycostume",
           "created_at": "2026-10-27 09:02:56",
           "rowid": 94
@@ -1343,7 +1353,7 @@
           "youtube_id": "mS6yvU7J0DY",
           "status": "uploaded",
           "upload_date": "2026-10-15",
-          "view_count": 23556,
+          "view_count": 23746,
           "title": "The Ultimate Crispy Smash Burger 🍔 #smashburger #asmrfood #burger #recipe #foodie",
           "created_at": "2026-10-15 13:31:45",
           "rowid": 80
@@ -1353,7 +1363,7 @@
           "youtube_id": "E_Qm20Bml5Y",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 20143,
+          "view_count": 20213,
           "title": "Flaky Croissant Ice Cream Waffle 🥐 #croffle #asmrfood #dessert #croissant #recipe",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 79
@@ -1363,7 +1373,7 @@
           "youtube_id": "5FJ9j87nXDQ",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 5691,
+          "view_count": 5740,
           "title": "How To Make The Viral Dubai Pistachio Chocolate Bar 🍫 #dubaichocolate #pistachiochocolate",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 78
@@ -1373,7 +1383,7 @@
           "youtube_id": "QS7f4MD3ZBQ",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 5211,
+          "view_count": 5250,
           "title": "Soft and Pillowy Cloud Cakes 🧁 #cloudcake #souffle #baking #asmrfood #dessert",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 77
@@ -1383,7 +1393,7 @@
           "youtube_id": "cn59frReJNo",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 6605,
+          "view_count": 6656,
           "title": "The Crispiest Nashville Hot Chicken Sandwich You Need To Try 🍗 #nashvillehotchicken",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 76
@@ -1393,7 +1403,7 @@
           "youtube_id": "5N2GB2YnmbQ",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 7743,
+          "view_count": 7808,
           "title": "The Easiest Whipped Dalgona Coffee Recipe ☕ #dalgonacoffee #coffee #recipe #easyrecipe",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 75
@@ -1403,7 +1413,7 @@
           "youtube_id": "P31BZSvZ03k",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 13243,
+          "view_count": 13305,
           "title": "The Famous Baked Feta Pasta That Broke The Internet 🍝 #fetapasta #bakedfetapasta #asmrcooking",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 74
@@ -1423,7 +1433,7 @@
           "youtube_id": "NFT4YurjGXc",
           "status": "uploaded",
           "upload_date": "2026-10-08",
-          "view_count": 11709,
+          "view_count": 11745,
           "title": "Ultra Crispy Fried Eggplant Bites 🍆 #crispyeggplant #asmrcooking #easyrecipe #snackideas",
           "created_at": "2026-10-08 07:36:51",
           "rowid": 72
@@ -1433,7 +1443,7 @@
           "youtube_id": "iNEqHvVp80w",
           "status": "uploaded",
           "upload_date": "2026-10-07",
-          "view_count": 6219,
+          "view_count": 6257,
           "title": "Ultimate Refreshing Virgin Mojito 🍹 #mojito #asmrfood #recipe #mocktail #viral",
           "created_at": "2026-10-07 05:36:22",
           "rowid": 71
@@ -1443,7 +1453,7 @@
           "youtube_id": "mJqKBh6u3yU",
           "status": "uploaded",
           "upload_date": "2026-10-06",
-          "view_count": 12732,
+          "view_count": 12797,
           "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
           "created_at": "2026-10-06 08:25:10",
           "rowid": 70
@@ -1453,7 +1463,7 @@
           "youtube_id": "zfvaRkOAUBM",
           "status": "uploaded",
           "upload_date": "2026-10-06",
-          "view_count": 19721,
+          "view_count": 19765,
           "title": "Ultimate Crispy Soya Granule Snack Balls 🧆 #soyarecipes #crispysnacks #easyrecipes #foodasmr",
           "created_at": "2026-10-06 02:07:35",
           "rowid": 69
@@ -1463,7 +1473,7 @@
           "youtube_id": "_fe_53VwZVg",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 230938,
+          "view_count": 232877,
           "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
           "created_at": "2026-10-05 07:13:00",
           "rowid": 68
@@ -1473,7 +1483,7 @@
           "youtube_id": "t2q--9LsgFk",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 8793,
+          "view_count": 8838,
           "title": "Turn Crispy Rusks Into Rich Homemade Halwa 🍮 #ruskhalwa #halwarecipe #easydessert #asmrcooking",
           "created_at": "2026-10-05 05:03:08",
           "rowid": 67
@@ -1483,7 +1493,7 @@
           "youtube_id": "hgtf6evk8AA",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 27179,
+          "view_count": 27218,
           "title": "Ultimate Crispy Fried Chicken & Hash Browns 🍗 #crispychicken #friedchicken #hashbrowns #asmrfoo",
           "created_at": "2026-10-05 05:03:08",
           "rowid": 66
@@ -1493,20 +1503,10 @@
           "youtube_id": "PJ8YCb2EIF8",
           "status": "uploaded",
           "upload_date": "2026-10-03",
-          "view_count": 8296,
+          "view_count": 8328,
           "title": "Tomato Rice 🍲 #asmrfood #cooking #recipe #food #viral",
           "created_at": "2026-10-03 01:44:49",
           "rowid": 65
-        },
-        {
-          "tiktok_id": "yt__JrixkRfciY",
-          "youtube_id": "_JrixkRfciY",
-          "status": "uploaded",
-          "upload_date": "2026-10-02",
-          "view_count": 31363,
-          "title": "The Ultimate Quick Egg Toast Sandwich 🥪 #eggtoast #breakfastideas #quickrecipes #asmrfood #easy",
-          "created_at": "2026-10-02 03:29:17",
-          "rowid": 64
         }
       ],
       "pending_retry_items": [],
@@ -2733,7 +2733,7 @@
           "youtube_id": "fnlS7JeTxyA",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 2615228,
+          "view_count": 2615215,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:35:02",
           "rowid": 27
@@ -4606,7 +4606,7 @@
           "youtube_id": "3RNtBrYe3Ls",
           "status": "uploaded",
           "upload_date": "2026-11-05",
-          "view_count": 2378,
+          "view_count": 2386,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-05 06:25:25",
           "rowid": 67
@@ -4646,7 +4646,7 @@
           "youtube_id": "qLjZpEeZGBE",
           "status": "uploaded",
           "upload_date": "2026-11-04",
-          "view_count": 2002,
+          "view_count": 2005,
           "title": "Baby Tiger Surprise! Plushie Roared 🐯 #shorts #cutebaby #viral",
           "created_at": "2026-11-04 07:13:48",
           "rowid": 63
@@ -4676,7 +4676,7 @@
           "youtube_id": "1e8rg4jbTec",
           "status": "uploaded",
           "upload_date": "2026-10-27",
-          "view_count": 1742,
+          "view_count": 1757,
           "title": "Waffle Yawn",
           "created_at": "2026-10-27 05:15:13",
           "rowid": 58
@@ -4726,7 +4726,7 @@
           "youtube_id": "LK7EekinvIg",
           "status": "uploaded",
           "upload_date": "2026-10-23",
-          "view_count": 597,
+          "view_count": 605,
           "title": "Midnight Munchies",
           "created_at": "2026-10-23 05:10:59",
           "rowid": 53
@@ -4886,7 +4886,7 @@
           "youtube_id": "OhHjWaoJgIc",
           "status": "uploaded",
           "upload_date": "2026-10-06",
-          "view_count": 2310,
+          "view_count": 2312,
           "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
           "created_at": "2026-10-06 09:34:38",
           "rowid": 37
@@ -5112,7 +5112,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-05 15:59:20 UTC",
+    "timestamp": "2026-11-05 16:01:29 UTC",
     "total_channels": 8,
     "healthy_count": 6,
     "auto_healed_count": 0,
@@ -5155,7 +5155,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-11-05",
-        "uploads_today": 2,
+        "uploads_today": 3,
         "uploads_yesterday": 2,
         "missed_posting": false,
         "error_detail": null,
