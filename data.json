@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-05 08:09:05 UTC",
+    "timestamp_utc": "2026-11-05 08:30:46 UTC",
     "total_channels": 8,
     "active_channels": 6,
     "disabled_channels": 1,
@@ -9,15 +9,15 @@
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 605,
-    "total_views_tracked": 124531426,
+    "total_uploaded_videos": 607,
+    "total_views_tracked": 124531442,
     "total_subscribers": 74037,
-    "total_pending_retries": 21,
+    "total_pending_retries": 19,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-11-05 08:09:07 UTC"
+    "gh_pages_synced_at": "2026-11-05 08:30:58 UTC"
   },
   "channels": [
     {
@@ -62,7 +62,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-05 08:22:26 UTC",
+        "expires_at": "2026-11-05 09:19:11 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -70,10 +70,10 @@
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 109,
+      "total_uploaded": 111,
       "total_failed": 0,
-      "total_pending_retry": 20,
-      "total_views": 4949239,
+      "total_pending_retry": 18,
+      "total_views": 4949255,
       "last_run_date": "2026-11-04 01:59:52",
       "last_run_status": "failed",
       "last_run_message": "Failed to download any of the 20 candidates for slot 1.",
@@ -139,7 +139,7 @@
           "short_date": "Nov 03",
           "slot1": "success",
           "slot2": "skipped",
-          "uploads_count": 4,
+          "uploads_count": 6,
           "views_gained": 0
         },
         {
@@ -197,7 +197,7 @@
           "short_date": "Nov 03",
           "day_name": "Tue",
           "is_today": false,
-          "uploads_count": 4,
+          "uploads_count": 6,
           "views_gained": 0
         },
         {
@@ -421,9 +421,9 @@
         {
           "tiktok_id": "hAPT2twjanc",
           "youtube_id": null,
-          "status": "pending_retry",
+          "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 105000,
+          "view_count": 0,
           "title": "This Has It's Own Secret Luxury Room! 😺✨ #shorts #cathouse #cutecats #secretroom #catvideos #fyp",
           "created_at": "2026-11-03 00:01:33",
           "rowid": 110
@@ -431,9 +431,9 @@
         {
           "tiktok_id": "eNvtLZYv5qA",
           "youtube_id": null,
-          "status": "pending_retry",
+          "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 1100,
+          "view_count": 0,
           "title": "This Fluffy Cat Has a Secret Sky-View Suite 😺✨ #shorts #cutecat #cathouse #fluffycat #secretroom",
           "created_at": "2026-11-03 00:01:24",
           "rowid": 109
@@ -853,7 +853,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-05 08:22:26 UTC",
+        "expires_at": "2026-11-05 09:19:11 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -1014,7 +1014,7 @@
           "youtube_id": "SwWj9XU_gDc",
           "status": "uploaded",
           "upload_date": "2026-11-05",
-          "view_count": 10158,
+          "view_count": 12130,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-05 06:25:26",
           "rowid": 113
@@ -1024,7 +1024,7 @@
           "youtube_id": "rgDaz_x-bL4",
           "status": "uploaded",
           "upload_date": "2026-11-05",
-          "view_count": 1445,
+          "view_count": 1506,
           "title": "Crispy Fried Chicken, Hash Browns, Eggplant & Cauliflower Bites | Crunchy ASMR 🍗🥦 #friedchicken",
           "created_at": "2026-11-05 06:25:26",
           "rowid": 112
@@ -1104,7 +1104,7 @@
           "youtube_id": "GU2fViW_WaY",
           "status": "uploaded",
           "upload_date": "2026-11-01",
-          "view_count": 43889,
+          "view_count": 43966,
           "title": "Cutest little bumblebee you& see today! 🐝 Video #cutebaby #babycostume",
           "created_at": "2026-11-01 21:21:56",
           "rowid": 104
@@ -1134,7 +1134,7 @@
           "youtube_id": "uSPTDaQpk_k",
           "status": "uploaded",
           "upload_date": "2026-10-31",
-          "view_count": 14664,
+          "view_count": 14770,
           "title": "Baby Red Panda Surprise! Plushie Giggled 🐼 #shorts #cutebaby #viral",
           "created_at": "2026-10-31 06:34:20",
           "rowid": 101
@@ -1144,7 +1144,7 @@
           "youtube_id": "qWwe-HiszqI",
           "status": "uploaded",
           "upload_date": "2026-10-31",
-          "view_count": 2820,
+          "view_count": 2819,
           "title": "Creamy Beef Stroganoff is the ultimate comfort dinner 🍝 #beefstroganoff #easyrecipe",
           "created_at": "2026-10-31 05:08:12",
           "rowid": 100
@@ -1578,7 +1578,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-05 08:22:26 UTC",
+        "expires_at": "2026-11-05 09:19:11 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -2296,7 +2296,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-05 08:22:26 UTC",
+        "expires_at": "2026-11-05 09:19:11 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -3003,7 +3003,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-05 08:22:26 UTC",
+        "expires_at": "2026-11-05 09:19:11 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -3726,7 +3726,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-05 08:22:26 UTC",
+        "expires_at": "2026-11-05 09:19:11 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -4459,7 +4459,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-05 08:22:26 UTC",
+        "expires_at": "2026-11-05 09:19:11 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -4620,7 +4620,7 @@
           "youtube_id": "3RNtBrYe3Ls",
           "status": "uploaded",
           "upload_date": "2026-11-05",
-          "view_count": 1336,
+          "view_count": 1389,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-05 06:25:25",
           "rowid": 67
@@ -4640,7 +4640,7 @@
           "youtube_id": "b0iRxNmEOck",
           "status": "uploaded",
           "upload_date": "2026-11-04",
-          "view_count": 22475,
+          "view_count": 22490,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-04 07:13:48",
           "rowid": 65
@@ -4660,7 +4660,7 @@
           "youtube_id": "qLjZpEeZGBE",
           "status": "uploaded",
           "upload_date": "2026-11-04",
-          "view_count": 1799,
+          "view_count": 1800,
           "title": "Baby Tiger Surprise! Plushie Roared 🐯 #shorts #cutebaby #viral",
           "created_at": "2026-11-04 07:13:48",
           "rowid": 63
@@ -4670,7 +4670,7 @@
           "youtube_id": "xnEanHqU688",
           "status": "uploaded",
           "upload_date": "2026-11-01",
-          "view_count": 44400,
+          "view_count": 44401,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-01 07:23:26",
           "rowid": 62
@@ -4860,7 +4860,7 @@
           "youtube_id": "dbWwO5BqFRM",
           "status": "uploaded",
           "upload_date": "2026-10-08",
-          "view_count": 3824,
+          "view_count": 3835,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
           "created_at": "2026-10-08 09:23:05",
           "rowid": 41
@@ -5126,7 +5126,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-05 08:09:05 UTC",
+    "timestamp": "2026-11-05 08:30:46 UTC",
     "total_channels": 8,
     "healthy_count": 6,
     "auto_healed_count": 0,
