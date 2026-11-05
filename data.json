@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-05 16:50:00 UTC",
+    "timestamp_utc": "2026-11-05 16:51:04 UTC",
     "total_channels": 8,
     "active_channels": 7,
     "disabled_channels": 0,
     "idle_channels": 0,
-    "today_completed_channels": 1,
+    "today_completed_channels": 2,
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 610,
-    "total_views_tracked": 124532482,
+    "total_uploaded_videos": 611,
+    "total_views_tracked": 124532521,
     "total_subscribers": 74038,
     "total_pending_retries": 19,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-11-05 16:50:48 UTC"
+    "gh_pages_synced_at": "2026-11-05 16:51:12 UTC"
   },
   "channels": [
     {
@@ -73,7 +73,7 @@
       "total_uploaded": 113,
       "total_failed": 0,
       "total_pending_retry": 16,
-      "total_views": 4949433,
+      "total_views": 4949436,
       "last_run_date": "2026-11-05 15:01:13",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: ND2HQjkCpRc",
@@ -493,7 +493,7 @@
           "youtube_id": "qSEvFWoVcqg",
           "status": "uploaded",
           "upload_date": "2026-10-29",
-          "view_count": 175,
+          "view_count": 177,
           "title": "POV: You walk into the birthday party setup EVERY kid dreams of! ✨🎂 This is pure magic — the",
           "created_at": "2026-10-29 07:54:19",
           "rowid": 103
@@ -653,7 +653,7 @@
           "youtube_id": "iK1GvFsgZyw",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 2283,
+          "view_count": 2284,
           "title": "Baking Chaos Turned Into Paw Print Art 🐾 #funny #cats #toddlerlife #humor #viral",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 87
@@ -859,14 +859,14 @@
         "is_expired": false
       },
       "slot1_today": "success",
-      "slot2_today": "not_run",
-      "total_uploaded": 114,
+      "slot2_today": "success",
+      "total_uploaded": 115,
       "total_failed": 0,
       "total_pending_retry": 3,
       "total_views": 84658747,
-      "last_run_date": "2026-11-05 16:00:24",
+      "last_run_date": "2026-11-05 16:50:45",
       "last_run_status": "success",
-      "last_run_message": "Live YouTube upload detected: rgDaz_x-bL4",
+      "last_run_message": "Uploaded YouTube ID: YyP6i5pdBVQ",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-27",
@@ -944,8 +944,8 @@
           "date": "2026-11-05",
           "short_date": "Nov 05",
           "slot1": "success",
-          "slot2": "not_run",
-          "uploads_count": 3,
+          "slot2": "success",
+          "uploads_count": 4,
           "views_gained": 0
         }
       ],
@@ -1003,11 +1003,21 @@
           "short_date": "Nov 05",
           "day_name": "Thu",
           "is_today": true,
-          "uploads_count": 3,
+          "uploads_count": 4,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "1ys4UwEeXwOtj4FNB2_Y-hVNYdyG__BpQ",
+          "youtube_id": "YyP6i5pdBVQ",
+          "status": "uploaded",
+          "upload_date": "2026-11-05",
+          "view_count": 0,
+          "title": "Found a sleepy little panda napping in the crib and then he woke up #cutebaby #babycostume",
+          "created_at": "2026-11-05 16:50:45",
+          "rowid": 118
+        },
         {
           "tiktok_id": "19ER2V-a-bp4pgawBL-rBnTnoDGo3e7mi",
           "youtube_id": null,
@@ -1053,7 +1063,7 @@
           "youtube_id": "SwWj9XU_gDc",
           "status": "uploaded",
           "upload_date": "2026-11-05",
-          "view_count": 31947,
+          "view_count": 31970,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-05 06:25:26",
           "rowid": 113
@@ -1063,7 +1073,7 @@
           "youtube_id": "rgDaz_x-bL4",
           "status": "uploaded",
           "upload_date": "2026-11-05",
-          "view_count": 3276,
+          "view_count": 3298,
           "title": "Crispy Fried Chicken, Hash Browns, Eggplant & Cauliflower Bites | Crunchy ASMR 🍗🥦 #friedchicken",
           "created_at": "2026-11-05 06:25:26",
           "rowid": 112
@@ -1497,16 +1507,6 @@
           "title": "Ultimate Crispy Soya Granule Snack Balls 🧆 #soyarecipes #crispysnacks #easyrecipes #foodasmr",
           "created_at": "2026-10-06 02:07:35",
           "rowid": 69
-        },
-        {
-          "tiktok_id": "broadcast_avocado_1791184380_channel_2",
-          "youtube_id": "_fe_53VwZVg",
-          "status": "uploaded",
-          "upload_date": "2026-10-05",
-          "view_count": 232906,
-          "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
-          "created_at": "2026-10-05 07:13:00",
-          "rowid": 68
         }
       ],
       "pending_retry_items": [
@@ -1549,7 +1549,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 01, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_3",
@@ -1781,7 +1781,7 @@
           "youtube_id": "9ox0GejPpQ4",
           "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 84,
+          "view_count": 83,
           "title": "The moment this baby sees his father clearly for the first time 🥺 #heartwarming #wholesome",
           "created_at": "2026-11-03 22:28:58",
           "rowid": 95
@@ -1801,7 +1801,7 @@
           "youtube_id": "452zJkHl-CM",
           "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 48,
+          "view_count": 49,
           "title": "Sky riding the futuristic elevator straight to mealtime and cozy nap heaven! #PamperedPet",
           "created_at": "2026-11-03 00:04:21",
           "rowid": 93
@@ -2487,7 +2487,7 @@
           "youtube_id": "wVr-2kR6urQ",
           "status": "uploaded",
           "upload_date": "2026-11-04",
-          "view_count": 6,
+          "view_count": 5,
           "title": "When Pure Rage Takes Over The Hero ⚔️🩸 #Shorts #AnimeFights #ViralAnime",
           "created_at": "2026-11-04 02:01:05",
           "rowid": 55
@@ -2497,7 +2497,7 @@
           "youtube_id": "T7yO-SnqvcA",
           "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 1044,
+          "view_count": 1040,
           "title": "The Coldest Anime Villain Entry Ever 🥶👑 #Shorts #Anime #Villain",
           "created_at": "2026-11-03 03:23:47",
           "rowid": 54
@@ -2537,7 +2537,7 @@
           "youtube_id": "bnuBkXlqtYY",
           "status": "uploaded",
           "upload_date": "2026-10-31",
-          "view_count": 55,
+          "view_count": 54,
           "title": "The Moment Everyone Was Waiting For 💥 #Shorts #AnimeHype #Action",
           "created_at": "2026-10-31 05:08:12",
           "rowid": 50
@@ -2577,7 +2577,7 @@
           "youtube_id": "1I2QTOm3C08",
           "status": "uploaded",
           "upload_date": "2026-10-27",
-          "view_count": 2810,
+          "view_count": 2807,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-10-27 08:34:12",
           "rowid": 46
@@ -2597,7 +2597,7 @@
           "youtube_id": "fAKcgfKA6fI",
           "status": "uploaded",
           "upload_date": "2026-10-23",
-          "view_count": 4123,
+          "view_count": 4120,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-10-23 06:52:24",
           "rowid": 44
@@ -2617,7 +2617,7 @@
           "youtube_id": "bGdaOPzdLgs",
           "status": "uploaded",
           "upload_date": "2026-10-08",
-          "view_count": 6299,
+          "view_count": 6297,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
           "created_at": "2026-10-08 08:27:12",
           "rowid": 42
@@ -2627,7 +2627,7 @@
           "youtube_id": "gTTiHywq9ig",
           "status": "uploaded",
           "upload_date": "2026-10-07",
-          "view_count": 16621,
+          "view_count": 16617,
           "title": "Jojo's Makes Zero Sense. And It's Hilarious #jojo #jojosbizzareadventure #stand",
           "created_at": "2026-10-07 05:36:21",
           "rowid": 41
@@ -2657,7 +2657,7 @@
           "youtube_id": "UnRv-SaIpjU",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 4248,
+          "view_count": 4243,
           "title": "TikTok video",
           "created_at": "2026-10-05 05:03:08",
           "rowid": 38
@@ -2667,7 +2667,7 @@
           "youtube_id": "6MSRjS4kcxM",
           "status": "uploaded",
           "upload_date": "2026-10-03",
-          "view_count": 4063,
+          "view_count": 4059,
           "title": "TikTok video",
           "created_at": "2026-10-03 01:44:49",
           "rowid": 37
@@ -2687,7 +2687,7 @@
           "youtube_id": "plH-XejfqNU",
           "status": "uploaded",
           "upload_date": "2026-10-01",
-          "view_count": 3410,
+          "view_count": 3407,
           "title": "TikTok video #7690613495490039053",
           "created_at": "2026-10-01 03:19:45",
           "rowid": 35
@@ -2717,7 +2717,7 @@
           "youtube_id": "LjQpO0qwDqs",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 5761,
+          "view_count": 5759,
           "title": "What Makes SBR's Outro so HORRIBLE #jojo #jojosbizarreadventure #fyp #gaming#jjba",
           "created_at": "2026-09-30 03:14:08",
           "rowid": 32
@@ -2767,7 +2767,7 @@
           "youtube_id": "fnlS7JeTxyA",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 2615228,
+          "view_count": 2615215,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:35:02",
           "rowid": 27
@@ -3034,7 +3034,7 @@
       "total_uploaded": 102,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 38152,
+      "total_views": 38154,
       "last_run_date": "2026-11-05 16:03:34",
       "last_run_status": "skipped",
       "last_run_message": "Slot 1 has already executed successfully today (2026-11-05). Skipping.",
@@ -3254,7 +3254,7 @@
           "youtube_id": "dPnnsgjYqTc",
           "status": "uploaded",
           "upload_date": "2026-10-31",
-          "view_count": 10,
+          "view_count": 11,
           "title": "New fishing hack? 🤔😂 #Shorts #Fishing #Viral",
           "created_at": "2026-10-31 20:38:43",
           "rowid": 95
@@ -3264,7 +3264,7 @@
           "youtube_id": "9YHNQNhXoTc",
           "status": "uploaded",
           "upload_date": "2026-10-31",
-          "view_count": 6,
+          "view_count": 7,
           "title": "Bro really thought this was worthless 😭😭 #Shorts #Fishing #Viral",
           "created_at": "2026-10-31 05:08:12",
           "rowid": 94
@@ -3757,7 +3757,7 @@
       "total_uploaded": 65,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 516460,
+      "total_views": 516494,
       "last_run_date": "2026-11-05 16:34:07",
       "last_run_status": "skipped",
       "last_run_message": "Channel 'channel_14' already received 1 uploads today on YouTube (max: 1). Skipping slot 1 to prevent duplicate!",
@@ -3907,7 +3907,7 @@
           "youtube_id": "ZGF0Aroxyb4",
           "status": "uploaded",
           "upload_date": "2026-11-05",
-          "view_count": 1145,
+          "view_count": 1178,
           "title": "Why Does Your Foot Fall Asleep #Shorts #Science #Facts",
           "created_at": "2026-11-05 06:25:26",
           "rowid": 65
@@ -4087,7 +4087,7 @@
           "youtube_id": "kD7RO8MIFDQ",
           "status": "uploaded",
           "upload_date": "2026-10-23",
-          "view_count": 61,
+          "view_count": 62,
           "title": "How Storm Surge Barriers Protect Cities #Shorts #Science #Facts",
           "created_at": "2026-10-23 05:10:59",
           "rowid": 47
@@ -4633,7 +4633,7 @@
           "youtube_id": "3RNtBrYe3Ls",
           "status": "uploaded",
           "upload_date": "2026-11-05",
-          "view_count": 2415,
+          "view_count": 2421,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-05 06:25:25",
           "rowid": 67
@@ -4673,7 +4673,7 @@
           "youtube_id": "qLjZpEeZGBE",
           "status": "uploaded",
           "upload_date": "2026-11-04",
-          "view_count": 2034,
+          "view_count": 2037,
           "title": "Baby Tiger Surprise! Plushie Roared 🐯 #shorts #cutebaby #viral",
           "created_at": "2026-11-04 07:13:48",
           "rowid": 63
@@ -5139,7 +5139,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-05 16:50:00 UTC",
+    "timestamp": "2026-11-05 16:51:04 UTC",
     "total_channels": 8,
     "healthy_count": 6,
     "auto_healed_count": 0,
@@ -5182,7 +5182,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-11-05",
-        "uploads_today": 3,
+        "uploads_today": 4,
         "uploads_yesterday": 2,
         "missed_posting": false,
         "error_detail": null,
@@ -5350,7 +5350,7 @@
         "status": "idle",
         "token_status": "valid",
         "last_upload_date": "2026-11-05",
-        "uploads_today": 2,
+        "uploads_today": 3,
         "uploads_yesterday": 2,
         "missed_posting": false,
         "error_detail": "Channel is currently set to IDLE (Paused).",
