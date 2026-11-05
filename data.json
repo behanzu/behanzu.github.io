@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-05 15:56:42 UTC",
+    "timestamp_utc": "2026-11-05 15:58:11 UTC",
     "total_channels": 8,
     "active_channels": 7,
     "disabled_channels": 0,
@@ -10,14 +10,14 @@
     "error_channels": 0,
     "health_rate_percent": 100.0,
     "total_uploaded_videos": 609,
-    "total_views_tracked": 124531972,
+    "total_views_tracked": 124531955,
     "total_subscribers": 74038,
     "total_pending_retries": 16,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-11-05 15:57:50 UTC"
+    "gh_pages_synced_at": "2026-11-05 15:58:46 UTC"
   },
   "channels": [
     {
@@ -801,13 +801,13 @@
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
         "folder_title": "COMPILED REELS",
-        "total_in_drive": 51,
-        "posted_count": 20,
-        "remaining_unposted": 31,
+        "total_in_drive": 48,
+        "posted_count": 19,
+        "remaining_unposted": 29,
         "videos_per_day": 2,
-        "days_buffer": 15.5,
+        "days_buffer": 14.5,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (31 videos ready)",
+        "stock_label": "HEALTHY (29 videos ready)",
         "unposted_videos": [
           "Best Burgers & Sandwiches Compilation  | ASMR Cooking #burger #sandwich #asmrfood",
           "Cheesy Street Food Compilation  | ASMR Cooking #streetfood #tacos #cheesepull",
@@ -830,9 +830,9 @@
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
         "stock_status": "healthy",
-        "remaining_unposted": 31,
-        "total_available": 51,
-        "days_buffer": 15.5,
+        "remaining_unposted": 29,
+        "total_available": 48,
+        "days_buffer": 14.5,
         "alert_message": null
       },
       "is_monetized": true,
@@ -1587,7 +1587,7 @@
       "total_uploaded": 94,
       "total_failed": 1,
       "total_pending_retry": 0,
-      "total_views": 3177313,
+      "total_views": 3177296,
       "last_run_date": "2026-11-04 02:00:50",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: fSQVxbqOm3U",
@@ -1737,8 +1737,8 @@
           "youtube_id": "fSQVxbqOm3U",
           "status": "uploaded",
           "upload_date": "2026-11-04",
-          "view_count": 17,
-          "title": "The Moment This Baby Hears Her Parent&#39;s Voice For The First Time 🥹 #wholesome #emotional",
+          "view_count": 0,
+          "title": "The moment this baby hears her parent&#39;s voice for the first time 🥹 #wholesome #emotional",
           "created_at": "2026-11-04 02:00:50",
           "rowid": 96
         },
@@ -5112,7 +5112,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-05 15:56:42 UTC",
+    "timestamp": "2026-11-05 15:58:11 UTC",
     "total_channels": 8,
     "healthy_count": 6,
     "auto_healed_count": 0,
@@ -5168,9 +5168,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
           "stock_status": "healthy",
-          "remaining_unposted": 31,
-          "total_available": 51,
-          "days_buffer": 15.5,
+          "remaining_unposted": 29,
+          "total_available": 48,
+          "days_buffer": 14.5,
           "alert_message": null
         }
       },
