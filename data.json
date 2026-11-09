@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-09 06:27:33 UTC",
+    "timestamp_utc": "2026-11-09 06:29:50 UTC",
     "total_channels": 8,
     "active_channels": 7,
     "disabled_channels": 0,
@@ -17,7 +17,7 @@
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-11-09 06:27:37 UTC"
+    "gh_pages_synced_at": "2026-11-09 06:30:26 UTC"
   },
   "channels": [
     {
@@ -1013,7 +1013,7 @@
           "youtube_id": "_9rJZmeCBns",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 802,
+          "view_count": 879,
           "title": "Cyber Bike Becomes Jet Ski & Drops Into Sydney Harbour 😱🌊",
           "created_at": "2026-11-09 03:59:55",
           "rowid": 125
@@ -2323,7 +2323,7 @@
       "upload_mode": "popular_split",
       "videos_per_day": 1,
       "slot_times": {
-        "1": "22:12"
+        "1": "14:30"
       },
       "token_health": {
         "has_secret": true,
@@ -3003,7 +3003,7 @@
       "youtube_channel_url": "https://www.youtube.com/@luvthuggaas",
       "subscribers_count": 471,
       "published_videos_count": 28,
-      "live_youtube_views": 228,
+      "live_youtube_views": 229,
       "owner_email": "khadijaammar284@gmail.com",
       "channel_created_at": "Sep 01, 2026",
       "source_type": "tiktok",
@@ -4442,18 +4442,17 @@
         "gdrive_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
         "folder_title": "BUNNY PLANET",
         "total_in_drive": 60,
-        "posted_count": 41,
-        "remaining_unposted": 19,
+        "posted_count": 42,
+        "remaining_unposted": 18,
         "videos_per_day": 1,
-        "days_buffer": 19.0,
+        "days_buffer": 18.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (19 videos ready)",
+        "stock_label": "HEALTHY (18 videos ready)",
         "unposted_videos": [
           "Sleepiest Flop Ever",
           "Popcorn Bunny",
           "Boop The Nose",
           "Blueberry Zoom",
-          "Snore Loaf",
           "Daisy Chain Dance",
           "Cuddle Bug",
           "The Carrot Rocket",
@@ -4463,16 +4462,17 @@
           "The Happy Hopscotch",
           "Twilight Twirl",
           "Corn Crunch",
-          "Blanket Burrito"
+          "Blanket Burrito",
+          "The Meadow Marathon"
         ]
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
         "stock_status": "healthy",
-        "remaining_unposted": 19,
+        "remaining_unposted": 18,
         "total_available": 60,
-        "days_buffer": 19.0,
+        "days_buffer": 18.0,
         "alert_message": null
       },
       "is_monetized": false,
@@ -4485,7 +4485,7 @@
       "upload_mode": "sequence",
       "videos_per_day": 1,
       "slot_times": {
-        "1": "22:15"
+        "1": "15:45"
       },
       "token_health": {
         "has_secret": true,
@@ -4500,7 +4500,7 @@
       "slot1_today": "not_run",
       "slot2_today": "not_run",
       "total_uploaded": 72,
-      "total_failed": 1,
+      "total_failed": 2,
       "total_pending_retry": 0,
       "total_views": 19447463,
       "last_run_date": "2026-11-01 07:23:26",
@@ -4648,11 +4648,21 @@
       ],
       "recent_videos": [
         {
+          "tiktok_id": "1miFg_UVTZ-TuWOes8kTuHAJSvA5OUoDd",
+          "youtube_id": null,
+          "status": "failed_permanent",
+          "upload_date": "2026-11-09",
+          "view_count": 0,
+          "title": "Snore Loaf (Corrupt Container: Missing moov atom)",
+          "created_at": "2026-11-09 06:28:15",
+          "rowid": 74
+        },
+        {
           "tiktok_id": "yt_cmsHfRTdXOE",
           "youtube_id": "cmsHfRTdXOE",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 560,
+          "view_count": 578,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-09 05:10:48",
           "rowid": 73
@@ -4662,7 +4672,7 @@
           "youtube_id": "kuool5OlRE8",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 7032,
+          "view_count": 7051,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-09 03:52:37",
           "rowid": 72
@@ -5136,16 +5146,6 @@
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-26 16:03:12",
           "rowid": 23
-        },
-        {
-          "tiktok_id": "yt_kz7i2YdJXhk",
-          "youtube_id": "kz7i2YdJXhk",
-          "status": "uploaded",
-          "upload_date": "2026-09-26",
-          "view_count": 10014,
-          "title": "The Grass Is Greener",
-          "created_at": "2026-09-26 04:42:10",
-          "rowid": 22
         }
       ],
       "pending_retry_items": [],
@@ -5158,7 +5158,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-09 06:27:33 UTC",
+    "timestamp": "2026-11-09 06:29:50 UTC",
     "total_channels": 8,
     "healthy_count": 4,
     "auto_healed_count": 0,
@@ -5354,9 +5354,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
           "stock_status": "healthy",
-          "remaining_unposted": 19,
+          "remaining_unposted": 18,
           "total_available": 60,
-          "days_buffer": 19.0,
+          "days_buffer": 18.0,
           "alert_message": null
         }
       },
