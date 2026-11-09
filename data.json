@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-09 07:35:19 UTC",
+    "timestamp_utc": "2026-11-09 07:37:56 UTC",
     "total_channels": 8,
     "active_channels": 6,
     "disabled_channels": 1,
@@ -9,15 +9,15 @@
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 646,
-    "total_views_tracked": 125833229,
+    "total_uploaded_videos": 648,
+    "total_views_tracked": 125833232,
     "total_subscribers": 74662,
     "total_pending_retries": 14,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
-    "content_low_channels": 0,
-    "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-11-09 07:36:50 UTC"
+    "content_low_channels": 1,
+    "content_alerts_count": 1,
+    "gh_pages_synced_at": "2026-11-09 07:37:59 UTC"
   },
   "channels": [
     {
@@ -73,7 +73,7 @@
       "total_uploaded": 119,
       "total_failed": 0,
       "total_pending_retry": 12,
-      "total_views": 4950773,
+      "total_views": 4950776,
       "last_run_date": "2026-11-09 07:32:26",
       "last_run_status": "skipped",
       "last_run_message": "Slot 1 has already executed successfully today (2026-11-09). Skipping.",
@@ -383,7 +383,7 @@
           "youtube_id": "TOiiMiwYrmk",
           "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 0,
+          "view_count": 3,
           "title": "This Cat Has a Secret Sleep Pod Behind the Wall! 🐱💤 #shorts #cozycat #hiddencat #bed #luxurypets",
           "created_at": "2026-11-03 00:02:26",
           "rowid": 116
@@ -801,13 +801,13 @@
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
         "folder_title": "COMPILED REELS",
-        "total_in_drive": 48,
-        "posted_count": 23,
-        "remaining_unposted": 25,
+        "total_in_drive": 51,
+        "posted_count": 24,
+        "remaining_unposted": 27,
         "videos_per_day": 2,
-        "days_buffer": 12.5,
+        "days_buffer": 13.5,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (25 videos ready)",
+        "stock_label": "HEALTHY (27 videos ready)",
         "unposted_videos": [
           "Best Burgers & Sandwiches Compilation  | ASMR Cooking #burger #sandwich #asmrfood",
           "Cheesy Street Food Compilation  | ASMR Cooking #streetfood #tacos #cheesepull",
@@ -830,9 +830,9 @@
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
         "stock_status": "healthy",
-        "remaining_unposted": 25,
-        "total_available": 48,
-        "days_buffer": 12.5,
+        "remaining_unposted": 27,
+        "total_available": 51,
+        "days_buffer": 13.5,
         "alert_message": null
       },
       "is_monetized": true,
@@ -1013,7 +1013,7 @@
           "youtube_id": "_9rJZmeCBns",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 1188,
+          "view_count": 1197,
           "title": "Cyber Bike Becomes Jet Ski & Drops Into Sydney Harbour 😱🌊",
           "created_at": "2026-11-09 03:59:55",
           "rowid": 125
@@ -1033,7 +1033,7 @@
           "youtube_id": "9OBFDPFb98k",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 6707,
+          "view_count": 6862,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-09 03:52:37",
           "rowid": 123
@@ -2973,7 +2973,7 @@
       "youtube_handle": "@luvthuggaas",
       "youtube_channel_url": "https://www.youtube.com/@luvthuggaas",
       "subscribers_count": 472,
-      "published_videos_count": 28,
+      "published_videos_count": 29,
       "live_youtube_views": 229,
       "owner_email": "khadijaammar284@gmail.com",
       "channel_created_at": "Sep 01, 2026",
@@ -3013,15 +3013,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 111,
+      "total_uploaded": 112,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 38218,
-      "last_run_date": "2026-11-05 02:06:01",
+      "last_run_date": "2026-11-09 07:36:48",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: 2IH4jm1EdQ0",
+      "last_run_message": "Uploaded YouTube ID: oVbkwmabgQY",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-31",
@@ -3098,9 +3098,9 @@
         {
           "date": "2026-11-09",
           "short_date": "Nov 09",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 5,
+          "uploads_count": 6,
           "views_gained": 0
         }
       ],
@@ -3158,11 +3158,21 @@
           "short_date": "Nov 09",
           "day_name": "Mon",
           "is_today": true,
-          "uploads_count": 5,
+          "uploads_count": 6,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "7426777306112347435",
+          "youtube_id": "oVbkwmabgQY",
+          "status": "uploaded",
+          "upload_date": "2026-11-09",
+          "view_count": 0,
+          "title": "Rookie mistake trying to grab it like that… he learned a quick lesson 😂😂😭 #Shorts #Fishing",
+          "created_at": "2026-11-09 07:36:48",
+          "rowid": 112
+        },
         {
           "tiktok_id": "yt_XD2bhM__wp0",
           "youtube_id": "XD2bhM__wp0",
@@ -3652,16 +3662,6 @@
           "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
           "created_at": "2026-10-05 07:13:54",
           "rowid": 63
-        },
-        {
-          "tiktok_id": "yt_d8VkI8goQHE",
-          "youtube_id": "d8VkI8goQHE",
-          "status": "uploaded",
-          "upload_date": "2026-10-05",
-          "view_count": 70,
-          "title": "CEO Changed This Struggling Mom's Life Forever ❤️🤩 #kindness #wholesome #emotional #ceo #bekind",
-          "created_at": "2026-10-05 05:03:08",
-          "rowid": 62
         }
       ],
       "pending_retry_items": [],
@@ -3691,14 +3691,13 @@
         "gdrive_url": "https://drive.google.com/drive/folders/1Z80VWahTafQMiDU1S86M6z5mLnvo_CT3",
         "folder_title": "Curiotomy",
         "total_in_drive": 38,
-        "posted_count": 34,
-        "remaining_unposted": 4,
+        "posted_count": 35,
+        "remaining_unposted": 3,
         "videos_per_day": 1,
-        "days_buffer": 4.0,
+        "days_buffer": 3.0,
         "stock_status": "low_stock",
-        "stock_label": "LOW STOCK (4 videos left)",
+        "stock_label": "LOW STOCK (3 videos left)",
         "unposted_videos": [
-          "Why Drive Nails Into Papaya Trees",
           "Why Houseflies Vomit On Food Before Eating",
           "Why Shouldnt You Eat Watermelon On Empty Stomach",
           "Why Sugarcane Is Burned Before Harvest"
@@ -3707,11 +3706,11 @@
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1Z80VWahTafQMiDU1S86M6z5mLnvo_CT3",
-        "stock_status": "healthy",
-        "remaining_unposted": 4,
+        "stock_status": "low_stock",
+        "remaining_unposted": 3,
         "total_available": 38,
-        "days_buffer": 4.0,
-        "alert_message": null
+        "days_buffer": 3.0,
+        "alert_message": "Only 3 unposted videos remaining in Google Drive (~3.0 days left). Add more videos soon."
       },
       "is_monetized": false,
       "monetized_date": null,
@@ -3737,7 +3736,7 @@
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 66,
+      "total_uploaded": 67,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 520618,
@@ -3822,7 +3821,7 @@
           "short_date": "Nov 09",
           "slot1": "not_run",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -3880,11 +3879,21 @@
           "short_date": "Nov 09",
           "day_name": "Mon",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "yt_MQ2V6Lvy1uo",
+          "youtube_id": "MQ2V6Lvy1uo",
+          "status": "uploaded",
+          "upload_date": "2026-11-09",
+          "view_count": 0,
+          "title": "Why Drive Nails Into Papaya Trees #Shorts #Science #Facts",
+          "created_at": "2026-11-09 07:37:55",
+          "rowid": 67
+        },
         {
           "tiktok_id": "yt_JvNsaFzFhCY",
           "youtube_id": "JvNsaFzFhCY",
@@ -4374,16 +4383,6 @@
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:41:13",
           "rowid": 18
-        },
-        {
-          "tiktok_id": "yt_pm7n-UHCkdM",
-          "youtube_id": "pm7n-UHCkdM",
-          "status": "uploaded",
-          "upload_date": "2026-09-25",
-          "view_count": 2814,
-          "title": "The Real Science Behind Why Cats Purr Is Wild",
-          "created_at": "2026-09-25 03:20:31",
-          "rowid": 17
         }
       ],
       "pending_retry_items": [],
@@ -4653,7 +4652,7 @@
           "youtube_id": "cmsHfRTdXOE",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 790,
+          "view_count": 807,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-09 05:10:48",
           "rowid": 73
@@ -5129,7 +5128,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-09 07:35:19 UTC",
+    "timestamp": "2026-11-09 07:37:56 UTC",
     "total_channels": 8,
     "healthy_count": 4,
     "auto_healed_count": 0,
@@ -5185,9 +5184,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
           "stock_status": "healthy",
-          "remaining_unposted": 25,
-          "total_available": 48,
-          "days_buffer": 12.5,
+          "remaining_unposted": 27,
+          "total_available": 51,
+          "days_buffer": 13.5,
           "alert_message": null
         }
       },
@@ -5256,7 +5255,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-11-09",
-        "uploads_today": 5,
+        "uploads_today": 6,
         "uploads_yesterday": 0,
         "missed_posting": false,
         "error_detail": null,
@@ -5283,11 +5282,11 @@
         "source_target": "N/A",
         "status": "monitoring",
         "token_status": "valid",
-        "last_upload_date": "2026-11-05",
-        "uploads_today": 0,
+        "last_upload_date": "2026-11-09",
+        "uploads_today": 1,
         "uploads_yesterday": 0,
-        "missed_posting": true,
-        "error_detail": "No uploads recorded in the last 48 hours. Scheduled upload pending next slot.",
+        "missed_posting": false,
+        "error_detail": "Only 3 unposted videos remaining in Google Drive (~3.0 days left). Add more videos soon.",
         "auto_heal_log": null,
         "user_action_needed": false,
         "action_title": null,
@@ -5296,11 +5295,11 @@
         "content_inventory": {
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1Z80VWahTafQMiDU1S86M6z5mLnvo_CT3",
-          "stock_status": "healthy",
-          "remaining_unposted": 4,
+          "stock_status": "low_stock",
+          "remaining_unposted": 3,
           "total_available": 38,
-          "days_buffer": 4.0,
-          "alert_message": null
+          "days_buffer": 3.0,
+          "alert_message": "Only 3 unposted videos remaining in Google Drive (~3.0 days left). Add more videos soon."
         }
       },
       {
