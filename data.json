@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-09 07:32:06 UTC",
+    "timestamp_utc": "2026-11-09 07:33:10 UTC",
     "total_channels": 8,
-    "active_channels": 7,
-    "disabled_channels": 0,
-    "idle_channels": 0,
-    "today_completed_channels": 1,
+    "active_channels": 6,
+    "disabled_channels": 1,
+    "idle_channels": 1,
+    "today_completed_channels": 0,
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 643,
-    "total_views_tracked": 125833154,
+    "total_uploaded_videos": 645,
+    "total_views_tracked": 125833229,
     "total_subscribers": 74662,
     "total_pending_retries": 14,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-11-09 07:32:24 UTC"
+    "gh_pages_synced_at": "2026-11-09 07:33:14 UTC"
   },
   "channels": [
     {
@@ -68,15 +68,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "success",
+      "slot1_today": "skipped",
       "slot2_today": "not_run",
       "total_uploaded": 119,
       "total_failed": 0,
       "total_pending_retry": 12,
       "total_views": 4950773,
-      "last_run_date": "2026-11-09 07:29:12",
-      "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: TOiiMiwYrmk",
+      "last_run_date": "2026-11-09 07:32:26",
+      "last_run_status": "skipped",
+      "last_run_message": "Slot 1 has already executed successfully today (2026-11-09). Skipping.",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-31",
@@ -153,7 +153,7 @@
         {
           "date": "2026-11-09",
           "short_date": "Nov 09",
-          "slot1": "success",
+          "slot1": "skipped",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -1013,7 +1013,7 @@
           "youtube_id": "_9rJZmeCBns",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 1183,
+          "view_count": 1186,
           "title": "Cyber Bike Becomes Jet Ski & Drops Into Sydney Harbour 😱🌊",
           "created_at": "2026-11-09 03:59:55",
           "rowid": 125
@@ -1548,7 +1548,7 @@
       "youtube_handle": "@babygiggles-j8o",
       "youtube_channel_url": "https://www.youtube.com/@babygiggles-j8o",
       "subscribers_count": 1620,
-      "published_videos_count": 93,
+      "published_videos_count": 94,
       "live_youtube_views": 3177387,
       "owner_email": "mrsabdulmateen36@gmail.com",
       "channel_created_at": "Sep 01, 2026",
@@ -1559,33 +1559,27 @@
         "gdrive_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
         "folder_title": "TINY FIRST MOMENTS",
         "total_in_drive": 23,
-        "posted_count": 18,
-        "remaining_unposted": 5,
+        "posted_count": 23,
+        "remaining_unposted": 0,
         "videos_per_day": 2,
-        "days_buffer": 2.5,
-        "stock_status": "low_stock",
-        "stock_label": "LOW STOCK (5 videos left)",
-        "unposted_videos": [
-          "The moment this baby hears her parent's voice for the first time  #wholesome #emotional",
-          "The moment this baby hears his dad's voice for the first time  #wholesome #emotional #baby",
-          "The moment this baby hears his dads voice for the first time  #wholesome #heartwarming",
-          "The moment this baby hears his fathers voice for the first time  #heartwarming #wholesome",
-          "The moment this baby hears his father's voice for the first time  #wholesome #emotional"
-        ]
+        "days_buffer": 0.0,
+        "stock_status": "depleted",
+        "stock_label": "EMPTY (0 videos left!)",
+        "unposted_videos": []
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
-        "stock_status": "healthy",
-        "remaining_unposted": 5,
+        "stock_status": "depleted",
+        "remaining_unposted": 0,
         "total_available": 23,
-        "days_buffer": 2.5,
-        "alert_message": null
+        "days_buffer": 0.0,
+        "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
       },
       "is_monetized": false,
       "monetized_date": null,
       "enabled": true,
-      "status": "active",
+      "status": "idle",
       "idle_since": null,
       "days_idle": null,
       "is_idle_expired": false,
@@ -1605,15 +1599,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 94,
+      "total_uploaded": 95,
       "total_failed": 1,
       "total_pending_retry": 0,
       "total_views": 3177388,
-      "last_run_date": "2026-11-04 22:52:41",
-      "last_run_status": "failed",
-      "last_run_message": "Failed to download any of the 1 candidates for slot 2.",
+      "last_run_date": "2026-11-09 07:32:22",
+      "last_run_status": "success",
+      "last_run_message": "Uploaded YouTube ID: WCR2SghwoxI",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-31",
@@ -1690,9 +1684,9 @@
         {
           "date": "2026-11-09",
           "short_date": "Nov 09",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -1750,11 +1744,21 @@
           "short_date": "Nov 09",
           "day_name": "Mon",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "1fdKMugJsfzJEJmDRLd8g85DkG8NFGk7B",
+          "youtube_id": "WCR2SghwoxI",
+          "status": "uploaded",
+          "upload_date": "2026-11-09",
+          "view_count": 0,
+          "title": "The moment this baby hears his dad&#39;s voice for the first time 🥹 #wholesome #emotional #baby",
+          "created_at": "2026-11-09 07:32:21",
+          "rowid": 97
+        },
         {
           "tiktok_id": "1avYby2v84UFzOKtMU95ugWMo5nVbsaI4",
           "youtube_id": "fSQVxbqOm3U",
@@ -2244,16 +2248,6 @@
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #Baby #SmartTech",
           "created_at": "2026-09-27 05:47:04",
           "rowid": 47
-        },
-        {
-          "tiktok_id": "babycare_completed_1790438324_channel_3",
-          "youtube_id": "p3Z6IHjWpAw",
-          "status": "uploaded",
-          "upload_date": "2026-09-26",
-          "view_count": 952,
-          "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
-          "created_at": "2026-09-26 15:58:44",
-          "rowid": 46
         }
       ],
       "pending_retry_items": [],
@@ -2262,7 +2256,8 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Oct 05, 2026",
-      "overall_status": "active"
+      "overall_status": "idle",
+      "idle_reason": "inventory_depleted"
     },
     {
       "channel_id": "channel_4",
@@ -2313,10 +2308,10 @@
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 57,
+      "total_uploaded": 58,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 11863883,
+      "total_views": 11863958,
       "last_run_date": "2026-11-04 02:01:05",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: wVr-2kR6urQ",
@@ -2398,7 +2393,7 @@
           "short_date": "Nov 09",
           "slot1": "not_run",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -2456,11 +2451,21 @@
           "short_date": "Nov 09",
           "day_name": "Mon",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "yt_i1cpTb3yXos",
+          "youtube_id": "i1cpTb3yXos",
+          "status": "uploaded",
+          "upload_date": "2026-11-09",
+          "view_count": 0,
+          "title": "When The Main Character Stops Holding Back 🔥⚔️ #Shorts #Anime #Epic",
+          "created_at": "2026-11-09 07:33:09",
+          "rowid": 58
+        },
         {
           "tiktok_id": "yt_r5bt2KWn1fo",
           "youtube_id": "r5bt2KWn1fo",
@@ -2766,7 +2771,7 @@
           "youtube_id": "fnlS7JeTxyA",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 2616254,
+          "view_count": 2616247,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:35:02",
           "rowid": 27
@@ -2826,7 +2831,7 @@
           "youtube_id": "5FyiXi2KuKo",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 8760762,
+          "view_count": 8760844,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:06:44",
           "rowid": 21
@@ -2950,16 +2955,6 @@
           "title": "I 100%'d Garfield Kart because I hate my life #game #garfieldkart #garfield #gamingchallenge #g",
           "created_at": "2026-09-07 01:21:22",
           "rowid": 9
-        },
-        {
-          "tiktok_id": "yt_BjT-erUa6BY",
-          "youtube_id": "BjT-erUa6BY",
-          "status": "uploaded",
-          "upload_date": "2026-09-06",
-          "view_count": 3374,
-          "title": "That time a TREE had a stand.... 🌳⚡ #steelballrun #jojo #sbr #standuser #jojosbizarreadventure",
-          "created_at": "2026-09-06 04:49:34",
-          "rowid": 8
         }
       ],
       "pending_retry_items": [],
@@ -4473,15 +4468,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "success",
+      "slot1_today": "skipped",
       "slot2_today": "not_run",
       "total_uploaded": 74,
       "total_failed": 2,
       "total_pending_retry": 0,
       "total_views": 19447463,
-      "last_run_date": "2026-11-09 06:54:48",
-      "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: 9zQdidlDTz4",
+      "last_run_date": "2026-11-09 07:32:07",
+      "last_run_status": "skipped",
+      "last_run_message": "Channel 'channel_15' already completed all 1 automated API uploads today (max: 1). Skipping slot 1.",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-31",
@@ -4558,7 +4553,7 @@
         {
           "date": "2026-11-09",
           "short_date": "Nov 09",
-          "slot1": "success",
+          "slot1": "skipped",
           "slot2": "not_run",
           "uploads_count": 5,
           "views_gained": 0
@@ -4658,7 +4653,7 @@
           "youtube_id": "cmsHfRTdXOE",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 779,
+          "view_count": 786,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-09 05:10:48",
           "rowid": 73
@@ -5130,15 +5125,15 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 17, 2026",
-      "overall_status": "completed_today"
+      "overall_status": "active"
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-09 07:32:06 UTC",
+    "timestamp": "2026-11-09 07:33:10 UTC",
     "total_channels": 8,
     "healthy_count": 4,
     "auto_healed_count": 0,
-    "action_required_count": 0,
+    "action_required_count": 1,
     "channels": [
       {
         "channel_id": "channel_1",
@@ -5202,26 +5197,26 @@
         "profile_code": "CH3",
         "source_type": "gdrive",
         "source_target": "N/A",
-        "status": "monitoring",
+        "status": "action_required",
         "token_status": "valid",
-        "last_upload_date": "2026-11-04",
-        "uploads_today": 0,
+        "last_upload_date": "2026-11-09",
+        "uploads_today": 1,
         "uploads_yesterday": 0,
-        "missed_posting": true,
-        "error_detail": "No uploads recorded in the last 48 hours. Scheduled upload pending next slot.",
+        "missed_posting": false,
+        "error_detail": null,
         "auto_heal_log": null,
-        "user_action_needed": false,
-        "action_title": null,
-        "action_description": null,
-        "action_button_type": null,
+        "user_action_needed": true,
+        "action_title": "Content Depleted: Quote 4 Quotes",
+        "action_description": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped.",
+        "action_button_type": "update_source",
         "content_inventory": {
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
-          "stock_status": "healthy",
-          "remaining_unposted": 5,
+          "stock_status": "depleted",
+          "remaining_unposted": 0,
           "total_available": 23,
-          "days_buffer": 2.5,
-          "alert_message": null
+          "days_buffer": 0.0,
+          "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
         }
       },
       {
@@ -5233,7 +5228,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-11-09",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 0,
         "missed_posting": false,
         "error_detail": null,
@@ -5365,6 +5360,35 @@
         }
       }
     ],
-    "action_required_items": []
+    "action_required_items": [
+      {
+        "channel_id": "channel_3",
+        "name": "Quote 4 Quotes",
+        "profile_code": "CH3",
+        "source_type": "gdrive",
+        "source_target": "N/A",
+        "status": "action_required",
+        "token_status": "valid",
+        "last_upload_date": "2026-11-09",
+        "uploads_today": 1,
+        "uploads_yesterday": 0,
+        "missed_posting": false,
+        "error_detail": null,
+        "auto_heal_log": null,
+        "user_action_needed": true,
+        "action_title": "Content Depleted: Quote 4 Quotes",
+        "action_description": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped.",
+        "action_button_type": "update_source",
+        "content_inventory": {
+          "source_type": "gdrive",
+          "source_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
+          "stock_status": "depleted",
+          "remaining_unposted": 0,
+          "total_available": 23,
+          "days_buffer": 0.0,
+          "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
+        }
+      }
+    ]
   }
 }
