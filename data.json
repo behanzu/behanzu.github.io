@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-09 07:31:00 UTC",
+    "timestamp_utc": "2026-11-09 07:32:06 UTC",
     "total_channels": 8,
     "active_channels": 7,
     "disabled_channels": 0,
@@ -9,15 +9,15 @@
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 642,
+    "total_uploaded_videos": 643,
     "total_views_tracked": 125833154,
     "total_subscribers": 74662,
-    "total_pending_retries": 15,
+    "total_pending_retries": 14,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-11-09 07:31:35 UTC"
+    "gh_pages_synced_at": "2026-11-09 07:32:24 UTC"
   },
   "channels": [
     {
@@ -791,7 +791,7 @@
       "youtube_handle": "@notachefofficialy",
       "youtube_channel_url": "https://www.youtube.com/@notachefofficialy",
       "subscribers_count": 50800,
-      "published_videos_count": 114,
+      "published_videos_count": 115,
       "live_youtube_views": 85834811,
       "owner_email": "baarakhaaan@gmail.com",
       "channel_created_at": "Aug 30, 2026",
@@ -858,15 +858,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
-      "slot2_today": "not_run",
-      "total_uploaded": 122,
+      "slot1_today": "skipped",
+      "slot2_today": "success",
+      "total_uploaded": 123,
       "total_failed": 0,
-      "total_pending_retry": 3,
+      "total_pending_retry": 2,
       "total_views": 85834811,
-      "last_run_date": "2026-11-05 16:50:45",
-      "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: YyP6i5pdBVQ",
+      "last_run_date": "2026-11-09 07:31:58",
+      "last_run_status": "skipped",
+      "last_run_message": "Channel 'channel_2' already completed all 2 automated API uploads today (max: 2). Skipping slot 1.",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-31",
@@ -913,7 +913,7 @@
           "short_date": "Nov 05",
           "slot1": "success",
           "slot2": "success",
-          "uploads_count": 4,
+          "uploads_count": 5,
           "views_gained": 0
         },
         {
@@ -943,8 +943,8 @@
         {
           "date": "2026-11-09",
           "short_date": "Nov 09",
-          "slot1": "not_run",
-          "slot2": "not_run",
+          "slot1": "skipped",
+          "slot2": "success",
           "uploads_count": 4,
           "views_gained": 0
         }
@@ -971,7 +971,7 @@
           "short_date": "Nov 05",
           "day_name": "Thu",
           "is_today": false,
-          "uploads_count": 4,
+          "uploads_count": 5,
           "views_gained": 0
         },
         {
@@ -1013,7 +1013,7 @@
           "youtube_id": "_9rJZmeCBns",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 1171,
+          "view_count": 1183,
           "title": "Cyber Bike Becomes Jet Ski & Drops Into Sydney Harbour 😱🌊",
           "created_at": "2026-11-09 03:59:55",
           "rowid": 125
@@ -1033,7 +1033,7 @@
           "youtube_id": "9OBFDPFb98k",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 6610,
+          "view_count": 6707,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-09 03:52:37",
           "rowid": 123
@@ -1110,8 +1110,8 @@
         },
         {
           "tiktok_id": "1GqhzGQOQcls3utc_LMTDc5T4jep3QOB6",
-          "youtube_id": null,
-          "status": "pending_retry",
+          "youtube_id": "TNxgx_5v7ro",
+          "status": "uploaded",
           "upload_date": "2026-11-05",
           "view_count": 0,
           "title": "Cutest little bumblebee you'll see today! 🐝 #baby #cutebaby #bumblebee #babyfever #viral",
@@ -1531,17 +1531,6 @@
           "retry_count": 1,
           "next_retry_date": null,
           "created_at": "2026-11-05 16:47:07"
-        },
-        {
-          "tiktok_id": "1GqhzGQOQcls3utc_LMTDc5T4jep3QOB6",
-          "youtube_id": null,
-          "status": "pending_retry",
-          "upload_date": "2026-11-05",
-          "view_count": 0,
-          "title": "Cutest little bumblebee you'll see today! 🐝 #baby #cutebaby #bumblebee #babyfever #viral",
-          "retry_count": 1,
-          "next_retry_date": null,
-          "created_at": "2026-11-05 16:46:37"
         }
       ],
       "days_linked": 69,
@@ -4639,7 +4628,7 @@
           "youtube_id": "9zQdidlDTz4",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 3,
+          "view_count": 4,
           "title": "Cute Bunny Daisy Chain Dance #Shorts #CuteBunny #Pets",
           "created_at": "2026-11-09 06:54:11",
           "rowid": 76
@@ -4669,7 +4658,7 @@
           "youtube_id": "cmsHfRTdXOE",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 777,
+          "view_count": 779,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-09 05:10:48",
           "rowid": 73
@@ -5145,7 +5134,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-09 07:31:00 UTC",
+    "timestamp": "2026-11-09 07:32:06 UTC",
     "total_channels": 8,
     "healthy_count": 4,
     "auto_healed_count": 0,
@@ -5356,7 +5345,7 @@
         "status": "idle",
         "token_status": "valid",
         "last_upload_date": "2026-11-09",
-        "uploads_today": 4,
+        "uploads_today": 5,
         "uploads_yesterday": 0,
         "missed_posting": false,
         "error_detail": "Channel is currently set to IDLE (Paused).",
