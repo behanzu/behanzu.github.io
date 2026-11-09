@@ -1,15 +1,15 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-09 07:33:10 UTC",
+    "timestamp_utc": "2026-11-09 07:35:19 UTC",
     "total_channels": 8,
     "active_channels": 6,
     "disabled_channels": 1,
     "idle_channels": 1,
-    "today_completed_channels": 0,
+    "today_completed_channels": 1,
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 645,
+    "total_uploaded_videos": 646,
     "total_views_tracked": 125833229,
     "total_subscribers": 74662,
     "total_pending_retries": 14,
@@ -17,7 +17,7 @@
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-11-09 07:33:14 UTC"
+    "gh_pages_synced_at": "2026-11-09 07:36:50 UTC"
   },
   "channels": [
     {
@@ -1013,7 +1013,7 @@
           "youtube_id": "_9rJZmeCBns",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 1186,
+          "view_count": 1188,
           "title": "Cyber Bike Becomes Jet Ski & Drops Into Sydney Harbour 😱🌊",
           "created_at": "2026-11-09 03:59:55",
           "rowid": 125
@@ -2267,7 +2267,7 @@
       "youtube_handle": "@luvthugga-h1p",
       "youtube_channel_url": "https://www.youtube.com/@luvthugga-h1p",
       "subscribers_count": 6330,
-      "published_videos_count": 57,
+      "published_videos_count": 58,
       "live_youtube_views": 11863699,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Oct 28, 2025",
@@ -2306,15 +2306,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
       "total_uploaded": 58,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 11863958,
-      "last_run_date": "2026-11-04 02:01:05",
+      "last_run_date": "2026-11-09 07:33:12",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: wVr-2kR6urQ",
+      "last_run_message": "Uploaded YouTube ID: i1cpTb3yXos",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-31",
@@ -2391,7 +2391,7 @@
         {
           "date": "2026-11-09",
           "short_date": "Nov 09",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 2,
           "views_gained": 0
@@ -2963,7 +2963,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 02, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_5",
@@ -3015,7 +3015,7 @@
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 110,
+      "total_uploaded": 111,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 38218,
@@ -3100,7 +3100,7 @@
           "short_date": "Nov 09",
           "slot1": "not_run",
           "slot2": "not_run",
-          "uploads_count": 4,
+          "uploads_count": 5,
           "views_gained": 0
         }
       ],
@@ -3158,11 +3158,21 @@
           "short_date": "Nov 09",
           "day_name": "Mon",
           "is_today": true,
-          "uploads_count": 4,
+          "uploads_count": 5,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "yt_XD2bhM__wp0",
+          "youtube_id": "XD2bhM__wp0",
+          "status": "uploaded",
+          "upload_date": "2026-11-09",
+          "view_count": 0,
+          "title": "Probably the best moment of their lives 🤯😳😳 #Shorts #Fishing #Viral",
+          "created_at": "2026-11-09 07:34:54",
+          "rowid": 111
+        },
         {
           "tiktok_id": "yt_CT6by_UVM54",
           "youtube_id": "CT6by_UVM54",
@@ -3652,16 +3662,6 @@
           "title": "CEO Changed This Struggling Mom's Life Forever ❤️🤩 #kindness #wholesome #emotional #ceo #bekind",
           "created_at": "2026-10-05 05:03:08",
           "rowid": 62
-        },
-        {
-          "tiktok_id": "yt_fMIj4rrLt2E",
-          "youtube_id": "fMIj4rrLt2E",
-          "status": "uploaded",
-          "upload_date": "2026-10-05",
-          "view_count": 81,
-          "title": "He Helped Her Carry Bags… Then Fixed Her Whole House ❤️ #kindness #wholesome #emotional #respec",
-          "created_at": "2026-10-05 05:03:08",
-          "rowid": 61
         }
       ],
       "pending_retry_items": [],
@@ -4653,7 +4653,7 @@
           "youtube_id": "cmsHfRTdXOE",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 786,
+          "view_count": 790,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-09 05:10:48",
           "rowid": 73
@@ -4663,7 +4663,7 @@
           "youtube_id": "kuool5OlRE8",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 7906,
+          "view_count": 8208,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-09 03:52:37",
           "rowid": 72
@@ -5129,7 +5129,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-09 07:33:10 UTC",
+    "timestamp": "2026-11-09 07:35:19 UTC",
     "total_channels": 8,
     "healthy_count": 4,
     "auto_healed_count": 0,
@@ -5256,7 +5256,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-11-09",
-        "uploads_today": 4,
+        "uploads_today": 5,
         "uploads_yesterday": 0,
         "missed_posting": false,
         "error_detail": null,
