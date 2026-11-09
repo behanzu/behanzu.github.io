@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-09 07:28:19 UTC",
+    "timestamp_utc": "2026-11-09 07:31:00 UTC",
     "total_channels": 8,
     "active_channels": 7,
     "disabled_channels": 0,
@@ -9,15 +9,15 @@
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 641,
+    "total_uploaded_videos": 642,
     "total_views_tracked": 125833154,
     "total_subscribers": 74662,
-    "total_pending_retries": 16,
+    "total_pending_retries": 15,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-11-09 07:29:14 UTC"
+    "gh_pages_synced_at": "2026-11-09 07:31:35 UTC"
   },
   "channels": [
     {
@@ -28,7 +28,7 @@
       "youtube_handle": "@meelyansnmyhands",
       "youtube_channel_url": "https://www.youtube.com/@meelyansnmyhands",
       "subscribers_count": 2680,
-      "published_videos_count": 56,
+      "published_videos_count": 57,
       "live_youtube_views": 4944215,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Apr 07, 2026",
@@ -68,15 +68,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 118,
+      "total_uploaded": 119,
       "total_failed": 0,
-      "total_pending_retry": 13,
+      "total_pending_retry": 12,
       "total_views": 4950773,
-      "last_run_date": "2026-11-07 09:09:08",
+      "last_run_date": "2026-11-09 07:29:12",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: CIfk7hfUxoQ",
+      "last_run_message": "Uploaded YouTube ID: TOiiMiwYrmk",
       "daily_sheet_10_days": [
         {
           "date": "2026-10-31",
@@ -107,7 +107,7 @@
           "short_date": "Nov 03",
           "slot1": "success",
           "slot2": "skipped",
-          "uploads_count": 11,
+          "uploads_count": 12,
           "views_gained": 0
         },
         {
@@ -153,7 +153,7 @@
         {
           "date": "2026-11-09",
           "short_date": "Nov 09",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -165,7 +165,7 @@
           "short_date": "Nov 03",
           "day_name": "Tue",
           "is_today": false,
-          "uploads_count": 11,
+          "uploads_count": 12,
           "views_gained": 0
         },
         {
@@ -380,10 +380,10 @@
         },
         {
           "tiktok_id": "jej1yjlK3zs",
-          "youtube_id": null,
-          "status": "pending_retry",
+          "youtube_id": "TOiiMiwYrmk",
+          "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 232000,
+          "view_count": 0,
           "title": "This Cat Has a Secret Sleep Pod Behind the Wall! 🐱💤 #shorts #cozycat #hiddencat #bed #luxurypets",
           "created_at": "2026-11-03 00:02:26",
           "rowid": 116
@@ -801,13 +801,13 @@
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
         "folder_title": "COMPILED REELS",
-        "total_in_drive": 51,
-        "posted_count": 24,
-        "remaining_unposted": 27,
+        "total_in_drive": 48,
+        "posted_count": 23,
+        "remaining_unposted": 25,
         "videos_per_day": 2,
-        "days_buffer": 13.5,
+        "days_buffer": 12.5,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (27 videos ready)",
+        "stock_label": "HEALTHY (25 videos ready)",
         "unposted_videos": [
           "Best Burgers & Sandwiches Compilation  | ASMR Cooking #burger #sandwich #asmrfood",
           "Cheesy Street Food Compilation  | ASMR Cooking #streetfood #tacos #cheesepull",
@@ -830,9 +830,9 @@
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
         "stock_status": "healthy",
-        "remaining_unposted": 27,
-        "total_available": 51,
-        "days_buffer": 13.5,
+        "remaining_unposted": 25,
+        "total_available": 48,
+        "days_buffer": 12.5,
         "alert_message": null
       },
       "is_monetized": true,
@@ -1013,7 +1013,7 @@
           "youtube_id": "_9rJZmeCBns",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 1165,
+          "view_count": 1171,
           "title": "Cyber Bike Becomes Jet Ski & Drops Into Sydney Harbour 😱🌊",
           "created_at": "2026-11-09 03:59:55",
           "rowid": 125
@@ -1353,7 +1353,7 @@
           "youtube_id": "idPqtkVuZ6E",
           "status": "uploaded",
           "upload_date": "2026-10-26",
-          "view_count": 5744,
+          "view_count": 5747,
           "title": "Cheesy Philly Cheesesteak & Double Cheeseburger | Most Satisfying ASMR 🥩🍔 #cheeseburger",
           "created_at": "2026-10-26 05:37:13",
           "rowid": 91
@@ -2567,7 +2567,7 @@
           "youtube_id": "I6KdYIaxYFE",
           "status": "uploaded",
           "upload_date": "2026-10-29",
-          "view_count": 121,
+          "view_count": 120,
           "title": "The fakest demon in street fighter #Shorts #Anime #Viral",
           "created_at": "2026-10-29 07:54:19",
           "rowid": 48
@@ -2587,7 +2587,7 @@
           "youtube_id": "1I2QTOm3C08",
           "status": "uploaded",
           "upload_date": "2026-10-27",
-          "view_count": 2844,
+          "view_count": 2845,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-10-27 08:34:12",
           "rowid": 46
@@ -4639,7 +4639,7 @@
           "youtube_id": "9zQdidlDTz4",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 2,
+          "view_count": 3,
           "title": "Cute Bunny Daisy Chain Dance #Shorts #CuteBunny #Pets",
           "created_at": "2026-11-09 06:54:11",
           "rowid": 76
@@ -4679,7 +4679,7 @@
           "youtube_id": "kuool5OlRE8",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 7797,
+          "view_count": 7906,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-09 03:52:37",
           "rowid": 72
@@ -5145,7 +5145,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-09 07:28:19 UTC",
+    "timestamp": "2026-11-09 07:31:00 UTC",
     "total_channels": 8,
     "healthy_count": 4,
     "auto_healed_count": 0,
@@ -5201,9 +5201,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
           "stock_status": "healthy",
-          "remaining_unposted": 27,
-          "total_available": 51,
-          "days_buffer": 13.5,
+          "remaining_unposted": 25,
+          "total_available": 48,
+          "days_buffer": 12.5,
           "alert_message": null
         }
       },
