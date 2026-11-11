@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-11 07:00:08 UTC",
+    "timestamp_utc": "2026-11-11 07:02:43 UTC",
     "total_channels": 8,
     "active_channels": 7,
     "disabled_channels": 0,
     "idle_channels": 0,
-    "today_completed_channels": 0,
+    "today_completed_channels": 3,
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 672,
-    "total_views_tracked": 126716711,
+    "total_uploaded_videos": 679,
+    "total_views_tracked": 126716856,
     "total_subscribers": 75132,
     "total_pending_retries": 12,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-11-11 07:00:12 UTC"
+    "gh_pages_synced_at": "2026-11-11 07:03:06 UTC"
   },
   "channels": [
     {
@@ -28,7 +28,7 @@
       "youtube_handle": "@meelyansnmyhands",
       "youtube_channel_url": "https://www.youtube.com/@meelyansnmyhands",
       "subscribers_count": 2680,
-      "published_videos_count": 59,
+      "published_videos_count": 60,
       "live_youtube_views": 4945402,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Apr 07, 2026",
@@ -68,15 +68,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 121,
+      "total_uploaded": 122,
       "total_failed": 0,
       "total_pending_retry": 12,
       "total_views": 4951232,
-      "last_run_date": "2026-11-10 03:57:24",
+      "last_run_date": "2026-11-11 07:00:22",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: wn3PRK0c6Jc",
+      "last_run_message": "Uploaded YouTube ID: 58s9TLHfuQQ",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-02",
@@ -153,9 +153,9 @@
         {
           "date": "2026-11-11",
           "short_date": "Nov 11",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -213,11 +213,21 @@
           "short_date": "Nov 11",
           "day_name": "Wed",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "baby_impressed_father_1794380422_channel_1",
+          "youtube_id": "58s9TLHfuQQ",
+          "status": "uploaded",
+          "upload_date": "2026-11-11",
+          "view_count": 0,
+          "title": "😂 This Baby IMPRESSED His Father! 😤👶 | Funniest Baby Plan",
+          "created_at": "2026-11-11 07:00:22",
+          "rowid": 135
+        },
         {
           "tiktok_id": "yt_wn3PRK0c6Jc",
           "youtube_id": "wn3PRK0c6Jc",
@@ -707,16 +717,6 @@
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
           "created_at": "2026-10-08 08:26:37",
           "rowid": 86
-        },
-        {
-          "tiktok_id": "yt_s-naazmr-oU",
-          "youtube_id": "s-naazmr-oU",
-          "status": "uploaded",
-          "upload_date": "2026-10-08",
-          "view_count": 3283,
-          "title": "When Googly Eyes Take Over The Kitchen 👀 #googlyeyes #funny #wholesome #kids #viral",
-          "created_at": "2026-10-08 07:36:54",
-          "rowid": 85
         }
       ],
       "pending_retry_items": [
@@ -791,7 +791,7 @@
       "youtube_handle": "@notachefofficialy",
       "youtube_channel_url": "https://www.youtube.com/@notachefofficialy",
       "subscribers_count": 51200,
-      "published_videos_count": 120,
+      "published_videos_count": 121,
       "live_youtube_views": 86609015,
       "owner_email": "baarakhaaan@gmail.com",
       "channel_created_at": "Aug 30, 2026",
@@ -858,15 +858,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 128,
+      "total_uploaded": 129,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 86609015,
-      "last_run_date": "2026-11-10 03:58:23",
+      "last_run_date": "2026-11-11 07:00:31",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: EG2mGZN9qSw",
+      "last_run_message": "Uploaded YouTube ID: 8XnPOtroI3c",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-02",
@@ -943,9 +943,9 @@
         {
           "date": "2026-11-11",
           "short_date": "Nov 11",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -1003,11 +1003,21 @@
           "short_date": "Nov 11",
           "day_name": "Wed",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "baby_impressed_father_1794380431_channel_2",
+          "youtube_id": "8XnPOtroI3c",
+          "status": "uploaded",
+          "upload_date": "2026-11-11",
+          "view_count": 0,
+          "title": "😂 This Baby IMPRESSED His Father! 😤👶 | Funniest Baby Plan",
+          "created_at": "2026-11-11 07:00:31",
+          "rowid": 131
+        },
         {
           "tiktok_id": "yt_GXYwFNB_kbg",
           "youtube_id": "GXYwFNB_kbg",
@@ -1023,7 +1033,7 @@
           "youtube_id": "mgAlh7oDJUM",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 1673,
+          "view_count": 1676,
           "title": "Fluffy French Toast & Churros with Chocolate | Most Satisfying Desserts ASMR 🥞🍫 #dessert",
           "created_at": "2026-11-10 04:06:31",
           "rowid": 129
@@ -1033,7 +1043,7 @@
           "youtube_id": "EG2mGZN9qSw",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 11782,
+          "view_count": 11871,
           "title": "Violet Cyber Bike Becomes Jet Ski & Drops Into Toronto Harbour 😱🌊",
           "created_at": "2026-11-10 03:58:13",
           "rowid": 128
@@ -1497,16 +1507,6 @@
           "title": "The ultimate homemade Caesar salad recipe 🥗 #caesarsalad #saladrecipe #asmrcooking #easyrecipes",
           "created_at": "2026-10-17 02:23:02",
           "rowid": 82
-        },
-        {
-          "tiktok_id": "yt_yc6hIx3Ye7o",
-          "youtube_id": "yc6hIx3Ye7o",
-          "status": "uploaded",
-          "upload_date": "2026-10-16",
-          "view_count": 8413,
-          "title": "The Ultimate Fluffy French Toast 🥞 #frenchtoast #breakfastideas #recipe #foodie #asmrfood",
-          "created_at": "2026-10-16 07:24:31",
-          "rowid": 81
         }
       ],
       "pending_retry_items": [],
@@ -1525,7 +1525,7 @@
       "youtube_handle": "@babygiggles-j8o",
       "youtube_channel_url": "https://www.youtube.com/@babygiggles-j8o",
       "subscribers_count": 1620,
-      "published_videos_count": 96,
+      "published_videos_count": 97,
       "live_youtube_views": 3177834,
       "owner_email": "mrsabdulmateen36@gmail.com",
       "channel_created_at": "Sep 01, 2026",
@@ -1581,15 +1581,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 97,
+      "total_uploaded": 98,
       "total_failed": 1,
       "total_pending_retry": 0,
       "total_views": 3177834,
-      "last_run_date": "2026-11-10 03:59:25",
+      "last_run_date": "2026-11-11 07:00:41",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: Sz2vBxlsTWI",
+      "last_run_message": "Uploaded YouTube ID: pCDj9PuqeSg",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-02",
@@ -1666,9 +1666,9 @@
         {
           "date": "2026-11-11",
           "short_date": "Nov 11",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -1726,11 +1726,21 @@
           "short_date": "Nov 11",
           "day_name": "Wed",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "baby_impressed_father_1794380441_channel_3",
+          "youtube_id": "pCDj9PuqeSg",
+          "status": "uploaded",
+          "upload_date": "2026-11-11",
+          "view_count": 0,
+          "title": "😂 This Baby IMPRESSED His Father! 😤👶 | Funniest Baby Plan",
+          "created_at": "2026-11-11 07:00:41",
+          "rowid": 100
+        },
         {
           "tiktok_id": "cyberbike_jetski_1794283165_channel_3",
           "youtube_id": "Sz2vBxlsTWI",
@@ -2220,16 +2230,6 @@
           "title": "He Smiled So Big The Instant He Heard His Father's Voice With Aid #WholesomeMoments #NewbornBab",
           "created_at": "2026-09-28 04:11:12",
           "rowid": 50
-        },
-        {
-          "tiktok_id": "yt_3XOA8dIBUzQ",
-          "youtube_id": "3XOA8dIBUzQ",
-          "status": "uploaded",
-          "upload_date": "2026-09-28",
-          "view_count": 179,
-          "title": "The moment this baby hears her mother's voice for the first time 🥹 #wholesome #heartwarming #ba",
-          "created_at": "2026-09-28 00:35:58",
-          "rowid": 49
         }
       ],
       "pending_retry_items": [],
@@ -2248,7 +2248,7 @@
       "youtube_handle": "@luvthugga-h1p",
       "youtube_channel_url": "https://www.youtube.com/@luvthugga-h1p",
       "subscribers_count": 6330,
-      "published_videos_count": 61,
+      "published_videos_count": 62,
       "live_youtube_views": 11867082,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Oct 28, 2025",
@@ -2287,15 +2287,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 61,
+      "total_uploaded": 62,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 11867082,
-      "last_run_date": "2026-11-10 04:00:18",
+      "last_run_date": "2026-11-11 07:00:53",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: LyOxfpm3pqY",
+      "last_run_message": "Uploaded YouTube ID: rZv6nU7JcBE",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-02",
@@ -2372,9 +2372,9 @@
         {
           "date": "2026-11-11",
           "short_date": "Nov 11",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -2432,17 +2432,27 @@
           "short_date": "Nov 11",
           "day_name": "Wed",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
         {
+          "tiktok_id": "baby_impressed_father_1794380453_channel_4",
+          "youtube_id": "rZv6nU7JcBE",
+          "status": "uploaded",
+          "upload_date": "2026-11-11",
+          "view_count": 0,
+          "title": "😂 This Baby IMPRESSED His Father! 😤👶 | Funniest Baby Plan",
+          "created_at": "2026-11-11 07:00:53",
+          "rowid": 62
+        },
+        {
           "tiktok_id": "yt_d06BMGBE1nk",
           "youtube_id": "d06BMGBE1nk",
           "status": "uploaded",
           "upload_date": "2026-11-11",
-          "view_count": 65,
+          "view_count": 66,
           "title": "he started World War 3 and nobody gave af #Shorts #Anime #Viral",
           "created_at": "2026-11-11 03:09:43",
           "rowid": 61
@@ -2926,16 +2936,6 @@
           "title": "John Rod  Jojo's strongest stickman 🥖⚡ #jojo #jojosbizarreadventure #johnrod #jjba #stand",
           "created_at": "2026-09-12 04:46:14",
           "rowid": 13
-        },
-        {
-          "tiktok_id": "yt_ZYBNXXUhSVI",
-          "youtube_id": "ZYBNXXUhSVI",
-          "status": "uploaded",
-          "upload_date": "2026-09-08",
-          "view_count": 4320,
-          "title": "Ranking EVERY Lethal Company Monster (Spooky!) 👹🔦 #monster #lethalcompany #indiehorror #tierlis",
-          "created_at": "2026-09-08 06:38:53",
-          "rowid": 12
         }
       ],
       "pending_retry_items": [],
@@ -2944,7 +2944,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 02, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_5",
@@ -2954,7 +2954,7 @@
       "youtube_handle": "@luvthuggaas",
       "youtube_channel_url": "https://www.youtube.com/@luvthuggaas",
       "subscribers_count": 472,
-      "published_videos_count": 33,
+      "published_videos_count": 34,
       "live_youtube_views": 305,
       "owner_email": "khadijaammar284@gmail.com",
       "channel_created_at": "Sep 01, 2026",
@@ -2994,15 +2994,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 116,
+      "total_uploaded": 117,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 38296,
-      "last_run_date": "2026-11-10 04:01:14",
+      "last_run_date": "2026-11-11 07:01:02",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: WZyydGohwKs",
+      "last_run_message": "Uploaded YouTube ID: asFPtNafx0w",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-02",
@@ -3079,9 +3079,9 @@
         {
           "date": "2026-11-11",
           "short_date": "Nov 11",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -3139,11 +3139,21 @@
           "short_date": "Nov 11",
           "day_name": "Wed",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "baby_impressed_father_1794380462_channel_5",
+          "youtube_id": "asFPtNafx0w",
+          "status": "uploaded",
+          "upload_date": "2026-11-11",
+          "view_count": 0,
+          "title": "😂 This Baby IMPRESSED His Father! 😤👶 | Funniest Baby Plan",
+          "created_at": "2026-11-11 07:01:02",
+          "rowid": 117
+        },
         {
           "tiktok_id": "yt_yG6QAC5h9vw",
           "youtube_id": "yG6QAC5h9vw",
@@ -3633,16 +3643,6 @@
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
           "created_at": "2026-10-08 08:27:23",
           "rowid": 68
-        },
-        {
-          "tiktok_id": "yt_AaYEpJhUEJU",
-          "youtube_id": "AaYEpJhUEJU",
-          "status": "uploaded",
-          "upload_date": "2026-10-08",
-          "view_count": 52,
-          "title": "He Thought They Would Bully Him… Then This Happened 🎂❤️ #plotwist #wholesome #birthday",
-          "created_at": "2026-10-08 07:36:51",
-          "rowid": 67
         }
       ],
       "pending_retry_items": [],
@@ -3671,13 +3671,13 @@
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1Z80VWahTafQMiDU1S86M6z5mLnvo_CT3",
         "folder_title": "Curiotomy",
-        "total_in_drive": 50,
-        "posted_count": 25,
-        "remaining_unposted": 25,
+        "total_in_drive": 73,
+        "posted_count": 35,
+        "remaining_unposted": 38,
         "videos_per_day": 1,
-        "days_buffer": 25.0,
+        "days_buffer": 38.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (25 videos ready)",
+        "stock_label": "HEALTHY (38 videos ready)",
         "unposted_videos": [
           "Does Reading In The Dark Ruin Your Eyesight",
           "How Archerfish Shoot Down Insects",
@@ -3700,9 +3700,9 @@
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1Z80VWahTafQMiDU1S86M6z5mLnvo_CT3",
         "stock_status": "healthy",
-        "remaining_unposted": 25,
-        "total_available": 50,
-        "days_buffer": 25.0,
+        "remaining_unposted": 38,
+        "total_available": 73,
+        "days_buffer": 38.0,
         "alert_message": null
       },
       "is_monetized": false,
@@ -3727,15 +3727,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 69,
+      "total_uploaded": 70,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 561374,
-      "last_run_date": "2026-11-10 04:07:51",
+      "total_views": 561519,
+      "last_run_date": "2026-11-11 07:02:30",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: 38Rn9RNDyMg",
+      "last_run_message": "Uploaded YouTube ID: CWuBXmr5sVU",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-02",
@@ -3812,9 +3812,9 @@
         {
           "date": "2026-11-11",
           "short_date": "Nov 11",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -3872,11 +3872,21 @@
           "short_date": "Nov 11",
           "day_name": "Wed",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "baby_impressed_father_1794380550_channel_14",
+          "youtube_id": "CWuBXmr5sVU",
+          "status": "uploaded",
+          "upload_date": "2026-11-11",
+          "view_count": 0,
+          "title": "😂 This Baby IMPRESSED His Father! 😤👶 | Funniest Baby Plan",
+          "created_at": "2026-11-11 07:02:30",
+          "rowid": 70
+        },
         {
           "tiktok_id": "yt_38Rn9RNDyMg",
           "youtube_id": "38Rn9RNDyMg",
@@ -3902,7 +3912,7 @@
           "youtube_id": "MQ2V6Lvy1uo",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 37224,
+          "view_count": 37369,
           "title": "Why Drive Nails Into Papaya Trees #Shorts #Science #Facts",
           "created_at": "2026-11-09 07:37:55",
           "rowid": 67
@@ -4366,16 +4376,6 @@
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #Baby #SmartTech",
           "created_at": "2026-09-27 05:42:57",
           "rowid": 21
-        },
-        {
-          "tiktok_id": "babycare_completed_1790438566_channel_14",
-          "youtube_id": "0k_DMCdEQTM",
-          "status": "uploaded",
-          "upload_date": "2026-09-26",
-          "view_count": 2369,
-          "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
-          "created_at": "2026-09-26 16:02:46",
-          "rowid": 20
         }
       ],
       "pending_retry_items": [],
@@ -4384,7 +4384,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 17, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_15",
@@ -4404,13 +4404,13 @@
       "gdrive_inventory": {
         "gdrive_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
         "folder_title": "BUNNY PLANET",
-        "total_in_drive": 50,
+        "total_in_drive": 60,
         "posted_count": 42,
-        "remaining_unposted": 8,
+        "remaining_unposted": 18,
         "videos_per_day": 1,
-        "days_buffer": 8.0,
+        "days_buffer": 18.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (8 videos ready)",
+        "stock_label": "HEALTHY (18 videos ready)",
         "unposted_videos": [
           "Sleepiest Flop Ever",
           "Popcorn Bunny",
@@ -4419,16 +4419,23 @@
           "Daisy Chain Dance",
           "Cuddle Bug",
           "The Carrot Rocket",
-          "Lullaby Lop"
+          "Lullaby Lop",
+          "Spinach Sprint",
+          "Marshmallow Nap",
+          "The Happy Hopscotch",
+          "Twilight Twirl",
+          "Corn Crunch",
+          "Blanket Burrito",
+          "The Meadow Marathon"
         ]
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
         "stock_status": "healthy",
-        "remaining_unposted": 8,
-        "total_available": 50,
-        "days_buffer": 8.0,
+        "remaining_unposted": 18,
+        "total_available": 60,
+        "days_buffer": 18.0,
         "alert_message": null
       },
       "is_monetized": false,
@@ -4453,15 +4460,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 80,
+      "total_uploaded": 81,
       "total_failed": 2,
       "total_pending_retry": 0,
       "total_views": 19511878,
-      "last_run_date": "2026-11-10 04:08:39",
+      "last_run_date": "2026-11-11 07:02:39",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: gYmzhNCjK5Q",
+      "last_run_message": "Uploaded YouTube ID: 2kzYllELl3k",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-02",
@@ -4538,9 +4545,9 @@
         {
           "date": "2026-11-11",
           "short_date": "Nov 11",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
@@ -4598,17 +4605,27 @@
           "short_date": "Nov 11",
           "day_name": "Wed",
           "is_today": true,
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
       "recent_videos": [
         {
+          "tiktok_id": "baby_impressed_father_1794380559_channel_15",
+          "youtube_id": "2kzYllELl3k",
+          "status": "uploaded",
+          "upload_date": "2026-11-11",
+          "view_count": 0,
+          "title": "😂 This Baby IMPRESSED His Father! 😤👶 | Funniest Baby Plan",
+          "created_at": "2026-11-11 07:02:39",
+          "rowid": 83
+        },
+        {
           "tiktok_id": "yt_pFclSCInpcE",
           "youtube_id": "pFclSCInpcE",
           "status": "uploaded",
           "upload_date": "2026-11-11",
-          "view_count": 245,
+          "view_count": 267,
           "title": "Baby Panda Surprise! Crib Woke Up 🐼 #shorts #cutebaby #viral",
           "created_at": "2026-11-11 06:36:17",
           "rowid": 82
@@ -4618,7 +4635,7 @@
           "youtube_id": "cDGKDQ8xnUY",
           "status": "uploaded",
           "upload_date": "2026-11-11",
-          "view_count": 908,
+          "view_count": 916,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-11 05:10:57",
           "rowid": 81
@@ -4638,7 +4655,7 @@
           "youtube_id": "sVK1p_poodM",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 2024,
+          "view_count": 2015,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-10 05:10:29",
           "rowid": 79
@@ -4698,7 +4715,7 @@
           "youtube_id": "cmsHfRTdXOE",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 6261,
+          "view_count": 6268,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-09 05:10:48",
           "rowid": 73
@@ -5092,16 +5109,6 @@
           "title": "Banana Zoomies",
           "created_at": "2026-09-30 03:14:16",
           "rowid": 32
-        },
-        {
-          "tiktok_id": "yt_gz1RmKzMPI8",
-          "youtube_id": "gz1RmKzMPI8",
-          "status": "uploaded",
-          "upload_date": "2026-09-29",
-          "view_count": 5552,
-          "title": "The Snuggle Is Real",
-          "created_at": "2026-09-29 04:35:58",
-          "rowid": 31
         }
       ],
       "pending_retry_items": [],
@@ -5110,11 +5117,11 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 17, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-11 07:00:08 UTC",
+    "timestamp": "2026-11-11 07:02:43 UTC",
     "total_channels": 8,
     "healthy_count": 7,
     "auto_healed_count": 0,
@@ -5128,8 +5135,8 @@
         "source_target": "N/A",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-11-10",
-        "uploads_today": 0,
+        "last_upload_date": "2026-11-11",
+        "uploads_today": 1,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -5157,7 +5164,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-11-11",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
@@ -5184,8 +5191,8 @@
         "source_target": "N/A",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-11-10",
-        "uploads_today": 0,
+        "last_upload_date": "2026-11-11",
+        "uploads_today": 1,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -5213,7 +5220,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-11-11",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -5241,7 +5248,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-11-11",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 2,
         "missed_posting": false,
         "error_detail": null,
@@ -5268,8 +5275,8 @@
         "source_target": "N/A",
         "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-11-10",
-        "uploads_today": 0,
+        "last_upload_date": "2026-11-11",
+        "uploads_today": 1,
         "uploads_yesterday": 1,
         "missed_posting": false,
         "error_detail": null,
@@ -5282,9 +5289,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1Z80VWahTafQMiDU1S86M6z5mLnvo_CT3",
           "stock_status": "healthy",
-          "remaining_unposted": 25,
-          "total_available": 50,
-          "days_buffer": 25.0,
+          "remaining_unposted": 38,
+          "total_available": 73,
+          "days_buffer": 38.0,
           "alert_message": null
         }
       },
@@ -5297,7 +5304,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-11-11",
-        "uploads_today": 2,
+        "uploads_today": 3,
         "uploads_yesterday": 3,
         "missed_posting": false,
         "error_detail": null,
@@ -5310,9 +5317,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
           "stock_status": "healthy",
-          "remaining_unposted": 8,
-          "total_available": 50,
-          "days_buffer": 8.0,
+          "remaining_unposted": 18,
+          "total_available": 60,
+          "days_buffer": 18.0,
           "alert_message": null
         }
       },
@@ -5325,7 +5332,7 @@
         "status": "idle",
         "token_status": "valid",
         "last_upload_date": "2026-11-11",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 4,
         "missed_posting": false,
         "error_detail": "Channel is currently set to IDLE (Paused).",
