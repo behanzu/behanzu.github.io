@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-12 06:23:32 UTC",
+    "timestamp_utc": "2026-11-12 06:25:31 UTC",
     "total_channels": 8,
     "active_channels": 7,
     "disabled_channels": 0,
@@ -9,15 +9,15 @@
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 693,
-    "total_views_tracked": 127505426,
+    "total_uploaded_videos": 694,
+    "total_views_tracked": 127505430,
     "total_subscribers": 76211,
     "total_pending_retries": 11,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-11-12 06:24:35 UTC"
+    "gh_pages_synced_at": "2026-11-12 06:25:43 UTC"
   },
   "channels": [
     {
@@ -805,17 +805,16 @@
         "gdrive_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
         "folder_title": "COMPILED REELS",
         "total_in_drive": 51,
-        "posted_count": 28,
-        "remaining_unposted": 23,
+        "posted_count": 29,
+        "remaining_unposted": 22,
         "videos_per_day": 2,
-        "days_buffer": 11.5,
+        "days_buffer": 11.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (23 videos ready)",
+        "stock_label": "HEALTHY (22 videos ready)",
         "unposted_videos": [
           "Best Burgers & Sandwiches Compilation  | ASMR Cooking #burger #sandwich #asmrfood",
           "Cheesy Street Food Compilation  | ASMR Cooking #streetfood #tacos #cheesepull",
           "Crispy Snacks Compilation  | Crunchy ASMR #crispy #friedchicken #asmrfood",
-          "Juicy Chicken Skewers, Soya Balls, Okra Fry & Tomato Garlic Chutney | Desi ASMR  #desifood",
           "Juicy Meatloaf, Mac & Cheese & Loaded Baked Potato | Ultimate Comfort Food  #macandcheese",
           "Loaded Beef Nachos & Crispy Cheese Fries | Cheesy Snack ASMR  #nachos #loadedfries #asmrfood",
           "Loaded Cheese Fries, Birria Tacos & Korean Corn Dog | Cheesy Street Food ASMR  #birriatacos",
@@ -826,16 +825,17 @@
           "Paneer Butter Masala, Tomato Rice, Soya Balls & Onion Pakoda | Spicy Desi Food ASMR ",
           "Pineapple Lemonade, Orange Mint Mocktail & Watermelon Drinks | Summer Refreshers  #lemonade",
           "Rich & Creamy Clam Chowder & Easy Homemade Chili | Cozy Comfort Food ASMR  #clamchowder",
-          "Shrimp Tacos & Loaded Skillet Nachos | Ultimate Cheese Pull ASMR  #tacos #nachos #cheesepull"
+          "Shrimp Tacos & Loaded Skillet Nachos | Ultimate Cheese Pull ASMR  #tacos #nachos #cheesepull",
+          "Silky Butterscotch Pudding & Chocolate Pudding | Creamy Dessert ASMR  #chocolatepudding"
         ]
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
         "stock_status": "healthy",
-        "remaining_unposted": 23,
+        "remaining_unposted": 22,
         "total_available": 51,
-        "days_buffer": 11.5,
+        "days_buffer": 11.0,
         "alert_message": null
       },
       "is_monetized": true,
@@ -861,15 +861,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 132,
+      "total_uploaded": 133,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 87316923,
-      "last_run_date": "2026-11-12 03:45:16",
+      "last_run_date": "2026-11-12 06:24:32",
       "last_run_status": "success",
-      "last_run_message": "Broadcast Upload: cWwo-26qfUs",
+      "last_run_message": "Uploaded YouTube ID: msG8JF1x-Bs",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-03",
@@ -948,9 +948,9 @@
         {
           "date": "2026-11-12",
           "short_date": "Nov 12",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 3,
+          "uploads_count": 4,
           "views_gained": 0,
           "slot99": "success"
         }
@@ -1009,17 +1009,27 @@
           "short_date": "Nov 12",
           "day_name": "Thu",
           "is_today": true,
-          "uploads_count": 3,
+          "uploads_count": 4,
           "views_gained": 0
         }
       ],
       "recent_videos": [
         {
+          "tiktok_id": "1S1wlyPIMxUMRQuQPywQv8UvvAFI_DpEW",
+          "youtube_id": "msG8JF1x-Bs",
+          "status": "uploaded",
+          "upload_date": "2026-11-12",
+          "view_count": 0,
+          "title": "Juicy Chicken Skewers, Soya Balls, Okra Fry & Tomato Garlic Chutney | Desi ASMR 🍢🌶️ #desifood",
+          "created_at": "2026-11-12 06:24:32",
+          "rowid": 135
+        },
+        {
           "tiktok_id": "baby_took_job_1794455116_channel_2",
           "youtube_id": "cWwo-26qfUs",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 317,
+          "view_count": 318,
           "title": "😂 The Baby TOOK His Job Seriously! 😤👶 | Funniest Baby Instructions",
           "created_at": "2026-11-12 03:45:16",
           "rowid": 134
@@ -1049,7 +1059,7 @@
           "youtube_id": "8XnPOtroI3c",
           "status": "uploaded",
           "upload_date": "2026-11-11",
-          "view_count": 436757,
+          "view_count": 437615,
           "title": "😂 This Baby IMPRESSED His Father! 😤👶 | Funniest Baby Plan",
           "created_at": "2026-11-11 07:00:31",
           "rowid": 131
@@ -1503,16 +1513,6 @@
           "title": "Golden Swallows Beef in the Air with Sprunki #shorts #dog",
           "created_at": "2026-10-21 09:07:29",
           "rowid": 86
-        },
-        {
-          "tiktok_id": "yt_zu1y6A6wmFk",
-          "youtube_id": "zu1y6A6wmFk",
-          "status": "uploaded",
-          "upload_date": "2026-10-21",
-          "view_count": 25449,
-          "title": "Ultimate Cheesy Korean Corn Dog ASMR 🧀 #corndog #cheesepull #asmrfood #easyrecipe #streetfood",
-          "created_at": "2026-10-21 05:55:49",
-          "rowid": 85
         }
       ],
       "pending_retry_items": [],
@@ -2259,7 +2259,7 @@
       "youtube_channel_url": "https://www.youtube.com/@luvthugga-h1p",
       "subscribers_count": 6380,
       "published_videos_count": 63,
-      "live_youtube_views": 11867586,
+      "live_youtube_views": 11883900,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Oct 28, 2025",
       "source_type": "tiktok",
@@ -3748,7 +3748,7 @@
       "total_uploaded": 71,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 579131,
+      "total_views": 579135,
       "last_run_date": "2026-11-12 03:48:10",
       "last_run_status": "success",
       "last_run_message": "Broadcast Upload: 33PzWR1-anA",
@@ -4131,7 +4131,7 @@
           "youtube_id": "megGFIGotnM",
           "status": "uploaded",
           "upload_date": "2026-10-23",
-          "view_count": 9082,
+          "view_count": 9086,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-10-23 06:53:29",
           "rowid": 48
@@ -4473,7 +4473,7 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-12 06:26:50 UTC",
+        "expires_at": "2026-11-12 07:23:27 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
@@ -4648,7 +4648,7 @@
           "youtube_id": "dRVDBnb-Css",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 129,
+          "view_count": 131,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-12 05:10:58",
           "rowid": 85
@@ -4698,7 +4698,7 @@
           "youtube_id": "24qrv2c26jM",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 11615,
+          "view_count": 11674,
           "title": "Baby Penguin Surprise! Crib Smiled 🐧 #shorts #cutebaby #viral",
           "created_at": "2026-11-10 07:23:01",
           "rowid": 80
@@ -4788,7 +4788,7 @@
           "youtube_id": "m30P7pncbh0",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 1308,
+          "view_count": 1321,
           "title": "Baby Hedgehog Surprise! Plushie Wiggled 🦔 #shorts #cutebaby #viral",
           "created_at": "2026-11-09 03:52:37",
           "rowid": 71
@@ -4798,7 +4798,7 @@
           "youtube_id": "i0Fkmo2bfTU",
           "status": "uploaded",
           "upload_date": "2026-11-07",
-          "view_count": 3017,
+          "view_count": 3018,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-07 05:36:24",
           "rowid": 70
@@ -4828,7 +4828,7 @@
           "youtube_id": "qLjZpEeZGBE",
           "status": "uploaded",
           "upload_date": "2026-11-06",
-          "view_count": 3688,
+          "view_count": 3690,
           "title": "Baby Tiger Surprise! Plushie Roared 🐯 #shorts #cutebaby #viral",
           "created_at": "2026-11-06 08:37:12",
           "rowid": 67
@@ -4858,7 +4858,7 @@
           "youtube_id": "F1xKDrQPJUo",
           "status": "uploaded",
           "upload_date": "2026-11-06",
-          "view_count": 10179,
+          "view_count": 10188,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-06 08:37:12",
           "rowid": 64
@@ -4888,7 +4888,7 @@
           "youtube_id": "ttm5D0OWY-I",
           "status": "uploaded",
           "upload_date": "2026-10-28",
-          "view_count": 4511,
+          "view_count": 4512,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-10-28 08:52:24",
           "rowid": 59
@@ -4898,7 +4898,7 @@
           "youtube_id": "1e8rg4jbTec",
           "status": "uploaded",
           "upload_date": "2026-10-27",
-          "view_count": 1841,
+          "view_count": 1842,
           "title": "Waffle Yawn",
           "created_at": "2026-10-27 05:15:13",
           "rowid": 58
@@ -5144,9 +5144,9 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-12 06:23:32 UTC",
+    "timestamp": "2026-11-12 06:25:31 UTC",
     "total_channels": 8,
-    "healthy_count": 7,
+    "healthy_count": 6,
     "auto_healed_count": 0,
     "action_required_count": 0,
     "channels": [
@@ -5187,7 +5187,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-11-12",
-        "uploads_today": 3,
+        "uploads_today": 4,
         "uploads_yesterday": 2,
         "missed_posting": false,
         "error_detail": null,
@@ -5200,9 +5200,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
           "stock_status": "healthy",
-          "remaining_unposted": 23,
+          "remaining_unposted": 22,
           "total_available": 51,
-          "days_buffer": 11.5,
+          "days_buffer": 11.0,
           "alert_message": null
         }
       },
@@ -5212,13 +5212,13 @@
         "profile_code": "CH3",
         "source_type": "gdrive",
         "source_target": "N/A",
-        "status": "healthy",
+        "status": "monitoring",
         "token_status": "valid",
         "last_upload_date": "2026-11-12",
         "uploads_today": 1,
         "uploads_yesterday": 1,
         "missed_posting": false,
-        "error_detail": null,
+        "error_detail": "Only 3 unposted videos remaining in Google Drive (~1.5 days left). Add more videos soon.",
         "auto_heal_log": null,
         "user_action_needed": false,
         "action_title": null,
@@ -5227,11 +5227,11 @@
         "content_inventory": {
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
-          "stock_status": "healthy",
-          "remaining_unposted": 4,
+          "stock_status": "low_stock",
+          "remaining_unposted": 3,
           "total_available": 23,
-          "days_buffer": 2.0,
-          "alert_message": null
+          "days_buffer": 1.5,
+          "alert_message": "Only 3 unposted videos remaining in Google Drive (~1.5 days left). Add more videos soon."
         }
       },
       {
@@ -5355,7 +5355,7 @@
         "status": "idle",
         "token_status": "valid",
         "last_upload_date": "2026-11-12",
-        "uploads_today": 3,
+        "uploads_today": 4,
         "uploads_yesterday": 2,
         "missed_posting": false,
         "error_detail": "Channel is currently set to IDLE (Paused).",
