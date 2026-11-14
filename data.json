@@ -1,15 +1,15 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-14 04:35:06 UTC",
+    "timestamp_utc": "2026-11-14 04:36:09 UTC",
     "total_channels": 10,
     "active_channels": 6,
     "disabled_channels": 3,
     "idle_channels": 3,
-    "today_completed_channels": 1,
+    "today_completed_channels": 2,
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 1430,
+    "total_uploaded_videos": 1431,
     "total_views_tracked": 186640783,
     "total_subscribers": 117121,
     "total_pending_retries": 10,
@@ -17,7 +17,7 @@
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-11-14 04:35:16 UTC"
+    "gh_pages_synced_at": "2026-11-14 04:36:10 UTC"
   },
   "channels": [
     {
@@ -1049,7 +1049,7 @@
           "youtube_id": "iG6NyOG0Gn0",
           "status": "uploaded",
           "upload_date": "2026-11-14",
-          "view_count": 1019,
+          "view_count": 1021,
           "title": "Loaded Cheese Fries, Birria Tacos & Korean Corn Dog | Cheesy Street Food #cutebaby #babycostume",
           "created_at": "2026-11-14 04:23:11",
           "rowid": 137
@@ -1139,7 +1139,7 @@
           "youtube_id": "EG2mGZN9qSw",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 88368,
+          "view_count": 88455,
           "title": "Violet Cyber Bike Becomes Jet Ski & Drops Into Toronto Harbour 😱🌊",
           "created_at": "2026-11-10 03:58:13",
           "rowid": 128
@@ -1219,7 +1219,7 @@
           "youtube_id": "BVKNlS1PiCU",
           "status": "uploaded",
           "upload_date": "2026-11-07",
-          "view_count": 1987,
+          "view_count": 1989,
           "title": "Crispy Golden Homemade Churros 🍫 #churros #asmrfood #dessert #recipe #sweettooth",
           "created_at": "2026-11-07 05:36:24",
           "rowid": 120
@@ -4410,7 +4410,7 @@
       "youtube_handle": "@bunnyplanet-l6u",
       "youtube_channel_url": "https://www.youtube.com/@bunnyplanet-l6u",
       "subscribers_count": 10600,
-      "published_videos_count": 84,
+      "published_videos_count": 85,
       "live_youtube_views": 19655423,
       "owner_email": "keenatimu@gmail.com",
       "channel_created_at": "Sep 17, 2026",
@@ -4421,19 +4421,18 @@
         "gdrive_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
         "folder_title": "BUNNY PLANET",
         "total_in_drive": 90,
-        "posted_count": 43,
-        "remaining_unposted": 47,
+        "posted_count": 44,
+        "remaining_unposted": 46,
         "videos_per_day": 1,
-        "days_buffer": 47.0,
+        "days_buffer": 46.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (47 videos ready)",
+        "stock_label": "HEALTHY (46 videos ready)",
         "unposted_videos": [
           "Sleepiest Flop Ever",
           "Popcorn Bunny",
           "Boop The Nose",
           "Blueberry Zoom",
           "Daisy Chain Dance",
-          "The Carrot Rocket",
           "Lullaby Lop",
           "Spinach Sprint",
           "Marshmallow Nap",
@@ -4442,16 +4441,17 @@
           "Corn Crunch",
           "Blanket Burrito",
           "The Meadow Marathon",
-          "Pajama Flop"
+          "Pajama Flop",
+          "Grape Escape"
         ]
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
         "stock_status": "healthy",
-        "remaining_unposted": 47,
+        "remaining_unposted": 46,
         "total_available": 90,
-        "days_buffer": 47.0,
+        "days_buffer": 46.0,
         "alert_message": null
       },
       "is_monetized": false,
@@ -4476,15 +4476,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 87,
+      "total_uploaded": 88,
       "total_failed": 2,
       "total_pending_retry": 0,
       "total_views": 19655423,
-      "last_run_date": "2026-11-12 06:16:54",
+      "last_run_date": "2026-11-14 04:35:13",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: QR1F2IBhgME",
+      "last_run_message": "Uploaded YouTube ID: W-zyIPweCNE",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-05",
@@ -4565,9 +4565,9 @@
         {
           "date": "2026-11-14",
           "short_date": "Nov 14",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
@@ -4625,11 +4625,21 @@
           "short_date": "Nov 14",
           "day_name": "Sat",
           "is_today": true,
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "1-pb6uIuTxl1wDWe5p0U5-c-lDud8j7lX",
+          "youtube_id": "W-zyIPweCNE",
+          "status": "uploaded",
+          "upload_date": "2026-11-14",
+          "view_count": 0,
+          "title": "Cute Bunny Carrot Rocket Fun #Shorts #CuteBunny #Pets",
+          "created_at": "2026-11-14 04:35:13",
+          "rowid": 90
+        },
         {
           "tiktok_id": "yt_0WcY7Qhpq2s",
           "youtube_id": "0WcY7Qhpq2s",
@@ -5119,16 +5129,6 @@
           "title": "Cherry Chomper",
           "created_at": "2026-10-08 07:37:04",
           "rowid": 39
-        },
-        {
-          "tiktok_id": "yt_bJ_45NCOb4g",
-          "youtube_id": "bJ_45NCOb4g",
-          "status": "uploaded",
-          "upload_date": "2026-10-07",
-          "view_count": 1222,
-          "title": "Milk Drunk Baby",
-          "created_at": "2026-10-07 05:36:32",
-          "rowid": 38
         }
       ],
       "pending_retry_items": [],
@@ -5137,7 +5137,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 17, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_20",
@@ -5187,15 +5187,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
       "total_uploaded": 709,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 57396664,
-      "last_run_date": "2026-11-12 08:28:04",
+      "last_run_date": "2026-11-14 04:36:08",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: JUGFSEXMg-0",
+      "last_run_message": "Uploaded YouTube ID: qisqk0Rw34k",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-05",
@@ -5272,9 +5272,9 @@
         {
           "date": "2026-11-14",
           "short_date": "Nov 14",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -5332,11 +5332,21 @@
           "short_date": "Nov 14",
           "day_name": "Sat",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "2677179332703008",
+          "youtube_id": "qisqk0Rw34k",
+          "status": "uploaded",
+          "upload_date": "2026-11-14",
+          "view_count": 0,
+          "title": "Never Underestimate What A Kid Hears When You Think They're Asleep! 😂 #shorts",
+          "created_at": "2026-11-14 04:36:08",
+          "rowid": 53
+        },
         {
           "tiktok_id": "yt_vyGNhGIWVTk",
           "youtube_id": "vyGNhGIWVTk",
@@ -5382,7 +5392,7 @@
           "youtube_id": "bu8ebHP5yb8",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 1616,
+          "view_count": 1619,
           "title": "“Yom-e-Ashura Ka Roza Aur Ek Saal Ke Gunahon Ka Kaffara”#ashura #Forgiveness #viral #reels #islamic",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 48
@@ -5392,7 +5402,7 @@
           "youtube_id": "dbT-wNP3iUQ",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 1761,
+          "view_count": 1763,
           "title": "“Agar Menses Nahi Aate Hain, Iske Liye Mujarrab Amal #MensesHealth#SpiritualCure#WomenHealth#shorts",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 47
@@ -5402,7 +5412,7 @@
           "youtube_id": "T-hI1KenuV8",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 2007,
+          "view_count": 2009,
           "title": "Hamal Ki Hefazat Ka Mujarrab Amal #HamalKiHifazat#PregnancyCare #MujarrabAmal#HamalKiDuaen #shorts",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 46
@@ -5412,7 +5422,7 @@
           "youtube_id": "zTOxu-0M1HA",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 2116,
+          "view_count": 2119,
           "title": "Khawab Men Kapra Bunny Ki Tabeer #dreams #khawab#shorts #SpiritualGuidance#khawabkitabeer#spiritual",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 45
@@ -5422,7 +5432,7 @@
           "youtube_id": "9-uC6BWnH6c",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 2667,
+          "view_count": 2668,
           "title": "Kharish aur Dano se Nijat Pane ka Rohani Wazifa”#itching  #SpiritualHealing, #spirituality #shorts",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 44
@@ -5432,7 +5442,7 @@
           "youtube_id": "EQ66TZWREkc",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 2899,
+          "view_count": 2900,
           "title": "Ankhon Ki Jalan Uor Takleef Ke Liy Mujarreb Amal #eyes #eyecare #spirituality #doa #ruqyah #shorts",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 43
@@ -5442,7 +5452,7 @@
           "youtube_id": "uRA8_D2ItgM",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 3229,
+          "view_count": 3230,
           "title": "Safer Ky Maheeny Sy Mutalleq  ghalat Fahmyan #safer #islam #islamic #islamicquotes #spirituality",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 42
@@ -5452,7 +5462,7 @@
           "youtube_id": "f0Y9umAgMg4",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 3787,
+          "view_count": 3790,
           "title": "Khawab Men Marz Maloom Kerny Ka Amal #dreams #khawab #healing #spirituality#spiritualhealing#shorts",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 41
@@ -5462,7 +5472,7 @@
           "youtube_id": "qj3QR-lOLIo",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 4505,
+          "view_count": 4508,
           "title": "Kan ky Derd Uor Takleef Ke Liy Amal #ear #spirituality #healing #doa #viral #shorts #short",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 40
@@ -5472,7 +5482,7 @@
           "youtube_id": "RCL--Ev9Iq8",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 4967,
+          "view_count": 4969,
           "title": "Khawab Men Paion Ki Airi Ko Dekhny Ki Tabeer #khawab #dreams #spirituality #spiritualhealing #viral",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 39
@@ -5482,7 +5492,7 @@
           "youtube_id": "YIerFZ1xnsc",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 5634,
+          "view_count": 5637,
           "title": "Munh Ki Badbu Khatam Karne Ka Mujarrab Amal #BadBreath, #MunhKiBadbu, #RohaniIlaj, #QuranicWazifa,",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 38
@@ -5492,7 +5502,7 @@
           "youtube_id": "RZ_57gtKc9Y",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 6776,
+          "view_count": 6780,
           "title": "Miras Ka Haq Hasil Karne Aur Qarz Ki Wapsi Ka Mujarrab Wazifa #MirasKaHaq، #QarzKiWapsi، #shorts",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 37
@@ -5502,7 +5512,7 @@
           "youtube_id": "4RHPH8xhnfI",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 7783,
+          "view_count": 7786,
           "title": "Hasad Se Hifazat Ka Wazifa. #Hasad, #Nazar, #Wazifa, #Ruqyah, #IslamicReminder#shorts #short",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 36
@@ -5512,7 +5522,7 @@
           "youtube_id": "xyM7kH9UGVc",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 9351,
+          "view_count": 9354,
           "title": "Qarz Ki Adaigi Aur Ghaibi Madad Ke Liye Mujarrab Wazifa #QarzKiAdaigi  #GhaibiMadad  #spirituality",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 35
@@ -5522,7 +5532,7 @@
           "youtube_id": "UoM7mCmuAtM",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 10968,
+          "view_count": 10973,
           "title": "Yaad-Dasht Tez Aur Mazboot Karne Ka Mujarrab Wazeefa,#YaadDasht, #Wazeefa, #IslamicRemedy,  #fyp",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 34
@@ -5532,7 +5542,7 @@
           "youtube_id": "upb5V6ZJk_w",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 13122,
+          "view_count": 13129,
           "title": "Khilaye Hue Jadu Ka Tor #jado #blackmagic #spirituality #spiritualhealing #ruqyah#shorts #khizriways",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 33
@@ -5542,7 +5552,7 @@
           "youtube_id": "g9Ie50EyAfo",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 16297,
+          "view_count": 16307,
           "title": "Banjh Pan Ke Liye Mujarrab Wazifa #BanjhWazifa, #AuladKaWazifa, #MujarrabWazifa, #SpiritualHealing,",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 32
@@ -5552,7 +5562,7 @@
           "youtube_id": "zPuXsHpkAPo",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 19571,
+          "view_count": 19589,
           "title": "Kia Jado Ky Asrat Gher Ky Dosry Afrad Tek Bhi Pohnch Sekty Hen?#jado #blackmagic#jin#short #evileye",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 31
@@ -5562,7 +5572,7 @@
           "youtube_id": "Yhp3xcW23ek",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 23979,
+          "view_count": 23996,
           "title": "Aashiq Jinnaat ya Jadoo se Musallat Jinnaat?#jin #jinnat #spirituality #spiritual #jado#shorts#short",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 30
@@ -5572,7 +5582,7 @@
           "youtube_id": "uXLSgAGTKqQ",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 30643,
+          "view_count": 30670,
           "title": "Sarkash Shayaateen aur Jinnat se Nijaat ka Mujarrab Amal.”#jin #demon #blackmagic #shorts #short",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 29
@@ -5826,16 +5836,6 @@
           "title": "Which Baby Goat Bleat Was Your Favorite 🐐 #babygoat #cuteanimals #goats #farmlife #viral",
           "created_at": "2026-11-12 06:54:03",
           "rowid": 4
-        },
-        {
-          "tiktok_id": "yt_C_MHUgfh8yA",
-          "youtube_id": "C_MHUgfh8yA",
-          "status": "uploaded",
-          "upload_date": "2026-11-12",
-          "view_count": 275,
-          "title": "Baal Girny Ka Mujarrab Wazeefa#hair #wazeefa #spirituality #duâ #shorts #short#healingenergy#healing",
-          "created_at": "2026-11-12 06:54:03",
-          "rowid": 3
         }
       ],
       "pending_retry_items": [],
@@ -6105,7 +6105,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-14 04:35:06 UTC",
+    "timestamp": "2026-11-14 04:36:09 UTC",
     "total_channels": 10,
     "healthy_count": 5,
     "auto_healed_count": 0,
@@ -6288,7 +6288,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-11-14",
-        "uploads_today": 2,
+        "uploads_today": 3,
         "uploads_yesterday": 0,
         "missed_posting": false,
         "error_detail": null,
@@ -6301,9 +6301,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
           "stock_status": "healthy",
-          "remaining_unposted": 47,
+          "remaining_unposted": 46,
           "total_available": 90,
-          "days_buffer": 47.0,
+          "days_buffer": 46.0,
           "alert_message": null
         }
       },
@@ -6344,7 +6344,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-11-14",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 0,
         "missed_posting": false,
         "error_detail": null,
