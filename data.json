@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-14 04:30:13 UTC",
+    "timestamp_utc": "2026-11-14 04:31:18 UTC",
     "total_channels": 10,
-    "active_channels": 8,
-    "disabled_channels": 1,
-    "idle_channels": 1,
+    "active_channels": 6,
+    "disabled_channels": 3,
+    "idle_channels": 3,
     "today_completed_channels": 0,
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 1427,
-    "total_views_tracked": 186639890,
+    "total_uploaded_videos": 1428,
+    "total_views_tracked": 186640529,
     "total_subscribers": 117121,
     "total_pending_retries": 10,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
-    "content_low_channels": 1,
-    "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-14 04:30:53 UTC"
+    "content_low_channels": 0,
+    "content_alerts_count": 0,
+    "gh_pages_synced_at": "2026-11-14 04:31:55 UTC"
   },
   "channels": [
     {
@@ -1139,7 +1139,7 @@
           "youtube_id": "EG2mGZN9qSw",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 88319,
+          "view_count": 88368,
           "title": "Violet Cyber Bike Becomes Jet Ski & Drops Into Toronto Harbour 😱🌊",
           "created_at": "2026-11-10 03:58:13",
           "rowid": 128
@@ -1531,7 +1531,7 @@
       "youtube_handle": "@babygiggles-j8o",
       "youtube_channel_url": "https://www.youtube.com/@babygiggles-j8o",
       "subscribers_count": 1620,
-      "published_videos_count": 99,
+      "published_videos_count": 100,
       "live_youtube_views": 3178287,
       "owner_email": "mrsabdulmateen36@gmail.com",
       "channel_created_at": "Sep 01, 2026",
@@ -1542,31 +1542,27 @@
         "gdrive_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
         "folder_title": "TINY FIRST MOMENTS",
         "total_in_drive": 23,
-        "posted_count": 20,
-        "remaining_unposted": 3,
+        "posted_count": 23,
+        "remaining_unposted": 0,
         "videos_per_day": 2,
-        "days_buffer": 1.5,
-        "stock_status": "low_stock",
-        "stock_label": "LOW STOCK (3 videos left)",
-        "unposted_videos": [
-          "The moment this baby hears her parent's voice for the first time  #wholesome #emotional",
-          "The moment this baby hears his fathers voice for the first time  #heartwarming #wholesome",
-          "The moment this baby hears his father's voice for the first time  #wholesome #emotional"
-        ]
+        "days_buffer": 0.0,
+        "stock_status": "depleted",
+        "stock_label": "EMPTY (0 videos left!)",
+        "unposted_videos": []
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
-        "stock_status": "low_stock",
-        "remaining_unposted": 3,
+        "stock_status": "depleted",
+        "remaining_unposted": 0,
         "total_available": 23,
-        "days_buffer": 1.5,
-        "alert_message": "Only 3 unposted videos remaining in Google Drive (~1.5 days left). Add more videos soon."
+        "days_buffer": 0.0,
+        "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
       },
       "is_monetized": false,
       "monetized_date": null,
       "enabled": true,
-      "status": "active",
+      "status": "idle",
       "idle_since": null,
       "days_idle": null,
       "is_idle_expired": false,
@@ -1586,15 +1582,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 100,
+      "total_uploaded": 101,
       "total_failed": 1,
       "total_pending_retry": 0,
       "total_views": 3178287,
-      "last_run_date": "2026-11-12 06:25:41",
+      "last_run_date": "2026-11-14 04:30:35",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: nkqVIWgtwmk",
+      "last_run_message": "Uploaded YouTube ID: yY9P5ZNp5XY",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-05",
@@ -1675,9 +1671,9 @@
         {
           "date": "2026-11-14",
           "short_date": "Nov 14",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -1735,11 +1731,21 @@
           "short_date": "Nov 14",
           "day_name": "Sat",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "1Gf2B5P-bEyB6EHiwinTBRetjzgoGpTZj",
+          "youtube_id": "yY9P5ZNp5XY",
+          "status": "uploaded",
+          "upload_date": "2026-11-14",
+          "view_count": 0,
+          "title": "The moment this baby hears his father’s voice for the first time 🥹 #heartwarming #wholesome",
+          "created_at": "2026-11-14 04:30:35",
+          "rowid": 103
+        },
         {
           "tiktok_id": "1D72dNy5ZDPAktpFqBf3S2zRGTcnZJPxJ",
           "youtube_id": "nkqVIWgtwmk",
@@ -2229,16 +2235,6 @@
           "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
           "created_at": "2026-10-05 07:13:18",
           "rowid": 54
-        },
-        {
-          "tiktok_id": "broadcast_babycare_1790781349_channel_3",
-          "youtube_id": "VVlHpjasWFw",
-          "status": "uploaded",
-          "upload_date": "2026-09-30",
-          "view_count": 1242,
-          "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
-          "created_at": "2026-09-30 15:15:49",
-          "rowid": 53
         }
       ],
       "pending_retry_items": [],
@@ -2247,7 +2243,8 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Oct 05, 2026",
-      "overall_status": "active"
+      "overall_status": "idle",
+      "idle_reason": "inventory_depleted"
     },
     {
       "channel_id": "channel_4",
@@ -2268,16 +2265,16 @@
       "content_inventory": {
         "source_type": "tiktok",
         "source_url": "https://www.tiktok.com/@faghieegiza",
-        "stock_status": "healthy",
-        "remaining_unposted": null,
-        "total_available": null,
-        "days_buffer": null,
-        "alert_message": null
+        "stock_status": "depleted",
+        "remaining_unposted": 0,
+        "total_available": 0,
+        "days_buffer": 0,
+        "alert_message": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL."
       },
       "is_monetized": false,
       "monetized_date": null,
       "enabled": true,
-      "status": "active",
+      "status": "idle",
       "idle_since": null,
       "days_idle": null,
       "is_idle_expired": false,
@@ -2296,15 +2293,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "no_content",
       "slot2_today": "not_run",
       "total_uploaded": 64,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 11923957,
-      "last_run_date": "2026-11-12 06:26:58",
-      "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: is_D9P63Afs",
+      "total_views": 11924596,
+      "last_run_date": "2026-11-14 04:30:51",
+      "last_run_status": "no_content",
+      "last_run_message": "No unposted videos found for channel source channel_4.",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-05",
@@ -2384,7 +2381,7 @@
         {
           "date": "2026-11-14",
           "short_date": "Nov 14",
-          "slot1": "not_run",
+          "slot1": "no_content",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -2754,7 +2751,7 @@
           "youtube_id": "vK8vGd2O3_E",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 12811,
+          "view_count": 12819,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
           "created_at": "2026-09-30 15:16:08",
           "rowid": 34
@@ -2774,7 +2771,7 @@
           "youtube_id": "LjQpO0qwDqs",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 5776,
+          "view_count": 5778,
           "title": "What Makes SBR's Outro so HORRIBLE #jojo #jojosbizarreadventure #fyp #gaming#jjba",
           "created_at": "2026-09-30 03:14:08",
           "rowid": 32
@@ -2784,7 +2781,7 @@
           "youtube_id": "62C0ZXacnrA",
           "status": "uploaded",
           "upload_date": "2026-09-29",
-          "view_count": 3420,
+          "view_count": 3423,
           "title": "TikTok video #7690613495490039053",
           "created_at": "2026-09-29 04:35:52",
           "rowid": 31
@@ -2794,7 +2791,7 @@
           "youtube_id": "1nR-IZmFoc8",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 11708,
+          "view_count": 11729,
           "title": "Two little cuties are playing house outdoors. My heart just melted. #adorablebaby",
           "created_at": "2026-09-27 09:58:46",
           "rowid": 30
@@ -2804,7 +2801,7 @@
           "youtube_id": "7LtxHZn95No",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 14709,
+          "view_count": 14719,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #Baby #SmartTech",
           "created_at": "2026-09-27 05:47:24",
           "rowid": 29
@@ -2814,7 +2811,7 @@
           "youtube_id": "LGn__s9Sv5k",
           "status": "uploaded",
           "upload_date": "2026-09-26",
-          "view_count": 13273,
+          "view_count": 13291,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-26 15:59:04",
           "rowid": 28
@@ -2824,7 +2821,7 @@
           "youtube_id": "fnlS7JeTxyA",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 2616930,
+          "view_count": 2617368,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:35:02",
           "rowid": 27
@@ -2834,7 +2831,7 @@
           "youtube_id": "4hxqAaHKXlg",
           "status": "uploaded",
           "upload_date": "2026-09-24",
-          "view_count": 48144,
+          "view_count": 48157,
           "title": "i am rich doll 😎",
           "created_at": "2026-09-24 12:00:13",
           "rowid": 26
@@ -2844,7 +2841,7 @@
           "youtube_id": "ZMg68rtsy8U",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 29715,
+          "view_count": 29721,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 16:06:31",
           "rowid": 25
@@ -2864,7 +2861,7 @@
           "youtube_id": "OswT2v6MD58",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 27425,
+          "view_count": 27435,
           "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
           "created_at": "2026-09-22 05:30:20",
           "rowid": 23
@@ -2874,7 +2871,7 @@
           "youtube_id": "i4r_X6ykv_4",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 31386,
+          "view_count": 31401,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-21 17:34:14",
           "rowid": 22
@@ -2884,7 +2881,7 @@
           "youtube_id": "5FyiXi2KuKo",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 8762407,
+          "view_count": 8763696,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:06:44",
           "rowid": 21
@@ -2894,7 +2891,7 @@
           "youtube_id": "kCjIyUQuGtM",
           "status": "uploaded",
           "upload_date": "2026-09-18",
-          "view_count": 21705,
+          "view_count": 21706,
           "title": "In Defense of The FNAF Movie... (Review) 🐻🎬 #FNAF #fnafmovie #fivenightsatfreddys #fnafreview #",
           "created_at": "2026-09-18 23:56:32",
           "rowid": 20
@@ -2934,7 +2931,7 @@
           "youtube_id": "CmcQgkrgjBY",
           "status": "uploaded",
           "upload_date": "2026-09-14",
-          "view_count": 9167,
+          "view_count": 9170,
           "title": "We NEED to talk about Dragona Joestar... #jjba #jojosbizarreadventure #jojo #Joestar #dragonajo",
           "created_at": "2026-09-14 22:12:17",
           "rowid": 16
@@ -2944,7 +2941,7 @@
           "youtube_id": "9x_zFMB3kk4",
           "status": "uploaded",
           "upload_date": "2026-09-14",
-          "view_count": 7854,
+          "view_count": 7859,
           "title": "Is Garfieldkart 2 worse than the Hindenburg Disaster #game #garfieldkart #garfield #gamingchall",
           "created_at": "2026-09-14 08:08:45",
           "rowid": 15
@@ -2956,7 +2953,8 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 02, 2026",
-      "overall_status": "active"
+      "overall_status": "idle",
+      "idle_reason": "inventory_depleted"
     },
     {
       "channel_id": "channel_5",
@@ -6107,11 +6105,11 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-14 04:30:13 UTC",
+    "timestamp": "2026-11-14 04:31:18 UTC",
     "total_channels": 10,
     "healthy_count": 4,
     "auto_healed_count": 0,
-    "action_required_count": 0,
+    "action_required_count": 2,
     "channels": [
       {
         "channel_id": "channel_1",
@@ -6175,26 +6173,26 @@
         "profile_code": "CH3",
         "source_type": "gdrive",
         "source_target": "N/A",
-        "status": "monitoring",
+        "status": "action_required",
         "token_status": "valid",
-        "last_upload_date": "2026-11-12",
-        "uploads_today": 0,
+        "last_upload_date": "2026-11-14",
+        "uploads_today": 1,
         "uploads_yesterday": 0,
-        "missed_posting": true,
-        "error_detail": "No uploads recorded in the last 48 hours. Scheduled upload pending next slot.",
+        "missed_posting": false,
+        "error_detail": null,
         "auto_heal_log": null,
-        "user_action_needed": false,
-        "action_title": null,
-        "action_description": null,
-        "action_button_type": null,
+        "user_action_needed": true,
+        "action_title": "Content Depleted: Quote 4 Quotes",
+        "action_description": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped.",
+        "action_button_type": "update_source",
         "content_inventory": {
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
-          "stock_status": "low_stock",
-          "remaining_unposted": 3,
+          "stock_status": "depleted",
+          "remaining_unposted": 0,
           "total_available": 23,
-          "days_buffer": 1.5,
-          "alert_message": "Only 3 unposted videos remaining in Google Drive (~1.5 days left). Add more videos soon."
+          "days_buffer": 0.0,
+          "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
         }
       },
       {
@@ -6203,7 +6201,7 @@
         "profile_code": "",
         "source_type": "tiktok",
         "source_target": "faghieegiza",
-        "status": "monitoring",
+        "status": "action_required",
         "token_status": "valid",
         "last_upload_date": "2026-11-12",
         "uploads_today": 0,
@@ -6211,18 +6209,18 @@
         "missed_posting": true,
         "error_detail": "No uploads recorded in the last 48 hours. Scheduled upload pending next slot.",
         "auto_heal_log": null,
-        "user_action_needed": false,
-        "action_title": null,
-        "action_description": null,
-        "action_button_type": null,
+        "user_action_needed": true,
+        "action_title": "Content Depleted: AniHightRecap",
+        "action_description": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL.",
+        "action_button_type": "update_source",
         "content_inventory": {
           "source_type": "tiktok",
           "source_url": "https://www.tiktok.com/@faghieegiza",
-          "stock_status": "healthy",
-          "remaining_unposted": null,
-          "total_available": null,
-          "days_buffer": null,
-          "alert_message": null
+          "stock_status": "depleted",
+          "remaining_unposted": 0,
+          "total_available": 0,
+          "days_buffer": 0,
+          "alert_message": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL."
         }
       },
       {
@@ -6394,6 +6392,63 @@
         }
       }
     ],
-    "action_required_items": []
+    "action_required_items": [
+      {
+        "channel_id": "channel_3",
+        "name": "Quote 4 Quotes",
+        "profile_code": "CH3",
+        "source_type": "gdrive",
+        "source_target": "N/A",
+        "status": "action_required",
+        "token_status": "valid",
+        "last_upload_date": "2026-11-14",
+        "uploads_today": 1,
+        "uploads_yesterday": 0,
+        "missed_posting": false,
+        "error_detail": null,
+        "auto_heal_log": null,
+        "user_action_needed": true,
+        "action_title": "Content Depleted: Quote 4 Quotes",
+        "action_description": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped.",
+        "action_button_type": "update_source",
+        "content_inventory": {
+          "source_type": "gdrive",
+          "source_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
+          "stock_status": "depleted",
+          "remaining_unposted": 0,
+          "total_available": 23,
+          "days_buffer": 0.0,
+          "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
+        }
+      },
+      {
+        "channel_id": "channel_4",
+        "name": "AniHightRecap",
+        "profile_code": "",
+        "source_type": "tiktok",
+        "source_target": "faghieegiza",
+        "status": "action_required",
+        "token_status": "valid",
+        "last_upload_date": "2026-11-12",
+        "uploads_today": 0,
+        "uploads_yesterday": 0,
+        "missed_posting": true,
+        "error_detail": "No uploads recorded in the last 48 hours. Scheduled upload pending next slot.",
+        "auto_heal_log": null,
+        "user_action_needed": true,
+        "action_title": "Content Depleted: AniHightRecap",
+        "action_description": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL.",
+        "action_button_type": "update_source",
+        "content_inventory": {
+          "source_type": "tiktok",
+          "source_url": "https://www.tiktok.com/@faghieegiza",
+          "stock_status": "depleted",
+          "remaining_unposted": 0,
+          "total_available": 0,
+          "days_buffer": 0,
+          "alert_message": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL."
+        }
+      }
+    ]
   }
 }
