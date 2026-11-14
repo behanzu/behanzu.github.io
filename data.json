@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-14 04:29:07 UTC",
+    "timestamp_utc": "2026-11-14 04:30:13 UTC",
     "total_channels": 10,
     "active_channels": 8,
     "disabled_channels": 1,
@@ -9,15 +9,15 @@
     "token_warnings": 0,
     "error_channels": 0,
     "health_rate_percent": 100.0,
-    "total_uploaded_videos": 1426,
-    "total_views_tracked": 186639821,
+    "total_uploaded_videos": 1427,
+    "total_views_tracked": 186639890,
     "total_subscribers": 117121,
     "total_pending_retries": 10,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-14 04:29:34 UTC"
+    "gh_pages_synced_at": "2026-11-14 04:30:38 UTC"
   },
   "channels": [
     {
@@ -794,7 +794,7 @@
       "youtube_handle": "@notachefofficialy",
       "youtube_channel_url": "https://www.youtube.com/@notachefofficialy",
       "subscribers_count": 53500,
-      "published_videos_count": 129,
+      "published_videos_count": 130,
       "live_youtube_views": 88684424,
       "owner_email": "baarakhaaan@gmail.com",
       "channel_created_at": "Aug 30, 2026",
@@ -805,17 +805,16 @@
         "gdrive_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
         "folder_title": "COMPILED REELS",
         "total_in_drive": 51,
-        "posted_count": 32,
-        "remaining_unposted": 19,
+        "posted_count": 33,
+        "remaining_unposted": 18,
         "videos_per_day": 2,
-        "days_buffer": 9.5,
+        "days_buffer": 9.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (19 videos ready)",
+        "stock_label": "HEALTHY (18 videos ready)",
         "unposted_videos": [
           "Best Burgers & Sandwiches Compilation  | ASMR Cooking #burger #sandwich #asmrfood",
           "Cheesy Street Food Compilation  | ASMR Cooking #streetfood #tacos #cheesepull",
           "Crispy Snacks Compilation  | Crunchy ASMR #crispy #friedchicken #asmrfood",
-          "Juicy Meatloaf, Mac & Cheese & Loaded Baked Potato | Ultimate Comfort Food  #macandcheese",
           "Most Refreshing Drinks Compilation  | ASMR #drinks #mocktail #asmrdrinks",
           "Most Satisfying Desserts Compilation  | ASMR Cooking #dessert #asmrfood #compilation",
           "Oreo Milkshake & Iced Matcha Latte | Refreshing Drinks ASMR  #oreomilkshake #matchalatte",
@@ -826,16 +825,17 @@
           "Silky Butterscotch Pudding & Chocolate Pudding | Creamy Dessert ASMR  #chocolatepudding",
           "Smash Burger, Nashville Hot Chicken, Egg Toast & Chicken Tikka Wrap | Sandwich ASMR ",
           "Spicy Desi Food Compilation  | ASMR Cooking #desifood #spicyfood #asmrfood",
-          "Strawberry Lemonade, Oreo Milkshake & Whipped Dalgona Coffee | ASMR Drinks  #dalgonacoffee"
+          "Strawberry Lemonade, Oreo Milkshake & Whipped Dalgona Coffee | ASMR Drinks  #dalgonacoffee",
+          "The ultimate rich & creamy clam chowder recipe  #clamchowder #soup #comfortfood #recipe"
         ]
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
         "stock_status": "healthy",
-        "remaining_unposted": 19,
+        "remaining_unposted": 18,
         "total_available": 51,
-        "days_buffer": 9.5,
+        "days_buffer": 9.0,
         "alert_message": null
       },
       "is_monetized": true,
@@ -861,15 +861,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 137,
+      "total_uploaded": 138,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 88684424,
-      "last_run_date": "2026-11-12 06:24:32",
+      "last_run_date": "2026-11-14 04:29:32",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: msG8JF1x-Bs",
+      "last_run_message": "Uploaded YouTube ID: _iKs98fTWL4",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-05",
@@ -949,9 +949,9 @@
         {
           "date": "2026-11-14",
           "short_date": "Nov 14",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 4,
+          "uploads_count": 5,
           "views_gained": 0
         }
       ],
@@ -1009,17 +1009,27 @@
           "short_date": "Nov 14",
           "day_name": "Sat",
           "is_today": true,
-          "uploads_count": 4,
+          "uploads_count": 5,
           "views_gained": 0
         }
       ],
       "recent_videos": [
         {
+          "tiktok_id": "14dYrVXknJcFREMAqXIPZx7TX5R2uti1h",
+          "youtube_id": "_iKs98fTWL4",
+          "status": "uploaded",
+          "upload_date": "2026-11-14",
+          "view_count": 0,
+          "title": "Juicy Meatloaf, Mac & Cheese & Loaded Baked Potato | Ultimate Comfort Food 🥩🧀🥔 #macandcheese",
+          "created_at": "2026-11-14 04:29:32",
+          "rowid": 140
+        },
+        {
           "tiktok_id": "yt_jo_fcUcZMc8",
           "youtube_id": "jo_fcUcZMc8",
           "status": "uploaded",
           "upload_date": "2026-11-14",
-          "view_count": 747,
+          "view_count": 775,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-14 04:23:11",
           "rowid": 139
@@ -1099,7 +1109,7 @@
           "youtube_id": "8XnPOtroI3c",
           "status": "uploaded",
           "upload_date": "2026-11-11",
-          "view_count": 882431,
+          "view_count": 882932,
           "title": "😂 This Baby IMPRESSED His Father! 😤👶 | Funniest Baby Plan",
           "created_at": "2026-11-11 07:00:31",
           "rowid": 131
@@ -1229,7 +1239,7 @@
           "youtube_id": "YyP6i5pdBVQ",
           "status": "uploaded",
           "upload_date": "2026-11-05",
-          "view_count": 11050,
+          "view_count": 11051,
           "title": "Found a sleepy little panda napping in the crib and then he woke up #cutebaby #babycostume",
           "created_at": "2026-11-05 16:50:45",
           "rowid": 118
@@ -1319,7 +1329,7 @@
           "youtube_id": "8CYzPRgAmag",
           "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 4839,
+          "view_count": 4859,
           "title": "Baby love for his elder Brother #ViralVideo #CuteBaby",
           "created_at": "2026-11-03 22:28:57",
           "rowid": 109
@@ -1503,16 +1513,6 @@
           "title": "Cheesy Philly Cheesesteak & Double Cheeseburger | Most Satisfying ASMR 🥩🍔 #cheeseburger",
           "created_at": "2026-10-26 05:37:13",
           "rowid": 91
-        },
-        {
-          "tiktok_id": "yt_oBDNnILX68k",
-          "youtube_id": "oBDNnILX68k",
-          "status": "uploaded",
-          "upload_date": "2026-10-24",
-          "view_count": 18657,
-          "title": "Watermelon Lemonade 🍋 #asmrfood #cooking #recipe #food #viral",
-          "created_at": "2026-10-24 12:12:39",
-          "rowid": 90
         }
       ],
       "pending_retry_items": [],
@@ -2085,7 +2085,7 @@
           "youtube_id": "ao0cYkxgsVQ",
           "status": "uploaded",
           "upload_date": "2026-10-17",
-          "view_count": 525,
+          "view_count": 527,
           "title": "Homemade Rainbow Fruit Popsicles 🌈 #popsicles #rainbowfood #dessert #summerrecipes #foodart",
           "created_at": "2026-10-17 02:23:03",
           "rowid": 68
@@ -2225,7 +2225,7 @@
           "youtube_id": "JleOTLcXi-g",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 35826,
+          "view_count": 35828,
           "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
           "created_at": "2026-10-05 07:13:18",
           "rowid": 54
@@ -2967,7 +2967,7 @@
       "youtube_channel_url": "https://www.youtube.com/@luvthuggaas",
       "subscribers_count": 473,
       "published_videos_count": 42,
-      "live_youtube_views": 329,
+      "live_youtube_views": 343,
       "owner_email": "khadijaammar284@gmail.com",
       "channel_created_at": "Sep 01, 2026",
       "source_type": "tiktok",
@@ -3747,7 +3747,7 @@
       "total_uploaded": 72,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 658312,
+      "total_views": 658372,
       "last_run_date": "2026-11-12 06:30:31",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: gxerhZmFDb4",
@@ -3930,7 +3930,7 @@
           "youtube_id": "38Rn9RNDyMg",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 70774,
+          "view_count": 70834,
           "title": "Violet Cyber Bike Becomes Jet Ski & Drops Into Toronto Harbour 😱🌊",
           "created_at": "2026-11-10 04:07:36",
           "rowid": 69
@@ -5784,7 +5784,7 @@
           "youtube_id": "9gHEA3BhVs0",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 1768,
+          "view_count": 1772,
           "title": "Baby Owl Surprise! The Stuffed Owl Started Giggling 🐢 #shorts #cutebaby #viral",
           "created_at": "2026-11-12 06:54:03",
           "rowid": 8
@@ -5900,7 +5900,7 @@
       "total_uploaded": 5,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 152588,
+      "total_views": 152597,
       "last_run_date": "Never",
       "last_run_status": "none",
       "last_run_message": "No recorded runs yet",
@@ -6080,7 +6080,7 @@
           "youtube_id": "fGuOiGHPHHo",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 25325,
+          "view_count": 25334,
           "title": "The Last Doorbell is a STORM 😱⚡",
           "created_at": "2026-11-12 09:59:20",
           "rowid": 2
@@ -6107,7 +6107,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-14 04:29:07 UTC",
+    "timestamp": "2026-11-14 04:30:13 UTC",
     "total_channels": 10,
     "healthy_count": 4,
     "auto_healed_count": 0,
@@ -6150,7 +6150,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-11-14",
-        "uploads_today": 4,
+        "uploads_today": 5,
         "uploads_yesterday": 0,
         "missed_posting": false,
         "error_detail": null,
@@ -6163,9 +6163,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
           "stock_status": "healthy",
-          "remaining_unposted": 19,
+          "remaining_unposted": 18,
           "total_available": 51,
-          "days_buffer": 9.5,
+          "days_buffer": 9.0,
           "alert_message": null
         }
       },
@@ -6318,7 +6318,7 @@
         "status": "idle",
         "token_status": "valid",
         "last_upload_date": "2026-11-14",
-        "uploads_today": 4,
+        "uploads_today": 5,
         "uploads_yesterday": 0,
         "missed_posting": false,
         "error_detail": "Channel is currently set to IDLE (Paused).",
