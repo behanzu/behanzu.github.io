@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-15 15:43:42 UTC",
+    "timestamp_utc": "2026-11-15 15:45:51 UTC",
     "total_channels": 10,
     "active_channels": 8,
     "disabled_channels": 1,
     "idle_channels": 1,
     "today_completed_channels": 0,
     "token_warnings": 0,
-    "error_channels": 0,
-    "health_rate_percent": 100.0,
-    "total_uploaded_videos": 1443,
-    "total_views_tracked": 187628609,
+    "error_channels": 1,
+    "health_rate_percent": 87.5,
+    "total_uploaded_videos": 1444,
+    "total_views_tracked": 187629834,
     "total_subscribers": 118128,
     "total_pending_retries": 9,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-15 15:43:51 UTC"
+    "gh_pages_synced_at": "2026-11-16 04:54:23 UTC"
   },
   "channels": [
     {
@@ -794,7 +794,7 @@
       "youtube_handle": "@notachefofficialy",
       "youtube_channel_url": "https://www.youtube.com/@notachefofficialy",
       "subscribers_count": 54300,
-      "published_videos_count": 133,
+      "published_videos_count": 134,
       "live_youtube_views": 89424554,
       "owner_email": "baarakhaaan@gmail.com",
       "channel_created_at": "Aug 30, 2026",
@@ -861,15 +861,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
       "total_uploaded": 142,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 89424554,
-      "last_run_date": "2026-11-14 05:04:07",
+      "last_run_date": "2026-11-15 15:43:48",
       "last_run_status": "success",
-      "last_run_message": "Manual Post: nsJx58pAdA0",
+      "last_run_message": "Uploaded YouTube ID: yiT4o7PEiMA",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-06",
@@ -950,7 +950,7 @@
         {
           "date": "2026-11-15",
           "short_date": "Nov 15",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 3,
           "views_gained": 0
@@ -1030,7 +1030,7 @@
           "youtube_id": "K0lNB_JbDT8",
           "status": "uploaded",
           "upload_date": "2026-11-15",
-          "view_count": 924,
+          "view_count": 927,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-15 15:41:58",
           "rowid": 143
@@ -1180,7 +1180,7 @@
           "youtube_id": "EG2mGZN9qSw",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 135054,
+          "view_count": 135361,
           "title": "Violet Cyber Bike Becomes Jet Ski & Drops Into Toronto Harbour 😱🌊",
           "created_at": "2026-11-10 03:58:13",
           "rowid": 128
@@ -1585,15 +1585,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
-      "slot2_today": "not_run",
+      "slot1_today": "failed",
+      "slot2_today": "failed",
       "total_uploaded": 101,
       "total_failed": 1,
       "total_pending_retry": 0,
       "total_views": 3178504,
-      "last_run_date": "2026-11-14 04:30:35",
-      "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: yY9P5ZNp5XY",
+      "last_run_date": "2026-11-15 15:44:33",
+      "last_run_status": "failed",
+      "last_run_message": "Failed to download any unposted candidate videos for slot 2.",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-06",
@@ -1674,8 +1674,8 @@
         {
           "date": "2026-11-15",
           "short_date": "Nov 15",
-          "slot1": "not_run",
-          "slot2": "not_run",
+          "slot1": "failed",
+          "slot2": "failed",
           "uploads_count": 0,
           "views_gained": 0
         }
@@ -2054,7 +2054,7 @@
           "youtube_id": "H2L2myqViU8",
           "status": "uploaded",
           "upload_date": "2026-10-22",
-          "view_count": 46,
+          "view_count": 48,
           "title": "Learning Shapes In The Park Fun Kids Animation 🔍 #kidslearning #shapes #educationalanimation",
           "created_at": "2026-10-22 05:16:35",
           "rowid": 72
@@ -2064,7 +2064,7 @@
           "youtube_id": "cnnB6TmQDhI",
           "status": "uploaded",
           "upload_date": "2026-10-21",
-          "view_count": 38,
+          "view_count": 41,
           "title": "Learning shapes has never been this cute and fun! 🚲 #kidslearning #toddlerlife #parenting",
           "created_at": "2026-10-21 05:55:49",
           "rowid": 71
@@ -2074,7 +2074,7 @@
           "youtube_id": "sneRxSM3oUo",
           "status": "uploaded",
           "upload_date": "2026-10-20",
-          "view_count": 45,
+          "view_count": 46,
           "title": "Learning colors has never been this cute! 🎨 #kidslearning #animation #3danimation #toddlerlife",
           "created_at": "2026-10-20 04:45:45",
           "rowid": 70
@@ -2084,7 +2084,7 @@
           "youtube_id": "8772j20OfA8",
           "status": "uploaded",
           "upload_date": "2026-10-19",
-          "view_count": 52,
+          "view_count": 53,
           "title": "Jungle Safari Adventure For Little Explorers 🌴 #animation #kids #jungle #cute #viral",
           "created_at": "2026-10-19 04:28:18",
           "rowid": 69
@@ -2094,7 +2094,7 @@
           "youtube_id": "ao0cYkxgsVQ",
           "status": "uploaded",
           "upload_date": "2026-10-17",
-          "view_count": 527,
+          "view_count": 531,
           "title": "Homemade Rainbow Fruit Popsicles 🌈 #popsicles #rainbowfood #dessert #summerrecipes #foodart",
           "created_at": "2026-10-17 02:23:03",
           "rowid": 68
@@ -2104,7 +2104,7 @@
           "youtube_id": "3v6XmqVy070",
           "status": "uploaded",
           "upload_date": "2026-10-16",
-          "view_count": 98,
+          "view_count": 100,
           "title": "Helping Little Ones Manage Big Emotions ☀️ #parenting #mindfulness #kids #emotionalregulation",
           "created_at": "2026-10-16 07:24:31",
           "rowid": 67
@@ -2114,7 +2114,7 @@
           "youtube_id": "M2McbtLjdJg",
           "status": "uploaded",
           "upload_date": "2026-10-15",
-          "view_count": 179,
+          "view_count": 180,
           "title": "Getting ready for a brand new day! 💛 #animation #cute #morningroutine #3danimation #viral",
           "created_at": "2026-10-15 13:31:45",
           "rowid": 66
@@ -2124,7 +2124,7 @@
           "youtube_id": "nodjR_U91Vc",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 91,
+          "view_count": 92,
           "title": "Color mixing magic for young artists 🎨 #colormixing #kidsart #learningcolors #animation",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 65
@@ -2134,7 +2134,7 @@
           "youtube_id": "8bmpECccLYQ",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 60,
+          "view_count": 61,
           "title": "Counting Stars Before Bedtime ✨ 🌙 #bedtime #kidsanimation #countingstars #toddlerlearning",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 64
@@ -2144,7 +2144,7 @@
           "youtube_id": "2bEQaUkiZgE",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 110,
+          "view_count": 111,
           "title": "Don't Forget To Stay Hydrated While Having Fun Outdoors 💧 #animation #kids #hydration",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 63
@@ -2154,7 +2154,7 @@
           "youtube_id": "KtUKkZ5X42k",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 107,
+          "view_count": 108,
           "title": "Eating your veggies turns you into a real superhero 🥦 #animation #kids #healthyeating",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 62
@@ -2164,7 +2164,7 @@
           "youtube_id": "XuKxQHqU2Vo",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 70,
+          "view_count": 71,
           "title": "Exploring the magical tiny world right in our backyard 🐞 #animation #kids #nature #cute #viral",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 61
@@ -2174,7 +2174,7 @@
           "youtube_id": "YGn0PpNSmDg",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 79,
+          "view_count": 80,
           "title": "Floating Into A World Where Dreams Come True 🎈 #animation #3danimation #whimsical #dreamy",
           "created_at": "2026-10-14 03:18:16",
           "rowid": 60
@@ -2184,7 +2184,7 @@
           "youtube_id": "WC9eW62M6_s",
           "status": "uploaded",
           "upload_date": "2026-10-08",
-          "view_count": 205,
+          "view_count": 206,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
           "created_at": "2026-10-08 08:27:01",
           "rowid": 59
@@ -2194,7 +2194,7 @@
           "youtube_id": "bqN_CMHAkn8",
           "status": "uploaded",
           "upload_date": "2026-10-08",
-          "view_count": 137,
+          "view_count": 138,
           "title": "Cleaning up the planet brings the magic back to life! 🌱 #animation #satisfying #wholesome #eco",
           "created_at": "2026-10-08 07:36:54",
           "rowid": 58
@@ -2204,7 +2204,7 @@
           "youtube_id": "qKpoevrn_24",
           "status": "uploaded",
           "upload_date": "2026-10-07",
-          "view_count": 123,
+          "view_count": 124,
           "title": "Baking sweet pink cupcakes with my little helper! 🧁 #baking #cupcakes #animation #kidslearning",
           "created_at": "2026-10-07 05:36:21",
           "rowid": 57
@@ -2214,7 +2214,7 @@
           "youtube_id": "xpoJdu4P_J0",
           "status": "uploaded",
           "upload_date": "2026-10-06",
-          "view_count": 355,
+          "view_count": 356,
           "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
           "created_at": "2026-10-06 08:25:30",
           "rowid": 56
@@ -2224,7 +2224,7 @@
           "youtube_id": "yT5atYceyLE",
           "status": "uploaded",
           "upload_date": "2026-10-06",
-          "view_count": 598,
+          "view_count": 600,
           "title": "A mother's touch makes everything better 💖 #parenting #animation #wholesome #safetyfirst #viral",
           "created_at": "2026-10-06 02:07:35",
           "rowid": 55
@@ -2234,7 +2234,7 @@
           "youtube_id": "JleOTLcXi-g",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 35828,
+          "view_count": 35831,
           "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
           "created_at": "2026-10-05 07:13:18",
           "rowid": 54
@@ -2246,7 +2246,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Oct 05, 2026",
-      "overall_status": "active"
+      "overall_status": "error"
     },
     {
       "channel_id": "channel_4",
@@ -2300,7 +2300,7 @@
       "total_uploaded": 64,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 11929044,
+      "total_views": 11930269,
       "last_run_date": "2026-11-14 05:02:29",
       "last_run_status": "no_content",
       "last_run_message": "No unposted videos found for channel source channel_4.",
@@ -2753,7 +2753,7 @@
           "youtube_id": "vK8vGd2O3_E",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 12819,
+          "view_count": 12825,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
           "created_at": "2026-09-30 15:16:08",
           "rowid": 34
@@ -2763,7 +2763,7 @@
           "youtube_id": "7KD5ujtsFt8",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 4637,
+          "view_count": 4640,
           "title": "TikTok video #7690613495490039053",
           "created_at": "2026-09-30 04:18:45",
           "rowid": 33
@@ -2773,7 +2773,7 @@
           "youtube_id": "LjQpO0qwDqs",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 5778,
+          "view_count": 5780,
           "title": "What Makes SBR's Outro so HORRIBLE #jojo #jojosbizarreadventure #fyp #gaming#jjba",
           "created_at": "2026-09-30 03:14:08",
           "rowid": 32
@@ -2783,7 +2783,7 @@
           "youtube_id": "62C0ZXacnrA",
           "status": "uploaded",
           "upload_date": "2026-09-29",
-          "view_count": 3423,
+          "view_count": 3427,
           "title": "TikTok video #7690613495490039053",
           "created_at": "2026-09-29 04:35:52",
           "rowid": 31
@@ -2793,7 +2793,7 @@
           "youtube_id": "1nR-IZmFoc8",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 11729,
+          "view_count": 11735,
           "title": "Two little cuties are playing house outdoors. My heart just melted. #adorablebaby",
           "created_at": "2026-09-27 09:58:46",
           "rowid": 30
@@ -2803,7 +2803,7 @@
           "youtube_id": "7LtxHZn95No",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 14719,
+          "view_count": 14724,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #Baby #SmartTech",
           "created_at": "2026-09-27 05:47:24",
           "rowid": 29
@@ -2813,7 +2813,7 @@
           "youtube_id": "LGn__s9Sv5k",
           "status": "uploaded",
           "upload_date": "2026-09-26",
-          "view_count": 13291,
+          "view_count": 13295,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-26 15:59:04",
           "rowid": 28
@@ -2823,7 +2823,7 @@
           "youtube_id": "fnlS7JeTxyA",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 2617368,
+          "view_count": 2617709,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:35:02",
           "rowid": 27
@@ -2833,7 +2833,7 @@
           "youtube_id": "4hxqAaHKXlg",
           "status": "uploaded",
           "upload_date": "2026-09-24",
-          "view_count": 48157,
+          "view_count": 48170,
           "title": "i am rich doll 😎",
           "created_at": "2026-09-24 12:00:13",
           "rowid": 26
@@ -2843,7 +2843,7 @@
           "youtube_id": "ZMg68rtsy8U",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 29721,
+          "view_count": 29733,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 16:06:31",
           "rowid": 25
@@ -2853,7 +2853,7 @@
           "youtube_id": "GMnb5a5h-WE",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 22255,
+          "view_count": 22260,
           "title": "The Rise and FALL of Anime Abridging... #TheRiseand #Anime #Abridging #AnimeDoc #animeedit",
           "created_at": "2026-09-23 05:53:09",
           "rowid": 24
@@ -2863,7 +2863,7 @@
           "youtube_id": "OswT2v6MD58",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 27435,
+          "view_count": 27457,
           "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
           "created_at": "2026-09-22 05:30:20",
           "rowid": 23
@@ -2873,7 +2873,7 @@
           "youtube_id": "i4r_X6ykv_4",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 31401,
+          "view_count": 31410,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-21 17:34:14",
           "rowid": 22
@@ -2883,7 +2883,7 @@
           "youtube_id": "5FyiXi2KuKo",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 8763696,
+          "view_count": 8764462,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:06:44",
           "rowid": 21
@@ -2893,7 +2893,7 @@
           "youtube_id": "kCjIyUQuGtM",
           "status": "uploaded",
           "upload_date": "2026-09-18",
-          "view_count": 21706,
+          "view_count": 21714,
           "title": "In Defense of The FNAF Movie... (Review) 🐻🎬 #FNAF #fnafmovie #fivenightsatfreddys #fnafreview #",
           "created_at": "2026-09-18 23:56:32",
           "rowid": 20
@@ -2903,7 +2903,7 @@
           "youtube_id": "RvkB6kUOW-M",
           "status": "uploaded",
           "upload_date": "2026-09-17",
-          "view_count": 14802,
+          "view_count": 14809,
           "title": "TikTok video #7669078121852833037",
           "created_at": "2026-09-17 00:10:48",
           "rowid": 19
@@ -2913,7 +2913,7 @@
           "youtube_id": "jxDzd8ESrFY",
           "status": "uploaded",
           "upload_date": "2026-09-15",
-          "view_count": 13095,
+          "view_count": 13099,
           "title": "The OFFICIAL Stone Ocean Batch 3 BINGO Game! 🎟️🕷️ #anime #stoneocean #jojopart6 #bingogame #joj",
           "created_at": "2026-09-15 22:12:32",
           "rowid": 18
@@ -2923,7 +2923,7 @@
           "youtube_id": "qQAasfwN5v4",
           "status": "uploaded",
           "upload_date": "2026-09-15",
-          "view_count": 10930,
+          "view_count": 10932,
           "title": "TikTok video #7668033605658021134",
           "created_at": "2026-09-15 00:17:15",
           "rowid": 17
@@ -2933,7 +2933,7 @@
           "youtube_id": "CmcQgkrgjBY",
           "status": "uploaded",
           "upload_date": "2026-09-14",
-          "view_count": 9170,
+          "view_count": 9174,
           "title": "We NEED to talk about Dragona Joestar... #jjba #jojosbizarreadventure #jojo #Joestar #dragonajo",
           "created_at": "2026-09-14 22:12:17",
           "rowid": 16
@@ -2943,7 +2943,7 @@
           "youtube_id": "9x_zFMB3kk4",
           "status": "uploaded",
           "upload_date": "2026-09-14",
-          "view_count": 7859,
+          "view_count": 7861,
           "title": "Is Garfieldkart 2 worse than the Hindenburg Disaster #game #garfieldkart #garfield #gamingchall",
           "created_at": "2026-09-14 08:08:45",
           "rowid": 15
@@ -4480,7 +4480,7 @@
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 90,
+      "total_uploaded": 91,
       "total_failed": 2,
       "total_pending_retry": 0,
       "total_views": 19672070,
@@ -4569,7 +4569,7 @@
           "short_date": "Nov 15",
           "slot1": "not_run",
           "slot2": "not_run",
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
@@ -4627,11 +4627,21 @@
           "short_date": "Nov 15",
           "day_name": "Sun",
           "is_today": true,
-          "uploads_count": 1,
+          "uploads_count": 2,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "yt_S-4zzkNC9lI",
+          "youtube_id": "S-4zzkNC9lI",
+          "status": "uploaded",
+          "upload_date": "2026-11-15",
+          "view_count": 0,
+          "title": "Baby Owl Surprise! Rocking Chair Perch 🦉 #shorts #cutebaby #viral",
+          "created_at": "2026-11-15 15:45:50",
+          "rowid": 93
+        },
         {
           "tiktok_id": "yt_hykdnxhpCvU",
           "youtube_id": "hykdnxhpCvU",
@@ -4707,7 +4717,7 @@
           "youtube_id": "dRVDBnb-Css",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 5431,
+          "view_count": 5441,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-12 05:10:58",
           "rowid": 85
@@ -5121,16 +5131,6 @@
           "title": "Starlight Snuggles",
           "created_at": "2026-10-09 01:27:52",
           "rowid": 42
-        },
-        {
-          "tiktok_id": "babycare_badge_1791451385_channel_15",
-          "youtube_id": "dbWwO5BqFRM",
-          "status": "uploaded",
-          "upload_date": "2026-10-08",
-          "view_count": 3956,
-          "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
-          "created_at": "2026-10-08 09:23:05",
-          "rowid": 41
         }
       ],
       "pending_retry_items": [],
@@ -5665,7 +5665,7 @@
           "youtube_id": "3fnu9m-yaDQ",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 68130,
+          "view_count": 68129,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 22
@@ -5695,7 +5695,7 @@
           "youtube_id": "J1FFazmtwiE",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 303698,
+          "view_count": 303692,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
           "created_at": "2026-11-12 06:54:03",
           "rowid": 19
@@ -5805,7 +5805,7 @@
           "youtube_id": "9gHEA3BhVs0",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 1887,
+          "view_count": 1881,
           "title": "Baby Owl Surprise! The Stuffed Owl Started Giggling 🐢 #shorts #cutebaby #viral",
           "created_at": "2026-11-12 06:54:03",
           "rowid": 8
@@ -6137,7 +6137,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-15 15:43:42 UTC",
+    "timestamp": "2026-11-15 15:45:51 UTC",
     "total_channels": 10,
     "healthy_count": 6,
     "auto_healed_count": 0,
@@ -6320,7 +6320,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-11-15",
-        "uploads_today": 1,
+        "uploads_today": 2,
         "uploads_yesterday": 4,
         "missed_posting": false,
         "error_detail": null,
