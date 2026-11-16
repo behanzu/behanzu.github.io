@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-16 04:54:44 UTC",
+    "timestamp_utc": "2026-11-16 04:56:54 UTC",
     "total_channels": 10,
     "active_channels": 8,
     "disabled_channels": 1,
     "idle_channels": 1,
     "today_completed_channels": 0,
     "token_warnings": 0,
-    "error_channels": 0,
-    "health_rate_percent": 100.0,
-    "total_uploaded_videos": 1448,
-    "total_views_tracked": 188561297,
+    "error_channels": 1,
+    "health_rate_percent": 87.5,
+    "total_uploaded_videos": 1451,
+    "total_views_tracked": 188561784,
     "total_subscribers": 118459,
     "total_pending_retries": 9,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-16 04:55:14 UTC"
+    "gh_pages_synced_at": "2026-11-16 04:57:09 UTC"
   },
   "channels": [
     {
@@ -62,11 +62,11 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-15 16:41:53 UTC",
+        "expires_at": "2026-11-16 05:53:50 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
@@ -854,11 +854,11 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-15 16:41:55 UTC",
+        "expires_at": "2026-11-16 05:53:50 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
@@ -1029,7 +1029,7 @@
           "youtube_id": "10V6KDjPqgg",
           "status": "uploaded",
           "upload_date": "2026-11-16",
-          "view_count": 610,
+          "view_count": 611,
           "title": "Rich & Creamy Clam Chowder & Easy Homemade Chili | Cozy Comfort Food ASMR 🥣🍲 #clamchowder",
           "created_at": "2026-11-16 04:53:53",
           "rowid": 145
@@ -1069,7 +1069,7 @@
           "youtube_id": "nsJx58pAdA0",
           "status": "uploaded",
           "upload_date": "2026-11-14",
-          "view_count": 1715,
+          "view_count": 1720,
           "title": "Dad just lost his baby title 😂 #cutebaby",
           "created_at": "2026-11-14 05:04:07",
           "rowid": 141
@@ -1199,7 +1199,7 @@
           "youtube_id": "EG2mGZN9qSw",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 156737,
+          "view_count": 156814,
           "title": "Violet Cyber Bike Becomes Jet Ski & Drops Into Toronto Harbour 😱🌊",
           "created_at": "2026-11-10 03:58:13",
           "rowid": 128
@@ -1209,7 +1209,7 @@
           "youtube_id": "aftCjrT1p7o",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 40489,
+          "view_count": 40490,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-10 02:57:24",
           "rowid": 127
@@ -1584,15 +1584,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "failed",
       "slot2_today": "not_run",
       "total_uploaded": 101,
       "total_failed": 1,
       "total_pending_retry": 0,
       "total_views": 3178641,
-      "last_run_date": "2026-11-15 15:44:33",
+      "last_run_date": "2026-11-16 04:54:10",
       "last_run_status": "failed",
-      "last_run_message": "Failed to download any unposted candidate videos for slot 2.",
+      "last_run_message": "Failed to download any unposted candidate videos for slot 1.",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-07",
@@ -1673,7 +1673,7 @@
         {
           "date": "2026-11-16",
           "short_date": "Nov 16",
-          "slot1": "not_run",
+          "slot1": "failed",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -2245,7 +2245,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Oct 05, 2026",
-      "overall_status": "active"
+      "overall_status": "error"
     },
     {
       "channel_id": "channel_4",
@@ -2256,7 +2256,7 @@
       "youtube_channel_url": "https://www.youtube.com/@luvthugga-h1p",
       "subscribers_count": 6400,
       "published_videos_count": 64,
-      "live_youtube_views": 11929878,
+      "live_youtube_views": 11931641,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Oct 28, 2025",
       "source_type": "tiktok",
@@ -2288,19 +2288,19 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-15 16:41:55 UTC",
+        "expires_at": "2026-11-16 05:53:50 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "no_content",
       "slot2_today": "not_run",
       "total_uploaded": 64,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 11931392,
-      "last_run_date": "2026-11-15 15:46:27",
+      "total_views": 11931793,
+      "last_run_date": "2026-11-16 04:54:20",
       "last_run_status": "no_content",
       "last_run_message": "No unposted videos found for channel source channel_4.",
       "daily_sheet_10_days": [
@@ -2382,7 +2382,7 @@
         {
           "date": "2026-11-16",
           "short_date": "Nov 16",
-          "slot1": "not_run",
+          "slot1": "no_content",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -2752,7 +2752,7 @@
           "youtube_id": "vK8vGd2O3_E",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 12825,
+          "view_count": 12826,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
           "created_at": "2026-09-30 15:16:08",
           "rowid": 34
@@ -2792,7 +2792,7 @@
           "youtube_id": "1nR-IZmFoc8",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 11735,
+          "view_count": 11737,
           "title": "Two little cuties are playing house outdoors. My heart just melted. #adorablebaby",
           "created_at": "2026-09-27 09:58:46",
           "rowid": 30
@@ -2802,7 +2802,7 @@
           "youtube_id": "7LtxHZn95No",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 14724,
+          "view_count": 14729,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #Baby #SmartTech",
           "created_at": "2026-09-27 05:47:24",
           "rowid": 29
@@ -2812,7 +2812,7 @@
           "youtube_id": "LGn__s9Sv5k",
           "status": "uploaded",
           "upload_date": "2026-09-26",
-          "view_count": 13295,
+          "view_count": 13297,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-26 15:59:04",
           "rowid": 28
@@ -2822,7 +2822,7 @@
           "youtube_id": "fnlS7JeTxyA",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 2617709,
+          "view_count": 2617860,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:35:02",
           "rowid": 27
@@ -2832,7 +2832,7 @@
           "youtube_id": "4hxqAaHKXlg",
           "status": "uploaded",
           "upload_date": "2026-09-24",
-          "view_count": 48170,
+          "view_count": 48172,
           "title": "i am rich doll 😎",
           "created_at": "2026-09-24 12:00:13",
           "rowid": 26
@@ -2842,7 +2842,7 @@
           "youtube_id": "ZMg68rtsy8U",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 29733,
+          "view_count": 29738,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 16:06:31",
           "rowid": 25
@@ -2862,7 +2862,7 @@
           "youtube_id": "OswT2v6MD58",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 27457,
+          "view_count": 27460,
           "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
           "created_at": "2026-09-22 05:30:20",
           "rowid": 23
@@ -2872,7 +2872,7 @@
           "youtube_id": "i4r_X6ykv_4",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 31410,
+          "view_count": 31412,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-21 17:34:14",
           "rowid": 22
@@ -2882,7 +2882,7 @@
           "youtube_id": "5FyiXi2KuKo",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 8764462,
+          "view_count": 8764687,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:06:44",
           "rowid": 21
@@ -2932,7 +2932,7 @@
           "youtube_id": "CmcQgkrgjBY",
           "status": "uploaded",
           "upload_date": "2026-09-14",
-          "view_count": 9174,
+          "view_count": 9175,
           "title": "We NEED to talk about Dragona Joestar... #jjba #jojosbizarreadventure #jojo #Joestar #dragonajo",
           "created_at": "2026-09-14 22:12:17",
           "rowid": 16
@@ -2942,7 +2942,7 @@
           "youtube_id": "9x_zFMB3kk4",
           "status": "uploaded",
           "upload_date": "2026-09-14",
-          "view_count": 7861,
+          "view_count": 7863,
           "title": "Is Garfieldkart 2 worse than the Hindenburg Disaster #game #garfieldkart #garfield #gamingchall",
           "created_at": "2026-09-14 08:08:45",
           "rowid": 15
@@ -2965,7 +2965,7 @@
       "youtube_handle": "@luvthuggaas",
       "youtube_channel_url": "https://www.youtube.com/@luvthuggaas",
       "subscribers_count": 477,
-      "published_videos_count": 47,
+      "published_videos_count": 48,
       "live_youtube_views": 393,
       "owner_email": "khadijaammar284@gmail.com",
       "channel_created_at": "Sep 01, 2026",
@@ -2999,21 +2999,21 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-15 16:41:55 UTC",
+        "expires_at": "2026-11-16 05:53:50 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 132,
+      "total_uploaded": 134,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 38379,
-      "last_run_date": "2026-11-14 04:31:53",
+      "last_run_date": "2026-11-16 04:55:12",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: uhycIJieYTg",
+      "last_run_message": "Uploaded YouTube ID: WkkuSAqNivo",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-07",
@@ -3093,9 +3093,9 @@
         {
           "date": "2026-11-16",
           "short_date": "Nov 16",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 2,
+          "uploads_count": 4,
           "views_gained": 0
         }
       ],
@@ -3153,11 +3153,31 @@
           "short_date": "Nov 16",
           "day_name": "Mon",
           "is_today": true,
-          "uploads_count": 2,
+          "uploads_count": 4,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "7416827906749500702",
+          "youtube_id": "WkkuSAqNivo",
+          "status": "uploaded",
+          "upload_date": "2026-11-16",
+          "view_count": 0,
+          "title": "Literally 10 feet away from the police 😭😭 whyyyyyy? #Shorts #Fishing #Viral",
+          "created_at": "2026-11-16 04:55:12",
+          "rowid": 134
+        },
+        {
+          "tiktok_id": "7418182515891916062",
+          "youtube_id": null,
+          "status": "uploaded",
+          "upload_date": "2026-11-16",
+          "view_count": 0,
+          "title": "When youve been reeling for over 30 minutes and still can’t see the fish’s head 😭😂 #fishing #fishinglife #fishingtiktoks #foruyou #fyppage #fypp",
+          "created_at": "2026-11-16 04:54:48",
+          "rowid": 133
+        },
         {
           "tiktok_id": "yt_AAMDiDxq17k",
           "youtube_id": "AAMDiDxq17k",
@@ -3637,26 +3657,6 @@
           "title": "This game warden showed up to randomly check licenses and caught this pair over their daily",
           "created_at": "2026-10-27 10:43:13",
           "rowid": 85
-        },
-        {
-          "tiktok_id": "yt_Wjk_XiS1DHI",
-          "youtube_id": "Wjk_XiS1DHI",
-          "status": "uploaded",
-          "upload_date": "2026-10-27",
-          "view_count": 4,
-          "title": "The Incredible Life Of The 2 Years To Become King... Or Die #Lion #Kingofthejungle",
-          "created_at": "2026-10-27 05:15:09",
-          "rowid": 84
-        },
-        {
-          "tiktok_id": "yt_NvPAkZzgvtY",
-          "youtube_id": "NvPAkZzgvtY",
-          "status": "uploaded",
-          "upload_date": "2026-10-24",
-          "view_count": 11,
-          "title": "The Emotional Life Of African Elephants Will Touch Your Heart 🐘❤️ #Shorts #Animals #Nature",
-          "created_at": "2026-10-24 16:03:04",
-          "rowid": 83
         }
       ],
       "pending_retry_items": [],
@@ -3686,14 +3686,13 @@
         "gdrive_url": "https://drive.google.com/drive/folders/1Z80VWahTafQMiDU1S86M6z5mLnvo_CT3",
         "folder_title": "Curiotomy",
         "total_in_drive": 73,
-        "posted_count": 37,
-        "remaining_unposted": 36,
+        "posted_count": 38,
+        "remaining_unposted": 35,
         "videos_per_day": 1,
-        "days_buffer": 36.0,
+        "days_buffer": 35.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (36 videos ready)",
+        "stock_label": "HEALTHY (35 videos ready)",
         "unposted_videos": [
-          "How Barnacles Make Strongest Glue On Earth",
           "How Bearded Vultures Eat Bones",
           "How Bombardier Beetles Spray Boiling Acid",
           "How Chameleon Tongues Accelerate Faster Than A Jet",
@@ -3707,16 +3706,17 @@
           "How Leafcutter Ants Cultivate Giant Fungal Cities",
           "How Mantis Shrimp Strike Faster Than A Bullet",
           "How Mimic Octopuses Shapeshift",
-          "How Owls Fly In Silence"
+          "How Owls Fly In Silence",
+          "How Pistol Shrimp Create Sun Temperatures"
         ]
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1Z80VWahTafQMiDU1S86M6z5mLnvo_CT3",
         "stock_status": "healthy",
-        "remaining_unposted": 36,
+        "remaining_unposted": 35,
         "total_available": 73,
-        "days_buffer": 36.0,
+        "days_buffer": 35.0,
         "alert_message": null
       },
       "is_monetized": false,
@@ -3735,18 +3735,18 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-15 16:41:55 UTC",
+        "expires_at": "2026-11-16 05:53:50 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
-      "total_uploaded": 73,
+      "total_uploaded": 74,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 771680,
+      "total_views": 771766,
       "last_run_date": "2026-11-14 04:33:17",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: Yd_JTHuy8nQ",
@@ -3831,7 +3831,7 @@
           "short_date": "Nov 16",
           "slot1": "not_run",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -3889,11 +3889,21 @@
           "short_date": "Nov 16",
           "day_name": "Mon",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "yt_Qogpglm0p_c",
+          "youtube_id": "Qogpglm0p_c",
+          "status": "uploaded",
+          "upload_date": "2026-11-16",
+          "view_count": 0,
+          "title": "How Barnacles Make Strongest Glue on Earth #Shorts #Science #Facts",
+          "created_at": "2026-11-16 04:56:52",
+          "rowid": 74
+        },
         {
           "tiktok_id": "1_P03EvjzPQnqNO_IaqIwhxFXtQ18x4VK",
           "youtube_id": "Yd_JTHuy8nQ",
@@ -3959,7 +3969,7 @@
           "youtube_id": "MQ2V6Lvy1uo",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 85094,
+          "view_count": 85118,
           "title": "Why Drive Nails Into Papaya Trees #Shorts #Science #Facts",
           "created_at": "2026-11-09 07:37:55",
           "rowid": 67
@@ -4199,7 +4209,7 @@
           "youtube_id": "0NEdIpnsmG0",
           "status": "uploaded",
           "upload_date": "2026-10-19",
-          "view_count": 89,
+          "view_count": 91,
           "title": "How Ladybugs Control Aphids #Shorts #Science #Facts",
           "created_at": "2026-10-19 04:28:25",
           "rowid": 43
@@ -4209,7 +4219,7 @@
           "youtube_id": "KvDf3SpG0U4",
           "status": "uploaded",
           "upload_date": "2026-10-17",
-          "view_count": 1311,
+          "view_count": 1320,
           "title": "How Fruit Flies Ruin Mangoes #Shorts #Science #Facts",
           "created_at": "2026-10-17 02:23:05",
           "rowid": 42
@@ -4219,7 +4229,7 @@
           "youtube_id": "R-t0nabAor0",
           "status": "uploaded",
           "upload_date": "2026-10-16",
-          "view_count": 1457,
+          "view_count": 1461,
           "title": "How Foundation Footings Prevent Cracks #Shorts #Science #Facts",
           "created_at": "2026-10-16 07:21:58",
           "rowid": 41
@@ -4229,7 +4239,7 @@
           "youtube_id": "m2HI6bI8YNg",
           "status": "uploaded",
           "upload_date": "2026-10-15",
-          "view_count": 1157,
+          "view_count": 1172,
           "title": "How Fog Harvesting Works #Shorts #Science #Facts",
           "created_at": "2026-10-15 13:28:59",
           "rowid": 40
@@ -4249,7 +4259,7 @@
           "youtube_id": "8iqlc5vU20M",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 159,
+          "view_count": 160,
           "title": "How Femme Fatale Fireflies Hunt #Shorts #Science #Facts",
           "created_at": "2026-10-14 03:18:24",
           "rowid": 38
@@ -4259,7 +4269,7 @@
           "youtube_id": "2A22_64Pq88",
           "status": "uploaded",
           "upload_date": "2026-10-14",
-          "view_count": 1346,
+          "view_count": 1348,
           "title": "How Fire Ants Form Living Rafts #Shorts #Science #Facts",
           "created_at": "2026-10-14 03:18:24",
           "rowid": 37
@@ -4279,7 +4289,7 @@
           "youtube_id": "rUSuFDoJjxc",
           "status": "uploaded",
           "upload_date": "2026-10-08",
-          "view_count": 934,
+          "view_count": 940,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
           "created_at": "2026-10-08 09:22:54",
           "rowid": 35
@@ -4299,7 +4309,7 @@
           "youtube_id": "VT8uUYMU4Zs",
           "status": "uploaded",
           "upload_date": "2026-10-08",
-          "view_count": 299,
+          "view_count": 300,
           "title": "How Biogas Plants Work #Shorts #Science #Facts",
           "created_at": "2026-10-08 07:37:01",
           "rowid": 33
@@ -4309,7 +4319,7 @@
           "youtube_id": "PqwL-bsZYRg",
           "status": "uploaded",
           "upload_date": "2026-10-07",
-          "view_count": 170,
+          "view_count": 174,
           "title": "How Banana Weevils Kill Trees #Shorts #Science #Facts",
           "created_at": "2026-10-07 05:36:31",
           "rowid": 32
@@ -4319,7 +4329,7 @@
           "youtube_id": "DHRgawEJKDI",
           "status": "uploaded",
           "upload_date": "2026-10-06",
-          "view_count": 337,
+          "view_count": 339,
           "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
           "created_at": "2026-10-06 08:29:00",
           "rowid": 31
@@ -4339,7 +4349,7 @@
           "youtube_id": "JhYCa8YlyMg",
           "status": "uploaded",
           "upload_date": "2026-10-05",
-          "view_count": 601,
+          "view_count": 602,
           "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
           "created_at": "2026-10-05 07:33:15",
           "rowid": 29
@@ -4369,7 +4379,7 @@
           "youtube_id": "ODZNTUFEcgg",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 900,
+          "view_count": 911,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
           "created_at": "2026-09-30 15:19:30",
           "rowid": 26
@@ -4379,20 +4389,10 @@
           "youtube_id": "YSrFl3WM2SE",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 461,
+          "view_count": 464,
           "title": "Why Spicy Food Makes Your Nose Run",
           "created_at": "2026-09-30 03:40:02",
           "rowid": 25
-        },
-        {
-          "tiktok_id": "Ddo6CGogZQJ",
-          "youtube_id": "W0vakKpseyU",
-          "status": "uploaded",
-          "upload_date": "2026-09-30",
-          "view_count": 359,
-          "title": "Why Cutting Onions Makes You Cry",
-          "created_at": "2026-09-30 03:35:18",
-          "rowid": 24
         }
       ],
       "pending_retry_items": [],
@@ -4471,11 +4471,11 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-15 16:41:55 UTC",
+        "expires_at": "2026-11-16 05:53:50 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
@@ -4646,7 +4646,7 @@
           "youtube_id": "hykdnxhpCvU",
           "status": "uploaded",
           "upload_date": "2026-11-15",
-          "view_count": 2659,
+          "view_count": 2664,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-15 15:41:58",
           "rowid": 92
@@ -4676,7 +4676,7 @@
           "youtube_id": "0WcY7Qhpq2s",
           "status": "uploaded",
           "upload_date": "2026-11-14",
-          "view_count": 694,
+          "view_count": 699,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-14 04:23:11",
           "rowid": 89
@@ -4696,7 +4696,7 @@
           "youtube_id": "rn-wgKISqU4",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 2483,
+          "view_count": 2485,
           "title": "Baby Bunny Surprise! Crib Napped 🐰 #shorts #cutebaby #viral",
           "created_at": "2026-11-12 06:37:34",
           "rowid": 87
@@ -5182,11 +5182,11 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-15 16:41:57 UTC",
+        "expires_at": "2026-11-16 05:53:54 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
@@ -5654,7 +5654,7 @@
           "youtube_id": "MgeHGRdx2Wg",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 5739364,
+          "view_count": 5739369,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech #babyshorts",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 23
@@ -5834,7 +5834,7 @@
           "youtube_id": "WkltXHuVNbM",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 535390,
+          "view_count": 535621,
           "title": "He saw his cake twin get cut… and his reaction was priceless! Wait for the ending.",
           "created_at": "2026-11-12 06:54:03",
           "rowid": 5
@@ -5909,11 +5909,11 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-15 16:41:58 UTC",
+        "expires_at": "2026-11-16 05:53:54 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
@@ -6136,11 +6136,11 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-16 04:54:44 UTC",
+    "timestamp": "2026-11-16 04:56:54 UTC",
     "total_channels": 10,
-    "healthy_count": 3,
+    "healthy_count": 4,
     "auto_healed_count": 0,
-    "action_required_count": 2,
+    "action_required_count": 1,
     "channels": [
       {
         "channel_id": "channel_1",
@@ -6204,7 +6204,7 @@
         "profile_code": "CH3",
         "source_type": "gdrive",
         "source_target": "N/A",
-        "status": "action_required",
+        "status": "monitoring",
         "token_status": "valid",
         "last_upload_date": "2026-11-14",
         "uploads_today": 0,
@@ -6212,18 +6212,18 @@
         "missed_posting": true,
         "error_detail": "No uploads recorded in the last 48 hours. Scheduled upload pending next slot.",
         "auto_heal_log": null,
-        "user_action_needed": true,
-        "action_title": "Content Depleted: Quote 4 Quotes",
-        "action_description": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped.",
-        "action_button_type": "update_source",
+        "user_action_needed": false,
+        "action_title": null,
+        "action_description": null,
+        "action_button_type": null,
         "content_inventory": {
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
-          "stock_status": "depleted",
-          "remaining_unposted": 0,
+          "stock_status": "low_stock",
+          "remaining_unposted": 1,
           "total_available": 23,
-          "days_buffer": 0.0,
-          "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
+          "days_buffer": 0.5,
+          "alert_message": "Only 1 unposted videos remaining in Google Drive (~0.5 days left). Add more videos soon."
         }
       },
       {
@@ -6263,7 +6263,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-11-16",
-        "uploads_today": 2,
+        "uploads_today": 4,
         "uploads_yesterday": 2,
         "missed_posting": false,
         "error_detail": null,
@@ -6288,13 +6288,13 @@
         "profile_code": "Behanzu",
         "source_type": "gdrive",
         "source_target": "N/A",
-        "status": "monitoring",
+        "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-11-14",
-        "uploads_today": 0,
+        "last_upload_date": "2026-11-16",
+        "uploads_today": 1,
         "uploads_yesterday": 0,
-        "missed_posting": true,
-        "error_detail": "No uploads recorded in the last 48 hours. Scheduled upload pending next slot.",
+        "missed_posting": false,
+        "error_detail": null,
         "auto_heal_log": null,
         "user_action_needed": false,
         "action_title": null,
@@ -6304,9 +6304,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1Z80VWahTafQMiDU1S86M6z5mLnvo_CT3",
           "stock_status": "healthy",
-          "remaining_unposted": 36,
+          "remaining_unposted": 35,
           "total_available": 73,
-          "days_buffer": 36.0,
+          "days_buffer": 35.0,
           "alert_message": null
         }
       },
@@ -6424,34 +6424,6 @@
       }
     ],
     "action_required_items": [
-      {
-        "channel_id": "channel_3",
-        "name": "Quote 4 Quotes",
-        "profile_code": "CH3",
-        "source_type": "gdrive",
-        "source_target": "N/A",
-        "status": "action_required",
-        "token_status": "valid",
-        "last_upload_date": "2026-11-14",
-        "uploads_today": 0,
-        "uploads_yesterday": 0,
-        "missed_posting": true,
-        "error_detail": "No uploads recorded in the last 48 hours. Scheduled upload pending next slot.",
-        "auto_heal_log": null,
-        "user_action_needed": true,
-        "action_title": "Content Depleted: Quote 4 Quotes",
-        "action_description": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped.",
-        "action_button_type": "update_source",
-        "content_inventory": {
-          "source_type": "gdrive",
-          "source_url": "https://drive.google.com/drive/folders/13KgCZIXZslBupVqzT7CScy26397Wdb7j",
-          "stock_status": "depleted",
-          "remaining_unposted": 0,
-          "total_available": 23,
-          "days_buffer": 0.0,
-          "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
-        }
-      },
       {
         "channel_id": "channel_4",
         "name": "AniHightRecap",
