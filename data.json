@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-18 05:29:06 UTC",
+    "timestamp_utc": "2026-11-18 05:51:08 UTC",
     "total_channels": 11,
     "active_channels": 10,
     "disabled_channels": 0,
     "idle_channels": 0,
     "today_completed_channels": 0,
     "token_warnings": 0,
-    "error_channels": 0,
-    "health_rate_percent": 100.0,
+    "error_channels": 1,
+    "health_rate_percent": 90.0,
     "total_uploaded_videos": 1499,
-    "total_views_tracked": 191098668,
+    "total_views_tracked": 191099052,
     "total_subscribers": 121373,
     "total_pending_retries": 7,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-18 05:30:30 UTC"
+    "gh_pages_synced_at": "2026-11-18 05:51:11 UTC"
   },
   "channels": [
     {
@@ -73,7 +73,7 @@
       "total_uploaded": 129,
       "total_failed": 0,
       "total_pending_retry": 7,
-      "total_views": 4952322,
+      "total_views": 4952334,
       "last_run_date": "2026-11-18 05:19:12",
       "last_run_status": "success",
       "last_run_message": "Broadcast Upload: wAAWnkXi-UM",
@@ -387,7 +387,7 @@
           "youtube_id": "LebugIEr-J8",
           "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 33,
+          "view_count": 42,
           "title": "This Cat Knows How to Live in Style 😺✨ #shorts #catlife #luxurypets #cutecats #catlove #fyp #cat",
           "created_at": "2026-11-03 00:03:10",
           "rowid": 121
@@ -397,7 +397,7 @@
           "youtube_id": "qNWZmnFf03U",
           "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 9,
+          "view_count": 11,
           "title": "One Paw Tap, Then the Coziest Cat Life! 🐱🏡 #shorts #whitecat #fluffycat #cozycat #catlove #viralreel",
           "created_at": "2026-11-03 00:03:01",
           "rowid": 120
@@ -407,7 +407,7 @@
           "youtube_id": "8LrniM06e04",
           "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 78,
+          "view_count": 79,
           "title": "A Secret Stairway to This Cat's Cozy Hideaway 😺 #shorts #cathouse #secret #stairway #luxurypets #fyp",
           "created_at": "2026-11-03 00:02:52",
           "rowid": 119
@@ -1016,7 +1016,7 @@
           "youtube_id": "biYXrDhSXIU",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 6,
+          "view_count": 52,
           "title": "Baby Follows GRANDPA Walk! 🦯😂",
           "created_at": "2026-11-18 05:19:39",
           "rowid": 152
@@ -1026,7 +1026,7 @@
           "youtube_id": "IU9yq_0O9gk",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 48,
+          "view_count": 59,
           "title": "The ultimate rich & creamy clam chowder recipe 🥣 #clamchowder #soup #comfortfood #recipe",
           "created_at": "2026-11-18 04:18:48",
           "rowid": 151
@@ -1056,7 +1056,7 @@
           "youtube_id": "7XwPJahtAHw",
           "status": "uploaded",
           "upload_date": "2026-11-17",
-          "view_count": 1618,
+          "view_count": 1625,
           "title": "Shrimp Tacos & Loaded Skillet Nachos | Ultimate Cheese Pull ASMR 🌮🧀 V #cutebaby #babycostume",
           "created_at": "2026-11-17 18:23:41",
           "rowid": 148
@@ -1226,7 +1226,7 @@
           "youtube_id": "8XnPOtroI3c",
           "status": "uploaded",
           "upload_date": "2026-11-11",
-          "view_count": 1665598,
+          "view_count": 1665634,
           "title": "😂 This Baby IMPRESSED His Father! 😤👶 | Funniest Baby Plan",
           "created_at": "2026-11-11 07:00:31",
           "rowid": 131
@@ -1581,15 +1581,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "no_content",
+      "slot1_today": "failed",
       "slot2_today": "not_run",
       "total_uploaded": 102,
       "total_failed": 1,
       "total_pending_retry": 0,
       "total_views": 3178782,
-      "last_run_date": "2026-11-18 05:20:08",
-      "last_run_status": "success",
-      "last_run_message": "Broadcast Upload: mw3d5F7JytY",
+      "last_run_date": "2026-11-18 05:50:15",
+      "last_run_status": "failed",
+      "last_run_message": "Failed to download any unposted candidate videos for slot 1.",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-09",
@@ -1670,7 +1670,7 @@
         {
           "date": "2026-11-18",
           "short_date": "Nov 18",
-          "slot1": "no_content",
+          "slot1": "failed",
           "slot2": "not_run",
           "uploads_count": 1,
           "views_gained": 0,
@@ -1741,7 +1741,7 @@
           "youtube_id": "mw3d5F7JytY",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 0,
+          "view_count": 2,
           "title": "Baby Follows GRANDPA Walk! 🦯😂",
           "created_at": "2026-11-18 05:20:08",
           "rowid": 104
@@ -2243,7 +2243,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Oct 05, 2026",
-      "overall_status": "active"
+      "overall_status": "error"
     },
     {
       "channel_id": "channel_4",
@@ -2297,7 +2297,7 @@
       "total_uploaded": 66,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 11936076,
+      "total_views": 11936123,
       "last_run_date": "2026-11-18 05:20:41",
       "last_run_status": "success",
       "last_run_message": "Broadcast Upload: wOLLvWWw-WI",
@@ -2451,7 +2451,7 @@
           "youtube_id": "wOLLvWWw-WI",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 3,
+          "view_count": 41,
           "title": "Baby Follows GRANDPA Walk! 🦯😂",
           "created_at": "2026-11-18 05:20:41",
           "rowid": 66
@@ -2461,7 +2461,7 @@
           "youtube_id": "PBnhf-bDB5Q",
           "status": "uploaded",
           "upload_date": "2026-11-17",
-          "view_count": 1106,
+          "view_count": 1107,
           "title": "This Anime Ruined Everything In One Episode #Shorts #Anime #Viral",
           "created_at": "2026-11-17 18:35:17",
           "rowid": 65
@@ -2491,7 +2491,7 @@
           "youtube_id": "rZv6nU7JcBE",
           "status": "uploaded",
           "upload_date": "2026-11-11",
-          "view_count": 59812,
+          "view_count": 59820,
           "title": "😂 This Baby IMPRESSED His Father! 😤👶 | Funniest Baby Plan",
           "created_at": "2026-11-11 07:00:53",
           "rowid": 62
@@ -3745,7 +3745,7 @@
       "total_uploaded": 76,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 862564,
+      "total_views": 862887,
       "last_run_date": "2026-11-18 05:23:43",
       "last_run_status": "success",
       "last_run_message": "Broadcast Upload: DUbSubl5Gtc",
@@ -3969,7 +3969,7 @@
           "youtube_id": "38Rn9RNDyMg",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 240724,
+          "view_count": 241041,
           "title": "Violet Cyber Bike Becomes Jet Ski & Drops Into Toronto Harbour 😱🌊",
           "created_at": "2026-11-10 04:07:36",
           "rowid": 69
@@ -3989,7 +3989,7 @@
           "youtube_id": "MQ2V6Lvy1uo",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 95568,
+          "view_count": 95574,
           "title": "Why Drive Nails Into Papaya Trees #Shorts #Science #Facts",
           "created_at": "2026-11-09 07:37:55",
           "rowid": 67
@@ -4637,7 +4637,7 @@
           "youtube_id": "ki0GvAdW4Cs",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 0,
+          "view_count": 16,
           "title": "Baby Follows GRANDPA Walk! 🦯😂",
           "created_at": "2026-11-18 05:24:00",
           "rowid": 100
@@ -4647,7 +4647,7 @@
           "youtube_id": "Tlo-ibji8es",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 0,
+          "view_count": 391,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-18 05:09:38",
           "rowid": 99
@@ -4667,7 +4667,7 @@
           "youtube_id": "ykfoso1onGU",
           "status": "uploaded",
           "upload_date": "2026-11-17",
-          "view_count": 12121,
+          "view_count": 12260,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-17 18:23:41",
           "rowid": 97
@@ -4677,7 +4677,7 @@
           "youtube_id": "u9ckHv6GXRs",
           "status": "uploaded",
           "upload_date": "2026-11-17",
-          "view_count": 33725,
+          "view_count": 33843,
           "title": "Baby Fox Surprise! Sofa Nap Giggled 🦊 #shorts #cutebaby #viral",
           "created_at": "2026-11-17 18:23:41",
           "rowid": 96
@@ -4727,7 +4727,7 @@
           "youtube_id": "RkTXKvPcUOM",
           "status": "uploaded",
           "upload_date": "2026-11-14",
-          "view_count": 29392,
+          "view_count": 29449,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-14 05:10:02",
           "rowid": 91
@@ -4757,7 +4757,7 @@
           "youtube_id": "zNeHfsuzew0",
           "status": "uploaded",
           "upload_date": "2026-11-14",
-          "view_count": 2660,
+          "view_count": 2664,
           "title": "Baby Koala Surprise! Would Not Let Go 🐨 #shorts #cutebaby #viral",
           "created_at": "2026-11-14 04:23:11",
           "rowid": 88
@@ -4777,7 +4777,7 @@
           "youtube_id": "QR1F2IBhgME",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 995,
+          "view_count": 1017,
           "title": "Sweet Baby Bunny Cuddle Bug #Shorts #CuteBunny #CutePets",
           "created_at": "2026-11-12 06:16:34",
           "rowid": 86
@@ -4797,7 +4797,7 @@
           "youtube_id": "SLv4vZUAVZw",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 1318,
+          "view_count": 1358,
           "title": "😂 The Baby TOOK His Job Seriously! 😤👶 | Funniest Baby Instructions",
           "created_at": "2026-11-12 03:48:22",
           "rowid": 84
@@ -4857,7 +4857,7 @@
           "youtube_id": "gYmzhNCjK5Q",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 3070,
+          "view_count": 3072,
           "title": "Violet Cyber Bike Becomes Jet Ski & Drops Into Toronto Harbour 😱🌊",
           "created_at": "2026-11-10 04:08:39",
           "rowid": 78
@@ -4867,7 +4867,7 @@
           "youtube_id": "IwMggN0A0VI",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 1072,
+          "view_count": 1087,
           "title": "The sweetest little surprise! 🥹💛 This toddler thought he was giving a kiss to a golden statue 😂❤️",
           "created_at": "2026-11-09 09:45:45",
           "rowid": 77
@@ -5346,7 +5346,7 @@
           "youtube_id": "nZ-IRBPbV3o",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 2,
+          "view_count": 35,
           "title": "Baby Follows GRANDPA Walk! 🦯😂",
           "created_at": "2026-11-18 05:25:02",
           "rowid": 59
@@ -5356,7 +5356,7 @@
           "youtube_id": "g1r8ZFWV6Fk",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 30,
+          "view_count": 36,
           "title": "When The Little Boss Catches Mom In A Corner And Starts Asking The Real Questions! 😂",
           "created_at": "2026-11-18 04:31:13",
           "rowid": 58
@@ -5376,7 +5376,7 @@
           "youtube_id": "Q5qTA_RjpDQ",
           "status": "uploaded",
           "upload_date": "2026-11-17",
-          "view_count": 132,
+          "view_count": 137,
           "title": "Busted! 😂 When A Little Champ Exposes Family Secrets, You Just Have To Laugh.",
           "created_at": "2026-11-17 18:42:30",
           "rowid": 56
@@ -5726,7 +5726,7 @@
           "youtube_id": "wFZhEBTghxI",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 56958,
+          "view_count": 56968,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-11-12 08:27:18",
           "rowid": 21
@@ -6244,7 +6244,7 @@
       "total_uploaded": 14,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 824891,
+      "total_views": 824893,
       "last_run_date": "2026-11-18 05:25:47",
       "last_run_status": "success",
       "last_run_message": "Broadcast Upload: gOjDCe1ZTIM",
@@ -6395,7 +6395,7 @@
           "youtube_id": "gOjDCe1ZTIM",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 0,
+          "view_count": 1,
           "title": "Baby Follows GRANDPA Walk! 🦯😂",
           "created_at": "2026-11-18 05:25:47",
           "rowid": 14
@@ -6405,7 +6405,7 @@
           "youtube_id": "l5-ruHMeXFY",
           "status": "uploaded",
           "upload_date": "2026-11-17",
-          "view_count": 58,
+          "view_count": 59,
           "title": "Black-Chrome Suitcase Transforms Into Cyber Super-Sport Bike at Oslo Airport 😱🏍️.mp4 Video",
           "created_at": "2026-11-17 18:46:01",
           "rowid": 13
@@ -6541,7 +6541,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-18 05:29:06 UTC",
+    "timestamp": "2026-11-18 05:51:08 UTC",
     "total_channels": 11,
     "healthy_count": 9,
     "auto_healed_count": 0,
