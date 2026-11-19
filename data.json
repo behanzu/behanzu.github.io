@@ -1,15 +1,15 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-19 17:55:03 UTC",
+    "timestamp_utc": "2026-11-19 17:56:44 UTC",
     "total_channels": 11,
-    "active_channels": 8,
-    "disabled_channels": 2,
-    "idle_channels": 2,
+    "active_channels": 9,
+    "disabled_channels": 1,
+    "idle_channels": 1,
     "today_completed_channels": 3,
     "token_warnings": 0,
     "error_channels": 3,
-    "health_rate_percent": 62.5,
-    "total_uploaded_videos": 854,
+    "health_rate_percent": 66.7,
+    "total_uploaded_videos": 855,
     "total_views_tracked": 191144240,
     "total_subscribers": 122331,
     "total_pending_retries": 6,
@@ -17,7 +17,7 @@
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-19 17:55:17 UTC"
+    "gh_pages_synced_at": "2026-11-19 17:57:28 UTC"
   },
   "channels": [
     {
@@ -1282,7 +1282,7 @@
           "youtube_id": "EG2mGZN9qSw",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 230991,
+          "view_count": 231099,
           "title": "Violet Cyber Bike Becomes Jet Ski & Drops Into Toronto Harbour 😱🌊",
           "created_at": "2026-11-10 03:58:13",
           "rowid": 128
@@ -2958,7 +2958,7 @@
       "youtube_handle": "@luvthuggaas",
       "youtube_channel_url": "https://www.youtube.com/@luvthuggaas",
       "subscribers_count": 480,
-      "published_videos_count": 55,
+      "published_videos_count": 56,
       "live_youtube_views": 418,
       "owner_email": "khadijaammar284@gmail.com",
       "channel_created_at": "Sep 01, 2026",
@@ -2969,16 +2969,16 @@
       "content_inventory": {
         "source_type": "tiktok",
         "source_url": "https://www.tiktok.com/@fishing_tiktoks",
-        "stock_status": "depleted",
-        "remaining_unposted": 0,
-        "total_available": 0,
-        "days_buffer": 0,
-        "alert_message": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL."
+        "stock_status": "healthy",
+        "remaining_unposted": null,
+        "total_available": null,
+        "days_buffer": null,
+        "alert_message": null
       },
       "is_monetized": false,
       "monetized_date": null,
       "enabled": true,
-      "status": "idle",
+      "status": "active",
       "idle_since": null,
       "days_idle": null,
       "is_idle_expired": false,
@@ -2998,15 +2998,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "no_content",
+      "slot1_today": "success",
       "slot2_today": "no_content",
-      "total_uploaded": 141,
+      "total_uploaded": 142,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 38418,
-      "last_run_date": "2026-11-19 17:28:12",
-      "last_run_status": "no_content",
-      "last_run_message": "No unposted videos found for channel source channel_5.",
+      "last_run_date": "2026-11-19 17:55:15",
+      "last_run_status": "success",
+      "last_run_message": "Uploaded YouTube ID: -xgMN5D91Ic",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-10",
@@ -3086,9 +3086,9 @@
         {
           "date": "2026-11-19",
           "short_date": "Nov 19",
-          "slot1": "no_content",
+          "slot1": "success",
           "slot2": "no_content",
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
@@ -3146,11 +3146,21 @@
           "short_date": "Nov 19",
           "day_name": "Thu",
           "is_today": true,
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "7410224113886760223",
+          "youtube_id": "-xgMN5D91Ic",
+          "status": "uploaded",
+          "upload_date": "2026-11-19",
+          "view_count": 0,
+          "title": "Karen calls police on man fishing of the side of the bridge 🤔 #Shorts #Fishing #Viral",
+          "created_at": "2026-11-19 17:55:15",
+          "rowid": 142
+        },
         {
           "tiktok_id": "yt_R_bso6z8aJo",
           "youtube_id": "R_bso6z8aJo",
@@ -3640,16 +3650,6 @@
           "title": "Noooo waaaay 🤯🤯 #Shorts #Fishing #Viral",
           "created_at": "2026-10-31 05:08:12",
           "rowid": 93
-        },
-        {
-          "tiktok_id": "yt_pcztxt8R5KU",
-          "youtube_id": "pcztxt8R5KU",
-          "status": "uploaded",
-          "upload_date": "2026-10-30",
-          "view_count": 3,
-          "title": "Noooooo 😭 that net is 100% done for #Shorts #Fishing #Viral",
-          "created_at": "2026-10-30 02:32:49",
-          "rowid": 92
         }
       ],
       "pending_retry_items": [],
@@ -3658,8 +3658,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 02, 2026",
-      "overall_status": "idle",
-      "idle_reason": "inventory_depleted"
+      "overall_status": "active"
     },
     {
       "channel_id": "channel_14",
@@ -4660,7 +4659,7 @@
           "youtube_id": "SsUeNe44Q70",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 1544,
+          "view_count": 1545,
           "title": "Baby Giraffe Surprise! Not The Only One 🦒 #shorts #cutebaby #viral",
           "created_at": "2026-11-18 06:33:21",
           "rowid": 101
@@ -4850,7 +4849,7 @@
           "youtube_id": "pFclSCInpcE",
           "status": "uploaded",
           "upload_date": "2026-11-11",
-          "view_count": 4796,
+          "view_count": 4829,
           "title": "Baby Panda Surprise! Crib Woke Up 🐼 #shorts #cutebaby #viral",
           "created_at": "2026-11-11 06:36:17",
           "rowid": 82
@@ -6544,11 +6543,11 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-19 17:55:03 UTC",
+    "timestamp": "2026-11-19 17:56:44 UTC",
     "total_channels": 11,
-    "healthy_count": 5,
+    "healthy_count": 6,
     "auto_healed_count": 0,
-    "action_required_count": 4,
+    "action_required_count": 3,
     "channels": [
       {
         "channel_id": "channel_1",
@@ -6668,26 +6667,26 @@
         "profile_code": "",
         "source_type": "tiktok",
         "source_target": "fishing_tiktoks",
-        "status": "action_required",
+        "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-11-19",
-        "uploads_today": 2,
+        "uploads_today": 3,
         "uploads_yesterday": 2,
         "missed_posting": false,
         "error_detail": null,
         "auto_heal_log": null,
-        "user_action_needed": true,
-        "action_title": "Content Depleted: AI Emotional Shorts",
-        "action_description": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL.",
-        "action_button_type": "update_source",
+        "user_action_needed": false,
+        "action_title": null,
+        "action_description": null,
+        "action_button_type": null,
         "content_inventory": {
           "source_type": "tiktok",
           "source_url": "https://www.tiktok.com/@fishing_tiktoks",
-          "stock_status": "depleted",
-          "remaining_unposted": 0,
-          "total_available": 0,
-          "days_buffer": 0,
-          "alert_message": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL."
+          "stock_status": "healthy",
+          "remaining_unposted": null,
+          "total_available": null,
+          "days_buffer": null,
+          "alert_message": null
         }
       },
       {
@@ -6881,34 +6880,6 @@
         "content_inventory": {
           "source_type": "tiktok",
           "source_url": "https://www.tiktok.com/@faghieegiza",
-          "stock_status": "depleted",
-          "remaining_unposted": 0,
-          "total_available": 0,
-          "days_buffer": 0,
-          "alert_message": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL."
-        }
-      },
-      {
-        "channel_id": "channel_5",
-        "name": "AI Emotional Shorts",
-        "profile_code": "",
-        "source_type": "tiktok",
-        "source_target": "fishing_tiktoks",
-        "status": "action_required",
-        "token_status": "valid",
-        "last_upload_date": "2026-11-19",
-        "uploads_today": 2,
-        "uploads_yesterday": 2,
-        "missed_posting": false,
-        "error_detail": null,
-        "auto_heal_log": null,
-        "user_action_needed": true,
-        "action_title": "Content Depleted: AI Emotional Shorts",
-        "action_description": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL.",
-        "action_button_type": "update_source",
-        "content_inventory": {
-          "source_type": "tiktok",
-          "source_url": "https://www.tiktok.com/@fishing_tiktoks",
           "stock_status": "depleted",
           "remaining_unposted": 0,
           "total_available": 0,
