@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-19 17:56:44 UTC",
+    "timestamp_utc": "2026-11-19 17:59:07 UTC",
     "total_channels": 11,
     "active_channels": 9,
     "disabled_channels": 1,
     "idle_channels": 1,
-    "today_completed_channels": 3,
+    "today_completed_channels": 4,
     "token_warnings": 0,
     "error_channels": 3,
     "health_rate_percent": 66.7,
-    "total_uploaded_videos": 855,
-    "total_views_tracked": 191144240,
+    "total_uploaded_videos": 856,
+    "total_views_tracked": 191144410,
     "total_subscribers": 122331,
     "total_pending_retries": 6,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-19 17:57:28 UTC"
+    "gh_pages_synced_at": "2026-11-19 18:00:06 UTC"
   },
   "channels": [
     {
@@ -1042,7 +1042,7 @@
           "youtube_id": "biYXrDhSXIU",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 20214,
+          "view_count": 20318,
           "title": "Baby Follows GRANDPA Walk! 🦯😂",
           "created_at": "2026-11-18 05:19:39",
           "rowid": 152
@@ -1252,7 +1252,7 @@
           "youtube_id": "8XnPOtroI3c",
           "status": "uploaded",
           "upload_date": "2026-11-11",
-          "view_count": 1714040,
+          "view_count": 1714516,
           "title": "😂 This Baby IMPRESSED His Father! 😤👶 | Funniest Baby Plan",
           "created_at": "2026-11-11 07:00:31",
           "rowid": 131
@@ -2292,7 +2292,7 @@
       "total_uploaded": 66,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 11945046,
+      "total_views": 11945045,
       "last_run_date": "2026-11-19 17:50:47",
       "last_run_status": "no_content",
       "last_run_message": "No unposted videos found for channel source channel_4.",
@@ -2515,7 +2515,7 @@
           "youtube_id": "tmDABcdWyQM",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 262,
+          "view_count": 261,
           "title": "The sweetest little surprise! 🥹💛 This toddler thought he was giving a kiss to a golden statue 😂❤️",
           "created_at": "2026-11-09 09:43:16",
           "rowid": 59
@@ -2958,7 +2958,7 @@
       "youtube_handle": "@luvthuggaas",
       "youtube_channel_url": "https://www.youtube.com/@luvthuggaas",
       "subscribers_count": 480,
-      "published_videos_count": 56,
+      "published_videos_count": 57,
       "live_youtube_views": 418,
       "owner_email": "khadijaammar284@gmail.com",
       "channel_created_at": "Sep 01, 2026",
@@ -2999,14 +2999,14 @@
         "is_expired": false
       },
       "slot1_today": "success",
-      "slot2_today": "no_content",
-      "total_uploaded": 142,
+      "slot2_today": "success",
+      "total_uploaded": 143,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 38418,
-      "last_run_date": "2026-11-19 17:55:15",
+      "last_run_date": "2026-11-19 17:57:26",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: -xgMN5D91Ic",
+      "last_run_message": "Uploaded YouTube ID: Ziw8l2iRbLE",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-10",
@@ -3087,8 +3087,8 @@
           "date": "2026-11-19",
           "short_date": "Nov 19",
           "slot1": "success",
-          "slot2": "no_content",
-          "uploads_count": 3,
+          "slot2": "success",
+          "uploads_count": 4,
           "views_gained": 0
         }
       ],
@@ -3146,11 +3146,21 @@
           "short_date": "Nov 19",
           "day_name": "Thu",
           "is_today": true,
-          "uploads_count": 3,
+          "uploads_count": 4,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "7337033820249591082",
+          "youtube_id": "Ziw8l2iRbLE",
+          "status": "uploaded",
+          "upload_date": "2026-11-19",
+          "view_count": 0,
+          "title": "Can we trust him? 🤔🤔 #Shorts #Fishing #Viral",
+          "created_at": "2026-11-19 17:57:26",
+          "rowid": 143
+        },
         {
           "tiktok_id": "7410224113886760223",
           "youtube_id": "-xgMN5D91Ic",
@@ -3640,16 +3650,6 @@
           "title": "Bro really thought this was worthless 😭😭 #Shorts #Fishing #Viral",
           "created_at": "2026-10-31 05:08:12",
           "rowid": 94
-        },
-        {
-          "tiktok_id": "yt_TljSue23xw4",
-          "youtube_id": "TljSue23xw4",
-          "status": "uploaded",
-          "upload_date": "2026-10-31",
-          "view_count": 2,
-          "title": "Noooo waaaay 🤯🤯 #Shorts #Fishing #Viral",
-          "created_at": "2026-10-31 05:08:12",
-          "rowid": 93
         }
       ],
       "pending_retry_items": [],
@@ -3658,7 +3658,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 02, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_14",
@@ -3739,7 +3739,7 @@
       "total_uploaded": 77,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 907528,
+      "total_views": 907699,
       "last_run_date": "2026-11-19 16:59:25",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: 3x2E1m7MCMk",
@@ -3892,7 +3892,7 @@
           "youtube_id": "3x2E1m7MCMk",
           "status": "uploaded",
           "upload_date": "2026-11-19",
-          "view_count": 3,
+          "view_count": 4,
           "title": "How Bombardier Beetles Spray Boiling Acid #Shorts #Science #Facts",
           "created_at": "2026-11-19 16:59:25",
           "rowid": 77
@@ -3972,7 +3972,7 @@
           "youtube_id": "38Rn9RNDyMg",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 282351,
+          "view_count": 282515,
           "title": "Violet Cyber Bike Becomes Jet Ski & Drops Into Toronto Harbour 😱🌊",
           "created_at": "2026-11-10 04:07:36",
           "rowid": 69
@@ -3992,7 +3992,7 @@
           "youtube_id": "MQ2V6Lvy1uo",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 98267,
+          "view_count": 98273,
           "title": "Why Drive Nails Into Papaya Trees #Shorts #Science #Facts",
           "created_at": "2026-11-09 07:37:55",
           "rowid": 67
@@ -4639,7 +4639,7 @@
           "youtube_id": "0gipNOK-ejc",
           "status": "uploaded",
           "upload_date": "2026-11-19",
-          "view_count": 13783,
+          "view_count": 13830,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-19 16:48:15",
           "rowid": 103
@@ -4669,7 +4669,7 @@
           "youtube_id": "ki0GvAdW4Cs",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 2306,
+          "view_count": 2320,
           "title": "Baby Follows GRANDPA Walk! 🦯😂",
           "created_at": "2026-11-18 05:24:00",
           "rowid": 100
@@ -4679,7 +4679,7 @@
           "youtube_id": "Tlo-ibji8es",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 5970,
+          "view_count": 5985,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-18 05:09:38",
           "rowid": 99
@@ -4709,7 +4709,7 @@
           "youtube_id": "u9ckHv6GXRs",
           "status": "uploaded",
           "upload_date": "2026-11-17",
-          "view_count": 38229,
+          "view_count": 38237,
           "title": "Baby Fox Surprise! Sofa Nap Giggled 🦊 #shorts #cutebaby #viral",
           "created_at": "2026-11-17 18:23:41",
           "rowid": 96
@@ -4759,7 +4759,7 @@
           "youtube_id": "RkTXKvPcUOM",
           "status": "uploaded",
           "upload_date": "2026-11-14",
-          "view_count": 30720,
+          "view_count": 30722,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-14 05:10:02",
           "rowid": 91
@@ -6543,7 +6543,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-19 17:56:44 UTC",
+    "timestamp": "2026-11-19 17:59:07 UTC",
     "total_channels": 11,
     "healthy_count": 6,
     "auto_healed_count": 0,
@@ -6670,7 +6670,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-11-19",
-        "uploads_today": 3,
+        "uploads_today": 4,
         "uploads_yesterday": 2,
         "missed_posting": false,
         "error_detail": null,
