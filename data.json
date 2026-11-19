@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-19 16:54:14 UTC",
+    "timestamp_utc": "2026-11-19 16:57:37 UTC",
     "total_channels": 11,
-    "active_channels": 9,
-    "disabled_channels": 1,
-    "idle_channels": 1,
+    "active_channels": 8,
+    "disabled_channels": 2,
+    "idle_channels": 2,
     "today_completed_channels": 0,
     "token_warnings": 0,
     "error_channels": 1,
-    "health_rate_percent": 88.9,
+    "health_rate_percent": 87.5,
     "total_uploaded_videos": 851,
-    "total_views_tracked": 191142499,
+    "total_views_tracked": 191142518,
     "total_subscribers": 122331,
     "total_pending_retries": 6,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-19 16:54:40 UTC"
+    "gh_pages_synced_at": "2026-11-19 16:58:07 UTC"
   },
   "channels": [
     {
@@ -1022,7 +1022,7 @@
           "youtube_id": "vOV1PuDEbgc",
           "status": "uploaded",
           "upload_date": "2026-11-19",
-          "view_count": 1023,
+          "view_count": 1030,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-19 16:48:14",
           "rowid": 154
@@ -1042,7 +1042,7 @@
           "youtube_id": "biYXrDhSXIU",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 18754,
+          "view_count": 19120,
           "title": "Baby Follows GRANDPA Walk! 🦯😂",
           "created_at": "2026-11-18 05:19:39",
           "rowid": 152
@@ -1152,7 +1152,7 @@
           "youtube_id": "nsJx58pAdA0",
           "status": "uploaded",
           "upload_date": "2026-11-14",
-          "view_count": 2951,
+          "view_count": 2953,
           "title": "Dad just lost his baby title 😂 #cutebaby",
           "created_at": "2026-11-14 05:04:07",
           "rowid": 141
@@ -1252,7 +1252,7 @@
           "youtube_id": "8XnPOtroI3c",
           "status": "uploaded",
           "upload_date": "2026-11-11",
-          "view_count": 1707881,
+          "view_count": 1708559,
           "title": "😂 This Baby IMPRESSED His Father! 😤👶 | Funniest Baby Plan",
           "created_at": "2026-11-11 07:00:31",
           "rowid": 131
@@ -1282,7 +1282,7 @@
           "youtube_id": "EG2mGZN9qSw",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 230118,
+          "view_count": 230298,
           "title": "Violet Cyber Bike Becomes Jet Ski & Drops Into Toronto Harbour 😱🌊",
           "created_at": "2026-11-10 03:58:13",
           "rowid": 128
@@ -2292,7 +2292,7 @@
       "total_uploaded": 66,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 11944810,
+      "total_views": 11944827,
       "last_run_date": "2026-11-19 16:51:57",
       "last_run_status": "no_content",
       "last_run_message": "No unposted videos found for channel source channel_4.",
@@ -2445,7 +2445,7 @@
           "youtube_id": "wOLLvWWw-WI",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 6677,
+          "view_count": 6694,
           "title": "Baby Follows GRANDPA Walk! 🦯😂",
           "created_at": "2026-11-18 05:20:41",
           "rowid": 66
@@ -2969,16 +2969,16 @@
       "content_inventory": {
         "source_type": "tiktok",
         "source_url": "https://www.tiktok.com/@fishing_tiktoks",
-        "stock_status": "healthy",
-        "remaining_unposted": null,
-        "total_available": null,
-        "days_buffer": null,
-        "alert_message": null
+        "stock_status": "depleted",
+        "remaining_unposted": 0,
+        "total_available": 0,
+        "days_buffer": 0,
+        "alert_message": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL."
       },
       "is_monetized": false,
       "monetized_date": null,
       "enabled": true,
-      "status": "active",
+      "status": "idle",
       "idle_since": null,
       "days_idle": null,
       "is_idle_expired": false,
@@ -2998,15 +2998,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "no_content",
       "slot2_today": "not_run",
       "total_uploaded": 141,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 38418,
-      "last_run_date": "2026-11-18 05:21:01",
-      "last_run_status": "success",
-      "last_run_message": "Broadcast Upload: pv6J4jpmWVo",
+      "last_run_date": "2026-11-19 16:54:38",
+      "last_run_status": "no_content",
+      "last_run_message": "No unposted videos found for channel source channel_5.",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-10",
@@ -3086,7 +3086,7 @@
         {
           "date": "2026-11-19",
           "short_date": "Nov 19",
-          "slot1": "not_run",
+          "slot1": "no_content",
           "slot2": "not_run",
           "uploads_count": 2,
           "views_gained": 0
@@ -3658,7 +3658,8 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 02, 2026",
-      "overall_status": "active"
+      "overall_status": "idle",
+      "idle_reason": "inventory_depleted"
     },
     {
       "channel_id": "channel_14",
@@ -3739,7 +3740,7 @@
       "total_uploaded": 76,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 906144,
+      "total_views": 906146,
       "last_run_date": "2026-11-18 05:23:43",
       "last_run_status": "success",
       "last_run_message": "Broadcast Upload: DUbSubl5Gtc",
@@ -3902,7 +3903,7 @@
           "youtube_id": "okRCTstypPo",
           "status": "uploaded",
           "upload_date": "2026-11-17",
-          "view_count": 1417,
+          "view_count": 1419,
           "title": "How Bearded Vultures Eat Bones #Shorts #Science #Facts",
           "created_at": "2026-11-17 18:39:17",
           "rowid": 75
@@ -4639,7 +4640,7 @@
           "youtube_id": "vFG0GNOE59o",
           "status": "uploaded",
           "upload_date": "2026-11-19",
-          "view_count": 3182,
+          "view_count": 3229,
           "title": "Baby Zebra Surprise! Rug Came Alive 🦓 #shorts #cutebaby #viral",
           "created_at": "2026-11-19 16:48:15",
           "rowid": 102
@@ -4659,7 +4660,7 @@
           "youtube_id": "ki0GvAdW4Cs",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 2248,
+          "view_count": 2269,
           "title": "Baby Follows GRANDPA Walk! 🦯😂",
           "created_at": "2026-11-18 05:24:00",
           "rowid": 100
@@ -4689,7 +4690,7 @@
           "youtube_id": "ykfoso1onGU",
           "status": "uploaded",
           "upload_date": "2026-11-17",
-          "view_count": 20794,
+          "view_count": 20818,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-17 18:23:41",
           "rowid": 97
@@ -4699,7 +4700,7 @@
           "youtube_id": "u9ckHv6GXRs",
           "status": "uploaded",
           "upload_date": "2026-11-17",
-          "view_count": 38168,
+          "view_count": 38180,
           "title": "Baby Fox Surprise! Sofa Nap Giggled 🦊 #shorts #cutebaby #viral",
           "created_at": "2026-11-17 18:23:41",
           "rowid": 96
@@ -4729,7 +4730,7 @@
           "youtube_id": "S-4zzkNC9lI",
           "status": "uploaded",
           "upload_date": "2026-11-15",
-          "view_count": 3262,
+          "view_count": 3329,
           "title": "Baby Owl Surprise! Rocking Chair Perch 🦉 #shorts #cutebaby #viral",
           "created_at": "2026-11-15 15:45:50",
           "rowid": 93
@@ -4789,7 +4790,7 @@
           "youtube_id": "rn-wgKISqU4",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 4052,
+          "view_count": 4165,
           "title": "Baby Bunny Surprise! Crib Napped 🐰 #shorts #cutebaby #viral",
           "created_at": "2026-11-12 06:37:34",
           "rowid": 87
@@ -4839,7 +4840,7 @@
           "youtube_id": "pFclSCInpcE",
           "status": "uploaded",
           "upload_date": "2026-11-11",
-          "view_count": 4796,
+          "view_count": 4829,
           "title": "Baby Panda Surprise! Crib Woke Up 🐼 #shorts #cutebaby #viral",
           "created_at": "2026-11-11 06:36:17",
           "rowid": 82
@@ -4869,7 +4870,7 @@
           "youtube_id": "sVK1p_poodM",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 3772,
+          "view_count": 3824,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-10 05:10:29",
           "rowid": 79
@@ -4929,7 +4930,7 @@
           "youtube_id": "cmsHfRTdXOE",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 10844,
+          "view_count": 10906,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-09 05:10:48",
           "rowid": 73
@@ -6533,11 +6534,11 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-19 16:54:14 UTC",
+    "timestamp": "2026-11-19 16:57:37 UTC",
     "total_channels": 11,
-    "healthy_count": 6,
+    "healthy_count": 5,
     "auto_healed_count": 0,
-    "action_required_count": 3,
+    "action_required_count": 4,
     "channels": [
       {
         "channel_id": "channel_1",
@@ -6657,7 +6658,7 @@
         "profile_code": "",
         "source_type": "tiktok",
         "source_target": "fishing_tiktoks",
-        "status": "healthy",
+        "status": "action_required",
         "token_status": "valid",
         "last_upload_date": "2026-11-19",
         "uploads_today": 2,
@@ -6665,18 +6666,18 @@
         "missed_posting": false,
         "error_detail": null,
         "auto_heal_log": null,
-        "user_action_needed": false,
-        "action_title": null,
-        "action_description": null,
-        "action_button_type": null,
+        "user_action_needed": true,
+        "action_title": "Content Depleted: AI Emotional Shorts",
+        "action_description": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL.",
+        "action_button_type": "update_source",
         "content_inventory": {
           "source_type": "tiktok",
           "source_url": "https://www.tiktok.com/@fishing_tiktoks",
-          "stock_status": "healthy",
-          "remaining_unposted": null,
-          "total_available": null,
-          "days_buffer": null,
-          "alert_message": null
+          "stock_status": "depleted",
+          "remaining_unposted": 0,
+          "total_available": 0,
+          "days_buffer": 0,
+          "alert_message": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL."
         }
       },
       {
@@ -6870,6 +6871,34 @@
         "content_inventory": {
           "source_type": "tiktok",
           "source_url": "https://www.tiktok.com/@faghieegiza",
+          "stock_status": "depleted",
+          "remaining_unposted": 0,
+          "total_available": 0,
+          "days_buffer": 0,
+          "alert_message": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL."
+        }
+      },
+      {
+        "channel_id": "channel_5",
+        "name": "AI Emotional Shorts",
+        "profile_code": "",
+        "source_type": "tiktok",
+        "source_target": "fishing_tiktoks",
+        "status": "action_required",
+        "token_status": "valid",
+        "last_upload_date": "2026-11-19",
+        "uploads_today": 2,
+        "uploads_yesterday": 2,
+        "missed_posting": false,
+        "error_detail": null,
+        "auto_heal_log": null,
+        "user_action_needed": true,
+        "action_title": "Content Depleted: AI Emotional Shorts",
+        "action_description": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL.",
+        "action_button_type": "update_source",
+        "content_inventory": {
+          "source_type": "tiktok",
+          "source_url": "https://www.tiktok.com/@fishing_tiktoks",
           "stock_status": "depleted",
           "remaining_unposted": 0,
           "total_available": 0,
