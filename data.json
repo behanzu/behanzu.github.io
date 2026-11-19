@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-19 16:51:12 UTC",
+    "timestamp_utc": "2026-11-19 16:54:14 UTC",
     "total_channels": 11,
-    "active_channels": 10,
-    "disabled_channels": 0,
-    "idle_channels": 0,
+    "active_channels": 9,
+    "disabled_channels": 1,
+    "idle_channels": 1,
     "today_completed_channels": 0,
     "token_warnings": 0,
     "error_channels": 1,
-    "health_rate_percent": 90.0,
+    "health_rate_percent": 88.9,
     "total_uploaded_videos": 851,
-    "total_views_tracked": 191142358,
+    "total_views_tracked": 191142499,
     "total_subscribers": 122331,
     "total_pending_retries": 6,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-19 16:51:59 UTC"
+    "gh_pages_synced_at": "2026-11-19 16:54:40 UTC"
   },
   "channels": [
     {
@@ -1032,7 +1032,7 @@
           "youtube_id": "eO4QICa5Wbw",
           "status": "uploaded",
           "upload_date": "2026-11-19",
-          "view_count": 939,
+          "view_count": 945,
           "title": "Virgin Mojito, Cucumber Lime Mocktail, Peach Ice Tea & Lemonade | Refreshing ASMR 🍹🥒🍑 #mojito",
           "created_at": "2026-11-19 16:48:14",
           "rowid": 153
@@ -1042,7 +1042,7 @@
           "youtube_id": "biYXrDhSXIU",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 18228,
+          "view_count": 18754,
           "title": "Baby Follows GRANDPA Walk! 🦯😂",
           "created_at": "2026-11-18 05:19:39",
           "rowid": 152
@@ -1152,7 +1152,7 @@
           "youtube_id": "nsJx58pAdA0",
           "status": "uploaded",
           "upload_date": "2026-11-14",
-          "view_count": 2937,
+          "view_count": 2951,
           "title": "Dad just lost his baby title 😂 #cutebaby",
           "created_at": "2026-11-14 05:04:07",
           "rowid": 141
@@ -2259,16 +2259,16 @@
       "content_inventory": {
         "source_type": "tiktok",
         "source_url": "https://www.tiktok.com/@faghieegiza",
-        "stock_status": "healthy",
-        "remaining_unposted": null,
-        "total_available": null,
-        "days_buffer": null,
-        "alert_message": null
+        "stock_status": "depleted",
+        "remaining_unposted": 0,
+        "total_available": 0,
+        "days_buffer": 0,
+        "alert_message": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL."
       },
       "is_monetized": false,
       "monetized_date": null,
       "enabled": true,
-      "status": "active",
+      "status": "idle",
       "idle_since": null,
       "days_idle": null,
       "is_idle_expired": false,
@@ -2287,15 +2287,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "no_content",
       "slot2_today": "not_run",
       "total_uploaded": 66,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 11944810,
-      "last_run_date": "2026-11-18 05:20:41",
-      "last_run_status": "success",
-      "last_run_message": "Broadcast Upload: wOLLvWWw-WI",
+      "last_run_date": "2026-11-19 16:51:57",
+      "last_run_status": "no_content",
+      "last_run_message": "No unposted videos found for channel source channel_4.",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-10",
@@ -2375,7 +2375,7 @@
         {
           "date": "2026-11-19",
           "short_date": "Nov 19",
-          "slot1": "not_run",
+          "slot1": "no_content",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -2947,7 +2947,8 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 02, 2026",
-      "overall_status": "active"
+      "overall_status": "idle",
+      "idle_reason": "inventory_depleted"
     },
     {
       "channel_id": "channel_5",
@@ -3002,7 +3003,7 @@
       "total_uploaded": 141,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 38415,
+      "total_views": 38418,
       "last_run_date": "2026-11-18 05:21:01",
       "last_run_status": "success",
       "last_run_message": "Broadcast Upload: pv6J4jpmWVo",
@@ -3525,7 +3526,7 @@
           "youtube_id": "aoRrsUYDMNM",
           "status": "uploaded",
           "upload_date": "2026-11-06",
-          "view_count": 23,
+          "view_count": 25,
           "title": "How people cheat during fishing events and try to get away with it 😭😭 #Shorts #Fishing #Viral",
           "created_at": "2026-11-06 05:32:41",
           "rowid": 104
@@ -3738,7 +3739,7 @@
       "total_uploaded": 76,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 906006,
+      "total_views": 906144,
       "last_run_date": "2026-11-18 05:23:43",
       "last_run_status": "success",
       "last_run_message": "Broadcast Upload: DUbSubl5Gtc",
@@ -3901,7 +3902,7 @@
           "youtube_id": "okRCTstypPo",
           "status": "uploaded",
           "upload_date": "2026-11-17",
-          "view_count": 1419,
+          "view_count": 1417,
           "title": "How Bearded Vultures Eat Bones #Shorts #Science #Facts",
           "created_at": "2026-11-17 18:39:17",
           "rowid": 75
@@ -3961,7 +3962,7 @@
           "youtube_id": "38Rn9RNDyMg",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 280919,
+          "view_count": 281059,
           "title": "Violet Cyber Bike Becomes Jet Ski & Drops Into Toronto Harbour 😱🌊",
           "created_at": "2026-11-10 04:07:36",
           "rowid": 69
@@ -4628,7 +4629,7 @@
           "youtube_id": "0gipNOK-ejc",
           "status": "uploaded",
           "upload_date": "2026-11-19",
-          "view_count": 13346,
+          "view_count": 13418,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-19 16:48:15",
           "rowid": 103
@@ -4658,7 +4659,7 @@
           "youtube_id": "ki0GvAdW4Cs",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 2247,
+          "view_count": 2248,
           "title": "Baby Follows GRANDPA Walk! 🦯😂",
           "created_at": "2026-11-18 05:24:00",
           "rowid": 100
@@ -4668,7 +4669,7 @@
           "youtube_id": "Tlo-ibji8es",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 5814,
+          "view_count": 5832,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-18 05:09:38",
           "rowid": 99
@@ -4678,7 +4679,7 @@
           "youtube_id": "jWvwSUv13zo",
           "status": "uploaded",
           "upload_date": "2026-11-17",
-          "view_count": 1400,
+          "view_count": 1411,
           "title": "Cute Baby Bunny Spinach Sprint #Shorts #CuteBunny #Pets",
           "created_at": "2026-11-17 18:41:31",
           "rowid": 98
@@ -4698,7 +4699,7 @@
           "youtube_id": "u9ckHv6GXRs",
           "status": "uploaded",
           "upload_date": "2026-11-17",
-          "view_count": 38161,
+          "view_count": 38168,
           "title": "Baby Fox Surprise! Sofa Nap Giggled 🦊 #shorts #cutebaby #viral",
           "created_at": "2026-11-17 18:23:41",
           "rowid": 96
@@ -4708,7 +4709,7 @@
           "youtube_id": "wwWOXrWSJ58",
           "status": "uploaded",
           "upload_date": "2026-11-16",
-          "view_count": 8976,
+          "view_count": 8985,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-16 05:11:03",
           "rowid": 95
@@ -4748,7 +4749,7 @@
           "youtube_id": "RkTXKvPcUOM",
           "status": "uploaded",
           "upload_date": "2026-11-14",
-          "view_count": 30657,
+          "view_count": 30660,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-14 05:10:02",
           "rowid": 91
@@ -6532,11 +6533,11 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-19 16:51:12 UTC",
+    "timestamp": "2026-11-19 16:54:14 UTC",
     "total_channels": 11,
-    "healthy_count": 7,
+    "healthy_count": 6,
     "auto_healed_count": 0,
-    "action_required_count": 2,
+    "action_required_count": 3,
     "channels": [
       {
         "channel_id": "channel_1",
@@ -6628,7 +6629,7 @@
         "profile_code": "",
         "source_type": "tiktok",
         "source_target": "faghieegiza",
-        "status": "healthy",
+        "status": "action_required",
         "token_status": "valid",
         "last_upload_date": "2026-11-18",
         "uploads_today": 0,
@@ -6636,18 +6637,18 @@
         "missed_posting": false,
         "error_detail": null,
         "auto_heal_log": null,
-        "user_action_needed": false,
-        "action_title": null,
-        "action_description": null,
-        "action_button_type": null,
+        "user_action_needed": true,
+        "action_title": "Content Depleted: AniHightRecap",
+        "action_description": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL.",
+        "action_button_type": "update_source",
         "content_inventory": {
           "source_type": "tiktok",
           "source_url": "https://www.tiktok.com/@faghieegiza",
-          "stock_status": "healthy",
-          "remaining_unposted": null,
-          "total_available": null,
-          "days_buffer": null,
-          "alert_message": null
+          "stock_status": "depleted",
+          "remaining_unposted": 0,
+          "total_available": 0,
+          "days_buffer": 0,
+          "alert_message": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL."
         }
       },
       {
@@ -6848,6 +6849,34 @@
       }
     ],
     "action_required_items": [
+      {
+        "channel_id": "channel_4",
+        "name": "AniHightRecap",
+        "profile_code": "",
+        "source_type": "tiktok",
+        "source_target": "faghieegiza",
+        "status": "action_required",
+        "token_status": "valid",
+        "last_upload_date": "2026-11-18",
+        "uploads_today": 0,
+        "uploads_yesterday": 1,
+        "missed_posting": false,
+        "error_detail": null,
+        "auto_heal_log": null,
+        "user_action_needed": true,
+        "action_title": "Content Depleted: AniHightRecap",
+        "action_description": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL.",
+        "action_button_type": "update_source",
+        "content_inventory": {
+          "source_type": "tiktok",
+          "source_url": "https://www.tiktok.com/@faghieegiza",
+          "stock_status": "depleted",
+          "remaining_unposted": 0,
+          "total_available": 0,
+          "days_buffer": 0,
+          "alert_message": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL."
+        }
+      },
       {
         "channel_id": "channel_20",
         "name": "Khizriways",
