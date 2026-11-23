@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-23 06:37:55 UTC",
+    "timestamp_utc": "2026-11-23 06:39:04 UTC",
     "total_channels": 13,
     "active_channels": 3,
     "disabled_channels": 9,
@@ -17,7 +17,7 @@
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-11-23 06:38:26 UTC"
+    "gh_pages_synced_at": "2026-11-23 06:39:35 UTC"
   },
   "channels": [
     {
@@ -2304,13 +2304,13 @@
         "has_refresh_token": true,
         "is_expired": true
       },
-      "slot1_today": "not_run",
+      "slot1_today": "no_content",
       "slot2_today": "not_run",
       "total_uploaded": 67,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 11957909,
-      "last_run_date": "2026-11-20 06:54:32",
+      "last_run_date": "2026-11-23 06:38:24",
       "last_run_status": "no_content",
       "last_run_message": "No unposted videos found for channel source channel_4.",
       "daily_sheet_10_days": [
@@ -2391,7 +2391,7 @@
         {
           "date": "2026-11-23",
           "short_date": "Nov 23",
-          "slot1": "not_run",
+          "slot1": "no_content",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -7152,7 +7152,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-23 06:37:55 UTC",
+    "timestamp": "2026-11-23 06:39:04 UTC",
     "total_channels": 13,
     "healthy_count": 0,
     "auto_healed_count": 0,
