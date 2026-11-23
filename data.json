@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-23 06:36:46 UTC",
+    "timestamp_utc": "2026-11-23 06:37:55 UTC",
     "total_channels": 13,
     "active_channels": 3,
     "disabled_channels": 9,
@@ -12,12 +12,12 @@
     "total_uploaded_videos": 919,
     "total_views_tracked": 183307873,
     "total_subscribers": 0,
-    "total_pending_retries": 5,
+    "total_pending_retries": 7,
     "underperforming_channels": 8,
     "content_depleted_channels": 0,
     "content_low_channels": 0,
     "content_alerts_count": 0,
-    "gh_pages_synced_at": "2026-11-23 06:37:09 UTC"
+    "gh_pages_synced_at": "2026-11-23 06:38:26 UTC"
   },
   "channels": [
     {
@@ -846,15 +846,15 @@
         "has_refresh_token": true,
         "is_expired": true
       },
-      "slot1_today": "not_run",
+      "slot1_today": "failed",
       "slot2_today": "not_run",
       "total_uploaded": 156,
       "total_failed": 0,
-      "total_pending_retry": 0,
+      "total_pending_retry": 2,
       "total_views": 83415841,
-      "last_run_date": "2026-11-20 06:36:33",
-      "last_run_status": "success",
-      "last_run_message": "Broadcast Upload: CWyA8Zksysk",
+      "last_run_date": "2026-11-23 06:37:05",
+      "last_run_status": "failed",
+      "last_run_message": "Failed to download any unposted candidate videos for slot 1.",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-14",
@@ -934,7 +934,7 @@
         {
           "date": "2026-11-23",
           "short_date": "Nov 23",
-          "slot1": "not_run",
+          "slot1": "failed",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -999,6 +999,26 @@
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "1-2OhrWZN4Z5lXcT3FYLse05YgBOMKEsH",
+          "youtube_id": null,
+          "status": "pending_retry",
+          "upload_date": "2026-11-23",
+          "view_count": 0,
+          "title": "Ultimate Comfort Food Compilation 🍝🧀 | ASMR Cooking #comfortfood #asmrfood #compilation",
+          "created_at": "2026-11-23 06:37:05",
+          "rowid": 163
+        },
+        {
+          "tiktok_id": "1LxDMvzQqvqZvCu6lc4MDdrbda8MTMCX7",
+          "youtube_id": null,
+          "status": "pending_retry",
+          "upload_date": "2026-11-23",
+          "view_count": 0,
+          "title": "Most Satisfying Desserts Compilation 🍪🍰 | ASMR Cooking #dessert #asmrfood #compilation",
+          "created_at": "2026-11-23 06:36:59",
+          "rowid": 162
+        },
         {
           "tiktok_id": "1AJ9V4Q6GuaTz4OvAhBIzo2VDlF-cosk5",
           "youtube_id": null,
@@ -1478,29 +1498,32 @@
           "title": "Can you spot the real baby hidden among all these fluffy teddy bears #cutebaby #babycostume",
           "created_at": "2026-11-05 16:01:09",
           "rowid": 114
-        },
-        {
-          "tiktok_id": "yt_SwWj9XU_gDc",
-          "youtube_id": "SwWj9XU_gDc",
-          "status": "uploaded",
-          "upload_date": "2026-11-05",
-          "view_count": 37115,
-          "title": "Newbron baby🥰🥰 #baby",
-          "created_at": "2026-11-05 06:25:26",
-          "rowid": 113
-        },
-        {
-          "tiktok_id": "yt_rgDaz_x-bL4",
-          "youtube_id": "rgDaz_x-bL4",
-          "status": "uploaded",
-          "upload_date": "2026-11-05",
-          "view_count": 5968,
-          "title": "Crispy Fried Chicken, Hash Browns, Eggplant & Cauliflower Bites | Crunchy ASMR 🍗🥦 #friedchicken",
-          "created_at": "2026-11-05 06:25:26",
-          "rowid": 112
         }
       ],
-      "pending_retry_items": [],
+      "pending_retry_items": [
+        {
+          "tiktok_id": "1-2OhrWZN4Z5lXcT3FYLse05YgBOMKEsH",
+          "youtube_id": null,
+          "status": "pending_retry",
+          "upload_date": "2026-11-23",
+          "view_count": 0,
+          "title": "Ultimate Comfort Food Compilation 🍝🧀 | ASMR Cooking #comfortfood #asmrfood #compilation",
+          "retry_count": 1,
+          "next_retry_date": "2026-11-24",
+          "created_at": "2026-11-23 06:37:05"
+        },
+        {
+          "tiktok_id": "1LxDMvzQqvqZvCu6lc4MDdrbda8MTMCX7",
+          "youtube_id": null,
+          "status": "pending_retry",
+          "upload_date": "2026-11-23",
+          "view_count": 0,
+          "title": "Most Satisfying Desserts Compilation 🍪🍰 | ASMR Cooking #dessert #asmrfood #compilation",
+          "retry_count": 1,
+          "next_retry_date": "2026-11-24",
+          "created_at": "2026-11-23 06:36:59"
+        }
+      ],
       "days_linked": 83,
       "is_underperforming": true,
       "underperforming_reasons": [
@@ -1570,15 +1593,15 @@
         "has_refresh_token": true,
         "is_expired": true
       },
-      "slot1_today": "not_run",
+      "slot1_today": "no_content",
       "slot2_today": "not_run",
       "total_uploaded": 103,
       "total_failed": 1,
       "total_pending_retry": 0,
       "total_views": 3177902,
-      "last_run_date": "2026-11-20 06:54:23",
-      "last_run_status": "failed",
-      "last_run_message": "Failed to download any unposted candidate videos for slot 1.",
+      "last_run_date": "2026-11-23 06:37:06",
+      "last_run_status": "no_content",
+      "last_run_message": "No unposted videos found for channel source channel_3.",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-14",
@@ -1657,7 +1680,7 @@
         {
           "date": "2026-11-23",
           "short_date": "Nov 23",
-          "slot1": "not_run",
+          "slot1": "no_content",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -7129,7 +7152,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-23 06:36:46 UTC",
+    "timestamp": "2026-11-23 06:37:55 UTC",
     "total_channels": 13,
     "healthy_count": 0,
     "auto_healed_count": 0,
