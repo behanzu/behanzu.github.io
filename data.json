@@ -1,15 +1,15 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-24 06:14:13 UTC",
+    "timestamp_utc": "2026-11-24 06:15:20 UTC",
     "total_channels": 13,
-    "active_channels": 7,
-    "disabled_channels": 5,
-    "idle_channels": 5,
-    "today_completed_channels": 2,
+    "active_channels": 8,
+    "disabled_channels": 4,
+    "idle_channels": 4,
+    "today_completed_channels": 3,
     "token_warnings": 0,
-    "error_channels": 1,
-    "health_rate_percent": 85.7,
-    "total_uploaded_videos": 926,
+    "error_channels": 2,
+    "health_rate_percent": 75.0,
+    "total_uploaded_videos": 927,
     "total_views_tracked": 197490994,
     "total_subscribers": 127308,
     "total_pending_retries": 5,
@@ -17,7 +17,7 @@
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-24 06:14:44 UTC"
+    "gh_pages_synced_at": "2026-11-24 06:15:29 UTC"
   },
   "channels": [
     {
@@ -4389,7 +4389,7 @@
       "youtube_handle": "@bunnyplanet-l6u",
       "youtube_channel_url": "https://www.youtube.com/@bunnyplanet-l6u",
       "subscribers_count": 13400,
-      "published_videos_count": 106,
+      "published_videos_count": 107,
       "live_youtube_views": 23027308,
       "owner_email": "keenatimu@gmail.com",
       "channel_created_at": "Sep 17, 2026",
@@ -4662,7 +4662,7 @@
           "youtube_id": "LKfCpERmIO4",
           "status": "uploaded",
           "upload_date": "2026-11-23",
-          "view_count": 2827,
+          "view_count": 2832,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-23 05:15:45",
           "rowid": 107
@@ -4722,7 +4722,7 @@
           "youtube_id": "SsUeNe44Q70",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 5759,
+          "view_count": 5760,
           "title": "Baby Giraffe Surprise! Not The Only One 🦒 #shorts #cutebaby #viral",
           "created_at": "2026-11-18 06:33:21",
           "rowid": 101
@@ -4772,7 +4772,7 @@
           "youtube_id": "u9ckHv6GXRs",
           "status": "uploaded",
           "upload_date": "2026-11-17",
-          "view_count": 48666,
+          "view_count": 48572,
           "title": "Baby Fox Surprise! Sofa Nap Giggled 🦊 #shorts #cutebaby #viral",
           "created_at": "2026-11-17 18:23:41",
           "rowid": 96
@@ -5135,16 +5135,16 @@
       "content_inventory": {
         "source_type": "facebook",
         "source_url": "https://www.facebook.com/profile.php?id=61595022507585",
-        "stock_status": "depleted",
-        "remaining_unposted": 0,
-        "total_available": 0,
-        "days_buffer": 0,
-        "alert_message": "Source (Facebook) has exhausted all available videos (all candidates already uploaded). Please update the source URL."
+        "stock_status": "healthy",
+        "remaining_unposted": null,
+        "total_available": null,
+        "days_buffer": null,
+        "alert_message": null
       },
       "is_monetized": false,
       "monetized_date": null,
       "enabled": true,
-      "status": "idle",
+      "status": "active",
       "idle_since": null,
       "days_idle": null,
       "is_idle_expired": false,
@@ -5164,15 +5164,15 @@
         "has_refresh_token": true,
         "is_expired": true
       },
-      "slot1_today": "not_run",
+      "slot1_today": "failed",
       "slot2_today": "not_run",
       "total_uploaded": 79,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 57505543,
-      "last_run_date": "2026-11-23 06:39:46",
-      "last_run_status": "no_content",
-      "last_run_message": "No unposted videos found for channel source channel_20.",
+      "last_run_date": "2026-11-24 06:14:30",
+      "last_run_status": "failed",
+      "last_run_message": "YouTube upload failed: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-15",
@@ -5250,7 +5250,7 @@
         {
           "date": "2026-11-24",
           "short_date": "Nov 24",
-          "slot1": "not_run",
+          "slot1": "failed",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -5822,8 +5822,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Nov 12, 2026",
-      "overall_status": "idle",
-      "idle_reason": "inventory_depleted"
+      "overall_status": "error"
     },
     {
       "channel_id": "channel_21",
@@ -5833,7 +5832,7 @@
       "youtube_handle": "@dreamydings",
       "youtube_channel_url": "https://www.youtube.com/@dreamydings",
       "subscribers_count": 62,
-      "published_videos_count": 9,
+      "published_videos_count": 10,
       "live_youtube_views": 203556,
       "owner_email": "tineminersy@gmail.com",
       "channel_created_at": "Nov 05, 2026",
@@ -5844,14 +5843,13 @@
         "gdrive_url": "https://drive.google.com/drive/folders/1mbDcJ-rYptz24Ym7Qjmj_wm3z5UE-v9U?usp=sharing",
         "folder_title": "DreamyDings - Bath 1 & 2",
         "total_in_drive": 14,
-        "posted_count": 8,
-        "remaining_unposted": 6,
+        "posted_count": 9,
+        "remaining_unposted": 5,
         "videos_per_day": 1,
-        "days_buffer": 6.0,
-        "stock_status": "healthy",
-        "stock_label": "HEALTHY (6 videos ready)",
+        "days_buffer": 5.0,
+        "stock_status": "low_stock",
+        "stock_label": "LOW STOCK (5 videos left)",
         "unposted_videos": [
-          "From Old Doorbell Sound to DISCO ",
           "From Pig Nose Doorbell to POP ",
           "From Slimy Doorbell Sound to SPLAT ",
           "The Last Doorbell is a MAGNET ",
@@ -5863,9 +5861,9 @@
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1mbDcJ-rYptz24Ym7Qjmj_wm3z5UE-v9U?usp=sharing",
         "stock_status": "healthy",
-        "remaining_unposted": 6,
+        "remaining_unposted": 5,
         "total_available": 14,
-        "days_buffer": 6.0,
+        "days_buffer": 5.0,
         "alert_message": null
       },
       "is_monetized": false,
@@ -5890,15 +5888,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 10,
+      "total_uploaded": 11,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 203732,
-      "last_run_date": "2026-11-23 06:39:49",
-      "last_run_status": "no_content",
-      "last_run_message": "No unposted videos found for channel source channel_21.",
+      "last_run_date": "2026-11-24 06:14:41",
+      "last_run_status": "success",
+      "last_run_message": "Uploaded YouTube ID: DU9yrWvt7sY",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-15",
@@ -5977,9 +5975,9 @@
         {
           "date": "2026-11-24",
           "short_date": "Nov 24",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -6037,11 +6035,21 @@
           "short_date": "Nov 24",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "1gjCXAJf4iQhfFTwzPYhqdYdB01Y3_Ntu",
+          "youtube_id": "DU9yrWvt7sY",
+          "status": "uploaded",
+          "upload_date": "2026-11-24",
+          "view_count": 0,
+          "title": "From Old Doorbell Sound to DISCO 🪩🔔",
+          "created_at": "2026-11-24 06:14:41",
+          "rowid": 11
+        },
         {
           "tiktok_id": "baby_copies_grandpa_1795157855_channel_21",
           "youtube_id": "nM4KOVU5MDA",
@@ -6149,7 +6157,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Nov 14, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_22",
@@ -7164,9 +7172,9 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-24 06:14:13 UTC",
+    "timestamp": "2026-11-24 06:15:20 UTC",
     "total_channels": 13,
-    "healthy_count": 3,
+    "healthy_count": 4,
     "auto_healed_count": 0,
     "action_required_count": 6,
     "channels": [
@@ -7409,17 +7417,17 @@
         "error_detail": "Auto-refresh failed: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
         "auto_heal_log": null,
         "user_action_needed": true,
-        "action_title": "Content Depleted: Khizriways",
-        "action_description": "Source (Facebook) has exhausted all available videos (all candidates already uploaded). Please update the source URL.",
-        "action_button_type": "update_source",
+        "action_title": "Re-Authorize Khizriways",
+        "action_description": "Google OAuth token expired or revoked. Click to re-authorize with 1-click Google Sign-in.",
+        "action_button_type": "reauth",
         "content_inventory": {
           "source_type": "facebook",
           "source_url": "https://www.facebook.com/profile.php?id=61595022507585",
-          "stock_status": "depleted",
-          "remaining_unposted": 0,
-          "total_available": 0,
-          "days_buffer": 0,
-          "alert_message": "Source (Facebook) has exhausted all available videos (all candidates already uploaded). Please update the source URL."
+          "stock_status": "healthy",
+          "remaining_unposted": null,
+          "total_available": null,
+          "days_buffer": null,
+          "alert_message": null
         }
       },
       {
@@ -7428,13 +7436,13 @@
         "profile_code": "PF #15",
         "source_type": "gdrive",
         "source_target": "N/A",
-        "status": "monitoring",
+        "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-11-20",
-        "uploads_today": 0,
+        "last_upload_date": "2026-11-24",
+        "uploads_today": 1,
         "uploads_yesterday": 0,
-        "missed_posting": true,
-        "error_detail": "No uploads recorded in the last 48 hours. Scheduled upload pending next slot.",
+        "missed_posting": false,
+        "error_detail": null,
         "auto_heal_log": null,
         "user_action_needed": false,
         "action_title": null,
@@ -7444,9 +7452,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1mbDcJ-rYptz24Ym7Qjmj_wm3z5UE-v9U?usp=sharing",
           "stock_status": "healthy",
-          "remaining_unposted": 6,
+          "remaining_unposted": 5,
           "total_available": 14,
-          "days_buffer": 6.0,
+          "days_buffer": 5.0,
           "alert_message": null
         }
       },
@@ -7607,17 +7615,17 @@
         "error_detail": "Auto-refresh failed: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
         "auto_heal_log": null,
         "user_action_needed": true,
-        "action_title": "Content Depleted: Khizriways",
-        "action_description": "Source (Facebook) has exhausted all available videos (all candidates already uploaded). Please update the source URL.",
-        "action_button_type": "update_source",
+        "action_title": "Re-Authorize Khizriways",
+        "action_description": "Google OAuth token expired or revoked. Click to re-authorize with 1-click Google Sign-in.",
+        "action_button_type": "reauth",
         "content_inventory": {
           "source_type": "facebook",
           "source_url": "https://www.facebook.com/profile.php?id=61595022507585",
-          "stock_status": "depleted",
-          "remaining_unposted": 0,
-          "total_available": 0,
-          "days_buffer": 0,
-          "alert_message": "Source (Facebook) has exhausted all available videos (all candidates already uploaded). Please update the source URL."
+          "stock_status": "healthy",
+          "remaining_unposted": null,
+          "total_available": null,
+          "days_buffer": null,
+          "alert_message": null
         }
       },
       {
