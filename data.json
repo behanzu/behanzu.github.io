@@ -1,6 +1,6 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-24 06:24:35 UTC",
+    "timestamp_utc": "2026-11-24 06:29:36 UTC",
     "total_channels": 13,
     "active_channels": 8,
     "disabled_channels": 4,
@@ -10,14 +10,14 @@
     "error_channels": 2,
     "health_rate_percent": 75.0,
     "total_uploaded_videos": 928,
-    "total_views_tracked": 197491055,
+    "total_views_tracked": 197491094,
     "total_subscribers": 127309,
     "total_pending_retries": 5,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-24 06:25:34 UTC"
+    "gh_pages_synced_at": "2026-11-24 06:30:11 UTC"
   },
   "channels": [
     {
@@ -844,15 +844,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "failed",
+      "slot1_today": "no_content",
       "slot2_today": "not_run",
       "total_uploaded": 156,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 94123423,
-      "last_run_date": "2026-11-24 06:09:07",
-      "last_run_status": "failed",
-      "last_run_message": "Failed to download any unposted candidate videos for slot 1.",
+      "last_run_date": "2026-11-24 06:25:32",
+      "last_run_status": "no_content",
+      "last_run_message": "No unposted videos found for channel source channel_2.",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-15",
@@ -931,7 +931,7 @@
         {
           "date": "2026-11-24",
           "short_date": "Nov 24",
-          "slot1": "failed",
+          "slot1": "no_content",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -1061,7 +1061,7 @@
           "youtube_id": "ip3BJKi3Ino",
           "status": "uploaded",
           "upload_date": "2026-11-20",
-          "view_count": 2240,
+          "view_count": 2242,
           "title": "Crispy Snacks Compilation 🍗 | Crunchy ASMR #cutebaby #babycostume",
           "created_at": "2026-11-20 05:21:53",
           "rowid": 157
@@ -1091,7 +1091,7 @@
           "youtube_id": "vOV1PuDEbgc",
           "status": "uploaded",
           "upload_date": "2026-11-19",
-          "view_count": 2889,
+          "view_count": 2891,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-19 16:48:14",
           "rowid": 154
@@ -1101,7 +1101,7 @@
           "youtube_id": "eO4QICa5Wbw",
           "status": "uploaded",
           "upload_date": "2026-11-19",
-          "view_count": 3056,
+          "view_count": 3065,
           "title": "Virgin Mojito, Cucumber Lime Mocktail, Peach Ice Tea & Lemonade | Refreshing ASMR 🍹🥒🍑 #mojito",
           "created_at": "2026-11-19 16:48:14",
           "rowid": 153
@@ -1151,7 +1151,7 @@
           "youtube_id": "7XwPJahtAHw",
           "status": "uploaded",
           "upload_date": "2026-11-17",
-          "view_count": 2428,
+          "view_count": 2447,
           "title": "Shrimp Tacos & Loaded Skillet Nachos | Ultimate Cheese Pull ASMR 🌮🧀 V #cutebaby #babycostume",
           "created_at": "2026-11-17 18:23:41",
           "rowid": 148
@@ -1351,7 +1351,7 @@
           "youtube_id": "EG2mGZN9qSw",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 281545,
+          "view_count": 281552,
           "title": "Violet Cyber Bike Becomes Jet Ski & Drops Into Toronto Harbour 😱🌊",
           "created_at": "2026-11-10 03:58:13",
           "rowid": 128
@@ -1361,7 +1361,7 @@
           "youtube_id": "aftCjrT1p7o",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 41661,
+          "view_count": 41689,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-10 02:57:24",
           "rowid": 127
@@ -1391,7 +1391,7 @@
           "youtube_id": "25QmRz8IqSg",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 3030,
+          "view_count": 3034,
           "title": "Crispy Homemade Churros & Creamy Tapioca Pudding | Satisfying Dessert ASMR 🍫🍮 #churros #dessert",
           "created_at": "2026-11-09 03:52:37",
           "rowid": 124
@@ -1401,7 +1401,7 @@
           "youtube_id": "9OBFDPFb98k",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 35854,
+          "view_count": 35850,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-09 03:52:37",
           "rowid": 123
@@ -1411,7 +1411,7 @@
           "youtube_id": "25Qhvx-GJtU",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 3110,
+          "view_count": 3106,
           "title": "Fettuccine Alfredo, Beef Stroganoff & Baked Feta Pasta | Creamy Pasta ASMR 🍝 #pasta #alfredo",
           "created_at": "2026-11-09 03:52:37",
           "rowid": 122
@@ -1431,7 +1431,7 @@
           "youtube_id": "BVKNlS1PiCU",
           "status": "uploaded",
           "upload_date": "2026-11-07",
-          "view_count": 2680,
+          "view_count": 2678,
           "title": "Crispy Golden Homemade Churros 🍫 #churros #asmrfood #dessert #recipe #sweettooth",
           "created_at": "2026-11-07 05:36:24",
           "rowid": 120
@@ -1441,7 +1441,7 @@
           "youtube_id": "2orFJfDTnWI",
           "status": "uploaded",
           "upload_date": "2026-11-06",
-          "view_count": 4049,
+          "view_count": 4059,
           "title": "Crispy Golden Churros Dipped in Rich Chocolate 🍫 #churros #dessert #asmrfood #recipe",
           "created_at": "2026-11-06 05:32:42",
           "rowid": 119
@@ -1451,7 +1451,7 @@
           "youtube_id": "YyP6i5pdBVQ",
           "status": "uploaded",
           "upload_date": "2026-11-05",
-          "view_count": 11920,
+          "view_count": 11913,
           "title": "Found a sleepy little panda napping in the crib and then he woke up #cutebaby #babycostume",
           "created_at": "2026-11-05 16:50:45",
           "rowid": 118
@@ -1481,7 +1481,7 @@
           "youtube_id": "TNxgx_5v7ro",
           "status": "uploaded",
           "upload_date": "2026-11-05",
-          "view_count": 4704,
+          "view_count": 4710,
           "title": "Cutest little bumblebee you'll see today! 🐝 #baby #cutebaby #bumblebee #babyfever #viral",
           "created_at": "2026-11-05 16:46:37",
           "rowid": 115
@@ -3725,7 +3725,7 @@
       "total_uploaded": 79,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 993501,
+      "total_views": 993520,
       "last_run_date": "2026-11-24 06:12:46",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: mPTODxkXRew",
@@ -3887,7 +3887,7 @@
           "youtube_id": "XS8JjCkavsM",
           "status": "uploaded",
           "upload_date": "2026-11-20",
-          "view_count": 155,
+          "view_count": 156,
           "title": "Cute Baby Copies His Grandpa 👶🧓😂",
           "created_at": "2026-11-20 06:40:28",
           "rowid": 78
@@ -3977,7 +3977,7 @@
           "youtube_id": "38Rn9RNDyMg",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 361371,
+          "view_count": 361389,
           "title": "Violet Cyber Bike Becomes Jet Ski & Drops Into Toronto Harbour 😱🌊",
           "created_at": "2026-11-10 04:07:36",
           "rowid": 69
@@ -4652,7 +4652,7 @@
           "youtube_id": "CyH76ry3tMY",
           "status": "uploaded",
           "upload_date": "2026-11-23",
-          "view_count": 6049,
+          "view_count": 6056,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-23 05:15:45",
           "rowid": 108
@@ -4662,7 +4662,7 @@
           "youtube_id": "LKfCpERmIO4",
           "status": "uploaded",
           "upload_date": "2026-11-23",
-          "view_count": 2834,
+          "view_count": 2839,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-23 05:15:45",
           "rowid": 107
@@ -4682,7 +4682,7 @@
           "youtube_id": "rSpyGZQUd9s",
           "status": "uploaded",
           "upload_date": "2026-11-20",
-          "view_count": 8349,
+          "view_count": 8355,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-20 05:21:53",
           "rowid": 105
@@ -4702,7 +4702,7 @@
           "youtube_id": "0gipNOK-ejc",
           "status": "uploaded",
           "upload_date": "2026-11-19",
-          "view_count": 40309,
+          "view_count": 40315,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-19 16:48:15",
           "rowid": 103
@@ -4712,7 +4712,7 @@
           "youtube_id": "vFG0GNOE59o",
           "status": "uploaded",
           "upload_date": "2026-11-19",
-          "view_count": 42023,
+          "view_count": 42028,
           "title": "Baby Zebra Surprise! Rug Came Alive 🦓 #shorts #cutebaby #viral",
           "created_at": "2026-11-19 16:48:15",
           "rowid": 102
@@ -4722,7 +4722,7 @@
           "youtube_id": "SsUeNe44Q70",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 5761,
+          "view_count": 5766,
           "title": "Baby Giraffe Surprise! Not The Only One 🦒 #shorts #cutebaby #viral",
           "created_at": "2026-11-18 06:33:21",
           "rowid": 101
@@ -5893,7 +5893,7 @@
       "total_uploaded": 11,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 203736,
+      "total_views": 203737,
       "last_run_date": "2026-11-24 06:14:41",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: DU9yrWvt7sY",
@@ -6045,7 +6045,7 @@
           "youtube_id": "DU9yrWvt7sY",
           "status": "uploaded",
           "upload_date": "2026-11-24",
-          "view_count": 4,
+          "view_count": 5,
           "title": "From Old Doorbell Sound to DISCO 🪩🔔",
           "created_at": "2026-11-24 06:14:41",
           "rowid": 11
@@ -6925,7 +6925,7 @@
       "total_uploaded": 10,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 641824,
+      "total_views": 641843,
       "last_run_date": "2026-11-24 06:15:42",
       "last_run_status": "no_content",
       "last_run_message": "No unposted videos found for channel source channel_24.",
@@ -7085,7 +7085,7 @@
           "youtube_id": "54y6lP-mz4Y",
           "status": "uploaded",
           "upload_date": "2026-11-20",
-          "view_count": 557400,
+          "view_count": 557419,
           "title": "Emerald-Green Suitcase Transforms Into Cyber Super-Sport Bike at Dubai T3 😱🏍️",
           "created_at": "2026-11-20 07:51:22",
           "rowid": 9
@@ -7182,7 +7182,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-24 06:24:35 UTC",
+    "timestamp": "2026-11-24 06:29:36 UTC",
     "total_channels": 13,
     "healthy_count": 4,
     "auto_healed_count": 0,
