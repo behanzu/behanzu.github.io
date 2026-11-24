@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-24 06:09:03 UTC",
+    "timestamp_utc": "2026-11-24 06:10:11 UTC",
     "total_channels": 13,
-    "active_channels": 7,
-    "disabled_channels": 5,
-    "idle_channels": 5,
+    "active_channels": 6,
+    "disabled_channels": 6,
+    "idle_channels": 6,
     "today_completed_channels": 0,
     "token_warnings": 0,
-    "error_channels": 0,
-    "health_rate_percent": 100.0,
+    "error_channels": 1,
+    "health_rate_percent": 83.3,
     "total_uploaded_videos": 922,
-    "total_views_tracked": 197490779,
-    "total_subscribers": 127307,
-    "total_pending_retries": 6,
+    "total_views_tracked": 197490952,
+    "total_subscribers": 127308,
+    "total_pending_retries": 5,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
-    "content_low_channels": 2,
-    "content_alerts_count": 2,
-    "gh_pages_synced_at": "2026-11-24 06:09:47 UTC"
+    "content_low_channels": 1,
+    "content_alerts_count": 1,
+    "gh_pages_synced_at": "2026-11-24 06:11:31 UTC"
   },
   "channels": [
     {
@@ -804,29 +804,27 @@
         "gdrive_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
         "folder_title": "COMPILED REELS",
         "total_in_drive": 51,
-        "posted_count": 50,
-        "remaining_unposted": 1,
+        "posted_count": 51,
+        "remaining_unposted": 0,
         "videos_per_day": 2,
-        "days_buffer": 0.5,
-        "stock_status": "low_stock",
-        "stock_label": "LOW STOCK (1 videos left)",
-        "unposted_videos": [
-          "Ultimate Comfort Food Compilation  | ASMR Cooking #comfortfood #asmrfood #compilation"
-        ]
+        "days_buffer": 0.0,
+        "stock_status": "depleted",
+        "stock_label": "EMPTY (0 videos left!)",
+        "unposted_videos": []
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
-        "stock_status": "low_stock",
-        "remaining_unposted": 1,
+        "stock_status": "depleted",
+        "remaining_unposted": 0,
         "total_available": 51,
-        "days_buffer": 0.5,
-        "alert_message": "Only 1 unposted videos remaining in Google Drive (~0.5 days left). Add more videos soon."
+        "days_buffer": 0.0,
+        "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
       },
       "is_monetized": true,
       "monetized_date": "2026-10-05",
       "enabled": true,
-      "status": "active",
+      "status": "idle",
       "idle_since": null,
       "days_idle": null,
       "is_idle_expired": false,
@@ -846,15 +844,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "failed",
       "slot2_today": "not_run",
       "total_uploaded": 156,
       "total_failed": 0,
-      "total_pending_retry": 1,
+      "total_pending_retry": 0,
       "total_views": 94123423,
-      "last_run_date": "2026-11-23 06:40:34",
-      "last_run_status": "no_content",
-      "last_run_message": "No unposted videos found for channel source channel_2.",
+      "last_run_date": "2026-11-24 06:09:07",
+      "last_run_status": "failed",
+      "last_run_message": "Failed to download any unposted candidate videos for slot 1.",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-15",
@@ -933,7 +931,7 @@
         {
           "date": "2026-11-24",
           "short_date": "Nov 24",
-          "slot1": "not_run",
+          "slot1": "failed",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -1001,7 +999,7 @@
         {
           "tiktok_id": "1-2OhrWZN4Z5lXcT3FYLse05YgBOMKEsH",
           "youtube_id": null,
-          "status": "pending_retry",
+          "status": "skipped",
           "upload_date": "2026-11-23",
           "view_count": 0,
           "title": "Ultimate Comfort Food Compilation 🍝🧀 | ASMR Cooking #comfortfood #asmrfood #compilation",
@@ -1499,25 +1497,14 @@
           "rowid": 114
         }
       ],
-      "pending_retry_items": [
-        {
-          "tiktok_id": "1-2OhrWZN4Z5lXcT3FYLse05YgBOMKEsH",
-          "youtube_id": null,
-          "status": "pending_retry",
-          "upload_date": "2026-11-23",
-          "view_count": 0,
-          "title": "Ultimate Comfort Food Compilation 🍝🧀 | ASMR Cooking #comfortfood #asmrfood #compilation",
-          "retry_count": 1,
-          "next_retry_date": "2026-11-24",
-          "created_at": "2026-11-23 06:37:05"
-        }
-      ],
+      "pending_retry_items": [],
       "days_linked": 84,
       "is_underperforming": false,
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 01, 2026",
-      "overall_status": "active"
+      "overall_status": "idle",
+      "idle_reason": "inventory_depleted"
     },
     {
       "channel_id": "channel_3",
@@ -1580,15 +1567,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "failed",
       "slot2_today": "not_run",
       "total_uploaded": 103,
       "total_failed": 1,
       "total_pending_retry": 0,
       "total_views": 3179603,
-      "last_run_date": "2026-11-23 06:37:06",
-      "last_run_status": "no_content",
-      "last_run_message": "No unposted videos found for channel source channel_3.",
+      "last_run_date": "2026-11-24 06:09:20",
+      "last_run_status": "failed",
+      "last_run_message": "Failed to download any unposted candidate videos for slot 1.",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-15",
@@ -1667,7 +1654,7 @@
         {
           "date": "2026-11-24",
           "short_date": "Nov 24",
-          "slot1": "not_run",
+          "slot1": "failed",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -2107,7 +2094,7 @@
           "youtube_id": "ao0cYkxgsVQ",
           "status": "uploaded",
           "upload_date": "2026-10-17",
-          "view_count": 543,
+          "view_count": 587,
           "title": "Homemade Rainbow Fruit Popsicles 🌈 #popsicles #rainbowfood #dessert #summerrecipes #foodart",
           "created_at": "2026-10-17 02:23:03",
           "rowid": 68
@@ -2127,7 +2114,7 @@
           "youtube_id": "M2McbtLjdJg",
           "status": "uploaded",
           "upload_date": "2026-10-15",
-          "view_count": 180,
+          "view_count": 187,
           "title": "Getting ready for a brand new day! 💛 #animation #cute #morningroutine #3danimation #viral",
           "created_at": "2026-10-15 13:31:45",
           "rowid": 66
@@ -2239,7 +2226,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Oct 05, 2026",
-      "overall_status": "active"
+      "overall_status": "error"
     },
     {
       "channel_id": "channel_4",
@@ -2288,13 +2275,13 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "no_content",
       "slot2_today": "not_run",
       "total_uploaded": 67,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 11960706,
-      "last_run_date": "2026-11-23 06:38:24",
+      "total_views": 11960840,
+      "last_run_date": "2026-11-24 06:09:44",
       "last_run_status": "no_content",
       "last_run_message": "No unposted videos found for channel source channel_4.",
       "daily_sheet_10_days": [
@@ -2375,7 +2362,7 @@
         {
           "date": "2026-11-24",
           "short_date": "Nov 24",
-          "slot1": "not_run",
+          "slot1": "no_content",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -2745,7 +2732,7 @@
           "youtube_id": "6MSRjS4kcxM",
           "status": "uploaded",
           "upload_date": "2026-10-03",
-          "view_count": 4089,
+          "view_count": 4091,
           "title": "TikTok video",
           "created_at": "2026-10-03 01:44:49",
           "rowid": 37
@@ -2755,7 +2742,7 @@
           "youtube_id": "hAxg4OqAAo8",
           "status": "uploaded",
           "upload_date": "2026-10-02",
-          "view_count": 4034,
+          "view_count": 4039,
           "title": "Watching YOUR JoJo slideshow presentations #jojosbizarreadventure #presentations #anime #jojo #",
           "created_at": "2026-10-02 03:29:17",
           "rowid": 36
@@ -2765,7 +2752,7 @@
           "youtube_id": "plH-XejfqNU",
           "status": "uploaded",
           "upload_date": "2026-10-01",
-          "view_count": 3421,
+          "view_count": 3423,
           "title": "TikTok video #7690613495490039053",
           "created_at": "2026-10-01 03:19:45",
           "rowid": 35
@@ -2775,7 +2762,7 @@
           "youtube_id": "vK8vGd2O3_E",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 12844,
+          "view_count": 12852,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
           "created_at": "2026-09-30 15:16:08",
           "rowid": 34
@@ -2785,7 +2772,7 @@
           "youtube_id": "7KD5ujtsFt8",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 4642,
+          "view_count": 4643,
           "title": "TikTok video #7690613495490039053",
           "created_at": "2026-09-30 04:18:45",
           "rowid": 33
@@ -2795,7 +2782,7 @@
           "youtube_id": "LjQpO0qwDqs",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 5782,
+          "view_count": 5783,
           "title": "What Makes SBR's Outro so HORRIBLE #jojo #jojosbizarreadventure #fyp #gaming#jjba",
           "created_at": "2026-09-30 03:14:08",
           "rowid": 32
@@ -2805,7 +2792,7 @@
           "youtube_id": "62C0ZXacnrA",
           "status": "uploaded",
           "upload_date": "2026-09-29",
-          "view_count": 3432,
+          "view_count": 3434,
           "title": "TikTok video #7690613495490039053",
           "created_at": "2026-09-29 04:35:52",
           "rowid": 31
@@ -2815,7 +2802,7 @@
           "youtube_id": "1nR-IZmFoc8",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 11746,
+          "view_count": 11754,
           "title": "Two little cuties are playing house outdoors. My heart just melted. #adorablebaby",
           "created_at": "2026-09-27 09:58:46",
           "rowid": 30
@@ -2825,7 +2812,7 @@
           "youtube_id": "7LtxHZn95No",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 14763,
+          "view_count": 14788,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #Baby #SmartTech",
           "created_at": "2026-09-27 05:47:24",
           "rowid": 29
@@ -2835,7 +2822,7 @@
           "youtube_id": "LGn__s9Sv5k",
           "status": "uploaded",
           "upload_date": "2026-09-26",
-          "view_count": 13312,
+          "view_count": 13333,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-26 15:59:04",
           "rowid": 28
@@ -2845,7 +2832,7 @@
           "youtube_id": "fnlS7JeTxyA",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 2618549,
+          "view_count": 2619100,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:35:02",
           "rowid": 27
@@ -2855,7 +2842,7 @@
           "youtube_id": "4hxqAaHKXlg",
           "status": "uploaded",
           "upload_date": "2026-09-24",
-          "view_count": 48193,
+          "view_count": 48207,
           "title": "i am rich doll 😎",
           "created_at": "2026-09-24 12:00:13",
           "rowid": 26
@@ -2865,7 +2852,7 @@
           "youtube_id": "ZMg68rtsy8U",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 29739,
+          "view_count": 29761,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 16:06:31",
           "rowid": 25
@@ -2875,7 +2862,7 @@
           "youtube_id": "GMnb5a5h-WE",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 22268,
+          "view_count": 22279,
           "title": "The Rise and FALL of Anime Abridging... #TheRiseand #Anime #Abridging #AnimeDoc #animeedit",
           "created_at": "2026-09-23 05:53:09",
           "rowid": 24
@@ -2885,7 +2872,7 @@
           "youtube_id": "OswT2v6MD58",
           "status": "uploaded",
           "upload_date": "2026-09-22",
-          "view_count": 27467,
+          "view_count": 27475,
           "title": "Look How The Baby Copies Grandpa's Hunched Walk! His Tiny Shadow 👴😂 #FunnyBaby",
           "created_at": "2026-09-22 05:30:20",
           "rowid": 23
@@ -2895,7 +2882,7 @@
           "youtube_id": "i4r_X6ykv_4",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 31420,
+          "view_count": 31450,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-21 17:34:14",
           "rowid": 22
@@ -2905,7 +2892,7 @@
           "youtube_id": "5FyiXi2KuKo",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 8766710,
+          "view_count": 8768330,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:06:44",
           "rowid": 21
@@ -2915,7 +2902,7 @@
           "youtube_id": "kCjIyUQuGtM",
           "status": "uploaded",
           "upload_date": "2026-09-18",
-          "view_count": 21721,
+          "view_count": 21722,
           "title": "In Defense of The FNAF Movie... (Review) 🐻🎬 #FNAF #fnafmovie #fivenightsatfreddys #fnafreview #",
           "created_at": "2026-09-18 23:56:32",
           "rowid": 20
@@ -2925,7 +2912,7 @@
           "youtube_id": "RvkB6kUOW-M",
           "status": "uploaded",
           "upload_date": "2026-09-17",
-          "view_count": 14812,
+          "view_count": 14814,
           "title": "TikTok video #7669078121852833037",
           "created_at": "2026-09-17 00:10:48",
           "rowid": 19
@@ -2935,7 +2922,7 @@
           "youtube_id": "jxDzd8ESrFY",
           "status": "uploaded",
           "upload_date": "2026-09-15",
-          "view_count": 13099,
+          "view_count": 13102,
           "title": "The OFFICIAL Stone Ocean Batch 3 BINGO Game! 🎟️🕷️ #anime #stoneocean #jojopart6 #bingogame #joj",
           "created_at": "2026-09-15 22:12:32",
           "rowid": 18
@@ -3003,7 +2990,7 @@
       "total_uploaded": 153,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 38503,
+      "total_views": 38542,
       "last_run_date": "2026-11-23 06:39:33",
       "last_run_status": "no_content",
       "last_run_message": "No unposted videos found for channel source channel_5.",
@@ -3485,7 +3472,7 @@
           "youtube_id": "B0ZvkiTXmLc",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 8,
+          "view_count": 11,
           "title": "😂 The Baby TOOK His Job Seriously! 😤👶 | Funniest Baby Instructions",
           "created_at": "2026-11-12 03:46:01",
           "rowid": 120
@@ -3495,7 +3482,7 @@
           "youtube_id": "mAZlThcvASg",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 4,
+          "view_count": 6,
           "title": "Wait for it 😂😂😂 #Shorts #Fishing #Viral",
           "created_at": "2026-11-12 03:29:49",
           "rowid": 119
@@ -3505,7 +3492,7 @@
           "youtube_id": "f60nRLx0eDc",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 3,
+          "view_count": 4,
           "title": "Do you think the owner had good intentions? #Shorts #Fishing #Viral",
           "created_at": "2026-11-12 03:29:49",
           "rowid": 118
@@ -3515,7 +3502,7 @@
           "youtube_id": "asFPtNafx0w",
           "status": "uploaded",
           "upload_date": "2026-11-11",
-          "view_count": 2,
+          "view_count": 3,
           "title": "😂 This Baby IMPRESSED His Father! 😤👶 | Funniest Baby Plan",
           "created_at": "2026-11-11 07:01:02",
           "rowid": 117
@@ -3525,7 +3512,7 @@
           "youtube_id": "yG6QAC5h9vw",
           "status": "uploaded",
           "upload_date": "2026-11-11",
-          "view_count": 2,
+          "view_count": 4,
           "title": "Karen on the water alert 🙄😂 they really tried to act like it was his fault too #Shorts #Fishing",
           "created_at": "2026-11-11 03:09:43",
           "rowid": 116
@@ -3535,7 +3522,7 @@
           "youtube_id": "WZyydGohwKs",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 7,
+          "view_count": 10,
           "title": "Violet Cyber Bike Becomes Jet Ski & Drops Into Toronto Harbour 😱🌊",
           "created_at": "2026-11-10 04:00:48",
           "rowid": 115
@@ -3545,7 +3532,7 @@
           "youtube_id": "V3HoCPiM6os",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 4,
+          "view_count": 7,
           "title": "Is this the best collab in fishing? #Shorts #Fishing #Viral",
           "created_at": "2026-11-10 02:57:24",
           "rowid": 114
@@ -3555,7 +3542,7 @@
           "youtube_id": "u3ls1gdh1lE",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 71,
+          "view_count": 75,
           "title": "The sweetest little surprise! 🥹💛 This toddler thought he was giving a kiss to a golden statue 😂❤️",
           "created_at": "2026-11-09 09:43:32",
           "rowid": 113
@@ -3565,7 +3552,7 @@
           "youtube_id": "oVbkwmabgQY",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 3,
+          "view_count": 7,
           "title": "Rookie mistake trying to grab it like that… he learned a quick lesson 😂😂😭 #Shorts #Fishing",
           "created_at": "2026-11-09 07:36:48",
           "rowid": 112
@@ -3585,7 +3572,7 @@
           "youtube_id": "CT6by_UVM54",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 5,
+          "view_count": 6,
           "title": "Karen tries to kick out fisherman on a public lake 😂😭 #Shorts #Fishing #Viral",
           "created_at": "2026-11-09 03:52:37",
           "rowid": 110
@@ -3595,7 +3582,7 @@
           "youtube_id": "f1EHpjaIHvw",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 2,
+          "view_count": 4,
           "title": "Why did he say it like that? 😂😂😂 MASSIVE catch on his first try though 😳😩 #Shorts #Fishing",
           "created_at": "2026-11-09 03:52:37",
           "rowid": 109
@@ -3605,7 +3592,7 @@
           "youtube_id": "6CSmYLJr_lQ",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 3,
+          "view_count": 4,
           "title": "What would you do? 🤔😂 #Shorts #Fishing #Viral",
           "created_at": "2026-11-09 03:52:37",
           "rowid": 108
@@ -3615,7 +3602,7 @@
           "youtube_id": "fgod4l0ulwE",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 8,
+          "view_count": 11,
           "title": "Clogging his sewer line 😭 probably smelled crazy #Shorts #Fishing #Viral",
           "created_at": "2026-11-09 03:52:37",
           "rowid": 107
@@ -3625,7 +3612,7 @@
           "youtube_id": "sj-BTn2-2VA",
           "status": "uploaded",
           "upload_date": "2026-11-07",
-          "view_count": 5,
+          "view_count": 9,
           "title": "Never imaged this 🤔 #Shorts #Fishing #Viral",
           "created_at": "2026-11-07 05:36:23",
           "rowid": 106
@@ -3635,7 +3622,7 @@
           "youtube_id": "EUb8741rdcY",
           "status": "uploaded",
           "upload_date": "2026-11-07",
-          "view_count": 5,
+          "view_count": 6,
           "title": "Dont swim in that lake 🤯 #Shorts #Fishing #Viral",
           "created_at": "2026-11-07 05:36:23",
           "rowid": 105
@@ -3645,7 +3632,7 @@
           "youtube_id": "aoRrsUYDMNM",
           "status": "uploaded",
           "upload_date": "2026-11-06",
-          "view_count": 25,
+          "view_count": 26,
           "title": "How people cheat during fishing events and try to get away with it 😭😭 #Shorts #Fishing #Viral",
           "created_at": "2026-11-06 05:32:41",
           "rowid": 104
@@ -4646,7 +4633,7 @@
           "youtube_id": "mgjLPfXPxso",
           "status": "uploaded",
           "upload_date": "2026-11-23",
-          "view_count": 18478,
+          "view_count": 18479,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-23 05:15:45",
           "rowid": 109
@@ -6567,7 +6554,7 @@
       "source_title": "Step By Fix - All Videos",
       "youtube_handle": "@stepbyfix",
       "youtube_channel_url": "https://www.youtube.com/@stepbyfix",
-      "subscribers_count": 25,
+      "subscribers_count": 26,
       "published_videos_count": 9,
       "live_youtube_views": 36876,
       "owner_email": "johnsamuelry@gmail.com",
@@ -7178,11 +7165,11 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-24 06:09:03 UTC",
+    "timestamp": "2026-11-24 06:10:11 UTC",
     "total_channels": 13,
     "healthy_count": 1,
     "auto_healed_count": 0,
-    "action_required_count": 6,
+    "action_required_count": 7,
     "channels": [
       {
         "channel_id": "channel_1",
@@ -7218,7 +7205,7 @@
         "profile_code": "PF #2",
         "source_type": "gdrive",
         "source_target": "N/A",
-        "status": "monitoring",
+        "status": "action_required",
         "token_status": "valid",
         "last_upload_date": "2026-11-20",
         "uploads_today": 0,
@@ -7226,18 +7213,18 @@
         "missed_posting": true,
         "error_detail": "No uploads recorded in the last 48 hours. Scheduled upload pending next slot.",
         "auto_heal_log": null,
-        "user_action_needed": false,
-        "action_title": null,
-        "action_description": null,
-        "action_button_type": null,
+        "user_action_needed": true,
+        "action_title": "Content Depleted: Not A Chef",
+        "action_description": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped.",
+        "action_button_type": "update_source",
         "content_inventory": {
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
-          "stock_status": "low_stock",
-          "remaining_unposted": 1,
+          "stock_status": "depleted",
+          "remaining_unposted": 0,
           "total_available": 51,
-          "days_buffer": 0.5,
-          "alert_message": "Only 1 unposted videos remaining in Google Drive (~0.5 days left). Add more videos soon."
+          "days_buffer": 0.0,
+          "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
         }
       },
       {
@@ -7550,6 +7537,34 @@
       }
     ],
     "action_required_items": [
+      {
+        "channel_id": "channel_2",
+        "name": "Not A Chef",
+        "profile_code": "PF #2",
+        "source_type": "gdrive",
+        "source_target": "N/A",
+        "status": "action_required",
+        "token_status": "valid",
+        "last_upload_date": "2026-11-20",
+        "uploads_today": 0,
+        "uploads_yesterday": 0,
+        "missed_posting": true,
+        "error_detail": "No uploads recorded in the last 48 hours. Scheduled upload pending next slot.",
+        "auto_heal_log": null,
+        "user_action_needed": true,
+        "action_title": "Content Depleted: Not A Chef",
+        "action_description": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped.",
+        "action_button_type": "update_source",
+        "content_inventory": {
+          "source_type": "gdrive",
+          "source_url": "https://drive.google.com/drive/folders/1uW42hgYLfWOdEUkMyFuVCUVSIID0OUJT",
+          "stock_status": "depleted",
+          "remaining_unposted": 0,
+          "total_available": 51,
+          "days_buffer": 0.0,
+          "alert_message": "Google Drive folder is empty (0 unposted videos remaining). Daily automated uploads are stopped."
+        }
+      },
       {
         "channel_id": "channel_4",
         "name": "AniHightRecap",
