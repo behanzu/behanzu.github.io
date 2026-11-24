@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-24 06:11:58 UTC",
+    "timestamp_utc": "2026-11-24 06:13:06 UTC",
     "total_channels": 13,
-    "active_channels": 6,
-    "disabled_channels": 6,
-    "idle_channels": 6,
-    "today_completed_channels": 0,
+    "active_channels": 7,
+    "disabled_channels": 5,
+    "idle_channels": 5,
+    "today_completed_channels": 1,
     "token_warnings": 0,
     "error_channels": 1,
-    "health_rate_percent": 83.3,
-    "total_uploaded_videos": 923,
-    "total_views_tracked": 197490978,
+    "health_rate_percent": 85.7,
+    "total_uploaded_videos": 925,
+    "total_views_tracked": 197490979,
     "total_subscribers": 127308,
     "total_pending_retries": 5,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-24 06:12:48 UTC"
+    "gh_pages_synced_at": "2026-11-24 06:13:56 UTC"
   },
   "channels": [
     {
@@ -73,7 +73,7 @@
       "total_uploaded": 132,
       "total_failed": 0,
       "total_pending_retry": 5,
-      "total_views": 4954026,
+      "total_views": 4954027,
       "last_run_date": "2026-11-23 05:15:57",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: vMsK3tPLBc4",
@@ -385,7 +385,7 @@
           "youtube_id": "-loNQITt25E",
           "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 194,
+          "view_count": 195,
           "title": "This Orange Cat Has Its Own Tropical Hideaway! 🐱🌴#shorts #orangecat #luxurypets #catlife #catlove",
           "created_at": "2026-11-03 00:03:18",
           "rowid": 122
@@ -2956,16 +2956,16 @@
       "content_inventory": {
         "source_type": "tiktok",
         "source_url": "https://www.tiktok.com/@fishing_tiktoks",
-        "stock_status": "depleted",
-        "remaining_unposted": 0,
-        "total_available": 0,
-        "days_buffer": 0,
-        "alert_message": "Source (Tiktok) has exhausted all available videos (all candidates already uploaded). Please update the source URL."
+        "stock_status": "healthy",
+        "remaining_unposted": null,
+        "total_available": null,
+        "days_buffer": null,
+        "alert_message": null
       },
       "is_monetized": false,
       "monetized_date": null,
       "enabled": true,
-      "status": "idle",
+      "status": "active",
       "idle_since": null,
       "days_idle": null,
       "is_idle_expired": false,
@@ -2985,15 +2985,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 154,
+      "total_uploaded": 155,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 38542,
-      "last_run_date": "2026-11-23 06:39:33",
-      "last_run_status": "no_content",
-      "last_run_message": "No unposted videos found for channel source channel_5.",
+      "last_run_date": "2026-11-24 06:11:29",
+      "last_run_status": "success",
+      "last_run_message": "Uploaded YouTube ID: xLbBZbQtS2Y",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-15",
@@ -3072,9 +3072,9 @@
         {
           "date": "2026-11-24",
           "short_date": "Nov 24",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
@@ -3132,11 +3132,21 @@
           "short_date": "Nov 24",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 2,
+          "uploads_count": 3,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "7355230431567990059",
+          "youtube_id": "xLbBZbQtS2Y",
+          "status": "uploaded",
+          "upload_date": "2026-11-24",
+          "view_count": 0,
+          "title": "Breeding fish that cant breed naturally 👀😳 #Shorts #Fishing #Viral",
+          "created_at": "2026-11-24 06:11:29",
+          "rowid": 155
+        },
         {
           "tiktok_id": "7410444173414796574",
           "youtube_id": null,
@@ -3626,16 +3636,6 @@
           "title": "Never imaged this 🤔 #Shorts #Fishing #Viral",
           "created_at": "2026-11-07 05:36:23",
           "rowid": 106
-        },
-        {
-          "tiktok_id": "yt_EUb8741rdcY",
-          "youtube_id": "EUb8741rdcY",
-          "status": "uploaded",
-          "upload_date": "2026-11-07",
-          "view_count": 6,
-          "title": "Dont swim in that lake 🤯 #Shorts #Fishing #Viral",
-          "created_at": "2026-11-07 05:36:23",
-          "rowid": 105
         }
       ],
       "pending_retry_items": [],
@@ -3644,8 +3644,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 02, 2026",
-      "overall_status": "idle",
-      "idle_reason": "inventory_depleted"
+      "overall_status": "active"
     },
     {
       "channel_id": "channel_14",
@@ -3666,14 +3665,13 @@
         "gdrive_url": "https://drive.google.com/drive/folders/1Z80VWahTafQMiDU1S86M6z5mLnvo_CT3",
         "folder_title": "Curiotomy",
         "total_in_drive": 73,
-        "posted_count": 40,
-        "remaining_unposted": 33,
+        "posted_count": 41,
+        "remaining_unposted": 32,
         "videos_per_day": 1,
-        "days_buffer": 33.0,
+        "days_buffer": 32.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (33 videos ready)",
+        "stock_label": "HEALTHY (32 videos ready)",
         "unposted_videos": [
-          "How Chameleon Tongues Accelerate Faster Than A Jet",
           "How Desert Sand Vipers Move Via Sidewinding",
           "How Dung Beetles Navigate Using The Milky Way Galaxy",
           "How Electric Eels Generate 860 Volts",
@@ -3687,16 +3685,17 @@
           "How Owls Fly In Silence",
           "How Pistol Shrimp Create Sun Temperatures",
           "How Pit Vipers See In Infrared",
-          "How Platypuses Hunt Using Electrolocation Sensors"
+          "How Platypuses Hunt Using Electrolocation Sensors",
+          "How Tardigrades Survive Vacuum Of Space"
         ]
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1Z80VWahTafQMiDU1S86M6z5mLnvo_CT3",
         "stock_status": "healthy",
-        "remaining_unposted": 33,
+        "remaining_unposted": 32,
         "total_available": 73,
-        "days_buffer": 33.0,
+        "days_buffer": 32.0,
         "alert_message": null
       },
       "is_monetized": false,
@@ -3721,15 +3720,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 78,
+      "total_uploaded": 79,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 993472,
-      "last_run_date": "2026-11-23 06:39:36",
-      "last_run_status": "no_content",
-      "last_run_message": "No unposted videos found for channel source channel_14.",
+      "last_run_date": "2026-11-24 06:12:46",
+      "last_run_status": "success",
+      "last_run_message": "Uploaded YouTube ID: mPTODxkXRew",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-15",
@@ -3808,9 +3807,9 @@
         {
           "date": "2026-11-24",
           "short_date": "Nov 24",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -3868,11 +3867,21 @@
           "short_date": "Nov 24",
           "day_name": "Tue",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "1ttXNCHtEBo_OPIT0wH3DO3R0IGJOSKWT",
+          "youtube_id": "mPTODxkXRew",
+          "status": "uploaded",
+          "upload_date": "2026-11-24",
+          "view_count": 0,
+          "title": "How Chameleon Tongues Accelerate Faster Than a Jet #Shorts #Science #Facts",
+          "created_at": "2026-11-24 06:12:46",
+          "rowid": 79
+        },
         {
           "tiktok_id": "baby_copies_grandpa_1795156828_channel_14",
           "youtube_id": "XS8JjCkavsM",
@@ -4362,16 +4371,6 @@
           "title": "How Army Ants Build Living Bridges #Shorts #Science #Facts",
           "created_at": "2026-10-06 01:41:25",
           "rowid": 30
-        },
-        {
-          "tiktok_id": "broadcast_avocado_1791185595_channel_14",
-          "youtube_id": "JhYCa8YlyMg",
-          "status": "uploaded",
-          "upload_date": "2026-10-05",
-          "view_count": 603,
-          "title": "The sweetest little avocado you will ever see taking a tiny nap #cutebaby #babycostume",
-          "created_at": "2026-10-05 07:33:15",
-          "rowid": 29
         }
       ],
       "pending_retry_items": [],
@@ -4380,7 +4379,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 17, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_15",
@@ -4643,7 +4642,7 @@
           "youtube_id": "CyH76ry3tMY",
           "status": "uploaded",
           "upload_date": "2026-11-23",
-          "view_count": 6042,
+          "view_count": 6045,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-23 05:15:45",
           "rowid": 108
@@ -4913,7 +4912,7 @@
           "youtube_id": "cDGKDQ8xnUY",
           "status": "uploaded",
           "upload_date": "2026-11-11",
-          "view_count": 30655,
+          "view_count": 30781,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-11 05:10:57",
           "rowid": 81
@@ -4923,7 +4922,7 @@
           "youtube_id": "24qrv2c26jM",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 33335,
+          "view_count": 33552,
           "title": "Baby Penguin Surprise! Crib Smiled 🐧 #shorts #cutebaby #viral",
           "created_at": "2026-11-10 07:23:01",
           "rowid": 80
@@ -4933,7 +4932,7 @@
           "youtube_id": "sVK1p_poodM",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 3912,
+          "view_count": 4618,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-10 05:10:29",
           "rowid": 79
@@ -4943,7 +4942,7 @@
           "youtube_id": "gYmzhNCjK5Q",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 3432,
+          "view_count": 4095,
           "title": "Violet Cyber Bike Becomes Jet Ski & Drops Into Toronto Harbour 😱🌊",
           "created_at": "2026-11-10 04:08:39",
           "rowid": 78
@@ -4953,7 +4952,7 @@
           "youtube_id": "IwMggN0A0VI",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 1538,
+          "view_count": 2359,
           "title": "The sweetest little surprise! 🥹💛 This toddler thought he was giving a kiss to a golden statue 😂❤️",
           "created_at": "2026-11-09 09:45:45",
           "rowid": 77
@@ -4963,7 +4962,7 @@
           "youtube_id": "9zQdidlDTz4",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 1067,
+          "view_count": 1637,
           "title": "Cute Bunny Daisy Chain Dance #Shorts #CuteBunny #Pets",
           "created_at": "2026-11-09 06:54:11",
           "rowid": 76
@@ -4973,7 +4972,7 @@
           "youtube_id": "k75fg9ATRuk",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 1216,
+          "view_count": 1856,
           "title": "Baby Raccoon Surprise! Laundry Giggled 🦝 #shorts #cutebaby #viral",
           "created_at": "2026-11-09 06:37:48",
           "rowid": 75
@@ -4993,7 +4992,7 @@
           "youtube_id": "cmsHfRTdXOE",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 10906,
+          "view_count": 11688,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-09 05:10:48",
           "rowid": 73
@@ -5003,7 +5002,7 @@
           "youtube_id": "kuool5OlRE8",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 35227,
+          "view_count": 35931,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-09 03:52:37",
           "rowid": 72
@@ -5013,7 +5012,7 @@
           "youtube_id": "m30P7pncbh0",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 2024,
+          "view_count": 2660,
           "title": "Baby Hedgehog Surprise! Plushie Wiggled 🦔 #shorts #cutebaby #viral",
           "created_at": "2026-11-09 03:52:37",
           "rowid": 71
@@ -5023,7 +5022,7 @@
           "youtube_id": "i0Fkmo2bfTU",
           "status": "uploaded",
           "upload_date": "2026-11-07",
-          "view_count": 3839,
+          "view_count": 4385,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-07 05:36:24",
           "rowid": 70
@@ -5033,7 +5032,7 @@
           "youtube_id": "b0iRxNmEOck",
           "status": "uploaded",
           "upload_date": "2026-11-06",
-          "view_count": 23234,
+          "view_count": 23598,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-06 08:37:12",
           "rowid": 69
@@ -5043,7 +5042,7 @@
           "youtube_id": "PCUG8ICr864",
           "status": "uploaded",
           "upload_date": "2026-11-06",
-          "view_count": 27814,
+          "view_count": 28249,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-06 08:37:12",
           "rowid": 68
@@ -5053,7 +5052,7 @@
           "youtube_id": "qLjZpEeZGBE",
           "status": "uploaded",
           "upload_date": "2026-11-06",
-          "view_count": 4157,
+          "view_count": 4597,
           "title": "Baby Tiger Surprise! Plushie Roared 🐯 #shorts #cutebaby #viral",
           "created_at": "2026-11-06 08:37:12",
           "rowid": 67
@@ -5063,7 +5062,7 @@
           "youtube_id": "3RNtBrYe3Ls",
           "status": "uploaded",
           "upload_date": "2026-11-06",
-          "view_count": 15593,
+          "view_count": 16037,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-06 08:37:12",
           "rowid": 66
@@ -5073,7 +5072,7 @@
           "youtube_id": "ma9usmdkboU",
           "status": "uploaded",
           "upload_date": "2026-11-06",
-          "view_count": 756,
+          "view_count": 1118,
           "title": "Playful Baby Bunny Blueberry Zoom #Shorts #CuteBunny #Viral",
           "created_at": "2026-11-06 08:37:12",
           "rowid": 65
@@ -5083,7 +5082,7 @@
           "youtube_id": "F1xKDrQPJUo",
           "status": "uploaded",
           "upload_date": "2026-11-06",
-          "view_count": 10966,
+          "view_count": 11458,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-06 08:37:12",
           "rowid": 64
@@ -5093,7 +5092,7 @@
           "youtube_id": "vDJ9mBsNjFQ",
           "status": "uploaded",
           "upload_date": "2026-11-06",
-          "view_count": 3541,
+          "view_count": 4296,
           "title": "He saw his cake twin get cut… and his reaction was priceless! Wait for the ending.",
           "created_at": "2026-11-06 08:37:12",
           "rowid": 63
@@ -5103,7 +5102,7 @@
           "youtube_id": "xnEanHqU688",
           "status": "uploaded",
           "upload_date": "2026-11-01",
-          "view_count": 45128,
+          "view_count": 45536,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-01 07:23:26",
           "rowid": 62
@@ -7165,9 +7164,9 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-24 06:11:58 UTC",
+    "timestamp": "2026-11-24 06:13:06 UTC",
     "total_channels": 13,
-    "healthy_count": 2,
+    "healthy_count": 3,
     "auto_healed_count": 0,
     "action_required_count": 6,
     "channels": [
@@ -7317,13 +7316,13 @@
         "profile_code": "Behanzu",
         "source_type": "gdrive",
         "source_target": "N/A",
-        "status": "monitoring",
+        "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-11-20",
-        "uploads_today": 0,
+        "last_upload_date": "2026-11-24",
+        "uploads_today": 1,
         "uploads_yesterday": 0,
-        "missed_posting": true,
-        "error_detail": "No uploads recorded in the last 48 hours. Scheduled upload pending next slot.",
+        "missed_posting": false,
+        "error_detail": null,
         "auto_heal_log": null,
         "user_action_needed": false,
         "action_title": null,
@@ -7333,9 +7332,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1Z80VWahTafQMiDU1S86M6z5mLnvo_CT3",
           "stock_status": "healthy",
-          "remaining_unposted": 33,
+          "remaining_unposted": 32,
           "total_available": 73,
-          "days_buffer": 33.0,
+          "days_buffer": 32.0,
           "alert_message": null
         }
       },
