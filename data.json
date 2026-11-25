@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-25 04:44:17 UTC",
+    "timestamp_utc": "2026-11-25 04:45:31 UTC",
     "total_channels": 13,
     "active_channels": 8,
     "disabled_channels": 4,
     "idle_channels": 4,
     "today_completed_channels": 0,
     "token_warnings": 0,
-    "error_channels": 2,
-    "health_rate_percent": 75.0,
+    "error_channels": 3,
+    "health_rate_percent": 62.5,
     "total_uploaded_videos": 931,
-    "total_views_tracked": 198301521,
+    "total_views_tracked": 198301519,
     "total_subscribers": 127944,
     "total_pending_retries": 4,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-25 04:45:23 UTC"
+    "gh_pages_synced_at": "2026-11-25 04:45:36 UTC"
   },
   "channels": [
     {
@@ -73,7 +73,7 @@
       "total_uploaded": 133,
       "total_failed": 0,
       "total_pending_retry": 4,
-      "total_views": 4954158,
+      "total_views": 4954156,
       "last_run_date": "2026-11-25 04:41:52",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: huInJCaw6_o",
@@ -225,7 +225,7 @@
           "youtube_id": "6YDfmKYq6do",
           "status": "uploaded",
           "upload_date": "2026-11-20",
-          "view_count": 622,
+          "view_count": 621,
           "title": "Cute Baby Copies His Grandpa 👶🧓😂",
           "created_at": "2026-11-20 06:36:07",
           "rowid": 138
@@ -235,7 +235,7 @@
           "youtube_id": "wAAWnkXi-UM",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 162,
+          "view_count": 161,
           "title": "Baby Follows GRANDPA Walk! 🦯😂",
           "created_at": "2026-11-18 05:19:12",
           "rowid": 137
@@ -1120,7 +1120,7 @@
           "youtube_id": "GqGD8QJkqYU",
           "status": "uploaded",
           "upload_date": "2026-11-17",
-          "view_count": 2333,
+          "view_count": 2321,
           "title": "Strawberry Lemonade, Oreo Milkshake & Whipped Dalgona Coffee | ASMR Drinks 🍓🥤☕ #dalgonacoffee",
           "created_at": "2026-11-17 18:33:56",
           "rowid": 150
@@ -1170,7 +1170,7 @@
           "youtube_id": "10V6KDjPqgg",
           "status": "uploaded",
           "upload_date": "2026-11-16",
-          "view_count": 2706,
+          "view_count": 2705,
           "title": "Rich & Creamy Clam Chowder & Easy Homemade Chili | Cozy Comfort Food ASMR 🥣🍲 #clamchowder",
           "created_at": "2026-11-16 04:53:53",
           "rowid": 145
@@ -4661,7 +4661,7 @@
           "youtube_id": "LKfCpERmIO4",
           "status": "uploaded",
           "upload_date": "2026-11-23",
-          "view_count": 4400,
+          "view_count": 4405,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-23 05:15:45",
           "rowid": 107
@@ -4711,7 +4711,7 @@
           "youtube_id": "vFG0GNOE59o",
           "status": "uploaded",
           "upload_date": "2026-11-19",
-          "view_count": 43969,
+          "view_count": 43978,
           "title": "Baby Zebra Surprise! Rug Came Alive 🦓 #shorts #cutebaby #viral",
           "created_at": "2026-11-19 16:48:15",
           "rowid": 102
@@ -6222,13 +6222,13 @@
         "has_refresh_token": true,
         "is_expired": true
       },
-      "slot1_today": "not_run",
+      "slot1_today": "failed",
       "slot2_today": "not_run",
       "total_uploaded": 17,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 823548,
-      "last_run_date": "2026-11-24 06:46:12",
+      "last_run_date": "2026-11-25 04:45:17",
       "last_run_status": "failed",
       "last_run_message": "YouTube upload failed: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
       "daily_sheet_10_days": [
@@ -6309,7 +6309,7 @@
         {
           "date": "2026-11-25",
           "short_date": "Nov 25",
-          "slot1": "not_run",
+          "slot1": "failed",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -6551,7 +6551,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Nov 16, 2026",
-      "overall_status": "active"
+      "overall_status": "error"
     },
     {
       "channel_id": "channel_23",
@@ -6611,13 +6611,13 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "no_content",
       "slot2_today": "not_run",
       "total_uploaded": 9,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 41008,
-      "last_run_date": "2026-11-24 06:46:15",
+      "last_run_date": "2026-11-25 04:45:20",
       "last_run_status": "no_content",
       "last_run_message": "No unposted videos found for channel source channel_23.",
       "daily_sheet_10_days": [
@@ -6697,7 +6697,7 @@
         {
           "date": "2026-11-25",
           "short_date": "Nov 25",
-          "slot1": "not_run",
+          "slot1": "no_content",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -7171,7 +7171,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-25 04:44:17 UTC",
+    "timestamp": "2026-11-25 04:45:31 UTC",
     "total_channels": 13,
     "healthy_count": 4,
     "auto_healed_count": 0,
