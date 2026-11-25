@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-25 04:41:51 UTC",
+    "timestamp_utc": "2026-11-25 04:44:17 UTC",
     "total_channels": 13,
     "active_channels": 8,
     "disabled_channels": 4,
     "idle_channels": 4,
     "today_completed_channels": 0,
     "token_warnings": 0,
-    "error_channels": 0,
-    "health_rate_percent": 100.0,
-    "total_uploaded_videos": 930,
-    "total_views_tracked": 198301283,
+    "error_channels": 2,
+    "health_rate_percent": 75.0,
+    "total_uploaded_videos": 931,
+    "total_views_tracked": 198301521,
     "total_subscribers": 127944,
-    "total_pending_retries": 5,
+    "total_pending_retries": 4,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-25 04:42:58 UTC"
+    "gh_pages_synced_at": "2026-11-25 04:45:23 UTC"
   },
   "channels": [
     {
@@ -28,7 +28,7 @@
       "youtube_handle": "@meelyansnmyhands",
       "youtube_channel_url": "https://www.youtube.com/@meelyansnmyhands",
       "subscribers_count": 2680,
-      "published_videos_count": 70,
+      "published_videos_count": 71,
       "live_youtube_views": 4951283,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Apr 07, 2026",
@@ -68,15 +68,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 132,
+      "total_uploaded": 133,
       "total_failed": 0,
-      "total_pending_retry": 5,
-      "total_views": 4954157,
-      "last_run_date": "2026-11-23 05:15:57",
+      "total_pending_retry": 4,
+      "total_views": 4954158,
+      "last_run_date": "2026-11-25 04:41:52",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: vMsK3tPLBc4",
+      "last_run_message": "Uploaded YouTube ID: huInJCaw6_o",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-16",
@@ -155,7 +155,7 @@
         {
           "date": "2026-11-25",
           "short_date": "Nov 25",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -235,7 +235,7 @@
           "youtube_id": "wAAWnkXi-UM",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 161,
+          "view_count": 162,
           "title": "Baby Follows GRANDPA Walk! 🦯😂",
           "created_at": "2026-11-18 05:19:12",
           "rowid": 137
@@ -362,10 +362,10 @@
         },
         {
           "tiktok_id": "ycSavDujQsE",
-          "youtube_id": null,
-          "status": "pending_retry",
+          "youtube_id": "huInJCaw6_o",
+          "status": "uploaded",
           "upload_date": "2026-11-03",
-          "view_count": 119000,
+          "view_count": 0,
           "title": "One Paw Press Opens This Cat's Cozy Retreat 😺 🏠 #shorts #whitecat #fluffycat #luxurypets #catlove",
           "created_at": "2026-11-03 00:03:36",
           "rowid": 124
@@ -765,17 +765,6 @@
           "retry_count": 5,
           "next_retry_date": null,
           "created_at": "2026-11-03 00:03:45"
-        },
-        {
-          "tiktok_id": "ycSavDujQsE",
-          "youtube_id": null,
-          "status": "pending_retry",
-          "upload_date": "2026-11-03",
-          "view_count": 119000,
-          "title": "One Paw Press Opens This Cat's Cozy Retreat 😺 🏠 #shorts #whitecat #fluffycat #luxurypets #catlove",
-          "retry_count": 5,
-          "next_retry_date": null,
-          "created_at": "2026-11-03 00:03:36"
         }
       ],
       "days_linked": 23,
@@ -838,19 +827,19 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-24 07:52:17 UTC",
+        "expires_at": "2026-11-25 05:40:57 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "no_content",
       "slot2_today": "not_run",
       "total_uploaded": 156,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 94465266,
-      "last_run_date": "2026-11-24 06:55:43",
+      "last_run_date": "2026-11-25 04:42:16",
       "last_run_status": "no_content",
       "last_run_message": "No unposted videos found for channel source channel_2.",
       "daily_sheet_10_days": [
@@ -931,7 +920,7 @@
         {
           "date": "2026-11-25",
           "short_date": "Nov 25",
-          "slot1": "not_run",
+          "slot1": "no_content",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -1101,7 +1090,7 @@
           "youtube_id": "eO4QICa5Wbw",
           "status": "uploaded",
           "upload_date": "2026-11-19",
-          "view_count": 3452,
+          "view_count": 3454,
           "title": "Virgin Mojito, Cucumber Lime Mocktail, Peach Ice Tea & Lemonade | Refreshing ASMR 🍹🥒🍑 #mojito",
           "created_at": "2026-11-19 16:48:14",
           "rowid": 153
@@ -1271,7 +1260,7 @@
           "youtube_id": "CB7SIvhtc_o",
           "status": "uploaded",
           "upload_date": "2026-11-14",
-          "view_count": 2882,
+          "view_count": 2887,
           "title": "Noodle Pizza & Creamy Beef Stroganoff | Satisfying Comfort Food ASMR 🍕🍝 #beefstroganoff #pizza",
           "created_at": "2026-11-14 04:23:11",
           "rowid": 136
@@ -1361,7 +1350,7 @@
           "youtube_id": "aftCjrT1p7o",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 41689,
+          "view_count": 41828,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-10 02:57:24",
           "rowid": 127
@@ -1371,7 +1360,7 @@
           "youtube_id": "kA0bxkGCh-Q",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 4337,
+          "view_count": 4444,
           "title": "The sweetest little surprise! 🥹💛 This toddler thought he was giving a kiss to a golden statue 😂❤️",
           "created_at": "2026-11-09 09:42:42",
           "rowid": 126
@@ -1381,7 +1370,7 @@
           "youtube_id": "_9rJZmeCBns",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 7855,
+          "view_count": 7926,
           "title": "Cyber Bike Becomes Jet Ski & Drops Into Sydney Harbour 😱🌊",
           "created_at": "2026-11-09 03:59:55",
           "rowid": 125
@@ -1391,7 +1380,7 @@
           "youtube_id": "25QmRz8IqSg",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 3034,
+          "view_count": 3115,
           "title": "Crispy Homemade Churros & Creamy Tapioca Pudding | Satisfying Dessert ASMR 🍫🍮 #churros #dessert",
           "created_at": "2026-11-09 03:52:37",
           "rowid": 124
@@ -1401,7 +1390,7 @@
           "youtube_id": "9OBFDPFb98k",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 35850,
+          "view_count": 35953,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-09 03:52:37",
           "rowid": 123
@@ -1411,7 +1400,7 @@
           "youtube_id": "25Qhvx-GJtU",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 3106,
+          "view_count": 3167,
           "title": "Fettuccine Alfredo, Beef Stroganoff & Baked Feta Pasta | Creamy Pasta ASMR 🍝 #pasta #alfredo",
           "created_at": "2026-11-09 03:52:37",
           "rowid": 122
@@ -1421,7 +1410,7 @@
           "youtube_id": "rIhJNpS0Xlg",
           "status": "uploaded",
           "upload_date": "2026-11-07",
-          "view_count": 6522,
+          "view_count": 6587,
           "title": "Newbron baby expressions🥰🥰 #baby",
           "created_at": "2026-11-07 05:36:24",
           "rowid": 121
@@ -1431,7 +1420,7 @@
           "youtube_id": "BVKNlS1PiCU",
           "status": "uploaded",
           "upload_date": "2026-11-07",
-          "view_count": 2678,
+          "view_count": 2766,
           "title": "Crispy Golden Homemade Churros 🍫 #churros #asmrfood #dessert #recipe #sweettooth",
           "created_at": "2026-11-07 05:36:24",
           "rowid": 120
@@ -1441,7 +1430,7 @@
           "youtube_id": "2orFJfDTnWI",
           "status": "uploaded",
           "upload_date": "2026-11-06",
-          "view_count": 4059,
+          "view_count": 4122,
           "title": "Crispy Golden Churros Dipped in Rich Chocolate 🍫 #churros #dessert #asmrfood #recipe",
           "created_at": "2026-11-06 05:32:42",
           "rowid": 119
@@ -1451,7 +1440,7 @@
           "youtube_id": "YyP6i5pdBVQ",
           "status": "uploaded",
           "upload_date": "2026-11-05",
-          "view_count": 11913,
+          "view_count": 11973,
           "title": "Found a sleepy little panda napping in the crib and then he woke up #cutebaby #babycostume",
           "created_at": "2026-11-05 16:50:45",
           "rowid": 118
@@ -1481,7 +1470,7 @@
           "youtube_id": "TNxgx_5v7ro",
           "status": "uploaded",
           "upload_date": "2026-11-05",
-          "view_count": 4710,
+          "view_count": 4816,
           "title": "Cutest little bumblebee you'll see today! 🐝 #baby #cutebaby #bumblebee #babyfever #viral",
           "created_at": "2026-11-05 16:46:37",
           "rowid": 115
@@ -1561,19 +1550,19 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-24 07:52:17 UTC",
+        "expires_at": "2026-11-25 05:40:57 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "failed",
       "slot2_today": "not_run",
       "total_uploaded": 103,
       "total_failed": 1,
       "total_pending_retry": 0,
       "total_views": 3179642,
-      "last_run_date": "2026-11-24 07:09:31",
+      "last_run_date": "2026-11-25 04:42:45",
       "last_run_status": "failed",
       "last_run_message": "Failed to download any unposted candidate videos for slot 1.",
       "daily_sheet_10_days": [
@@ -1654,7 +1643,7 @@
         {
           "date": "2026-11-25",
           "short_date": "Nov 25",
-          "slot1": "not_run",
+          "slot1": "failed",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -2094,7 +2083,7 @@
           "youtube_id": "ao0cYkxgsVQ",
           "status": "uploaded",
           "upload_date": "2026-10-17",
-          "view_count": 587,
+          "view_count": 615,
           "title": "Homemade Rainbow Fruit Popsicles 🌈 #popsicles #rainbowfood #dessert #summerrecipes #foodart",
           "created_at": "2026-10-17 02:23:03",
           "rowid": 68
@@ -2226,7 +2215,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Oct 05, 2026",
-      "overall_status": "active"
+      "overall_status": "error"
     },
     {
       "channel_id": "channel_4",
@@ -2269,19 +2258,19 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-24 07:52:17 UTC",
+        "expires_at": "2026-11-25 05:40:57 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "no_content",
       "slot2_today": "not_run",
       "total_uploaded": 67,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 11961426,
-      "last_run_date": "2026-11-24 07:11:10",
+      "total_views": 11961618,
+      "last_run_date": "2026-11-25 04:42:56",
       "last_run_status": "no_content",
       "last_run_message": "No unposted videos found for channel source channel_4.",
       "daily_sheet_10_days": [
@@ -2362,7 +2351,7 @@
         {
           "date": "2026-11-25",
           "short_date": "Nov 25",
-          "slot1": "not_run",
+          "slot1": "no_content",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -2482,7 +2471,7 @@
           "youtube_id": "rZv6nU7JcBE",
           "status": "uploaded",
           "upload_date": "2026-11-11",
-          "view_count": 60791,
+          "view_count": 60793,
           "title": "😂 This Baby IMPRESSED His Father! 😤👶 | Funniest Baby Plan",
           "created_at": "2026-11-11 07:00:53",
           "rowid": 62
@@ -2762,7 +2751,7 @@
           "youtube_id": "vK8vGd2O3_E",
           "status": "uploaded",
           "upload_date": "2026-09-30",
-          "view_count": 12852,
+          "view_count": 12854,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #BabyCare #FutureTech",
           "created_at": "2026-09-30 15:16:08",
           "rowid": 34
@@ -2812,7 +2801,7 @@
           "youtube_id": "7LtxHZn95No",
           "status": "uploaded",
           "upload_date": "2026-09-27",
-          "view_count": 14788,
+          "view_count": 14790,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #Baby #SmartTech",
           "created_at": "2026-09-27 05:47:24",
           "rowid": 29
@@ -2832,7 +2821,7 @@
           "youtube_id": "fnlS7JeTxyA",
           "status": "uploaded",
           "upload_date": "2026-09-25",
-          "view_count": 2619100,
+          "view_count": 2619261,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-25 12:35:02",
           "rowid": 27
@@ -2842,7 +2831,7 @@
           "youtube_id": "4hxqAaHKXlg",
           "status": "uploaded",
           "upload_date": "2026-09-24",
-          "view_count": 48207,
+          "view_count": 48206,
           "title": "i am rich doll 😎",
           "created_at": "2026-09-24 12:00:13",
           "rowid": 26
@@ -2852,7 +2841,7 @@
           "youtube_id": "ZMg68rtsy8U",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 29761,
+          "view_count": 29764,
           "title": "The future of baby care has arrived! 🤩#BabyLove #FutureTechnology #SmartTech",
           "created_at": "2026-09-23 16:06:31",
           "rowid": 25
@@ -2862,7 +2851,7 @@
           "youtube_id": "GMnb5a5h-WE",
           "status": "uploaded",
           "upload_date": "2026-09-23",
-          "view_count": 22279,
+          "view_count": 22280,
           "title": "The Rise and FALL of Anime Abridging... #TheRiseand #Anime #Abridging #AnimeDoc #animeedit",
           "created_at": "2026-09-23 05:53:09",
           "rowid": 24
@@ -2892,7 +2881,7 @@
           "youtube_id": "5FyiXi2KuKo",
           "status": "uploaded",
           "upload_date": "2026-09-21",
-          "view_count": 8768330,
+          "view_count": 8768610,
           "title": "This automatic baby-care technology is incredible! 🤩 #BabyLove #Baby #FutureTech",
           "created_at": "2026-09-21 08:06:44",
           "rowid": 21
@@ -2979,11 +2968,11 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-24 07:52:17 UTC",
+        "expires_at": "2026-11-25 05:40:57 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
@@ -3714,18 +3703,18 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-24 07:52:17 UTC",
+        "expires_at": "2026-11-25 05:40:57 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
       "total_uploaded": 79,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 1000502,
+      "total_views": 1000516,
       "last_run_date": "2026-11-24 06:12:46",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: mPTODxkXRew",
@@ -3977,7 +3966,7 @@
           "youtube_id": "38Rn9RNDyMg",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 366229,
+          "view_count": 366243,
           "title": "Violet Cyber Bike Becomes Jet Ski & Drops Into Toronto Harbour 😱🌊",
           "created_at": "2026-11-10 04:07:36",
           "rowid": 69
@@ -4449,11 +4438,11 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-24 07:52:17 UTC",
+        "expires_at": "2026-11-25 05:40:57 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
@@ -4622,7 +4611,7 @@
           "youtube_id": "lXeNd6KDGWI",
           "status": "uploaded",
           "upload_date": "2026-11-24",
-          "view_count": 486,
+          "view_count": 488,
           "title": "Cute Bunny Happy Hopscotch Fun #Shorts #CuteBunny #Pets",
           "created_at": "2026-11-24 06:13:54",
           "rowid": 112
@@ -4632,7 +4621,7 @@
           "youtube_id": "jgylsfSRGHE",
           "status": "uploaded",
           "upload_date": "2026-11-24",
-          "view_count": 4185,
+          "view_count": 4189,
           "title": "Baby Hippo Surprise! Unexpected Cuteness 🦛 #shorts #cutebaby #viral",
           "created_at": "2026-11-24 05:55:09",
           "rowid": 111
@@ -4642,7 +4631,7 @@
           "youtube_id": "izONrzZ024c",
           "status": "uploaded",
           "upload_date": "2026-11-24",
-          "view_count": 1159,
+          "view_count": 1165,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-24 05:55:09",
           "rowid": 110
@@ -4662,7 +4651,7 @@
           "youtube_id": "CyH76ry3tMY",
           "status": "uploaded",
           "upload_date": "2026-11-23",
-          "view_count": 8149,
+          "view_count": 8157,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-23 05:15:45",
           "rowid": 108
@@ -4712,7 +4701,7 @@
           "youtube_id": "0gipNOK-ejc",
           "status": "uploaded",
           "upload_date": "2026-11-19",
-          "view_count": 42990,
+          "view_count": 42996,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-19 16:48:15",
           "rowid": 103
@@ -4742,7 +4731,7 @@
           "youtube_id": "ki0GvAdW4Cs",
           "status": "uploaded",
           "upload_date": "2026-11-18",
-          "view_count": 7980,
+          "view_count": 8018,
           "title": "Baby Follows GRANDPA Walk! 🦯😂",
           "created_at": "2026-11-18 05:24:00",
           "rowid": 100
@@ -4792,7 +4781,7 @@
           "youtube_id": "wwWOXrWSJ58",
           "status": "uploaded",
           "upload_date": "2026-11-16",
-          "view_count": 12140,
+          "view_count": 12147,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-16 05:11:03",
           "rowid": 95
@@ -4832,7 +4821,7 @@
           "youtube_id": "RkTXKvPcUOM",
           "status": "uploaded",
           "upload_date": "2026-11-14",
-          "view_count": 35650,
+          "view_count": 35652,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-14 05:10:02",
           "rowid": 91
@@ -4852,7 +4841,7 @@
           "youtube_id": "0WcY7Qhpq2s",
           "status": "uploaded",
           "upload_date": "2026-11-14",
-          "view_count": 3865,
+          "view_count": 3876,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-14 04:23:11",
           "rowid": 89
@@ -5164,13 +5153,13 @@
         "has_refresh_token": true,
         "is_expired": true
       },
-      "slot1_today": "not_run",
+      "slot1_today": "failed",
       "slot2_today": "not_run",
       "total_uploaded": 79,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 57505543,
-      "last_run_date": "2026-11-24 06:44:29",
+      "last_run_date": "2026-11-25 04:44:09",
       "last_run_status": "failed",
       "last_run_message": "YouTube upload failed: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
       "daily_sheet_10_days": [
@@ -5250,7 +5239,7 @@
         {
           "date": "2026-11-25",
           "short_date": "Nov 25",
-          "slot1": "not_run",
+          "slot1": "failed",
           "slot2": "not_run",
           "uploads_count": 0,
           "views_gained": 0
@@ -5822,7 +5811,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Nov 12, 2026",
-      "overall_status": "active"
+      "overall_status": "error"
     },
     {
       "channel_id": "channel_21",
@@ -5882,18 +5871,18 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-24 07:52:20 UTC",
+        "expires_at": "2026-11-25 05:41:02 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
       "total_uploaded": 11,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 223940,
+      "total_views": 223956,
       "last_run_date": "2026-11-24 06:14:41",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: DU9yrWvt7sY",
@@ -6045,7 +6034,7 @@
           "youtube_id": "DU9yrWvt7sY",
           "status": "uploaded",
           "upload_date": "2026-11-24",
-          "view_count": 19779,
+          "view_count": 19795,
           "title": "From Old Doorbell Sound to DISCO 🪩🔔",
           "created_at": "2026-11-24 06:14:41",
           "rowid": 11
@@ -6616,11 +6605,11 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-24 07:52:20 UTC",
+        "expires_at": "2026-11-25 05:41:03 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
@@ -6914,18 +6903,18 @@
         "has_secret": true,
         "has_token": true,
         "token_status": "valid",
-        "expires_at": "2026-11-24 07:52:20 UTC",
+        "expires_at": "2026-11-25 05:41:05 UTC",
         "is_valid": true,
         "message": "Valid (Refresh Token present)",
         "has_refresh_token": true,
-        "is_expired": true
+        "is_expired": false
       },
       "slot1_today": "not_run",
       "slot2_today": "not_run",
       "total_uploaded": 10,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 649094,
+      "total_views": 649109,
       "last_run_date": "2026-11-24 06:46:23",
       "last_run_status": "no_content",
       "last_run_message": "No unposted videos found for channel source channel_24.",
@@ -7085,7 +7074,7 @@
           "youtube_id": "54y6lP-mz4Y",
           "status": "uploaded",
           "upload_date": "2026-11-20",
-          "view_count": 564423,
+          "view_count": 564438,
           "title": "Emerald-Green Suitcase Transforms Into Cyber Super-Sport Bike at Dubai T3 😱🏍️",
           "created_at": "2026-11-20 07:51:22",
           "rowid": 9
@@ -7182,7 +7171,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-25 04:41:51 UTC",
+    "timestamp": "2026-11-25 04:44:17 UTC",
     "total_channels": 13,
     "healthy_count": 4,
     "auto_healed_count": 0,
