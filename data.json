@@ -1,23 +1,23 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-28 07:37:32 UTC",
+    "timestamp_utc": "2026-11-28 07:38:41 UTC",
     "total_channels": 13,
     "active_channels": 8,
     "disabled_channels": 4,
     "idle_channels": 4,
-    "today_completed_channels": 1,
+    "today_completed_channels": 2,
     "token_warnings": 0,
     "error_channels": 1,
     "health_rate_percent": 87.5,
-    "total_uploaded_videos": 943,
-    "total_views_tracked": 203188421,
+    "total_uploaded_videos": 944,
+    "total_views_tracked": 203188514,
     "total_subscribers": 131557,
     "total_pending_retries": 3,
     "underperforming_channels": 0,
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-28 07:38:29 UTC"
+    "gh_pages_synced_at": "2026-11-28 07:39:25 UTC"
   },
   "channels": [
     {
@@ -1077,7 +1077,7 @@
           "youtube_id": "eO4QICa5Wbw",
           "status": "uploaded",
           "upload_date": "2026-11-19",
-          "view_count": 5958,
+          "view_count": 5959,
           "title": "Virgin Mojito, Cucumber Lime Mocktail, Peach Ice Tea & Lemonade | Refreshing ASMR 🍹🥒🍑 #mojito",
           "created_at": "2026-11-19 16:48:14",
           "rowid": 153
@@ -1297,7 +1297,7 @@
           "youtube_id": "8XnPOtroI3c",
           "status": "uploaded",
           "upload_date": "2026-11-11",
-          "view_count": 1837000,
+          "view_count": 1837009,
           "title": "😂 This Baby IMPRESSED His Father! 😤👶 | Funniest Baby Plan",
           "created_at": "2026-11-11 07:00:31",
           "rowid": 131
@@ -3627,7 +3627,7 @@
       "youtube_handle": "@curiotomy",
       "youtube_channel_url": "https://www.youtube.com/@curiotomy",
       "subscribers_count": 2980,
-      "published_videos_count": 73,
+      "published_videos_count": 74,
       "live_youtube_views": 1029157,
       "owner_email": "behanzu@gmail.com",
       "channel_created_at": "Sep 11, 2026",
@@ -3698,7 +3698,7 @@
       "total_uploaded": 80,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 1033993,
+      "total_views": 1034035,
       "last_run_date": "2026-11-28 07:37:20",
       "last_run_status": "success",
       "last_run_message": "Uploaded YouTube ID: -kXTNHEyyhE",
@@ -3959,7 +3959,7 @@
           "youtube_id": "38Rn9RNDyMg",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 394080,
+          "view_count": 394122,
           "title": "Violet Cyber Bike Becomes Jet Ski & Drops Into Toronto Harbour 😱🌊",
           "created_at": "2026-11-10 04:07:36",
           "rowid": 69
@@ -4372,19 +4372,18 @@
         "gdrive_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
         "folder_title": "BUNNY PLANET",
         "total_in_drive": 90,
-        "posted_count": 48,
-        "remaining_unposted": 42,
+        "posted_count": 49,
+        "remaining_unposted": 41,
         "videos_per_day": 1,
-        "days_buffer": 42.0,
+        "days_buffer": 41.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (42 videos ready)",
+        "stock_label": "HEALTHY (41 videos ready)",
         "unposted_videos": [
           "Sleepiest Flop Ever",
           "Popcorn Bunny",
           "Boop The Nose",
           "Blueberry Zoom",
           "Daisy Chain Dance",
-          "Twilight Twirl",
           "Corn Crunch",
           "Blanket Burrito",
           "The Meadow Marathon",
@@ -4393,16 +4392,17 @@
           "Sweet Dreams Bunny",
           "31 Rabbits Sneak Into a Dog's House Every Night!",
           "Baby and Playful Bunny Have the Cutest Playtime!",
-          "Cute Baby Bunny Washing Her Face"
+          "Cute Baby Bunny Washing Her Face",
+          "Cute Bunny viral video"
         ]
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
         "stock_status": "healthy",
-        "remaining_unposted": 42,
+        "remaining_unposted": 41,
         "total_available": 90,
-        "days_buffer": 42.0,
+        "days_buffer": 41.0,
         "alert_message": null
       },
       "is_monetized": false,
@@ -4427,15 +4427,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 116,
+      "total_uploaded": 117,
       "total_failed": 2,
       "total_pending_retry": 0,
       "total_views": 24584076,
-      "last_run_date": "2026-11-24 06:13:54",
+      "last_run_date": "2026-11-28 07:38:27",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: lXeNd6KDGWI",
+      "last_run_message": "Uploaded YouTube ID: o8OY9dlhBDI",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-19",
@@ -4513,9 +4513,9 @@
         {
           "date": "2026-11-28",
           "short_date": "Nov 28",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 4,
+          "uploads_count": 5,
           "views_gained": 0
         }
       ],
@@ -4573,11 +4573,21 @@
           "short_date": "Nov 28",
           "day_name": "Sat",
           "is_today": true,
-          "uploads_count": 4,
+          "uploads_count": 5,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "1aLQtZt9Cz_vUxchBbcdUgp95sakBeFQf",
+          "youtube_id": "o8OY9dlhBDI",
+          "status": "uploaded",
+          "upload_date": "2026-11-28",
+          "view_count": 0,
+          "title": "Cute Baby Bunny Twilight Twirl #Shorts #CuteBunny #Pets",
+          "created_at": "2026-11-28 07:38:27",
+          "rowid": 119
+        },
         {
           "tiktok_id": "yt_2IAx9i5oG2s",
           "youtube_id": "2IAx9i5oG2s",
@@ -5067,16 +5077,6 @@
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-07 05:36:24",
           "rowid": 70
-        },
-        {
-          "tiktok_id": "yt_b0iRxNmEOck",
-          "youtube_id": "b0iRxNmEOck",
-          "status": "uploaded",
-          "upload_date": "2026-11-06",
-          "view_count": 23598,
-          "title": "Newbron baby🥰🥰 #baby",
-          "created_at": "2026-11-06 08:37:12",
-          "rowid": 69
         }
       ],
       "pending_retry_items": [],
@@ -5085,7 +5085,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 17, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_20",
@@ -6893,7 +6893,7 @@
       "total_uploaded": 10,
       "total_failed": 0,
       "total_pending_retry": 0,
-      "total_views": 680012,
+      "total_views": 680063,
       "last_run_date": "2026-11-25 06:17:46",
       "last_run_status": "no_content",
       "last_run_message": "No unposted videos found for channel source channel_24.",
@@ -7053,7 +7053,7 @@
           "youtube_id": "54y6lP-mz4Y",
           "status": "uploaded",
           "upload_date": "2026-11-20",
-          "view_count": 594246,
+          "view_count": 594297,
           "title": "Emerald-Green Suitcase Transforms Into Cyber Super-Sport Bike at Dubai T3 😱🏍️",
           "created_at": "2026-11-20 07:51:22",
           "rowid": 9
@@ -7150,7 +7150,7 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-28 07:37:32 UTC",
+    "timestamp": "2026-11-28 07:38:41 UTC",
     "total_channels": 13,
     "healthy_count": 3,
     "auto_healed_count": 0,
@@ -7333,7 +7333,7 @@
         "status": "healthy",
         "token_status": "valid",
         "last_upload_date": "2026-11-28",
-        "uploads_today": 4,
+        "uploads_today": 5,
         "uploads_yesterday": 0,
         "missed_posting": false,
         "error_detail": null,
@@ -7346,9 +7346,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1CiQ5dV-8F-Kwk6l6iQ_xYDgfQ57dHY_K",
           "stock_status": "healthy",
-          "remaining_unposted": 42,
+          "remaining_unposted": 41,
           "total_available": 90,
-          "days_buffer": 42.0,
+          "days_buffer": 41.0,
           "alert_message": null
         }
       },
