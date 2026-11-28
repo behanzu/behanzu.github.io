@@ -1,15 +1,15 @@
 {
   "summary": {
-    "timestamp_utc": "2026-11-28 07:36:21 UTC",
+    "timestamp_utc": "2026-11-28 07:37:32 UTC",
     "total_channels": 13,
     "active_channels": 8,
     "disabled_channels": 4,
     "idle_channels": 4,
-    "today_completed_channels": 0,
+    "today_completed_channels": 1,
     "token_warnings": 0,
     "error_channels": 1,
     "health_rate_percent": 87.5,
-    "total_uploaded_videos": 942,
+    "total_uploaded_videos": 943,
     "total_views_tracked": 203188421,
     "total_subscribers": 131557,
     "total_pending_retries": 3,
@@ -17,7 +17,7 @@
     "content_depleted_channels": 0,
     "content_low_channels": 1,
     "content_alerts_count": 1,
-    "gh_pages_synced_at": "2026-11-28 07:37:22 UTC"
+    "gh_pages_synced_at": "2026-11-28 07:38:29 UTC"
   },
   "channels": [
     {
@@ -1047,7 +1047,7 @@
           "youtube_id": "eDbLy0ic0sw",
           "status": "uploaded",
           "upload_date": "2026-11-20",
-          "view_count": 8351,
+          "view_count": 8354,
           "title": "Spicy Desi Food Compilation 🍲🌶️ | ASMR Cooking #desifood #spicyfood #asmrfood",
           "created_at": "2026-11-20 05:21:53",
           "rowid": 156
@@ -1057,7 +1057,7 @@
           "youtube_id": "ftBj7XYoOL8",
           "status": "uploaded",
           "upload_date": "2026-11-19",
-          "view_count": 5646,
+          "view_count": 5649,
           "title": "Thick Oreo Milkshake, Mango Milkshake, Watermelon Juice & Banana Shake | ASMR 🧋🥭🍉 #milkshake",
           "created_at": "2026-11-19 16:49:39",
           "rowid": 155
@@ -2919,7 +2919,7 @@
       "youtube_handle": "@luvthuggaas",
       "youtube_channel_url": "https://www.youtube.com/@luvthuggaas",
       "subscribers_count": 483,
-      "published_videos_count": 71,
+      "published_videos_count": 72,
       "live_youtube_views": 580,
       "owner_email": "khadijaammar284@gmail.com",
       "channel_created_at": "Sep 01, 2026",
@@ -3638,14 +3638,13 @@
         "gdrive_url": "https://drive.google.com/drive/folders/1Z80VWahTafQMiDU1S86M6z5mLnvo_CT3",
         "folder_title": "Curiotomy",
         "total_in_drive": 73,
-        "posted_count": 41,
-        "remaining_unposted": 32,
+        "posted_count": 42,
+        "remaining_unposted": 31,
         "videos_per_day": 1,
-        "days_buffer": 32.0,
+        "days_buffer": 31.0,
         "stock_status": "healthy",
-        "stock_label": "HEALTHY (32 videos ready)",
+        "stock_label": "HEALTHY (31 videos ready)",
         "unposted_videos": [
-          "How Desert Sand Vipers Move Via Sidewinding",
           "How Dung Beetles Navigate Using The Milky Way Galaxy",
           "How Electric Eels Generate 860 Volts",
           "How Fireflies Produce Cold Light",
@@ -3659,16 +3658,17 @@
           "How Pistol Shrimp Create Sun Temperatures",
           "How Pit Vipers See In Infrared",
           "How Platypuses Hunt Using Electrolocation Sensors",
-          "How Tardigrades Survive Vacuum Of Space"
+          "How Tardigrades Survive Vacuum Of Space",
+          "How Trap Jaw Ants Snap Mandibles At 140 MPH"
         ]
       },
       "content_inventory": {
         "source_type": "gdrive",
         "source_url": "https://drive.google.com/drive/folders/1Z80VWahTafQMiDU1S86M6z5mLnvo_CT3",
         "stock_status": "healthy",
-        "remaining_unposted": 32,
+        "remaining_unposted": 31,
         "total_available": 73,
-        "days_buffer": 32.0,
+        "days_buffer": 31.0,
         "alert_message": null
       },
       "is_monetized": false,
@@ -3693,15 +3693,15 @@
         "has_refresh_token": true,
         "is_expired": false
       },
-      "slot1_today": "not_run",
+      "slot1_today": "success",
       "slot2_today": "not_run",
-      "total_uploaded": 79,
+      "total_uploaded": 80,
       "total_failed": 0,
       "total_pending_retry": 0,
       "total_views": 1033993,
-      "last_run_date": "2026-11-24 06:12:46",
+      "last_run_date": "2026-11-28 07:37:20",
       "last_run_status": "success",
-      "last_run_message": "Uploaded YouTube ID: mPTODxkXRew",
+      "last_run_message": "Uploaded YouTube ID: -kXTNHEyyhE",
       "daily_sheet_10_days": [
         {
           "date": "2026-11-19",
@@ -3779,9 +3779,9 @@
         {
           "date": "2026-11-28",
           "short_date": "Nov 28",
-          "slot1": "not_run",
+          "slot1": "success",
           "slot2": "not_run",
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
@@ -3839,11 +3839,21 @@
           "short_date": "Nov 28",
           "day_name": "Sat",
           "is_today": true,
-          "uploads_count": 0,
+          "uploads_count": 1,
           "views_gained": 0
         }
       ],
       "recent_videos": [
+        {
+          "tiktok_id": "1ljwTVzC2JAa7wthTnVsCDR8WBhso0AHe",
+          "youtube_id": "-kXTNHEyyhE",
+          "status": "uploaded",
+          "upload_date": "2026-11-28",
+          "view_count": 0,
+          "title": "How Desert Sand Vipers Move Via Sidewinding #Shorts #Science #Facts",
+          "created_at": "2026-11-28 07:37:20",
+          "rowid": 80
+        },
         {
           "tiktok_id": "1ttXNCHtEBo_OPIT0wH3DO3R0IGJOSKWT",
           "youtube_id": "mPTODxkXRew",
@@ -4333,16 +4343,6 @@
           "title": "Can You Spot The Real Baby Hidden Among The Fluffy Teddy Bears? 🧸 #cutebaby #viral",
           "created_at": "2026-10-06 08:29:00",
           "rowid": 31
-        },
-        {
-          "tiktok_id": "yt_ohd-GNZUpzw",
-          "youtube_id": "ohd-GNZUpzw",
-          "status": "uploaded",
-          "upload_date": "2026-10-06",
-          "view_count": 127,
-          "title": "How Army Ants Build Living Bridges #Shorts #Science #Facts",
-          "created_at": "2026-10-06 01:41:25",
-          "rowid": 30
         }
       ],
       "pending_retry_items": [],
@@ -4351,7 +4351,7 @@
       "underperforming_reasons": [],
       "has_db": true,
       "linked_date": "Sep 17, 2026",
-      "overall_status": "active"
+      "overall_status": "completed_today"
     },
     {
       "channel_id": "channel_15",
@@ -4593,7 +4593,7 @@
           "youtube_id": "r37yMV7i_Vk",
           "status": "uploaded",
           "upload_date": "2026-11-28",
-          "view_count": 2773,
+          "view_count": 2772,
           "title": "Baby Sloth Surprise! Relaxing Nap Giggled 🦥 #shorts #cutebaby #viral",
           "created_at": "2026-11-28 07:34:24",
           "rowid": 117
@@ -4873,7 +4873,7 @@
           "youtube_id": "0WcY7Qhpq2s",
           "status": "uploaded",
           "upload_date": "2026-11-14",
-          "view_count": 3906,
+          "view_count": 4256,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-14 04:23:11",
           "rowid": 89
@@ -4893,7 +4893,7 @@
           "youtube_id": "rn-wgKISqU4",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 5999,
+          "view_count": 6391,
           "title": "Baby Bunny Surprise! Crib Napped 🐰 #shorts #cutebaby #viral",
           "created_at": "2026-11-12 06:37:34",
           "rowid": 87
@@ -4903,7 +4903,7 @@
           "youtube_id": "QR1F2IBhgME",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 2541,
+          "view_count": 2825,
           "title": "Sweet Baby Bunny Cuddle Bug #Shorts #CuteBunny #CutePets",
           "created_at": "2026-11-12 06:16:34",
           "rowid": 86
@@ -4913,7 +4913,7 @@
           "youtube_id": "dRVDBnb-Css",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 8440,
+          "view_count": 8795,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-12 05:10:58",
           "rowid": 85
@@ -4923,7 +4923,7 @@
           "youtube_id": "SLv4vZUAVZw",
           "status": "uploaded",
           "upload_date": "2026-11-12",
-          "view_count": 3127,
+          "view_count": 3524,
           "title": "😂 The Baby TOOK His Job Seriously! 😤👶 | Funniest Baby Instructions",
           "created_at": "2026-11-12 03:48:22",
           "rowid": 84
@@ -4933,7 +4933,7 @@
           "youtube_id": "2kzYllELl3k",
           "status": "uploaded",
           "upload_date": "2026-11-11",
-          "view_count": 2725,
+          "view_count": 3206,
           "title": "😂 This Baby IMPRESSED His Father! 😤👶 | Funniest Baby Plan",
           "created_at": "2026-11-11 07:02:39",
           "rowid": 83
@@ -4943,7 +4943,7 @@
           "youtube_id": "pFclSCInpcE",
           "status": "uploaded",
           "upload_date": "2026-11-11",
-          "view_count": 5760,
+          "view_count": 6186,
           "title": "Baby Panda Surprise! Crib Woke Up 🐼 #shorts #cutebaby #viral",
           "created_at": "2026-11-11 06:36:17",
           "rowid": 82
@@ -4953,7 +4953,7 @@
           "youtube_id": "cDGKDQ8xnUY",
           "status": "uploaded",
           "upload_date": "2026-11-11",
-          "view_count": 30781,
+          "view_count": 31279,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-11 05:10:57",
           "rowid": 81
@@ -4963,7 +4963,7 @@
           "youtube_id": "24qrv2c26jM",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 33552,
+          "view_count": 34094,
           "title": "Baby Penguin Surprise! Crib Smiled 🐧 #shorts #cutebaby #viral",
           "created_at": "2026-11-10 07:23:01",
           "rowid": 80
@@ -4973,7 +4973,7 @@
           "youtube_id": "sVK1p_poodM",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 4618,
+          "view_count": 5062,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-10 05:10:29",
           "rowid": 79
@@ -4983,7 +4983,7 @@
           "youtube_id": "gYmzhNCjK5Q",
           "status": "uploaded",
           "upload_date": "2026-11-10",
-          "view_count": 4095,
+          "view_count": 4499,
           "title": "Violet Cyber Bike Becomes Jet Ski & Drops Into Toronto Harbour 😱🌊",
           "created_at": "2026-11-10 04:08:39",
           "rowid": 78
@@ -4993,7 +4993,7 @@
           "youtube_id": "IwMggN0A0VI",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 2359,
+          "view_count": 2884,
           "title": "The sweetest little surprise! 🥹💛 This toddler thought he was giving a kiss to a golden statue 😂❤️",
           "created_at": "2026-11-09 09:45:45",
           "rowid": 77
@@ -5003,7 +5003,7 @@
           "youtube_id": "9zQdidlDTz4",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 1637,
+          "view_count": 1974,
           "title": "Cute Bunny Daisy Chain Dance #Shorts #CuteBunny #Pets",
           "created_at": "2026-11-09 06:54:11",
           "rowid": 76
@@ -5013,7 +5013,7 @@
           "youtube_id": "k75fg9ATRuk",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 1856,
+          "view_count": 2177,
           "title": "Baby Raccoon Surprise! Laundry Giggled 🦝 #shorts #cutebaby #viral",
           "created_at": "2026-11-09 06:37:48",
           "rowid": 75
@@ -5033,7 +5033,7 @@
           "youtube_id": "cmsHfRTdXOE",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 11688,
+          "view_count": 12053,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-09 05:10:48",
           "rowid": 73
@@ -5043,7 +5043,7 @@
           "youtube_id": "kuool5OlRE8",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 35931,
+          "view_count": 36263,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-09 03:52:37",
           "rowid": 72
@@ -5053,7 +5053,7 @@
           "youtube_id": "m30P7pncbh0",
           "status": "uploaded",
           "upload_date": "2026-11-09",
-          "view_count": 2660,
+          "view_count": 3005,
           "title": "Baby Hedgehog Surprise! Plushie Wiggled 🦔 #shorts #cutebaby #viral",
           "created_at": "2026-11-09 03:52:37",
           "rowid": 71
@@ -5063,7 +5063,7 @@
           "youtube_id": "i0Fkmo2bfTU",
           "status": "uploaded",
           "upload_date": "2026-11-07",
-          "view_count": 4385,
+          "view_count": 4679,
           "title": "Newbron baby🥰🥰 #baby",
           "created_at": "2026-11-07 05:36:24",
           "rowid": 70
@@ -7150,9 +7150,9 @@
     }
   ],
   "diagnostics": {
-    "timestamp": "2026-11-28 07:36:21 UTC",
+    "timestamp": "2026-11-28 07:37:32 UTC",
     "total_channels": 13,
-    "healthy_count": 2,
+    "healthy_count": 3,
     "auto_healed_count": 0,
     "action_required_count": 6,
     "channels": [
@@ -7302,13 +7302,13 @@
         "profile_code": "Behanzu",
         "source_type": "gdrive",
         "source_target": "N/A",
-        "status": "monitoring",
+        "status": "healthy",
         "token_status": "valid",
-        "last_upload_date": "2026-11-24",
-        "uploads_today": 0,
+        "last_upload_date": "2026-11-28",
+        "uploads_today": 1,
         "uploads_yesterday": 0,
-        "missed_posting": true,
-        "error_detail": "No uploads recorded in the last 48 hours. Scheduled upload pending next slot.",
+        "missed_posting": false,
+        "error_detail": null,
         "auto_heal_log": null,
         "user_action_needed": false,
         "action_title": null,
@@ -7318,9 +7318,9 @@
           "source_type": "gdrive",
           "source_url": "https://drive.google.com/drive/folders/1Z80VWahTafQMiDU1S86M6z5mLnvo_CT3",
           "stock_status": "healthy",
-          "remaining_unposted": 32,
+          "remaining_unposted": 31,
           "total_available": 73,
-          "days_buffer": 32.0,
+          "days_buffer": 31.0,
           "alert_message": null
         }
       },
